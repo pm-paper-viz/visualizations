@@ -1,0 +1,2263 @@
+{
+  "name": "root",
+  "children": [
+    {
+      "name": "attire",
+      "children": [
+        {
+          "name": "attire",
+          "children": [
+            {
+              "name": "attire_general",
+              "children": [],
+              "color": "#888888",
+              "tags": [
+                "balaclava",
+                "..."
+              ],
+              "direct_tag_count": 795,
+              "tag_count": 795,
+              "category_count": 0
+            },
+            {
+              "name": "dress",
+              "children": [],
+              "color": "#888888",
+              "tags": [
+                "Dress",
+                "..."
+              ],
+              "direct_tag_count": 91,
+              "tag_count": 91,
+              "category_count": 0
+            },
+            {
+              "name": "handwear",
+              "children": [],
+              "color": "#888888",
+              "tags": [
+                "Elbow gloves",
+                "..."
+              ],
+              "direct_tag_count": 100,
+              "tag_count": 100,
+              "category_count": 0
+            },
+            {
+              "name": "headwear",
+              "children": [],
+              "color": "#888888",
+              "tags": [
+                "crown",
+                "..."
+              ],
+              "direct_tag_count": 252,
+              "tag_count": 252,
+              "category_count": 0
+            },
+            {
+              "name": "legwear",
+              "children": [],
+              "color": "#888888",
+              "tags": [
+                "socks",
+                "..."
+              ],
+              "direct_tag_count": 72,
+              "tag_count": 72,
+              "category_count": 0
+            },
+            {
+              "name": "mask",
+              "children": [],
+              "color": "#888888",
+              "tags": [
+                "covered face",
+                "..."
+              ],
+              "direct_tag_count": 64,
+              "tag_count": 64,
+              "category_count": 0
+            },
+            {
+              "name": "neck_and_neckwear",
+              "children": [],
+              "color": "#888888",
+              "tags": [
+                "Collarbone",
+                "..."
+              ],
+              "direct_tag_count": 263,
+              "tag_count": 263,
+              "category_count": 0
+            },
+            {
+              "name": "sexual_attire",
+              "children": [
+                {
+                  "name": "sexual_attire_general",
+                  "children": [],
+                  "color": "#888888",
+                  "tags": [
+                    "lingerie",
+                    "..."
+                  ],
+                  "direct_tag_count": 76,
+                  "tag_count": 76,
+                  "category_count": 0
+                },
+                {
+                  "name": "bra",
+                  "children": [],
+                  "color": "#888888",
+                  "tags": [
+                    "bra",
+                    "..."
+                  ],
+                  "direct_tag_count": 54,
+                  "tag_count": 54,
+                  "category_count": 0
+                },
+                {
+                  "name": "panties",
+                  "children": [],
+                  "color": "#888888",
+                  "tags": [
+                    "panties",
+                    "..."
+                  ],
+                  "direct_tag_count": 83,
+                  "tag_count": 83,
+                  "category_count": 0
+                }
+              ],
+              "color": "#888888",
+              "tag_count": 213,
+              "category_count": 3
+            },
+            {
+              "name": "sleeves",
+              "children": [],
+              "color": "#888888",
+              "tags": [
+                "See-through sleeves",
+                "..."
+              ],
+              "direct_tag_count": 87,
+              "tag_count": 87,
+              "category_count": 0
+            },
+            {
+              "name": "swimsuit",
+              "children": [],
+              "color": "#888888",
+              "tags": [
+                "bathing",
+                "..."
+              ],
+              "direct_tag_count": 83,
+              "tag_count": 83,
+              "category_count": 0
+            }
+          ],
+          "color": "#888888",
+          "tag_count": 2020,
+          "category_count": 13
+        },
+        {
+          "name": "embellishment",
+          "children": [],
+          "color": "#888888",
+          "tags": [
+            "gem-studded",
+            "..."
+          ],
+          "direct_tag_count": 4,
+          "tag_count": 4,
+          "category_count": 0
+        },
+        {
+          "name": "eyewear",
+          "children": [],
+          "color": "#888888",
+          "tags": [
+            "glasses",
+            "..."
+          ],
+          "direct_tag_count": 94,
+          "tag_count": 94,
+          "category_count": 0
+        },
+        {
+          "name": "fashion_style",
+          "children": [],
+          "color": "#888888",
+          "tags": [
+            "1980s fashion",
+            "..."
+          ],
+          "direct_tag_count": 55,
+          "tag_count": 55,
+          "category_count": 0
+        },
+        {
+          "name": "nudity",
+          "children": [],
+          "color": "#888888",
+          "tags": [
+            "completely nude",
+            "..."
+          ],
+          "direct_tag_count": 189,
+          "tag_count": 189,
+          "category_count": 0
+        },
+        {
+          "name": "body",
+          "children": [
+            {
+              "name": "body_general",
+              "children": [],
+              "color": "#888888",
+              "tags": [
+                "alpaca ears",
+                "..."
+              ],
+              "direct_tag_count": 326,
+              "tag_count": 326,
+              "category_count": 0
+            }
+          ],
+          "color": "#888888",
+          "tag_count": 326,
+          "category_count": 1
+        }
+      ],
+      "color": "#888888",
+      "tag_count": 2688,
+      "category_count": 20
+    },
+    {
+      "name": "body",
+      "children": [
+        {
+          "name": "body_parts",
+          "children": [
+            {
+              "name": "body_parts_general",
+              "children": [],
+              "color": "#e76f51",
+              "tags": [
+                "ear focus",
+                "..."
+              ],
+              "direct_tag_count": 126,
+              "tag_count": 126,
+              "category_count": 0
+            },
+            {
+              "name": "ass",
+              "children": [],
+              "color": "#e76f51",
+              "tags": [
+                "ass",
+                "..."
+              ],
+              "direct_tag_count": 39,
+              "tag_count": 39,
+              "category_count": 0
+            },
+            {
+              "name": "breasts_tags",
+              "children": [],
+              "color": "#e76f51",
+              "tags": [
+                "breasts",
+                "..."
+              ],
+              "direct_tag_count": 213,
+              "tag_count": 213,
+              "category_count": 0
+            },
+            {
+              "name": "ears_tags",
+              "children": [],
+              "color": "#e76f51",
+              "tags": [
+                "animal ears",
+                "..."
+              ],
+              "direct_tag_count": 52,
+              "tag_count": 52,
+              "category_count": 0
+            },
+            {
+              "name": "face_tags",
+              "children": [
+                {
+                  "name": "face_tags_general",
+                  "children": [],
+                  "color": "#e76f51",
+                  "tags": [
+                    "multiple expressions",
+                    "..."
+                  ],
+                  "direct_tag_count": 191,
+                  "tag_count": 191,
+                  "category_count": 0
+                },
+                {
+                  "name": "eyes_tags",
+                  "children": [],
+                  "color": "#e76f51",
+                  "tags": [
+                    "aqua eyes",
+                    "..."
+                  ],
+                  "direct_tag_count": 200,
+                  "tag_count": 200,
+                  "category_count": 0
+                }
+              ],
+              "color": "#e76f51",
+              "tag_count": 391,
+              "category_count": 2
+            },
+            {
+              "name": "hair",
+              "children": [
+                {
+                  "name": "hair_general",
+                  "children": [],
+                  "color": "#e76f51",
+                  "tags": [
+                    "tag group:hair color",
+                    "..."
+                  ],
+                  "direct_tag_count": 101,
+                  "tag_count": 101,
+                  "category_count": 0
+                },
+                {
+                  "name": "hair_color",
+                  "children": [],
+                  "color": "#e76f51",
+                  "tags": [
+                    "tag group:hair styles",
+                    "..."
+                  ],
+                  "direct_tag_count": 31,
+                  "tag_count": 31,
+                  "category_count": 0
+                },
+                {
+                  "name": "hair_styles",
+                  "children": [],
+                  "color": "#e76f51",
+                  "tags": [
+                    "very short hair",
+                    "..."
+                  ],
+                  "direct_tag_count": 156,
+                  "tag_count": 156,
+                  "category_count": 0
+                }
+              ],
+              "color": "#e76f51",
+              "tag_count": 288,
+              "category_count": 3
+            },
+            {
+              "name": "hands",
+              "children": [
+                {
+                  "name": "hands_general",
+                  "children": [],
+                  "color": "#e76f51",
+                  "tags": [
+                    "Adjusting eyewear",
+                    "..."
+                  ],
+                  "direct_tag_count": 85,
+                  "tag_count": 85,
+                  "category_count": 0
+                },
+                {
+                  "name": "gestures",
+                  "children": [],
+                  "color": "#e76f51",
+                  "tags": [
+                    "air quotes",
+                    "..."
+                  ],
+                  "direct_tag_count": 114,
+                  "tag_count": 114,
+                  "category_count": 0
+                }
+              ],
+              "color": "#e76f51",
+              "tag_count": 199,
+              "category_count": 2
+            },
+            {
+              "name": "neck_and_neckwear",
+              "children": [],
+              "color": "#e76f51",
+              "tags": [
+                "Collarbone",
+                "..."
+              ],
+              "direct_tag_count": 263,
+              "tag_count": 263,
+              "category_count": 0
+            },
+            {
+              "name": "penis",
+              "children": [],
+              "color": "#e76f51",
+              "tags": [
+                "penis",
+                "..."
+              ],
+              "direct_tag_count": 74,
+              "tag_count": 74,
+              "category_count": 0
+            },
+            {
+              "name": "posture",
+              "children": [],
+              "color": "#e76f51",
+              "tags": [
+                "Kneeling",
+                "..."
+              ],
+              "direct_tag_count": 229,
+              "tag_count": 229,
+              "category_count": 0
+            },
+            {
+              "name": "pussy",
+              "children": [],
+              "color": "#e76f51",
+              "tags": [
+                "Clitoris",
+                "..."
+              ],
+              "direct_tag_count": 49,
+              "tag_count": 49,
+              "category_count": 0
+            },
+            {
+              "name": "shoulders",
+              "children": [],
+              "color": "#e76f51",
+              "tags": [
+                "Nape",
+                "..."
+              ],
+              "direct_tag_count": 63,
+              "tag_count": 63,
+              "category_count": 0
+            },
+            {
+              "name": "skin_color",
+              "children": [],
+              "color": "#e76f51",
+              "tags": [
+                "Dark skin",
+                "..."
+              ],
+              "direct_tag_count": 26,
+              "tag_count": 26,
+              "category_count": 0
+            },
+            {
+              "name": "tail",
+              "children": [],
+              "color": "#e76f51",
+              "tags": [
+                "Tail",
+                "..."
+              ],
+              "direct_tag_count": 79,
+              "tag_count": 79,
+              "category_count": 0
+            },
+            {
+              "name": "wings",
+              "children": [],
+              "color": "#e76f51",
+              "tags": [
+                "Wings",
+                "..."
+              ],
+              "direct_tag_count": 89,
+              "tag_count": 89,
+              "category_count": 0
+            }
+          ],
+          "color": "#e76f51",
+          "tag_count": 2180,
+          "category_count": 22
+        },
+        {
+          "name": "injury",
+          "children": [],
+          "color": "#e76f51",
+          "tags": [
+            "gun",
+            "..."
+          ],
+          "direct_tag_count": 54,
+          "tag_count": 54,
+          "category_count": 0
+        }
+      ],
+      "color": "#e76f51",
+      "tag_count": 2234,
+      "category_count": 24
+    },
+    {
+      "name": "characters",
+      "children": [
+        {
+          "name": "ace_attorney",
+          "children": [],
+          "color": "#2a9d8f",
+          "tags": [
+            "Ace Attorney",
+            "..."
+          ],
+          "direct_tag_count": 300,
+          "tag_count": 300,
+          "category_count": 0
+        },
+        {
+          "name": "arknights",
+          "children": [],
+          "color": "#2a9d8f",
+          "tags": [
+            "Arknights",
+            "..."
+          ],
+          "direct_tag_count": 572,
+          "tag_count": 572,
+          "category_count": 0
+        },
+        {
+          "name": "atelier",
+          "children": [],
+          "color": "#2a9d8f",
+          "tags": [
+            "Gust",
+            "..."
+          ],
+          "direct_tag_count": 296,
+          "tag_count": 296,
+          "category_count": 0
+        },
+        {
+          "name": "azur_lane",
+          "children": [],
+          "color": "#2a9d8f",
+          "tags": [
+            "Azur Lane",
+            "..."
+          ],
+          "direct_tag_count": 706,
+          "tag_count": 706,
+          "category_count": 0
+        },
+        {
+          "name": "bleach",
+          "children": [],
+          "color": "#2a9d8f",
+          "tags": [
+            "Bleach",
+            "..."
+          ],
+          "direct_tag_count": 223,
+          "tag_count": 223,
+          "category_count": 0
+        },
+        {
+          "name": "bokujou_monogatari",
+          "children": [],
+          "color": "#2a9d8f",
+          "tags": [
+            "Bokujou Monogatari",
+            "..."
+          ],
+          "direct_tag_count": 98,
+          "tag_count": 98,
+          "category_count": 0
+        },
+        {
+          "name": "brave_girl_ravens",
+          "children": [],
+          "color": "#2a9d8f",
+          "tags": [
+            "DMM",
+            "..."
+          ],
+          "direct_tag_count": 46,
+          "tag_count": 46,
+          "category_count": 0
+        },
+        {
+          "name": "cardcaptor_sakura",
+          "children": [],
+          "color": "#2a9d8f",
+          "tags": [
+            "Clamp (circle)",
+            "..."
+          ],
+          "direct_tag_count": 143,
+          "tag_count": 143,
+          "category_count": 0
+        },
+        {
+          "name": "danganronpa",
+          "children": [],
+          "color": "#2a9d8f",
+          "tags": [
+            "Danganronpa (series)",
+            "..."
+          ],
+          "direct_tag_count": 128,
+          "tag_count": 128,
+          "category_count": 0
+        },
+        {
+          "name": "digimon",
+          "children": [
+            {
+              "name": "digimon_general",
+              "children": [],
+              "color": "#2a9d8f",
+              "tags": [
+                "Digimon",
+                "..."
+              ],
+              "direct_tag_count": 1012,
+              "tag_count": 1012,
+              "category_count": 0
+            },
+            {
+              "name": "digimon_characters",
+              "children": [],
+              "color": "#2a9d8f",
+              "tags": [
+                "Digimon",
+                "..."
+              ],
+              "direct_tag_count": 240,
+              "tag_count": 240,
+              "category_count": 0
+            }
+          ],
+          "color": "#2a9d8f",
+          "tag_count": 1252,
+          "category_count": 2
+        },
+        {
+          "name": "dragon_ball",
+          "children": [],
+          "color": "#2a9d8f",
+          "tags": [
+            "Dragon Ball",
+            "..."
+          ],
+          "direct_tag_count": 605,
+          "tag_count": 605,
+          "category_count": 0
+        },
+        {
+          "name": "dragon_quest",
+          "children": [],
+          "color": "#2a9d8f",
+          "tags": [
+            "Square Enix",
+            "..."
+          ],
+          "direct_tag_count": 224,
+          "tag_count": 224,
+          "category_count": 0
+        },
+        {
+          "name": "fate_series",
+          "children": [],
+          "color": "#2a9d8f",
+          "tags": [
+            "fate (series)",
+            "..."
+          ],
+          "direct_tag_count": 812,
+          "tag_count": 812,
+          "category_count": 0
+        },
+        {
+          "name": "final_fantasy",
+          "children": [],
+          "color": "#2a9d8f",
+          "tags": [
+            "Final Fantasy",
+            "..."
+          ],
+          "direct_tag_count": 566,
+          "tag_count": 566,
+          "category_count": 0
+        },
+        {
+          "name": "fire_emblem",
+          "children": [],
+          "color": "#2a9d8f",
+          "tags": [
+            "Fire Emblem",
+            "..."
+          ],
+          "direct_tag_count": 722,
+          "tag_count": 722,
+          "category_count": 0
+        },
+        {
+          "name": "flower_knight_girl",
+          "children": [],
+          "color": "#2a9d8f",
+          "tags": [
+            "DMM",
+            "..."
+          ],
+          "direct_tag_count": 441,
+          "tag_count": 441,
+          "category_count": 0
+        },
+        {
+          "name": "genderswap",
+          "children": [],
+          "color": "#2a9d8f",
+          "tags": [
+            "Genderswap",
+            "..."
+          ],
+          "direct_tag_count": 221,
+          "tag_count": 221,
+          "category_count": 0
+        },
+        {
+          "name": "gensou_suikoden",
+          "children": [],
+          "color": "#2a9d8f",
+          "tags": [
+            "Gensou Suikoden",
+            "..."
+          ],
+          "direct_tag_count": 431,
+          "tag_count": 431,
+          "category_count": 0
+        },
+        {
+          "name": "girls_und_panzer",
+          "children": [],
+          "color": "#2a9d8f",
+          "tags": [
+            "Girls und Panzer",
+            "..."
+          ],
+          "direct_tag_count": 305,
+          "tag_count": 305,
+          "category_count": 0
+        },
+        {
+          "name": "gundam_mechas",
+          "children": [],
+          "color": "#2a9d8f",
+          "tags": [
+            "Zaku II F/J",
+            "..."
+          ],
+          "direct_tag_count": 13,
+          "tag_count": 13,
+          "category_count": 0
+        },
+        {
+          "name": "hunter_x_hunter",
+          "children": [],
+          "color": "#2a9d8f",
+          "tags": [
+            "Hunter x Hunter",
+            "..."
+          ],
+          "direct_tag_count": 313,
+          "tag_count": 313,
+          "category_count": 0
+        },
+        {
+          "name": "jojo_no_kimyou_na_bouken",
+          "children": [],
+          "color": "#2a9d8f",
+          "tags": [
+            "JoJo no Kimyou na Bouken",
+            "..."
+          ],
+          "direct_tag_count": 348,
+          "tag_count": 348,
+          "category_count": 0
+        },
+        {
+          "name": "kamen_rider",
+          "children": [],
+          "color": "#2a9d8f",
+          "tags": [
+            "Kamen Rider (1st Series)",
+            "..."
+          ],
+          "direct_tag_count": 265,
+          "tag_count": 265,
+          "category_count": 0
+        },
+        {
+          "name": "kantai_collection",
+          "children": [],
+          "color": "#2a9d8f",
+          "tags": [
+            "Kantai Collection",
+            "..."
+          ],
+          "direct_tag_count": 462,
+          "tag_count": 462,
+          "category_count": 0
+        },
+        {
+          "name": "kingdom_hearts",
+          "children": [],
+          "color": "#2a9d8f",
+          "tags": [
+            "Kingdom Hearts",
+            "..."
+          ],
+          "direct_tag_count": 64,
+          "tag_count": 64,
+          "category_count": 0
+        },
+        {
+          "name": "mahou_sensei_negima",
+          "children": [],
+          "color": "#2a9d8f",
+          "tags": [
+            "Mahou Sensei Negima!",
+            "..."
+          ],
+          "direct_tag_count": 72,
+          "tag_count": 72,
+          "category_count": 0
+        },
+        {
+          "name": "meitantei_conan",
+          "children": [],
+          "color": "#2a9d8f",
+          "tags": [
+            "Meitantei Conan",
+            "..."
+          ],
+          "direct_tag_count": 155,
+          "tag_count": 155,
+          "category_count": 0
+        },
+        {
+          "name": "minecraft",
+          "children": [],
+          "color": "#2a9d8f",
+          "tags": [
+            "Minecraft",
+            "..."
+          ],
+          "direct_tag_count": 151,
+          "tag_count": 151,
+          "category_count": 0
+        },
+        {
+          "name": "naruto",
+          "children": [],
+          "color": "#2a9d8f",
+          "tags": [
+            "Naruto",
+            "..."
+          ],
+          "direct_tag_count": 198,
+          "tag_count": 198,
+          "category_count": 0
+        },
+        {
+          "name": "nippon_ichi",
+          "children": [],
+          "color": "#2a9d8f",
+          "tags": [
+            "nippon ichi",
+            "..."
+          ],
+          "direct_tag_count": 336,
+          "tag_count": 336,
+          "category_count": 0
+        },
+        {
+          "name": "official_mascots",
+          "children": [],
+          "color": "#2a9d8f",
+          "tags": [
+            "mascot",
+            "..."
+          ],
+          "direct_tag_count": 375,
+          "tag_count": 375,
+          "category_count": 0
+        },
+        {
+          "name": "one_piece",
+          "children": [],
+          "color": "#2a9d8f",
+          "tags": [
+            "Oda Eiichirou",
+            "..."
+          ],
+          "direct_tag_count": 464,
+          "tag_count": 464,
+          "category_count": 0
+        },
+        {
+          "name": "oshiro_project",
+          "children": [],
+          "color": "#2a9d8f",
+          "tags": [
+            "Oshiro Project:re",
+            "..."
+          ],
+          "direct_tag_count": 305,
+          "tag_count": 305,
+          "category_count": 0
+        },
+        {
+          "name": "pokemon",
+          "children": [
+            {
+              "name": "pokemon_general",
+              "children": [],
+              "color": "#2a9d8f",
+              "tags": [
+                "pokemon",
+                "..."
+              ],
+              "direct_tag_count": 1400,
+              "tag_count": 1400,
+              "category_count": 0
+            },
+            {
+              "name": "elite_four_members",
+              "children": [],
+              "color": "#2a9d8f",
+              "tags": [
+                "pokemon",
+                "..."
+              ],
+              "direct_tag_count": 72,
+              "tag_count": 72,
+              "category_count": 0
+            },
+            {
+              "name": "families_of_pokemon_main_characters",
+              "children": [],
+              "color": "#2a9d8f",
+              "tags": [
+                "list_of_pokemon_characters",
+                "..."
+              ],
+              "direct_tag_count": 165,
+              "tag_count": 165,
+              "category_count": 0
+            },
+            {
+              "name": "gym_leaders",
+              "children": [],
+              "color": "#2a9d8f",
+              "tags": [
+                "list_of_pokemon_characters",
+                "..."
+              ],
+              "direct_tag_count": 100,
+              "tag_count": 100,
+              "category_count": 0
+            },
+            {
+              "name": "pokemon_ranger_characters",
+              "children": [],
+              "color": "#2a9d8f",
+              "tags": [
+                "list_of_pokemon_characters",
+                "..."
+              ],
+              "direct_tag_count": 37,
+              "tag_count": 37,
+              "category_count": 0
+            },
+            {
+              "name": "pokemon_trainer_classes",
+              "children": [],
+              "color": "#2a9d8f",
+              "tags": [
+                "list_of_pokemon_characters",
+                "..."
+              ],
+              "direct_tag_count": 126,
+              "tag_count": 126,
+              "category_count": 0
+            }
+          ],
+          "color": "#2a9d8f",
+          "tag_count": 1900,
+          "category_count": 6
+        },
+        {
+          "name": "pretty_cure",
+          "children": [],
+          "color": "#2a9d8f",
+          "tags": [
+            "precure",
+            "..."
+          ],
+          "direct_tag_count": 925,
+          "tag_count": 925,
+          "category_count": 0
+        },
+        {
+          "name": "ragnarok_online",
+          "children": [],
+          "color": "#2a9d8f",
+          "tags": [
+            "Ragnarok Online",
+            "..."
+          ],
+          "direct_tag_count": 1214,
+          "tag_count": 1214,
+          "category_count": 0
+        },
+        {
+          "name": "real_life_racehorses",
+          "children": [],
+          "color": "#2a9d8f",
+          "tags": [
+            "real life",
+            "..."
+          ],
+          "direct_tag_count": 397,
+          "tag_count": 397,
+          "category_count": 0
+        },
+        {
+          "name": "rosenkreuzstilette",
+          "children": [],
+          "color": "#2a9d8f",
+          "tags": [
+            "Rosenkreuzstilette",
+            "..."
+          ],
+          "direct_tag_count": 23,
+          "tag_count": 23,
+          "category_count": 0
+        },
+        {
+          "name": "sailor_moon",
+          "children": [],
+          "color": "#2a9d8f",
+          "tags": [
+            "Bishoujo Senshi Sailor Moon",
+            "..."
+          ],
+          "direct_tag_count": 309,
+          "tag_count": 309,
+          "category_count": 0
+        },
+        {
+          "name": "street_fighter",
+          "children": [],
+          "color": "#2a9d8f",
+          "tags": [
+            "Street Fighter",
+            "..."
+          ],
+          "direct_tag_count": 169,
+          "tag_count": 169,
+          "category_count": 0
+        },
+        {
+          "name": "toaru_majutsu_no_index",
+          "children": [],
+          "color": "#2a9d8f",
+          "tags": [
+            "Toaru Majutsu no Index",
+            "..."
+          ],
+          "direct_tag_count": 189,
+          "tag_count": 189,
+          "category_count": 0
+        },
+        {
+          "name": "touhou",
+          "children": [],
+          "color": "#2a9d8f",
+          "tags": [
+            "Touhou",
+            "..."
+          ],
+          "direct_tag_count": 380,
+          "tag_count": 380,
+          "category_count": 0
+        },
+        {
+          "name": "touken_ranbu",
+          "children": [],
+          "color": "#2a9d8f",
+          "tags": [
+            "Mikazuki Munechika",
+            "..."
+          ],
+          "direct_tag_count": 128,
+          "tag_count": 128,
+          "category_count": 0
+        },
+        {
+          "name": "ultra_series",
+          "children": [],
+          "color": "#2a9d8f",
+          "tags": [
+            "Ultra Series",
+            "..."
+          ],
+          "direct_tag_count": 511,
+          "tag_count": 511,
+          "category_count": 0
+        },
+        {
+          "name": "umamusume",
+          "children": [],
+          "color": "#2a9d8f",
+          "tags": [
+            "Umamusume",
+            "..."
+          ],
+          "direct_tag_count": 248,
+          "tag_count": 248,
+          "category_count": 0
+        },
+        {
+          "name": "vocaloid",
+          "children": [],
+          "color": "#2a9d8f",
+          "tags": [
+            "VOCALOID",
+            "..."
+          ],
+          "direct_tag_count": 140,
+          "tag_count": 140,
+          "category_count": 0
+        },
+        {
+          "name": "world_witches_series",
+          "children": [],
+          "color": "#2a9d8f",
+          "tags": [
+            "World Witches Series",
+            "..."
+          ],
+          "direct_tag_count": 184,
+          "tag_count": 184,
+          "category_count": 0
+        }
+      ],
+      "color": "#2a9d8f",
+      "tag_count": 18329,
+      "category_count": 55
+    },
+    {
+      "name": "copyrighted",
+      "children": [
+        {
+          "name": "genres_of_video_games",
+          "children": [
+            {
+              "name": "fighting_games",
+              "children": [],
+              "color": "#888888",
+              "tags": [
+                "tag groups",
+                "..."
+              ],
+              "direct_tag_count": 175,
+              "tag_count": 175,
+              "category_count": 0
+            },
+            {
+              "name": "platform_games",
+              "children": [],
+              "color": "#888888",
+              "tags": [
+                "tag groups",
+                "..."
+              ],
+              "direct_tag_count": 42,
+              "tag_count": 42,
+              "category_count": 0
+            },
+            {
+              "name": "role-playing_games",
+              "children": [],
+              "color": "#888888",
+              "tags": [
+                "Dungeons & Dragons",
+                "..."
+              ],
+              "direct_tag_count": 514,
+              "tag_count": 514,
+              "category_count": 0
+            },
+            {
+              "name": "shooter_games",
+              "children": [],
+              "color": "#888888",
+              "tags": [
+                "Apex Legends",
+                "..."
+              ],
+              "direct_tag_count": 114,
+              "tag_count": 114,
+              "category_count": 0
+            },
+            {
+              "name": "visual_novel_games",
+              "children": [],
+              "color": "#888888",
+              "tags": [
+                "tag groups",
+                "..."
+              ],
+              "direct_tag_count": 185,
+              "tag_count": 185,
+              "category_count": 0
+            }
+          ],
+          "color": "#888888",
+          "tag_count": 1030,
+          "category_count": 5
+        }
+      ],
+      "color": "#888888",
+      "tag_count": 1030,
+      "category_count": 6
+    },
+    {
+      "name": "creatures",
+      "children": [
+        {
+          "name": "animals",
+          "children": [
+            {
+              "name": "animals_general",
+              "children": [],
+              "color": "#8ecae6",
+              "tags": [
+                "animal",
+                "..."
+              ],
+              "direct_tag_count": 178,
+              "tag_count": 178,
+              "category_count": 0
+            },
+            {
+              "name": "birds",
+              "children": [],
+              "color": "#8ecae6",
+              "tags": [
+                "tag groups",
+                "..."
+              ],
+              "direct_tag_count": 231,
+              "tag_count": 231,
+              "category_count": 0
+            },
+            {
+              "name": "cats",
+              "children": [],
+              "color": "#8ecae6",
+              "tags": [
+                "tag groups",
+                "..."
+              ],
+              "direct_tag_count": 222,
+              "tag_count": 222,
+              "category_count": 0
+            },
+            {
+              "name": "dogs",
+              "children": [],
+              "color": "#8ecae6",
+              "tags": [
+                "tag groups",
+                "..."
+              ],
+              "direct_tag_count": 237,
+              "tag_count": 237,
+              "category_count": 0
+            }
+          ],
+          "color": "#8ecae6",
+          "tag_count": 868,
+          "category_count": 4
+        },
+        {
+          "name": "legendary_creatures",
+          "children": [],
+          "color": "#8ecae6",
+          "tags": [
+            "tag groups",
+            "..."
+          ],
+          "direct_tag_count": 285,
+          "tag_count": 285,
+          "category_count": 0
+        }
+      ],
+      "color": "#8ecae6",
+      "tag_count": 1153,
+      "category_count": 6
+    },
+    {
+      "name": "drawing_software",
+      "children": [],
+      "color": "#888888",
+      "tags": [
+        "adobe illustrator (medium)",
+        "..."
+      ],
+      "direct_tag_count": 54,
+      "tag_count": 54,
+      "category_count": 0
+    },
+    {
+      "name": "games",
+      "children": [
+        {
+          "name": "board_games",
+          "children": [],
+          "color": "#3a86ff",
+          "tags": [
+            "tag groups",
+            "..."
+          ],
+          "direct_tag_count": 21,
+          "tag_count": 21,
+          "category_count": 0
+        },
+        {
+          "name": "fighting_games",
+          "children": [],
+          "color": "#3a86ff",
+          "tags": [
+            "tag groups",
+            "..."
+          ],
+          "direct_tag_count": 175,
+          "tag_count": 175,
+          "category_count": 0
+        },
+        {
+          "name": "game_activities",
+          "children": [],
+          "color": "#3a86ff",
+          "tags": [
+            "cat's cradle",
+            "..."
+          ],
+          "direct_tag_count": 61,
+          "tag_count": 61,
+          "category_count": 0
+        },
+        {
+          "name": "sports",
+          "children": [],
+          "color": "#3a86ff",
+          "tags": [
+            "Playing sports",
+            "..."
+          ],
+          "direct_tag_count": 417,
+          "tag_count": 417,
+          "category_count": 0
+        },
+        {
+          "name": "video_game",
+          "children": [],
+          "color": "#3a86ff",
+          "tags": [
+            "Tag Groups",
+            "..."
+          ],
+          "direct_tag_count": 144,
+          "tag_count": 144,
+          "category_count": 0
+        }
+      ],
+      "color": "#3a86ff",
+      "tag_count": 818,
+      "category_count": 5
+    },
+    {
+      "name": "metatags",
+      "children": [],
+      "color": "#ffbe0b",
+      "tags": [
+        "help:metatags",
+        "..."
+      ],
+      "direct_tag_count": 214,
+      "tag_count": 214,
+      "category_count": 0
+    },
+    {
+      "name": "more",
+      "children": [
+        {
+          "name": "dances",
+          "children": [],
+          "color": "#b5179e",
+          "tags": [
+            "tag groups",
+            "..."
+          ],
+          "direct_tag_count": 110,
+          "tag_count": 110,
+          "category_count": 0
+        },
+        {
+          "name": "family_relationships",
+          "children": [],
+          "color": "#b5179e",
+          "tags": [
+            "tag groups",
+            "..."
+          ],
+          "direct_tag_count": 29,
+          "tag_count": 29,
+          "category_count": 0
+        },
+        {
+          "name": "fire",
+          "children": [],
+          "color": "#b5179e",
+          "tags": [
+            "tag groups",
+            "..."
+          ],
+          "direct_tag_count": 68,
+          "tag_count": 68,
+          "category_count": 0
+        },
+        {
+          "name": "food_tags",
+          "children": [],
+          "color": "#b5179e",
+          "tags": [
+            "tag groups",
+            "..."
+          ],
+          "direct_tag_count": 1036,
+          "tag_count": 1036,
+          "category_count": 0
+        },
+        {
+          "name": "groups",
+          "children": [],
+          "color": "#b5179e",
+          "tags": [
+            "tag groups",
+            "..."
+          ],
+          "direct_tag_count": 19,
+          "tag_count": 19,
+          "category_count": 0
+        },
+        {
+          "name": "phrases",
+          "children": [],
+          "color": "#b5179e",
+          "tags": [
+            "Akeome",
+            "..."
+          ],
+          "direct_tag_count": 76,
+          "tag_count": 76,
+          "category_count": 0
+        },
+        {
+          "name": "scan",
+          "children": [],
+          "color": "#b5179e",
+          "tags": [
+            "scan",
+            "..."
+          ],
+          "direct_tag_count": 35,
+          "tag_count": 35,
+          "category_count": 0
+        },
+        {
+          "name": "subjective",
+          "children": [],
+          "color": "#b5179e",
+          "tags": [
+            "tag groups",
+            "..."
+          ],
+          "direct_tag_count": 45,
+          "tag_count": 45,
+          "category_count": 0
+        },
+        {
+          "name": "technology",
+          "children": [],
+          "color": "#b5179e",
+          "tags": [
+            "Science fiction",
+            "..."
+          ],
+          "direct_tag_count": 237,
+          "tag_count": 237,
+          "category_count": 0
+        },
+        {
+          "name": "verbs_and_gerunds",
+          "children": [],
+          "color": "#b5179e",
+          "tags": [
+            "aiming",
+            "..."
+          ],
+          "direct_tag_count": 446,
+          "tag_count": 446,
+          "category_count": 0
+        },
+        {
+          "name": "water",
+          "children": [],
+          "color": "#b5179e",
+          "tags": [
+            "tag groups",
+            "..."
+          ],
+          "direct_tag_count": 54,
+          "tag_count": 54,
+          "category_count": 0
+        }
+      ],
+      "color": "#b5179e",
+      "tag_count": 2155,
+      "category_count": 11
+    },
+    {
+      "name": "objects",
+      "children": [
+        {
+          "name": "airplanes",
+          "children": [],
+          "color": "#6d6875",
+          "tags": [
+            "airplane",
+            "..."
+          ],
+          "direct_tag_count": 409,
+          "tag_count": 409,
+          "category_count": 0
+        },
+        {
+          "name": "armor",
+          "children": [],
+          "color": "#6d6875",
+          "tags": [
+            "armored twintails",
+            "..."
+          ],
+          "direct_tag_count": 139,
+          "tag_count": 139,
+          "category_count": 0
+        },
+        {
+          "name": "audio_tags",
+          "children": [],
+          "color": "#6d6875",
+          "tags": [
+            "cd player",
+            "..."
+          ],
+          "direct_tag_count": 366,
+          "tag_count": 366,
+          "category_count": 0
+        },
+        {
+          "name": "cards",
+          "children": [
+            {
+              "name": "cards_general",
+              "children": [],
+              "color": "#6d6875",
+              "tags": [
+                "card",
+                "..."
+              ],
+              "direct_tag_count": 95,
+              "tag_count": 95,
+              "category_count": 0
+            },
+            {
+              "name": "playing_card_faces",
+              "children": [],
+              "color": "#6d6875",
+              "tags": [
+                "playing card",
+                "..."
+              ],
+              "direct_tag_count": 66,
+              "tag_count": 66,
+              "category_count": 0
+            }
+          ],
+          "color": "#6d6875",
+          "tag_count": 161,
+          "category_count": 2
+        },
+        {
+          "name": "computer",
+          "children": [],
+          "color": "#6d6875",
+          "tags": [
+            "drawing (action)",
+            "..."
+          ],
+          "direct_tag_count": 79,
+          "tag_count": 79,
+          "category_count": 0
+        },
+        {
+          "name": "eyewear",
+          "children": [],
+          "color": "#6d6875",
+          "tags": [
+            "glasses",
+            "..."
+          ],
+          "direct_tag_count": 94,
+          "tag_count": 94,
+          "category_count": 0
+        },
+        {
+          "name": "ground_vehicles",
+          "children": [],
+          "color": "#6d6875",
+          "tags": [
+            "ground vehicle",
+            "..."
+          ],
+          "direct_tag_count": 407,
+          "tag_count": 407,
+          "category_count": 0
+        },
+        {
+          "name": "helicopters",
+          "children": [],
+          "color": "#6d6875",
+          "tags": [
+            "helicopter",
+            "..."
+          ],
+          "direct_tag_count": 25,
+          "tag_count": 25,
+          "category_count": 0
+        },
+        {
+          "name": "piercings",
+          "children": [],
+          "color": "#6d6875",
+          "tags": [
+            "Piercing",
+            "..."
+          ],
+          "direct_tag_count": 48,
+          "tag_count": 48,
+          "category_count": 0
+        },
+        {
+          "name": "pokemon_objects",
+          "children": [],
+          "color": "#6d6875",
+          "tags": [
+            "pokemon",
+            "..."
+          ],
+          "direct_tag_count": 93,
+          "tag_count": 93,
+          "category_count": 0
+        },
+        {
+          "name": "sex_objects",
+          "children": [],
+          "color": "#6d6875",
+          "tags": [
+            "anal beads",
+            "..."
+          ],
+          "direct_tag_count": 104,
+          "tag_count": 104,
+          "category_count": 0
+        },
+        {
+          "name": "ships",
+          "children": [],
+          "color": "#6d6875",
+          "tags": [
+            "ship",
+            "..."
+          ],
+          "direct_tag_count": 256,
+          "tag_count": 256,
+          "category_count": 0
+        },
+        {
+          "name": "weapons",
+          "children": [],
+          "color": "#6d6875",
+          "tags": [
+            "weapon",
+            "..."
+          ],
+          "direct_tag_count": 917,
+          "tag_count": 917,
+          "category_count": 0
+        }
+      ],
+      "color": "#6d6875",
+      "tag_count": 3098,
+      "category_count": 15
+    },
+    {
+      "name": "plant",
+      "children": [
+        {
+          "name": "flowers",
+          "children": [],
+          "color": "#7cb518",
+          "tags": [
+            "Anthurium",
+            "..."
+          ],
+          "direct_tag_count": 21,
+          "tag_count": 21,
+          "category_count": 0
+        },
+        {
+          "name": "plant",
+          "children": [],
+          "color": "#7cb518",
+          "tags": [
+            "bush",
+            "..."
+          ],
+          "direct_tag_count": 53,
+          "tag_count": 53,
+          "category_count": 0
+        },
+        {
+          "name": "tree",
+          "children": [],
+          "color": "#7cb518",
+          "tags": [
+            "plant",
+            "..."
+          ],
+          "direct_tag_count": 44,
+          "tag_count": 44,
+          "category_count": 0
+        }
+      ],
+      "color": "#7cb518",
+      "tag_count": 118,
+      "category_count": 3
+    },
+    {
+      "name": "real_world",
+      "children": [
+        {
+          "name": "companies_and_brand_names",
+          "children": [],
+          "color": "#a5a58d",
+          "tags": [
+            "Adidas",
+            "..."
+          ],
+          "direct_tag_count": 361,
+          "tag_count": 361,
+          "category_count": 0
+        },
+        {
+          "name": "holidays_and_celebrations",
+          "children": [],
+          "color": "#a5a58d",
+          "tags": [
+            "tag groups",
+            "..."
+          ],
+          "direct_tag_count": 138,
+          "tag_count": 138,
+          "category_count": 0
+        },
+        {
+          "name": "jobs",
+          "children": [],
+          "color": "#a5a58d",
+          "tags": [
+            "tag groups",
+            "..."
+          ],
+          "direct_tag_count": 75,
+          "tag_count": 75,
+          "category_count": 0
+        },
+        {
+          "name": "locations",
+          "children": [],
+          "color": "#a5a58d",
+          "tags": [
+            "tag groups",
+            "..."
+          ],
+          "direct_tag_count": 263,
+          "tag_count": 263,
+          "category_count": 0
+        },
+        {
+          "name": "people",
+          "children": [],
+          "color": "#a5a58d",
+          "tags": [
+            "tag groups",
+            "..."
+          ],
+          "direct_tag_count": 1511,
+          "tag_count": 1511,
+          "category_count": 0
+        },
+        {
+          "name": "real_world_locations",
+          "children": [],
+          "color": "#a5a58d",
+          "tags": [
+            "real world location",
+            "..."
+          ],
+          "direct_tag_count": 458,
+          "tag_count": 458,
+          "category_count": 0
+        }
+      ],
+      "color": "#a5a58d",
+      "tag_count": 2806,
+      "category_count": 6
+    },
+    {
+      "name": "sex",
+      "children": [
+        {
+          "name": "sex_acts",
+          "children": [
+            {
+              "name": "sex_acts_general",
+              "children": [],
+              "color": "#ef476f",
+              "tags": [
+                "sex",
+                "..."
+              ],
+              "direct_tag_count": 424,
+              "tag_count": 424,
+              "category_count": 0
+            },
+            {
+              "name": "simulated_sex_acts",
+              "children": [],
+              "color": "#ef476f",
+              "tags": [
+                "Sexually suggestive",
+                "..."
+              ],
+              "direct_tag_count": 16,
+              "tag_count": 16,
+              "category_count": 0
+            }
+          ],
+          "color": "#ef476f",
+          "tag_count": 440,
+          "category_count": 2
+        },
+        {
+          "name": "sexual_positions",
+          "children": [],
+          "color": "#ef476f",
+          "tags": [
+            "69",
+            "..."
+          ],
+          "direct_tag_count": 56,
+          "tag_count": 56,
+          "category_count": 0
+        }
+      ],
+      "color": "#ef476f",
+      "tag_count": 496,
+      "category_count": 4
+    },
+    {
+      "name": "visual_characteristics",
+      "children": [
+        {
+          "name": "image composition, style",
+          "children": [
+            {
+              "name": "artistic_license",
+              "children": [],
+              "color": "#06d6a0",
+              "tags": [
+                "Alternate species",
+                "..."
+              ],
+              "direct_tag_count": 73,
+              "tag_count": 73,
+              "category_count": 0
+            },
+            {
+              "name": "image_composition",
+              "children": [
+                {
+                  "name": "image_composition_general",
+                  "children": [],
+                  "color": "#06d6a0",
+                  "tags": [
+                    "From above",
+                    "..."
+                  ],
+                  "direct_tag_count": 382,
+                  "tag_count": 382,
+                  "category_count": 0
+                },
+                {
+                  "name": "backgrounds",
+                  "children": [],
+                  "color": "#06d6a0",
+                  "tags": [
+                    "aqua background",
+                    "..."
+                  ],
+                  "direct_tag_count": 113,
+                  "tag_count": 113,
+                  "category_count": 0
+                },
+                {
+                  "name": "censorship",
+                  "children": [],
+                  "color": "#06d6a0",
+                  "tags": [
+                    "censored",
+                    "..."
+                  ],
+                  "direct_tag_count": 90,
+                  "tag_count": 90,
+                  "category_count": 0
+                },
+                {
+                  "name": "colors",
+                  "children": [],
+                  "color": "#06d6a0",
+                  "tags": [
+                    "monochrome",
+                    "..."
+                  ],
+                  "direct_tag_count": 52,
+                  "tag_count": 52,
+                  "category_count": 0
+                },
+                {
+                  "name": "focus_tags",
+                  "children": [],
+                  "color": "#06d6a0",
+                  "tags": [
+                    "solo focus",
+                    "..."
+                  ],
+                  "direct_tag_count": 28,
+                  "tag_count": 28,
+                  "category_count": 0
+                },
+                {
+                  "name": "lighting",
+                  "children": [],
+                  "color": "#06d6a0",
+                  "tags": [
+                    "sidelighting",
+                    "..."
+                  ],
+                  "direct_tag_count": 55,
+                  "tag_count": 55,
+                  "category_count": 0
+                },
+                {
+                  "name": "prints",
+                  "children": [],
+                  "color": "#06d6a0",
+                  "tags": [
+                    "Argyle",
+                    "..."
+                  ],
+                  "direct_tag_count": 67,
+                  "tag_count": 67,
+                  "category_count": 0
+                },
+                {
+                  "name": "style_parodies",
+                  "children": [],
+                  "color": "#06d6a0",
+                  "tags": [
+                    "tag groups",
+                    "..."
+                  ],
+                  "direct_tag_count": 495,
+                  "tag_count": 495,
+                  "category_count": 0
+                }
+              ],
+              "color": "#06d6a0",
+              "tag_count": 1282,
+              "category_count": 8
+            },
+            {
+              "name": "patterns",
+              "children": [],
+              "color": "#06d6a0",
+              "tags": [
+                "asa no ha (pattern)",
+                "..."
+              ],
+              "direct_tag_count": 41,
+              "tag_count": 41,
+              "category_count": 0
+            },
+            {
+              "name": "symbols",
+              "children": [],
+              "color": "#06d6a0",
+              "tags": [
+                "Circle",
+                "..."
+              ],
+              "direct_tag_count": 310,
+              "tag_count": 310,
+              "category_count": 0
+            },
+            {
+              "name": "text",
+              "children": [],
+              "color": "#06d6a0",
+              "tags": [
+                "Artist name",
+                "..."
+              ],
+              "direct_tag_count": 242,
+              "tag_count": 242,
+              "category_count": 0
+            },
+            {
+              "name": "year_tags",
+              "children": [],
+              "color": "#06d6a0",
+              "tags": [
+                "dated",
+                "..."
+              ],
+              "direct_tag_count": 62,
+              "tag_count": 62,
+              "category_count": 0
+            }
+          ],
+          "color": "#06d6a0",
+          "tag_count": 2010,
+          "category_count": 14
+        }
+      ],
+      "color": "#06d6a0",
+      "tag_count": 2010,
+      "category_count": 15
+    },
+    {
+      "name": "subject",
+      "children": [
+        {
+          "name": "female",
+          "children": [
+            {
+              "name": "female_general",
+              "children": [],
+              "color": "#ffd166",
+              "tags": [
+                "woman",
+                "..."
+              ],
+              "direct_tag_count": 10,
+              "tag_count": 10,
+              "category_count": 0
+            }
+          ],
+          "color": "#ffd166",
+          "tag_count": 10,
+          "category_count": 1
+        },
+        {
+          "name": "male",
+          "children": [
+            {
+              "name": "male_general",
+              "children": [],
+              "color": "#ffd166",
+              "tags": [
+                "man",
+                "..."
+              ],
+              "direct_tag_count": 10,
+              "tag_count": 10,
+              "category_count": 0
+            }
+          ],
+          "color": "#ffd166",
+          "tag_count": 10,
+          "category_count": 1
+        },
+        {
+          "name": "koma",
+          "children": [
+            {
+              "name": "koma_general",
+              "children": [],
+              "color": "#ffd166",
+              "tags": [
+                "1koma",
+                "..."
+              ],
+              "direct_tag_count": 2,
+              "tag_count": 2,
+              "category_count": 0
+            }
+          ],
+          "color": "#ffd166",
+          "tag_count": 2,
+          "category_count": 1
+        },
+        {
+          "name": "anthro",
+          "children": [
+            {
+              "name": "anthro_general",
+              "children": [],
+              "color": "#ffd166",
+              "tags": [
+                "cat girl",
+                "..."
+              ],
+              "direct_tag_count": 13,
+              "tag_count": 13,
+              "category_count": 0
+            }
+          ],
+          "color": "#ffd166",
+          "tag_count": 13,
+          "category_count": 1
+        }
+      ],
+      "color": "#ffd166",
+      "tag_count": 35,
+      "category_count": 8
+    },
+    {
+      "name": "uncategorized",
+      "children": [],
+      "color": "#adb5bd",
+      "tags": [
+        "1other",
+        "..."
+      ],
+      "direct_tag_count": 2217,
+      "tag_count": 2217,
+      "category_count": 0
+    },
+    {
+      "name": "actions_and_expressions",
+      "children": [
+        {
+          "name": "actions",
+          "children": [
+            {
+              "name": "actions_general",
+              "children": [],
+              "color": "#d00000",
+              "tags": [
+                "acrylic paint (medium)",
+                "..."
+              ],
+              "direct_tag_count": 50,
+              "tag_count": 50,
+              "category_count": 0
+            }
+          ],
+          "color": "#d00000",
+          "tag_count": 50,
+          "category_count": 1
+        }
+      ],
+      "color": "#d00000",
+      "tag_count": 50,
+      "category_count": 2
+    },
+    {
+      "name": "objects_and_backgrounds",
+      "children": [
+        {
+          "name": "objects",
+          "children": [
+            {
+              "name": "objects_general",
+              "children": [],
+              "color": "#118ab2",
+              "tags": [
+                "alarm clock",
+                "..."
+              ],
+              "direct_tag_count": 59,
+              "tag_count": 59,
+              "category_count": 0
+            }
+          ],
+          "color": "#118ab2",
+          "tag_count": 59,
+          "category_count": 1
+        }
+      ],
+      "color": "#118ab2",
+      "tag_count": 59,
+      "category_count": 2
+    }
+  ],
+  "tag_count": 39564,
+  "category_count": 200
+}

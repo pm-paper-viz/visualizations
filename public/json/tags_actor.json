@@ -1,0 +1,7099 @@
+{
+    "nodes": [
+        {
+            "id": "anime",
+            "size": 8
+        },
+        {
+            "id": "base model",
+            "size": 2
+        },
+        {
+            "id": "woman",
+            "size": 333
+        },
+        {
+            "id": "girls",
+            "size": 29
+        },
+        {
+            "id": "action actor",
+            "size": 4
+        },
+        {
+            "id": "photorealistic",
+            "size": 246
+        },
+        {
+            "id": "actor",
+            "size": 1121
+        },
+        {
+            "id": "celebrity",
+            "size": 1000
+        },
+        {
+            "id": "sexy",
+            "size": 60
+        },
+        {
+            "id": "female",
+            "size": 34
+        },
+        {
+            "id": "actress",
+            "size": 108
+        },
+        {
+            "id": "beautiful",
+            "size": 2
+        },
+        {
+            "id": "photorealism",
+            "size": 4
+        },
+        {
+            "id": "male",
+            "size": 320
+        },
+        {
+            "id": "man",
+            "size": 388
+        },
+        {
+            "id": "keanu reeves",
+            "size": 5
+        },
+        {
+            "id": "hollywood",
+            "size": 58
+        },
+        {
+            "id": "celeb",
+            "size": 41
+        },
+        {
+            "id": "asian",
+            "size": 93
+        },
+        {
+            "id": "japan",
+            "size": 80
+        },
+        {
+            "id": "person",
+            "size": 29
+        },
+        {
+            "id": "cinema",
+            "size": 19
+        },
+        {
+            "id": "textual inversion",
+            "size": 8
+        },
+        {
+            "id": "singer",
+            "size": 57
+        },
+        {
+            "id": "muscular male",
+            "size": 6
+        },
+        {
+            "id": "realistic",
+            "size": 57
+        },
+        {
+            "id": "girl",
+            "size": 2
+        },
+        {
+            "id": "bollywood",
+            "size": 48
+        },
+        {
+            "id": "movie",
+            "size": 52
+        },
+        {
+            "id": "wwe",
+            "size": 3
+        },
+        {
+            "id": "character",
+            "size": 87
+        },
+        {
+            "id": "pornstar",
+            "size": 9
+        },
+        {
+            "id": "real person",
+            "size": 12
+        },
+        {
+            "id": "men",
+            "size": 37
+        },
+        {
+            "id": "arnold schwarzenegger",
+            "size": 2
+        },
+        {
+            "id": "movies",
+            "size": 6
+        },
+        {
+            "id": "model",
+            "size": 54
+        },
+        {
+            "id": "canadian",
+            "size": 5
+        },
+        {
+            "id": "angelina jolie",
+            "size": 2
+        },
+        {
+            "id": "cute",
+            "size": 15
+        },
+        {
+            "id": "gay",
+            "size": 21
+        },
+        {
+            "id": "muscles",
+            "size": 9
+        },
+        {
+            "id": "muscular",
+            "size": 10
+        },
+        {
+            "id": "guy",
+            "size": 19
+        },
+        {
+            "id": "photo",
+            "size": 4
+        },
+        {
+            "id": "musician",
+            "size": 9
+        },
+        {
+            "id": "famous",
+            "size": 15
+        },
+        {
+            "id": "marvel",
+            "size": 13
+        },
+        {
+            "id": "photography",
+            "size": 3
+        },
+        {
+            "id": "legend",
+            "size": 4
+        },
+        {
+            "id": "german",
+            "size": 5
+        },
+        {
+            "id": "bald",
+            "size": 2
+        },
+        {
+            "id": "star trek",
+            "size": 4
+        },
+        {
+            "id": "brazilian",
+            "size": 35
+        },
+        {
+            "id": "brazil",
+            "size": 14
+        },
+        {
+            "id": "tv show",
+            "size": 19
+        },
+        {
+            "id": "australian",
+            "size": 7
+        },
+        {
+            "id": "scifi",
+            "size": 2
+        },
+        {
+            "id": "series",
+            "size": 6
+        },
+        {
+            "id": "mexican",
+            "size": 6
+        },
+        {
+            "id": "game of thrones",
+            "size": 8
+        },
+        {
+            "id": "pirate",
+            "size": 2
+        },
+        {
+            "id": "star wars",
+            "size": 4
+        },
+        {
+            "id": "blonde",
+            "size": 4
+        },
+        {
+            "id": "portraits",
+            "size": 2
+        },
+        {
+            "id": "portrait",
+            "size": 5
+        },
+        {
+            "id": "movie character",
+            "size": 4
+        },
+        {
+            "id": "comedian",
+            "size": 40
+        },
+        {
+            "id": "classic",
+            "size": 9
+        },
+        {
+            "id": "retro",
+            "size": 9
+        },
+        {
+            "id": "characters",
+            "size": 6
+        },
+        {
+            "id": "celebrity,",
+            "size": 64
+        },
+        {
+            "id": "indian",
+            "size": 64
+        },
+        {
+            "id": "television",
+            "size": 11
+        },
+        {
+            "id": "beauty",
+            "size": 9
+        },
+        {
+            "id": "usa",
+            "size": 3
+        },
+        {
+            "id": "sdxl 1,0",
+            "size": 45
+        },
+        {
+            "id": "hottiesnhotties",
+            "size": 73
+        },
+        {
+            "id": "lora",
+            "size": 17
+        },
+        {
+            "id": "actors",
+            "size": 5
+        },
+        {
+            "id": "american",
+            "size": 23
+        },
+        {
+            "id": "comedy",
+            "size": 15
+        },
+        {
+            "id": "tv",
+            "size": 26
+        },
+        {
+            "id": "old man",
+            "size": 4
+        },
+        {
+            "id": "realism",
+            "size": 15
+        },
+        {
+            "id": "breaking bad",
+            "size": 5
+        },
+        {
+            "id": "influencer",
+            "size": 6
+        },
+        {
+            "id": "japanese",
+            "size": 4
+        },
+        {
+            "id": "handsome",
+            "size": 26
+        },
+        {
+            "id": "tv series",
+            "size": 16
+        },
+        {
+            "id": "french",
+            "size": 23
+        },
+        {
+            "id": "artist",
+            "size": 4
+        },
+        {
+            "id": "voice actor",
+            "size": 4
+        },
+        {
+            "id": "rip",
+            "size": 5
+        },
+        {
+            "id": "superman",
+            "size": 3
+        },
+        {
+            "id": "celebirty",
+            "size": 10
+        },
+        {
+            "id": "daddy",
+            "size": 4
+        },
+        {
+            "id": "netflix",
+            "size": 6
+        },
+        {
+            "id": "real",
+            "size": 3
+        },
+        {
+            "id": "horror",
+            "size": 4
+        },
+        {
+            "id": "doctor who",
+            "size": 3
+        },
+        {
+            "id": "korean",
+            "size": 7
+        },
+        {
+            "id": "cinematic",
+            "size": 2
+        },
+        {
+            "id": "boys",
+            "size": 7
+        },
+        {
+            "id": "the walking dead",
+            "size": 6
+        },
+        {
+            "id": "villian",
+            "size": 3
+        },
+        {
+            "id": "film",
+            "size": 5
+        },
+        {
+            "id": "youtuber",
+            "size": 2
+        },
+        {
+            "id": "70s",
+            "size": 5
+        },
+        {
+            "id": "british",
+            "size": 8
+        },
+        {
+            "id": "wolverine",
+            "size": 4
+        },
+        {
+            "id": "the boys",
+            "size": 8
+        },
+        {
+            "id": "dancer",
+            "size": 3
+        },
+        {
+            "id": "mean girls",
+            "size": 4
+        },
+        {
+            "id": "muscle",
+            "size": 25
+        },
+        {
+            "id": "turkish",
+            "size": 5
+        },
+        {
+            "id": "broadway",
+            "size": 3
+        },
+        {
+            "id": "male focus",
+            "size": 3
+        },
+        {
+            "id": "young man",
+            "size": 2
+        },
+        {
+            "id": "blade runner",
+            "size": 2
+        },
+        {
+            "id": "superhero",
+            "size": 20
+        },
+        {
+            "id": "director",
+            "size": 3
+        },
+        {
+            "id": "spanish",
+            "size": 5
+        },
+        {
+            "id": "disney",
+            "size": 6
+        },
+        {
+            "id": "fashion",
+            "size": 3
+        },
+        {
+            "id": "deadpool",
+            "size": 2
+        },
+        {
+            "id": "english",
+            "size": 3
+        },
+        {
+            "id": "latina",
+            "size": 3
+        },
+        {
+            "id": "male model",
+            "size": 12
+        },
+        {
+            "id": "twink",
+            "size": 4
+        },
+        {
+            "id": "bodybuilder",
+            "size": 7
+        },
+        {
+            "id": "pirates of the caribbean",
+            "size": 3
+        },
+        {
+            "id": "hot",
+            "size": 2
+        },
+        {
+            "id": "old",
+            "size": 2
+        },
+        {
+            "id": "telugu",
+            "size": 3
+        },
+        {
+            "id": "bigg boss",
+            "size": 5
+        },
+        {
+            "id": "asian man",
+            "size": 2
+        }
+    ],
+    "links": [
+        {
+            "source": "base model",
+            "target": "anime",
+            "value": 1
+        },
+        {
+            "source": "anime",
+            "target": "woman",
+            "value": 3
+        },
+        {
+            "source": "girls",
+            "target": "anime",
+            "value": 2
+        },
+        {
+            "source": "anime",
+            "target": "action actor",
+            "value": 1
+        },
+        {
+            "source": "base model",
+            "target": "woman",
+            "value": 2
+        },
+        {
+            "source": "base model",
+            "target": "girls",
+            "value": 1
+        },
+        {
+            "source": "base model",
+            "target": "action actor",
+            "value": 1
+        },
+        {
+            "source": "girls",
+            "target": "woman",
+            "value": 27
+        },
+        {
+            "source": "action actor",
+            "target": "woman",
+            "value": 2
+        },
+        {
+            "source": "girls",
+            "target": "action actor",
+            "value": 1
+        },
+        {
+            "source": "photorealistic",
+            "target": "woman",
+            "value": 132
+        },
+        {
+            "source": "photorealistic",
+            "target": "actor",
+            "value": 245
+        },
+        {
+            "source": "celebrity",
+            "target": "photorealistic",
+            "value": 185
+        },
+        {
+            "source": "actor",
+            "target": "woman",
+            "value": 326
+        },
+        {
+            "source": "celebrity",
+            "target": "woman",
+            "value": 269
+        },
+        {
+            "source": "celebrity",
+            "target": "actor",
+            "value": 988
+        },
+        {
+            "source": "photorealistic",
+            "target": "sexy",
+            "value": 48
+        },
+        {
+            "source": "photorealistic",
+            "target": "female",
+            "value": 13
+        },
+        {
+            "source": "photorealistic",
+            "target": "actress",
+            "value": 63
+        },
+        {
+            "source": "sexy",
+            "target": "female",
+            "value": 2
+        },
+        {
+            "source": "sexy",
+            "target": "woman",
+            "value": 18
+        },
+        {
+            "source": "sexy",
+            "target": "actor",
+            "value": 59
+        },
+        {
+            "source": "sexy",
+            "target": "actress",
+            "value": 3
+        },
+        {
+            "source": "celebrity",
+            "target": "sexy",
+            "value": 53
+        },
+        {
+            "source": "female",
+            "target": "woman",
+            "value": 25
+        },
+        {
+            "source": "female",
+            "target": "actor",
+            "value": 34
+        },
+        {
+            "source": "actress",
+            "target": "female",
+            "value": 10
+        },
+        {
+            "source": "celebrity",
+            "target": "female",
+            "value": 32
+        },
+        {
+            "source": "actress",
+            "target": "woman",
+            "value": 82
+        },
+        {
+            "source": "actress",
+            "target": "actor",
+            "value": 106
+        },
+        {
+            "source": "celebrity",
+            "target": "actress",
+            "value": 90
+        },
+        {
+            "source": "beautiful",
+            "target": "photorealistic",
+            "value": 2
+        },
+        {
+            "source": "photorealistic",
+            "target": "photorealism",
+            "value": 3
+        },
+        {
+            "source": "beautiful",
+            "target": "sexy",
+            "value": 1
+        },
+        {
+            "source": "sexy",
+            "target": "photorealism",
+            "value": 1
+        },
+        {
+            "source": "beautiful",
+            "target": "actor",
+            "value": 2
+        },
+        {
+            "source": "photorealism",
+            "target": "actor",
+            "value": 4
+        },
+        {
+            "source": "beautiful",
+            "target": "actress",
+            "value": 1
+        },
+        {
+            "source": "actress",
+            "target": "photorealism",
+            "value": 1
+        },
+        {
+            "source": "beautiful",
+            "target": "celebrity",
+            "value": 1
+        },
+        {
+            "source": "beautiful",
+            "target": "photorealism",
+            "value": 1
+        },
+        {
+            "source": "celebrity",
+            "target": "photorealism",
+            "value": 4
+        },
+        {
+            "source": "male",
+            "target": "actor",
+            "value": 316
+        },
+        {
+            "source": "celebrity",
+            "target": "male",
+            "value": 297
+        },
+        {
+            "source": "man",
+            "target": "actor",
+            "value": 382
+        },
+        {
+            "source": "celebrity",
+            "target": "man",
+            "value": 347
+        },
+        {
+            "source": "man",
+            "target": "male",
+            "value": 177
+        },
+        {
+            "source": "keanu reeves",
+            "target": "photorealistic",
+            "value": 2
+        },
+        {
+            "source": "keanu reeves",
+            "target": "hollywood",
+            "value": 3
+        },
+        {
+            "source": "keanu reeves",
+            "target": "actor",
+            "value": 5
+        },
+        {
+            "source": "keanu reeves",
+            "target": "celeb",
+            "value": 1
+        },
+        {
+            "source": "keanu reeves",
+            "target": "celebrity",
+            "value": 5
+        },
+        {
+            "source": "keanu reeves",
+            "target": "male",
+            "value": 1
+        },
+        {
+            "source": "hollywood",
+            "target": "photorealistic",
+            "value": 8
+        },
+        {
+            "source": "photorealistic",
+            "target": "celeb",
+            "value": 8
+        },
+        {
+            "source": "photorealistic",
+            "target": "male",
+            "value": 37
+        },
+        {
+            "source": "hollywood",
+            "target": "actor",
+            "value": 58
+        },
+        {
+            "source": "hollywood",
+            "target": "celeb",
+            "value": 6
+        },
+        {
+            "source": "celebrity",
+            "target": "hollywood",
+            "value": 57
+        },
+        {
+            "source": "hollywood",
+            "target": "male",
+            "value": 32
+        },
+        {
+            "source": "celeb",
+            "target": "actor",
+            "value": 41
+        },
+        {
+            "source": "celebrity",
+            "target": "celeb",
+            "value": 39
+        },
+        {
+            "source": "male",
+            "target": "celeb",
+            "value": 11
+        },
+        {
+            "source": "photorealistic",
+            "target": "asian",
+            "value": 86
+        },
+        {
+            "source": "japan",
+            "target": "photorealistic",
+            "value": 80
+        },
+        {
+            "source": "japan",
+            "target": "asian",
+            "value": 80
+        },
+        {
+            "source": "asian",
+            "target": "woman",
+            "value": 88
+        },
+        {
+            "source": "asian",
+            "target": "actor",
+            "value": 92
+        },
+        {
+            "source": "japan",
+            "target": "woman",
+            "value": 80
+        },
+        {
+            "source": "japan",
+            "target": "actor",
+            "value": 80
+        },
+        {
+            "source": "keanu reeves",
+            "target": "person",
+            "value": 2
+        },
+        {
+            "source": "cinema",
+            "target": "person",
+            "value": 2
+        },
+        {
+            "source": "textual inversion",
+            "target": "person",
+            "value": 6
+        },
+        {
+            "source": "hollywood",
+            "target": "person",
+            "value": 1
+        },
+        {
+            "source": "actor",
+            "target": "person",
+            "value": 27
+        },
+        {
+            "source": "celebrity",
+            "target": "person",
+            "value": 18
+        },
+        {
+            "source": "keanu reeves",
+            "target": "cinema",
+            "value": 1
+        },
+        {
+            "source": "keanu reeves",
+            "target": "textual inversion",
+            "value": 1
+        },
+        {
+            "source": "textual inversion",
+            "target": "cinema",
+            "value": 1
+        },
+        {
+            "source": "hollywood",
+            "target": "cinema",
+            "value": 2
+        },
+        {
+            "source": "cinema",
+            "target": "actor",
+            "value": 19
+        },
+        {
+            "source": "celebrity",
+            "target": "cinema",
+            "value": 16
+        },
+        {
+            "source": "textual inversion",
+            "target": "hollywood",
+            "value": 1
+        },
+        {
+            "source": "textual inversion",
+            "target": "actor",
+            "value": 8
+        },
+        {
+            "source": "textual inversion",
+            "target": "celebrity",
+            "value": 6
+        },
+        {
+            "source": "singer",
+            "target": "actor",
+            "value": 57
+        },
+        {
+            "source": "celebrity",
+            "target": "singer",
+            "value": 40
+        },
+        {
+            "source": "muscular male",
+            "target": "hollywood",
+            "value": 1
+        },
+        {
+            "source": "muscular male",
+            "target": "actor",
+            "value": 6
+        },
+        {
+            "source": "muscular male",
+            "target": "celeb",
+            "value": 2
+        },
+        {
+            "source": "muscular male",
+            "target": "celebrity",
+            "value": 6
+        },
+        {
+            "source": "muscular male",
+            "target": "male",
+            "value": 4
+        },
+        {
+            "source": "asian",
+            "target": "actress",
+            "value": 45
+        },
+        {
+            "source": "celebrity",
+            "target": "asian",
+            "value": 52
+        },
+        {
+            "source": "japan",
+            "target": "actress",
+            "value": 39
+        },
+        {
+            "source": "celebrity",
+            "target": "japan",
+            "value": 41
+        },
+        {
+            "source": "male",
+            "target": "person",
+            "value": 8
+        },
+        {
+            "source": "man",
+            "target": "person",
+            "value": 14
+        },
+        {
+            "source": "realistic",
+            "target": "person",
+            "value": 1
+        },
+        {
+            "source": "realistic",
+            "target": "actor",
+            "value": 55
+        },
+        {
+            "source": "realistic",
+            "target": "celebrity",
+            "value": 53
+        },
+        {
+            "source": "realistic",
+            "target": "male",
+            "value": 18
+        },
+        {
+            "source": "realistic",
+            "target": "man",
+            "value": 34
+        },
+        {
+            "source": "photorealistic",
+            "target": "girl",
+            "value": 1
+        },
+        {
+            "source": "sexy",
+            "target": "girl",
+            "value": 1
+        },
+        {
+            "source": "girl",
+            "target": "bollywood",
+            "value": 1
+        },
+        {
+            "source": "girl",
+            "target": "woman",
+            "value": 1
+        },
+        {
+            "source": "girl",
+            "target": "actor",
+            "value": 2
+        },
+        {
+            "source": "girl",
+            "target": "actress",
+            "value": 2
+        },
+        {
+            "source": "photorealistic",
+            "target": "bollywood",
+            "value": 1
+        },
+        {
+            "source": "sexy",
+            "target": "bollywood",
+            "value": 1
+        },
+        {
+            "source": "bollywood",
+            "target": "woman",
+            "value": 3
+        },
+        {
+            "source": "bollywood",
+            "target": "actor",
+            "value": 48
+        },
+        {
+            "source": "bollywood",
+            "target": "actress",
+            "value": 6
+        },
+        {
+            "source": "movie",
+            "target": "photorealistic",
+            "value": 12
+        },
+        {
+            "source": "movie",
+            "target": "sexy",
+            "value": 3
+        },
+        {
+            "source": "movie",
+            "target": "wwe",
+            "value": 1
+        },
+        {
+            "source": "movie",
+            "target": "actor",
+            "value": 52
+        },
+        {
+            "source": "movie",
+            "target": "celebrity",
+            "value": 39
+        },
+        {
+            "source": "movie",
+            "target": "man",
+            "value": 20
+        },
+        {
+            "source": "photorealistic",
+            "target": "wwe",
+            "value": 1
+        },
+        {
+            "source": "photorealistic",
+            "target": "man",
+            "value": 72
+        },
+        {
+            "source": "sexy",
+            "target": "wwe",
+            "value": 1
+        },
+        {
+            "source": "man",
+            "target": "sexy",
+            "value": 24
+        },
+        {
+            "source": "actor",
+            "target": "wwe",
+            "value": 3
+        },
+        {
+            "source": "celebrity",
+            "target": "wwe",
+            "value": 3
+        },
+        {
+            "source": "man",
+            "target": "wwe",
+            "value": 3
+        },
+        {
+            "source": "girls",
+            "target": "photorealistic",
+            "value": 24
+        },
+        {
+            "source": "girls",
+            "target": "asian",
+            "value": 12
+        },
+        {
+            "source": "girls",
+            "target": "japan",
+            "value": 7
+        },
+        {
+            "source": "girls",
+            "target": "actor",
+            "value": 26
+        },
+        {
+            "source": "girls",
+            "target": "celebrity",
+            "value": 26
+        },
+        {
+            "source": "man",
+            "target": "woman",
+            "value": 3
+        },
+        {
+            "source": "character",
+            "target": "woman",
+            "value": 13
+        },
+        {
+            "source": "character",
+            "target": "actor",
+            "value": 74
+        },
+        {
+            "source": "character",
+            "target": "actress",
+            "value": 1
+        },
+        {
+            "source": "character",
+            "target": "man",
+            "value": 38
+        },
+        {
+            "source": "character",
+            "target": "pornstar",
+            "value": 1
+        },
+        {
+            "source": "pornstar",
+            "target": "woman",
+            "value": 2
+        },
+        {
+            "source": "pornstar",
+            "target": "actor",
+            "value": 9
+        },
+        {
+            "source": "man",
+            "target": "actress",
+            "value": 1
+        },
+        {
+            "source": "pornstar",
+            "target": "actress",
+            "value": 1
+        },
+        {
+            "source": "pornstar",
+            "target": "man",
+            "value": 1
+        },
+        {
+            "source": "movie",
+            "target": "male",
+            "value": 5
+        },
+        {
+            "source": "movie",
+            "target": "real person",
+            "value": 3
+        },
+        {
+            "source": "real person",
+            "target": "actor",
+            "value": 11
+        },
+        {
+            "source": "celebrity",
+            "target": "real person",
+            "value": 10
+        },
+        {
+            "source": "real person",
+            "target": "male",
+            "value": 6
+        },
+        {
+            "source": "real person",
+            "target": "man",
+            "value": 8
+        },
+        {
+            "source": "textual inversion",
+            "target": "female",
+            "value": 4
+        },
+        {
+            "source": "real person",
+            "target": "female",
+            "value": 3
+        },
+        {
+            "source": "textual inversion",
+            "target": "woman",
+            "value": 2
+        },
+        {
+            "source": "textual inversion",
+            "target": "real person",
+            "value": 1
+        },
+        {
+            "source": "real person",
+            "target": "woman",
+            "value": 3
+        },
+        {
+            "source": "celeb",
+            "target": "person",
+            "value": 4
+        },
+        {
+            "source": "men",
+            "target": "person",
+            "value": 1
+        },
+        {
+            "source": "textual inversion",
+            "target": "celeb",
+            "value": 2
+        },
+        {
+            "source": "textual inversion",
+            "target": "male",
+            "value": 1
+        },
+        {
+            "source": "textual inversion",
+            "target": "men",
+            "value": 1
+        },
+        {
+            "source": "men",
+            "target": "actor",
+            "value": 36
+        },
+        {
+            "source": "celeb",
+            "target": "men",
+            "value": 1
+        },
+        {
+            "source": "celebrity",
+            "target": "men",
+            "value": 33
+        },
+        {
+            "source": "male",
+            "target": "men",
+            "value": 29
+        },
+        {
+            "source": "movie",
+            "target": "arnold schwarzenegger",
+            "value": 1
+        },
+        {
+            "source": "movie",
+            "target": "movies",
+            "value": 2
+        },
+        {
+            "source": "arnold schwarzenegger",
+            "target": "actor",
+            "value": 2
+        },
+        {
+            "source": "movies",
+            "target": "actor",
+            "value": 6
+        },
+        {
+            "source": "celebrity",
+            "target": "arnold schwarzenegger",
+            "value": 2
+        },
+        {
+            "source": "celebrity",
+            "target": "movies",
+            "value": 5
+        },
+        {
+            "source": "arnold schwarzenegger",
+            "target": "movies",
+            "value": 1
+        },
+        {
+            "source": "photorealistic",
+            "target": "model",
+            "value": 11
+        },
+        {
+            "source": "asian",
+            "target": "model",
+            "value": 9
+        },
+        {
+            "source": "japan",
+            "target": "model",
+            "value": 8
+        },
+        {
+            "source": "model",
+            "target": "woman",
+            "value": 29
+        },
+        {
+            "source": "model",
+            "target": "actor",
+            "value": 54
+        },
+        {
+            "source": "celebrity",
+            "target": "model",
+            "value": 47
+        },
+        {
+            "source": "female",
+            "target": "person",
+            "value": 5
+        },
+        {
+            "source": "canadian",
+            "target": "person",
+            "value": 1
+        },
+        {
+            "source": "canadian",
+            "target": "female",
+            "value": 1
+        },
+        {
+            "source": "canadian",
+            "target": "textual inversion",
+            "value": 1
+        },
+        {
+            "source": "canadian",
+            "target": "actor",
+            "value": 5
+        },
+        {
+            "source": "canadian",
+            "target": "celebrity",
+            "value": 5
+        },
+        {
+            "source": "girls",
+            "target": "actress",
+            "value": 5
+        },
+        {
+            "source": "photorealistic",
+            "target": "angelina jolie",
+            "value": 1
+        },
+        {
+            "source": "cute",
+            "target": "photorealistic",
+            "value": 14
+        },
+        {
+            "source": "sexy",
+            "target": "angelina jolie",
+            "value": 1
+        },
+        {
+            "source": "cute",
+            "target": "sexy",
+            "value": 14
+        },
+        {
+            "source": "angelina jolie",
+            "target": "woman",
+            "value": 1
+        },
+        {
+            "source": "angelina jolie",
+            "target": "actor",
+            "value": 2
+        },
+        {
+            "source": "celebrity",
+            "target": "angelina jolie",
+            "value": 1
+        },
+        {
+            "source": "cute",
+            "target": "angelina jolie",
+            "value": 1
+        },
+        {
+            "source": "cute",
+            "target": "woman",
+            "value": 12
+        },
+        {
+            "source": "cute",
+            "target": "actor",
+            "value": 15
+        },
+        {
+            "source": "celebrity",
+            "target": "cute",
+            "value": 15
+        },
+        {
+            "source": "gay",
+            "target": "muscles",
+            "value": 5
+        },
+        {
+            "source": "gay",
+            "target": "muscular",
+            "value": 5
+        },
+        {
+            "source": "gay",
+            "target": "guy",
+            "value": 10
+        },
+        {
+            "source": "gay",
+            "target": "actor",
+            "value": 21
+        },
+        {
+            "source": "gay",
+            "target": "celebrity",
+            "value": 18
+        },
+        {
+            "source": "gay",
+            "target": "man",
+            "value": 11
+        },
+        {
+            "source": "muscles",
+            "target": "muscular",
+            "value": 5
+        },
+        {
+            "source": "muscles",
+            "target": "guy",
+            "value": 8
+        },
+        {
+            "source": "muscles",
+            "target": "actor",
+            "value": 9
+        },
+        {
+            "source": "muscles",
+            "target": "celebrity",
+            "value": 9
+        },
+        {
+            "source": "muscles",
+            "target": "man",
+            "value": 5
+        },
+        {
+            "source": "muscular",
+            "target": "guy",
+            "value": 7
+        },
+        {
+            "source": "muscular",
+            "target": "actor",
+            "value": 10
+        },
+        {
+            "source": "celebrity",
+            "target": "muscular",
+            "value": 10
+        },
+        {
+            "source": "man",
+            "target": "muscular",
+            "value": 4
+        },
+        {
+            "source": "guy",
+            "target": "actor",
+            "value": 19
+        },
+        {
+            "source": "celebrity",
+            "target": "guy",
+            "value": 17
+        },
+        {
+            "source": "man",
+            "target": "guy",
+            "value": 12
+        },
+        {
+            "source": "photorealistic",
+            "target": "person",
+            "value": 8
+        },
+        {
+            "source": "sexy",
+            "target": "person",
+            "value": 3
+        },
+        {
+            "source": "photo",
+            "target": "person",
+            "value": 1
+        },
+        {
+            "source": "musician",
+            "target": "person",
+            "value": 1
+        },
+        {
+            "source": "textual inversion",
+            "target": "photorealistic",
+            "value": 2
+        },
+        {
+            "source": "photorealistic",
+            "target": "photo",
+            "value": 3
+        },
+        {
+            "source": "photorealistic",
+            "target": "musician",
+            "value": 2
+        },
+        {
+            "source": "textual inversion",
+            "target": "sexy",
+            "value": 2
+        },
+        {
+            "source": "photo",
+            "target": "sexy",
+            "value": 2
+        },
+        {
+            "source": "sexy",
+            "target": "musician",
+            "value": 1
+        },
+        {
+            "source": "textual inversion",
+            "target": "photo",
+            "value": 1
+        },
+        {
+            "source": "textual inversion",
+            "target": "musician",
+            "value": 1
+        },
+        {
+            "source": "photo",
+            "target": "musician",
+            "value": 1
+        },
+        {
+            "source": "photo",
+            "target": "actor",
+            "value": 4
+        },
+        {
+            "source": "musician",
+            "target": "actor",
+            "value": 9
+        },
+        {
+            "source": "famous",
+            "target": "actor",
+            "value": 15
+        },
+        {
+            "source": "celebrity",
+            "target": "famous",
+            "value": 12
+        },
+        {
+            "source": "man",
+            "target": "famous",
+            "value": 12
+        },
+        {
+            "source": "movie",
+            "target": "person",
+            "value": 1
+        },
+        {
+            "source": "movie",
+            "target": "textual inversion",
+            "value": 1
+        },
+        {
+            "source": "movie",
+            "target": "celeb",
+            "value": 5
+        },
+        {
+            "source": "celeb",
+            "target": "sexy",
+            "value": 1
+        },
+        {
+            "source": "marvel",
+            "target": "actor",
+            "value": 13
+        },
+        {
+            "source": "marvel",
+            "target": "celebrity",
+            "value": 10
+        },
+        {
+            "source": "marvel",
+            "target": "male",
+            "value": 5
+        },
+        {
+            "source": "marvel",
+            "target": "man",
+            "value": 5
+        },
+        {
+            "source": "marvel",
+            "target": "real person",
+            "value": 2
+        },
+        {
+            "source": "photography",
+            "target": "hollywood",
+            "value": 1
+        },
+        {
+            "source": "hollywood",
+            "target": "photorealism",
+            "value": 1
+        },
+        {
+            "source": "photography",
+            "target": "actor",
+            "value": 3
+        },
+        {
+            "source": "photography",
+            "target": "celeb",
+            "value": 1
+        },
+        {
+            "source": "celeb",
+            "target": "photorealism",
+            "value": 1
+        },
+        {
+            "source": "celebrity",
+            "target": "photography",
+            "value": 3
+        },
+        {
+            "source": "photography",
+            "target": "photorealism",
+            "value": 1
+        },
+        {
+            "source": "realistic",
+            "target": "photorealistic",
+            "value": 37
+        },
+        {
+            "source": "celeb",
+            "target": "woman",
+            "value": 8
+        },
+        {
+            "source": "realistic",
+            "target": "woman",
+            "value": 11
+        },
+        {
+            "source": "celeb",
+            "target": "actress",
+            "value": 13
+        },
+        {
+            "source": "realistic",
+            "target": "actress",
+            "value": 4
+        },
+        {
+            "source": "realistic",
+            "target": "celeb",
+            "value": 3
+        },
+        {
+            "source": "legend",
+            "target": "photorealistic",
+            "value": 3
+        },
+        {
+            "source": "legend",
+            "target": "actor",
+            "value": 3
+        },
+        {
+            "source": "celebrity",
+            "target": "legend",
+            "value": 4
+        },
+        {
+            "source": "legend",
+            "target": "man",
+            "value": 3
+        },
+        {
+            "source": "realistic",
+            "target": "legend",
+            "value": 3
+        },
+        {
+            "source": "character",
+            "target": "men",
+            "value": 3
+        },
+        {
+            "source": "model",
+            "target": "actress",
+            "value": 6
+        },
+        {
+            "source": "singer",
+            "target": "female",
+            "value": 2
+        },
+        {
+            "source": "singer",
+            "target": "woman",
+            "value": 36
+        },
+        {
+            "source": "realistic",
+            "target": "singer",
+            "value": 2
+        },
+        {
+            "source": "singer",
+            "target": "german",
+            "value": 1
+        },
+        {
+            "source": "realistic",
+            "target": "female",
+            "value": 2
+        },
+        {
+            "source": "female",
+            "target": "german",
+            "value": 1
+        },
+        {
+            "source": "german",
+            "target": "woman",
+            "value": 3
+        },
+        {
+            "source": "german",
+            "target": "actor",
+            "value": 5
+        },
+        {
+            "source": "celebrity",
+            "target": "german",
+            "value": 4
+        },
+        {
+            "source": "realistic",
+            "target": "german",
+            "value": 2
+        },
+        {
+            "source": "bald",
+            "target": "actor",
+            "value": 2
+        },
+        {
+            "source": "celebrity",
+            "target": "bald",
+            "value": 1
+        },
+        {
+            "source": "men",
+            "target": "bald",
+            "value": 1
+        },
+        {
+            "source": "star trek",
+            "target": "actor",
+            "value": 4
+        },
+        {
+            "source": "celebrity",
+            "target": "star trek",
+            "value": 4
+        },
+        {
+            "source": "man",
+            "target": "star trek",
+            "value": 2
+        },
+        {
+            "source": "singer",
+            "target": "brazilian",
+            "value": 3
+        },
+        {
+            "source": "girls",
+            "target": "singer",
+            "value": 3
+        },
+        {
+            "source": "singer",
+            "target": "brazil",
+            "value": 1
+        },
+        {
+            "source": "woman",
+            "target": "brazilian",
+            "value": 1
+        },
+        {
+            "source": "actor",
+            "target": "brazilian",
+            "value": 35
+        },
+        {
+            "source": "celebrity",
+            "target": "brazilian",
+            "value": 35
+        },
+        {
+            "source": "girls",
+            "target": "brazilian",
+            "value": 1
+        },
+        {
+            "source": "brazil",
+            "target": "brazilian",
+            "value": 12
+        },
+        {
+            "source": "brazil",
+            "target": "woman",
+            "value": 1
+        },
+        {
+            "source": "brazil",
+            "target": "actor",
+            "value": 14
+        },
+        {
+            "source": "celebrity",
+            "target": "brazil",
+            "value": 14
+        },
+        {
+            "source": "girls",
+            "target": "brazil",
+            "value": 1
+        },
+        {
+            "source": "movie",
+            "target": "tv show",
+            "value": 1
+        },
+        {
+            "source": "movie",
+            "target": "woman",
+            "value": 6
+        },
+        {
+            "source": "tv show",
+            "target": "photorealistic",
+            "value": 2
+        },
+        {
+            "source": "tv show",
+            "target": "woman",
+            "value": 1
+        },
+        {
+            "source": "tv show",
+            "target": "actor",
+            "value": 19
+        },
+        {
+            "source": "tv show",
+            "target": "celebrity",
+            "value": 18
+        },
+        {
+            "source": "tv show",
+            "target": "man",
+            "value": 11
+        },
+        {
+            "source": "celeb",
+            "target": "bollywood",
+            "value": 7
+        },
+        {
+            "source": "celebrity",
+            "target": "bollywood",
+            "value": 47
+        },
+        {
+            "source": "photorealistic",
+            "target": "singer",
+            "value": 29
+        },
+        {
+            "source": "asian",
+            "target": "singer",
+            "value": 16
+        },
+        {
+            "source": "japan",
+            "target": "singer",
+            "value": 16
+        },
+        {
+            "source": "singer",
+            "target": "actress",
+            "value": 7
+        },
+        {
+            "source": "australian",
+            "target": "person",
+            "value": 1
+        },
+        {
+            "source": "australian",
+            "target": "female",
+            "value": 1
+        },
+        {
+            "source": "textual inversion",
+            "target": "australian",
+            "value": 1
+        },
+        {
+            "source": "australian",
+            "target": "actor",
+            "value": 7
+        },
+        {
+            "source": "celebrity",
+            "target": "australian",
+            "value": 7
+        },
+        {
+            "source": "scifi",
+            "target": "actor",
+            "value": 2
+        },
+        {
+            "source": "scifi",
+            "target": "celebrity",
+            "value": 2
+        },
+        {
+            "source": "anime",
+            "target": "series",
+            "value": 1
+        },
+        {
+            "source": "mexican",
+            "target": "anime",
+            "value": 1
+        },
+        {
+            "source": "anime",
+            "target": "actor",
+            "value": 2
+        },
+        {
+            "source": "celebrity",
+            "target": "anime",
+            "value": 1
+        },
+        {
+            "source": "mexican",
+            "target": "series",
+            "value": 1
+        },
+        {
+            "source": "series",
+            "target": "actor",
+            "value": 6
+        },
+        {
+            "source": "celebrity",
+            "target": "series",
+            "value": 3
+        },
+        {
+            "source": "mexican",
+            "target": "actor",
+            "value": 6
+        },
+        {
+            "source": "celebrity",
+            "target": "mexican",
+            "value": 6
+        },
+        {
+            "source": "sexy",
+            "target": "singer",
+            "value": 10
+        },
+        {
+            "source": "cute",
+            "target": "singer",
+            "value": 7
+        },
+        {
+            "source": "movie",
+            "target": "character",
+            "value": 10
+        },
+        {
+            "source": "character",
+            "target": "male",
+            "value": 22
+        },
+        {
+            "source": "game of thrones",
+            "target": "photorealistic",
+            "value": 2
+        },
+        {
+            "source": "game of thrones",
+            "target": "actor",
+            "value": 8
+        },
+        {
+            "source": "celebrity",
+            "target": "game of thrones",
+            "value": 6
+        },
+        {
+            "source": "game of thrones",
+            "target": "male",
+            "value": 3
+        },
+        {
+            "source": "keanu reeves",
+            "target": "man",
+            "value": 1
+        },
+        {
+            "source": "realistic",
+            "target": "real person",
+            "value": 1
+        },
+        {
+            "source": "photorealistic",
+            "target": "real person",
+            "value": 1
+        },
+        {
+            "source": "girls",
+            "target": "sexy",
+            "value": 6
+        },
+        {
+            "source": "girls",
+            "target": "cute",
+            "value": 5
+        },
+        {
+            "source": "series",
+            "target": "pirate",
+            "value": 1
+        },
+        {
+            "source": "actor",
+            "target": "pirate",
+            "value": 2
+        },
+        {
+            "source": "celebrity",
+            "target": "pirate",
+            "value": 1
+        },
+        {
+            "source": "marvel",
+            "target": "star wars",
+            "value": 1
+        },
+        {
+            "source": "hollywood",
+            "target": "star wars",
+            "value": 1
+        },
+        {
+            "source": "actor",
+            "target": "star wars",
+            "value": 3
+        },
+        {
+            "source": "celebrity",
+            "target": "star wars",
+            "value": 3
+        },
+        {
+            "source": "man",
+            "target": "star wars",
+            "value": 2
+        },
+        {
+            "source": "real person",
+            "target": "star wars",
+            "value": 1
+        },
+        {
+            "source": "marvel",
+            "target": "hollywood",
+            "value": 2
+        },
+        {
+            "source": "hollywood",
+            "target": "man",
+            "value": 11
+        },
+        {
+            "source": "hollywood",
+            "target": "real person",
+            "value": 1
+        },
+        {
+            "source": "gay",
+            "target": "blonde",
+            "value": 1
+        },
+        {
+            "source": "blonde",
+            "target": "guy",
+            "value": 1
+        },
+        {
+            "source": "blonde",
+            "target": "actor",
+            "value": 4
+        },
+        {
+            "source": "celebrity",
+            "target": "blonde",
+            "value": 4
+        },
+        {
+            "source": "man",
+            "target": "blonde",
+            "value": 1
+        },
+        {
+            "source": "character",
+            "target": "person",
+            "value": 6
+        },
+        {
+            "source": "character",
+            "target": "photorealistic",
+            "value": 13
+        },
+        {
+            "source": "character",
+            "target": "portraits",
+            "value": 1
+        },
+        {
+            "source": "portraits",
+            "target": "person",
+            "value": 1
+        },
+        {
+            "source": "photorealistic",
+            "target": "portraits",
+            "value": 2
+        },
+        {
+            "source": "portraits",
+            "target": "actor",
+            "value": 2
+        },
+        {
+            "source": "male",
+            "target": "portraits",
+            "value": 1
+        },
+        {
+            "source": "man",
+            "target": "portraits",
+            "value": 1
+        },
+        {
+            "source": "character",
+            "target": "portrait",
+            "value": 3
+        },
+        {
+            "source": "portrait",
+            "target": "person",
+            "value": 2
+        },
+        {
+            "source": "actor",
+            "target": "portrait",
+            "value": 5
+        },
+        {
+            "source": "male",
+            "target": "portrait",
+            "value": 2
+        },
+        {
+            "source": "man",
+            "target": "portrait",
+            "value": 4
+        },
+        {
+            "source": "character",
+            "target": "movie character",
+            "value": 3
+        },
+        {
+            "source": "photorealistic",
+            "target": "portrait",
+            "value": 1
+        },
+        {
+            "source": "photorealistic",
+            "target": "movie character",
+            "value": 2
+        },
+        {
+            "source": "woman",
+            "target": "portrait",
+            "value": 1
+        },
+        {
+            "source": "movie character",
+            "target": "portrait",
+            "value": 1
+        },
+        {
+            "source": "movie character",
+            "target": "woman",
+            "value": 1
+        },
+        {
+            "source": "movie character",
+            "target": "actor",
+            "value": 4
+        },
+        {
+            "source": "comedian",
+            "target": "actor",
+            "value": 40
+        },
+        {
+            "source": "celebrity",
+            "target": "comedian",
+            "value": 35
+        },
+        {
+            "source": "comedian",
+            "target": "man",
+            "value": 20
+        },
+        {
+            "source": "muscles",
+            "target": "male",
+            "value": 3
+        },
+        {
+            "source": "male",
+            "target": "muscular",
+            "value": 4
+        },
+        {
+            "source": "male",
+            "target": "guy",
+            "value": 8
+        },
+        {
+            "source": "realistic",
+            "target": "men",
+            "value": 2
+        },
+        {
+            "source": "girls",
+            "target": "female",
+            "value": 4
+        },
+        {
+            "source": "portraits",
+            "target": "female",
+            "value": 1
+        },
+        {
+            "source": "portraits",
+            "target": "woman",
+            "value": 1
+        },
+        {
+            "source": "celebrity",
+            "target": "portraits",
+            "value": 1
+        },
+        {
+            "source": "girls",
+            "target": "portraits",
+            "value": 1
+        },
+        {
+            "source": "movie",
+            "target": "classic",
+            "value": 8
+        },
+        {
+            "source": "retro",
+            "target": "classic",
+            "value": 5
+        },
+        {
+            "source": "classic",
+            "target": "actor",
+            "value": 9
+        },
+        {
+            "source": "celebrity",
+            "target": "classic",
+            "value": 9
+        },
+        {
+            "source": "man",
+            "target": "classic",
+            "value": 5
+        },
+        {
+            "source": "characters",
+            "target": "classic",
+            "value": 1
+        },
+        {
+            "source": "movie",
+            "target": "retro",
+            "value": 6
+        },
+        {
+            "source": "movie",
+            "target": "characters",
+            "value": 1
+        },
+        {
+            "source": "retro",
+            "target": "actor",
+            "value": 9
+        },
+        {
+            "source": "retro",
+            "target": "celebrity",
+            "value": 9
+        },
+        {
+            "source": "retro",
+            "target": "man",
+            "value": 7
+        },
+        {
+            "source": "retro",
+            "target": "characters",
+            "value": 1
+        },
+        {
+            "source": "characters",
+            "target": "actor",
+            "value": 5
+        },
+        {
+            "source": "celebrity",
+            "target": "characters",
+            "value": 3
+        },
+        {
+            "source": "characters",
+            "target": "man",
+            "value": 3
+        },
+        {
+            "source": "celebrity,",
+            "target": "actor",
+            "value": 63
+        },
+        {
+            "source": "celebrity",
+            "target": "celebrity,",
+            "value": 57
+        },
+        {
+            "source": "male",
+            "target": "celebrity,",
+            "value": 26
+        },
+        {
+            "source": "man",
+            "target": "men",
+            "value": 30
+        },
+        {
+            "source": "man",
+            "target": "celebrity,",
+            "value": 34
+        },
+        {
+            "source": "men",
+            "target": "celebrity,",
+            "value": 6
+        },
+        {
+            "source": "indian",
+            "target": "bollywood",
+            "value": 34
+        },
+        {
+            "source": "male",
+            "target": "bollywood",
+            "value": 37
+        },
+        {
+            "source": "man",
+            "target": "bollywood",
+            "value": 6
+        },
+        {
+            "source": "indian",
+            "target": "actor",
+            "value": 60
+        },
+        {
+            "source": "indian",
+            "target": "celeb",
+            "value": 4
+        },
+        {
+            "source": "indian",
+            "target": "celebrity",
+            "value": 61
+        },
+        {
+            "source": "indian",
+            "target": "male",
+            "value": 54
+        },
+        {
+            "source": "indian",
+            "target": "man",
+            "value": 8
+        },
+        {
+            "source": "man",
+            "target": "celeb",
+            "value": 12
+        },
+        {
+            "source": "muscular male",
+            "target": "muscles",
+            "value": 3
+        },
+        {
+            "source": "muscular male",
+            "target": "guy",
+            "value": 4
+        },
+        {
+            "source": "muscular male",
+            "target": "man",
+            "value": 4
+        },
+        {
+            "source": "movie",
+            "target": "female",
+            "value": 3
+        },
+        {
+            "source": "movie",
+            "target": "television",
+            "value": 4
+        },
+        {
+            "source": "movie",
+            "target": "actress",
+            "value": 4
+        },
+        {
+            "source": "photorealistic",
+            "target": "television",
+            "value": 3
+        },
+        {
+            "source": "television",
+            "target": "female",
+            "value": 1
+        },
+        {
+            "source": "television",
+            "target": "woman",
+            "value": 1
+        },
+        {
+            "source": "television",
+            "target": "actor",
+            "value": 8
+        },
+        {
+            "source": "television",
+            "target": "actress",
+            "value": 1
+        },
+        {
+            "source": "beauty",
+            "target": "actor",
+            "value": 9
+        },
+        {
+            "source": "celebrity",
+            "target": "beauty",
+            "value": 9
+        },
+        {
+            "source": "beauty",
+            "target": "male",
+            "value": 6
+        },
+        {
+            "source": "beauty",
+            "target": "man",
+            "value": 4
+        },
+        {
+            "source": "beauty",
+            "target": "men",
+            "value": 3
+        },
+        {
+            "source": "realistic",
+            "target": "beauty",
+            "value": 1
+        },
+        {
+            "source": "cinema",
+            "target": "movies",
+            "value": 1
+        },
+        {
+            "source": "hollywood",
+            "target": "movies",
+            "value": 1
+        },
+        {
+            "source": "beauty",
+            "target": "singer",
+            "value": 1
+        },
+        {
+            "source": "beauty",
+            "target": "photorealistic",
+            "value": 2
+        },
+        {
+            "source": "beauty",
+            "target": "sexy",
+            "value": 1
+        },
+        {
+            "source": "cute",
+            "target": "beauty",
+            "value": 1
+        },
+        {
+            "source": "movie",
+            "target": "celebrity,",
+            "value": 1
+        },
+        {
+            "source": "usa",
+            "target": "actor",
+            "value": 3
+        },
+        {
+            "source": "celebrity",
+            "target": "usa",
+            "value": 3
+        },
+        {
+            "source": "realistic",
+            "target": "photography",
+            "value": 1
+        },
+        {
+            "source": "photography",
+            "target": "usa",
+            "value": 1
+        },
+        {
+            "source": "realistic",
+            "target": "usa",
+            "value": 1
+        },
+        {
+            "source": "sdxl 1,0",
+            "target": "hollywood",
+            "value": 17
+        },
+        {
+            "source": "hottiesnhotties",
+            "target": "hollywood",
+            "value": 24
+        },
+        {
+            "source": "sdxl 1,0",
+            "target": "actor",
+            "value": 45
+        },
+        {
+            "source": "hottiesnhotties",
+            "target": "actor",
+            "value": 73
+        },
+        {
+            "source": "sdxl 1,0",
+            "target": "celebrity",
+            "value": 45
+        },
+        {
+            "source": "hottiesnhotties",
+            "target": "celebrity",
+            "value": 73
+        },
+        {
+            "source": "sdxl 1,0",
+            "target": "male",
+            "value": 39
+        },
+        {
+            "source": "hottiesnhotties",
+            "target": "male",
+            "value": 64
+        },
+        {
+            "source": "sdxl 1,0",
+            "target": "hottiesnhotties",
+            "value": 34
+        },
+        {
+            "source": "lora",
+            "target": "woman",
+            "value": 5
+        },
+        {
+            "source": "celebrity,",
+            "target": "woman",
+            "value": 1
+        },
+        {
+            "source": "sdxl 1,0",
+            "target": "woman",
+            "value": 1
+        },
+        {
+            "source": "lora",
+            "target": "actor",
+            "value": 16
+        },
+        {
+            "source": "celebrity",
+            "target": "lora",
+            "value": 17
+        },
+        {
+            "source": "lora",
+            "target": "celebrity,",
+            "value": 1
+        },
+        {
+            "source": "sdxl 1,0",
+            "target": "lora",
+            "value": 2
+        },
+        {
+            "source": "sdxl 1,0",
+            "target": "celebrity,",
+            "value": 1
+        },
+        {
+            "source": "woman",
+            "target": "person",
+            "value": 5
+        },
+        {
+            "source": "man",
+            "target": "movies",
+            "value": 3
+        },
+        {
+            "source": "actors",
+            "target": "person",
+            "value": 1
+        },
+        {
+            "source": "actors",
+            "target": "actor",
+            "value": 5
+        },
+        {
+            "source": "celeb",
+            "target": "actors",
+            "value": 3
+        },
+        {
+            "source": "celebrity",
+            "target": "actors",
+            "value": 5
+        },
+        {
+            "source": "man",
+            "target": "actors",
+            "value": 1
+        },
+        {
+            "source": "blonde",
+            "target": "female",
+            "value": 1
+        },
+        {
+            "source": "pornstar",
+            "target": "female",
+            "value": 2
+        },
+        {
+            "source": "pornstar",
+            "target": "blonde",
+            "value": 2
+        },
+        {
+            "source": "celebrity",
+            "target": "pornstar",
+            "value": 8
+        },
+        {
+            "source": "american",
+            "target": "actor",
+            "value": 23
+        },
+        {
+            "source": "celebrity",
+            "target": "american",
+            "value": 20
+        },
+        {
+            "source": "man",
+            "target": "american",
+            "value": 8
+        },
+        {
+            "source": "comedy",
+            "target": "actor",
+            "value": 15
+        },
+        {
+            "source": "tv",
+            "target": "actor",
+            "value": 26
+        },
+        {
+            "source": "celebrity",
+            "target": "comedy",
+            "value": 12
+        },
+        {
+            "source": "celebrity",
+            "target": "tv",
+            "value": 26
+        },
+        {
+            "source": "comedy",
+            "target": "man",
+            "value": 12
+        },
+        {
+            "source": "man",
+            "target": "tv",
+            "value": 10
+        },
+        {
+            "source": "comedy",
+            "target": "tv",
+            "value": 1
+        },
+        {
+            "source": "characters",
+            "target": "comedy",
+            "value": 2
+        },
+        {
+            "source": "characters",
+            "target": "tv",
+            "value": 1
+        },
+        {
+            "source": "old man",
+            "target": "actor",
+            "value": 4
+        },
+        {
+            "source": "old man",
+            "target": "celebrity",
+            "value": 4
+        },
+        {
+            "source": "old man",
+            "target": "comedy",
+            "value": 1
+        },
+        {
+            "source": "comedian",
+            "target": "portrait",
+            "value": 1
+        },
+        {
+            "source": "celebrity",
+            "target": "portrait",
+            "value": 2
+        },
+        {
+            "source": "marvel",
+            "target": "wwe",
+            "value": 1
+        },
+        {
+            "source": "male",
+            "target": "wwe",
+            "value": 1
+        },
+        {
+            "source": "character",
+            "target": "comedian",
+            "value": 3
+        },
+        {
+            "source": "tv show",
+            "target": "character",
+            "value": 1
+        },
+        {
+            "source": "realistic",
+            "target": "character",
+            "value": 4
+        },
+        {
+            "source": "character",
+            "target": "comedy",
+            "value": 3
+        },
+        {
+            "source": "character",
+            "target": "characters",
+            "value": 3
+        },
+        {
+            "source": "tv show",
+            "target": "comedian",
+            "value": 1
+        },
+        {
+            "source": "realistic",
+            "target": "comedian",
+            "value": 2
+        },
+        {
+            "source": "comedian",
+            "target": "comedy",
+            "value": 7
+        },
+        {
+            "source": "comedian",
+            "target": "characters",
+            "value": 1
+        },
+        {
+            "source": "tv show",
+            "target": "realistic",
+            "value": 2
+        },
+        {
+            "source": "tv show",
+            "target": "comedy",
+            "value": 2
+        },
+        {
+            "source": "tv show",
+            "target": "characters",
+            "value": 1
+        },
+        {
+            "source": "realistic",
+            "target": "comedy",
+            "value": 2
+        },
+        {
+            "source": "realistic",
+            "target": "characters",
+            "value": 1
+        },
+        {
+            "source": "realism",
+            "target": "actor",
+            "value": 15
+        },
+        {
+            "source": "celebrity",
+            "target": "realism",
+            "value": 13
+        },
+        {
+            "source": "celebrity,",
+            "target": "realism",
+            "value": 6
+        },
+        {
+            "source": "girls",
+            "target": "realistic",
+            "value": 3
+        },
+        {
+            "source": "singer",
+            "target": "musician",
+            "value": 1
+        },
+        {
+            "source": "asian",
+            "target": "musician",
+            "value": 1
+        },
+        {
+            "source": "japan",
+            "target": "musician",
+            "value": 1
+        },
+        {
+            "source": "musician",
+            "target": "woman",
+            "value": 2
+        },
+        {
+            "source": "marvel",
+            "target": "photorealistic",
+            "value": 3
+        },
+        {
+            "source": "marvel",
+            "target": "woman",
+            "value": 2
+        },
+        {
+            "source": "breaking bad",
+            "target": "actor",
+            "value": 5
+        },
+        {
+            "source": "celebrity",
+            "target": "breaking bad",
+            "value": 3
+        },
+        {
+            "source": "male",
+            "target": "breaking bad",
+            "value": 1
+        },
+        {
+            "source": "man",
+            "target": "breaking bad",
+            "value": 2
+        },
+        {
+            "source": "actress",
+            "target": "person",
+            "value": 4
+        },
+        {
+            "source": "influencer",
+            "target": "guy",
+            "value": 1
+        },
+        {
+            "source": "influencer",
+            "target": "actor",
+            "value": 6
+        },
+        {
+            "source": "celebrity",
+            "target": "influencer",
+            "value": 5
+        },
+        {
+            "source": "male",
+            "target": "influencer",
+            "value": 4
+        },
+        {
+            "source": "man",
+            "target": "influencer",
+            "value": 4
+        },
+        {
+            "source": "japanese",
+            "target": "actor",
+            "value": 4
+        },
+        {
+            "source": "celebrity",
+            "target": "japanese",
+            "value": 4
+        },
+        {
+            "source": "man",
+            "target": "japanese",
+            "value": 2
+        },
+        {
+            "source": "gay",
+            "target": "handsome",
+            "value": 14
+        },
+        {
+            "source": "muscles",
+            "target": "handsome",
+            "value": 4
+        },
+        {
+            "source": "handsome",
+            "target": "guy",
+            "value": 10
+        },
+        {
+            "source": "handsome",
+            "target": "actor",
+            "value": 26
+        },
+        {
+            "source": "celebrity",
+            "target": "handsome",
+            "value": 22
+        },
+        {
+            "source": "handsome",
+            "target": "man",
+            "value": 13
+        },
+        {
+            "source": "tv series",
+            "target": "actor",
+            "value": 16
+        },
+        {
+            "source": "tv series",
+            "target": "celebrity",
+            "value": 10
+        },
+        {
+            "source": "male",
+            "target": "usa",
+            "value": 2
+        },
+        {
+            "source": "male",
+            "target": "tv",
+            "value": 20
+        },
+        {
+            "source": "tv series",
+            "target": "male",
+            "value": 8
+        },
+        {
+            "source": "man",
+            "target": "usa",
+            "value": 2
+        },
+        {
+            "source": "tv series",
+            "target": "man",
+            "value": 9
+        },
+        {
+            "source": "usa",
+            "target": "tv",
+            "value": 1
+        },
+        {
+            "source": "tv series",
+            "target": "usa",
+            "value": 1
+        },
+        {
+            "source": "tv series",
+            "target": "tv",
+            "value": 2
+        },
+        {
+            "source": "handsome",
+            "target": "muscular",
+            "value": 5
+        },
+        {
+            "source": "french",
+            "target": "actor",
+            "value": 23
+        },
+        {
+            "source": "french",
+            "target": "celebrity",
+            "value": 23
+        },
+        {
+            "source": "brazilian",
+            "target": "person",
+            "value": 1
+        },
+        {
+            "source": "artist",
+            "target": "person",
+            "value": 1
+        },
+        {
+            "source": "tv",
+            "target": "person",
+            "value": 1
+        },
+        {
+            "source": "artist",
+            "target": "brazilian",
+            "value": 2
+        },
+        {
+            "source": "man",
+            "target": "brazilian",
+            "value": 24
+        },
+        {
+            "source": "tv",
+            "target": "brazilian",
+            "value": 7
+        },
+        {
+            "source": "artist",
+            "target": "actor",
+            "value": 4
+        },
+        {
+            "source": "celebrity",
+            "target": "artist",
+            "value": 4
+        },
+        {
+            "source": "man",
+            "target": "artist",
+            "value": 3
+        },
+        {
+            "source": "artist",
+            "target": "tv",
+            "value": 1
+        },
+        {
+            "source": "marvel",
+            "target": "actress",
+            "value": 1
+        },
+        {
+            "source": "voice actor",
+            "target": "celebrity",
+            "value": 3
+        },
+        {
+            "source": "voice actor",
+            "target": "man",
+            "value": 2
+        },
+        {
+            "source": "tv show",
+            "target": "brazilian",
+            "value": 11
+        },
+        {
+            "source": "tv show",
+            "target": "male",
+            "value": 10
+        },
+        {
+            "source": "tv show",
+            "target": "brazil",
+            "value": 3
+        },
+        {
+            "source": "tv show",
+            "target": "tv series",
+            "value": 3
+        },
+        {
+            "source": "male",
+            "target": "brazilian",
+            "value": 30
+        },
+        {
+            "source": "tv series",
+            "target": "brazilian",
+            "value": 7
+        },
+        {
+            "source": "male",
+            "target": "brazil",
+            "value": 11
+        },
+        {
+            "source": "tv series",
+            "target": "brazil",
+            "value": 6
+        },
+        {
+            "source": "celebrity,",
+            "target": "brazilian",
+            "value": 6
+        },
+        {
+            "source": "man",
+            "target": "brazil",
+            "value": 7
+        },
+        {
+            "source": "brazil",
+            "target": "celebrity,",
+            "value": 3
+        },
+        {
+            "source": "tv series",
+            "target": "celebrity,",
+            "value": 3
+        },
+        {
+            "source": "rip",
+            "target": "actor",
+            "value": 5
+        },
+        {
+            "source": "celebrity",
+            "target": "rip",
+            "value": 5
+        },
+        {
+            "source": "man",
+            "target": "rip",
+            "value": 2
+        },
+        {
+            "source": "superman",
+            "target": "actor",
+            "value": 3
+        },
+        {
+            "source": "celebrity",
+            "target": "superman",
+            "value": 2
+        },
+        {
+            "source": "man",
+            "target": "superman",
+            "value": 1
+        },
+        {
+            "source": "celebirty",
+            "target": "actor",
+            "value": 10
+        },
+        {
+            "source": "celebrity",
+            "target": "celebirty",
+            "value": 8
+        },
+        {
+            "source": "comedian",
+            "target": "actress",
+            "value": 3
+        },
+        {
+            "source": "beauty",
+            "target": "woman",
+            "value": 2
+        },
+        {
+            "source": "girls",
+            "target": "beauty",
+            "value": 1
+        },
+        {
+            "source": "celeb",
+            "target": "famous",
+            "value": 4
+        },
+        {
+            "source": "male",
+            "target": "famous",
+            "value": 5
+        },
+        {
+            "source": "photorealistic",
+            "target": "comedian",
+            "value": 16
+        },
+        {
+            "source": "photorealistic",
+            "target": "comedy",
+            "value": 7
+        },
+        {
+            "source": "celebrity,",
+            "target": "tv",
+            "value": 1
+        },
+        {
+            "source": "sexy",
+            "target": "realism",
+            "value": 2
+        },
+        {
+            "source": "base model",
+            "target": "sexy",
+            "value": 1
+        },
+        {
+            "source": "sexy",
+            "target": "model",
+            "value": 2
+        },
+        {
+            "source": "base model",
+            "target": "realism",
+            "value": 1
+        },
+        {
+            "source": "model",
+            "target": "realism",
+            "value": 1
+        },
+        {
+            "source": "photo",
+            "target": "realism",
+            "value": 1
+        },
+        {
+            "source": "realism",
+            "target": "woman",
+            "value": 1
+        },
+        {
+            "source": "base model",
+            "target": "model",
+            "value": 1
+        },
+        {
+            "source": "base model",
+            "target": "photo",
+            "value": 1
+        },
+        {
+            "source": "base model",
+            "target": "actor",
+            "value": 1
+        },
+        {
+            "source": "photo",
+            "target": "model",
+            "value": 1
+        },
+        {
+            "source": "photo",
+            "target": "woman",
+            "value": 1
+        },
+        {
+            "source": "singer",
+            "target": "model",
+            "value": 3
+        },
+        {
+            "source": "model",
+            "target": "female",
+            "value": 1
+        },
+        {
+            "source": "daddy",
+            "target": "actor",
+            "value": 4
+        },
+        {
+            "source": "celebrity",
+            "target": "daddy",
+            "value": 4
+        },
+        {
+            "source": "male",
+            "target": "daddy",
+            "value": 4
+        },
+        {
+            "source": "man",
+            "target": "daddy",
+            "value": 3
+        },
+        {
+            "source": "men",
+            "target": "daddy",
+            "value": 1
+        },
+        {
+            "source": "beauty",
+            "target": "model",
+            "value": 1
+        },
+        {
+            "source": "male",
+            "target": "model",
+            "value": 12
+        },
+        {
+            "source": "men",
+            "target": "model",
+            "value": 3
+        },
+        {
+            "source": "model",
+            "target": "actors",
+            "value": 1
+        },
+        {
+            "source": "beauty",
+            "target": "actors",
+            "value": 1
+        },
+        {
+            "source": "male",
+            "target": "actors",
+            "value": 4
+        },
+        {
+            "source": "men",
+            "target": "actors",
+            "value": 1
+        },
+        {
+            "source": "hollywood",
+            "target": "classic",
+            "value": 4
+        },
+        {
+            "source": "movie",
+            "target": "hollywood",
+            "value": 7
+        },
+        {
+            "source": "retro",
+            "target": "hollywood",
+            "value": 1
+        },
+        {
+            "source": "netflix",
+            "target": "woman",
+            "value": 1
+        },
+        {
+            "source": "netflix",
+            "target": "actor",
+            "value": 6
+        },
+        {
+            "source": "celebrity",
+            "target": "netflix",
+            "value": 6
+        },
+        {
+            "source": "old man",
+            "target": "person",
+            "value": 1
+        },
+        {
+            "source": "comedian",
+            "target": "male",
+            "value": 5
+        },
+        {
+            "source": "male",
+            "target": "artist",
+            "value": 2
+        },
+        {
+            "source": "brazil",
+            "target": "artist",
+            "value": 1
+        },
+        {
+            "source": "indian",
+            "target": "actress",
+            "value": 2
+        },
+        {
+            "source": "character",
+            "target": "star wars",
+            "value": 1
+        },
+        {
+            "source": "character",
+            "target": "real",
+            "value": 1
+        },
+        {
+            "source": "woman",
+            "target": "star wars",
+            "value": 1
+        },
+        {
+            "source": "real",
+            "target": "star wars",
+            "value": 1
+        },
+        {
+            "source": "real",
+            "target": "woman",
+            "value": 1
+        },
+        {
+            "source": "scifi",
+            "target": "woman",
+            "value": 1
+        },
+        {
+            "source": "scifi",
+            "target": "actress",
+            "value": 1
+        },
+        {
+            "source": "scifi",
+            "target": "celeb",
+            "value": 1
+        },
+        {
+            "source": "horror",
+            "target": "actor",
+            "value": 1
+        },
+        {
+            "source": "celebrity",
+            "target": "horror",
+            "value": 1
+        },
+        {
+            "source": "horror",
+            "target": "man",
+            "value": 2
+        },
+        {
+            "source": "horror",
+            "target": "movies",
+            "value": 1
+        },
+        {
+            "source": "tv show",
+            "target": "beauty",
+            "value": 2
+        },
+        {
+            "source": "beauty",
+            "target": "brazilian",
+            "value": 3
+        },
+        {
+            "source": "character",
+            "target": "cinema",
+            "value": 3
+        },
+        {
+            "source": "character",
+            "target": "breaking bad",
+            "value": 2
+        },
+        {
+            "source": "character",
+            "target": "celebrity,",
+            "value": 7
+        },
+        {
+            "source": "cinema",
+            "target": "man",
+            "value": 6
+        },
+        {
+            "source": "cinema",
+            "target": "breaking bad",
+            "value": 3
+        },
+        {
+            "source": "cinema",
+            "target": "celebrity,",
+            "value": 3
+        },
+        {
+            "source": "breaking bad",
+            "target": "celebrity,",
+            "value": 3
+        },
+        {
+            "source": "hollywood",
+            "target": "realism",
+            "value": 8
+        },
+        {
+            "source": "man",
+            "target": "realism",
+            "value": 4
+        },
+        {
+            "source": "arnold schwarzenegger",
+            "target": "realism",
+            "value": 1
+        },
+        {
+            "source": "hollywood",
+            "target": "arnold schwarzenegger",
+            "value": 1
+        },
+        {
+            "source": "hollywood",
+            "target": "celebrity,",
+            "value": 3
+        },
+        {
+            "source": "man",
+            "target": "arnold schwarzenegger",
+            "value": 1
+        },
+        {
+            "source": "arnold schwarzenegger",
+            "target": "celebrity,",
+            "value": 1
+        },
+        {
+            "source": "beautiful",
+            "target": "character",
+            "value": 1
+        },
+        {
+            "source": "beautiful",
+            "target": "man",
+            "value": 1
+        },
+        {
+            "source": "indian",
+            "target": "woman",
+            "value": 2
+        },
+        {
+            "source": "voice actor",
+            "target": "anime",
+            "value": 1
+        },
+        {
+            "source": "photorealistic",
+            "target": "handsome",
+            "value": 13
+        },
+        {
+            "source": "handsome",
+            "target": "sexy",
+            "value": 11
+        },
+        {
+            "source": "male",
+            "target": "sexy",
+            "value": 26
+        },
+        {
+            "source": "cute",
+            "target": "handsome",
+            "value": 1
+        },
+        {
+            "source": "handsome",
+            "target": "male",
+            "value": 10
+        },
+        {
+            "source": "cute",
+            "target": "male",
+            "value": 2
+        },
+        {
+            "source": "doctor who",
+            "target": "woman",
+            "value": 1
+        },
+        {
+            "source": "doctor who",
+            "target": "actor",
+            "value": 3
+        },
+        {
+            "source": "celebrity",
+            "target": "doctor who",
+            "value": 3
+        },
+        {
+            "source": "realistic",
+            "target": "doctor who",
+            "value": 2
+        },
+        {
+            "source": "tv show",
+            "target": "celebrity,",
+            "value": 1
+        },
+        {
+            "source": "korean",
+            "target": "actor",
+            "value": 7
+        },
+        {
+            "source": "men",
+            "target": "brazilian",
+            "value": 9
+        },
+        {
+            "source": "tv series",
+            "target": "men",
+            "value": 1
+        },
+        {
+            "source": "beauty",
+            "target": "muscular",
+            "value": 1
+        },
+        {
+            "source": "tv show",
+            "target": "muscular",
+            "value": 1
+        },
+        {
+            "source": "muscular",
+            "target": "brazilian",
+            "value": 1
+        },
+        {
+            "source": "beauty",
+            "target": "actress",
+            "value": 1
+        },
+        {
+            "source": "cinema",
+            "target": "celeb",
+            "value": 2
+        },
+        {
+            "source": "cinema",
+            "target": "male",
+            "value": 2
+        },
+        {
+            "source": "muscular male",
+            "target": "muscular",
+            "value": 1
+        },
+        {
+            "source": "celeb",
+            "target": "muscular",
+            "value": 1
+        },
+        {
+            "source": "celeb",
+            "target": "guy",
+            "value": 1
+        },
+        {
+            "source": "muscular male",
+            "target": "handsome",
+            "value": 1
+        },
+        {
+            "source": "handsome",
+            "target": "celeb",
+            "value": 2
+        },
+        {
+            "source": "american",
+            "target": "woman",
+            "value": 7
+        },
+        {
+            "source": "american",
+            "target": "actress",
+            "value": 4
+        },
+        {
+            "source": "lora",
+            "target": "american",
+            "value": 4
+        },
+        {
+            "source": "lora",
+            "target": "actress",
+            "value": 2
+        },
+        {
+            "source": "photorealistic",
+            "target": "cinematic",
+            "value": 1
+        },
+        {
+            "source": "cinematic",
+            "target": "actor",
+            "value": 2
+        },
+        {
+            "source": "celebrity",
+            "target": "cinematic",
+            "value": 2
+        },
+        {
+            "source": "photorealism",
+            "target": "cinematic",
+            "value": 1
+        },
+        {
+            "source": "celebrity,",
+            "target": "female",
+            "value": 1
+        },
+        {
+            "source": "actress",
+            "target": "celebrity,",
+            "value": 2
+        },
+        {
+            "source": "beauty",
+            "target": "boys",
+            "value": 1
+        },
+        {
+            "source": "boys",
+            "target": "actor",
+            "value": 7
+        },
+        {
+            "source": "celebrity",
+            "target": "boys",
+            "value": 6
+        },
+        {
+            "source": "male",
+            "target": "boys",
+            "value": 6
+        },
+        {
+            "source": "man",
+            "target": "boys",
+            "value": 6
+        },
+        {
+            "source": "boys",
+            "target": "men",
+            "value": 2
+        },
+        {
+            "source": "celebirty",
+            "target": "japanese",
+            "value": 1
+        },
+        {
+            "source": "man",
+            "target": "celebirty",
+            "value": 6
+        },
+        {
+            "source": "tv show",
+            "target": "men",
+            "value": 4
+        },
+        {
+            "source": "celebrity",
+            "target": "movie character",
+            "value": 1
+        },
+        {
+            "source": "movie character",
+            "target": "man",
+            "value": 1
+        },
+        {
+            "source": "gay",
+            "target": "photorealistic",
+            "value": 7
+        },
+        {
+            "source": "gay",
+            "target": "sexy",
+            "value": 5
+        },
+        {
+            "source": "hollywood",
+            "target": "sexy",
+            "value": 3
+        },
+        {
+            "source": "gay",
+            "target": "hollywood",
+            "value": 3
+        },
+        {
+            "source": "hollywood",
+            "target": "handsome",
+            "value": 3
+        },
+        {
+            "source": "character",
+            "target": "the walking dead",
+            "value": 4
+        },
+        {
+            "source": "tv series",
+            "target": "character",
+            "value": 6
+        },
+        {
+            "source": "the walking dead",
+            "target": "woman",
+            "value": 3
+        },
+        {
+            "source": "the walking dead",
+            "target": "actor",
+            "value": 6
+        },
+        {
+            "source": "tv series",
+            "target": "the walking dead",
+            "value": 4
+        },
+        {
+            "source": "tv series",
+            "target": "woman",
+            "value": 2
+        },
+        {
+            "source": "character",
+            "target": "movies",
+            "value": 1
+        },
+        {
+            "source": "character",
+            "target": "villian",
+            "value": 3
+        },
+        {
+            "source": "villian",
+            "target": "actor",
+            "value": 3
+        },
+        {
+            "source": "characters",
+            "target": "movies",
+            "value": 1
+        },
+        {
+            "source": "characters",
+            "target": "villian",
+            "value": 1
+        },
+        {
+            "source": "movies",
+            "target": "villian",
+            "value": 1
+        },
+        {
+            "source": "movie",
+            "target": "portrait",
+            "value": 1
+        },
+        {
+            "source": "retro",
+            "target": "portrait",
+            "value": 1
+        },
+        {
+            "source": "man",
+            "target": "model",
+            "value": 10
+        },
+        {
+            "source": "bollywood",
+            "target": "celebrity,",
+            "value": 2
+        },
+        {
+            "source": "horror",
+            "target": "character",
+            "value": 3
+        },
+        {
+            "source": "character",
+            "target": "television",
+            "value": 3
+        },
+        {
+            "source": "horror",
+            "target": "person",
+            "value": 2
+        },
+        {
+            "source": "horror",
+            "target": "television",
+            "value": 3
+        },
+        {
+            "source": "television",
+            "target": "person",
+            "value": 2
+        },
+        {
+            "source": "man",
+            "target": "television",
+            "value": 4
+        },
+        {
+            "source": "realistic",
+            "target": "sexy",
+            "value": 12
+        },
+        {
+            "source": "model",
+            "target": "muscular",
+            "value": 1
+        },
+        {
+            "source": "influencer",
+            "target": "muscular",
+            "value": 1
+        },
+        {
+            "source": "influencer",
+            "target": "model",
+            "value": 3
+        },
+        {
+            "source": "photorealistic",
+            "target": "guy",
+            "value": 2
+        },
+        {
+            "source": "sexy",
+            "target": "guy",
+            "value": 1
+        },
+        {
+            "source": "tv show",
+            "target": "tv",
+            "value": 2
+        },
+        {
+            "source": "brazil",
+            "target": "tv",
+            "value": 3
+        },
+        {
+            "source": "character",
+            "target": "anime",
+            "value": 4
+        },
+        {
+            "source": "girls",
+            "target": "character",
+            "value": 2
+        },
+        {
+            "source": "movie",
+            "target": "realism",
+            "value": 6
+        },
+        {
+            "source": "photorealistic",
+            "target": "brazilian",
+            "value": 1
+        },
+        {
+            "source": "photo",
+            "target": "brazilian",
+            "value": 1
+        },
+        {
+            "source": "celebrity",
+            "target": "photo",
+            "value": 2
+        },
+        {
+            "source": "male",
+            "target": "photo",
+            "value": 2
+        },
+        {
+            "source": "gay",
+            "target": "male",
+            "value": 6
+        },
+        {
+            "source": "comedian",
+            "target": "tv",
+            "value": 1
+        },
+        {
+            "source": "musician",
+            "target": "brazilian",
+            "value": 1
+        },
+        {
+            "source": "celebrity",
+            "target": "musician",
+            "value": 7
+        },
+        {
+            "source": "male",
+            "target": "musician",
+            "value": 1
+        },
+        {
+            "source": "man",
+            "target": "musician",
+            "value": 2
+        },
+        {
+            "source": "gay",
+            "target": "realistic",
+            "value": 1
+        },
+        {
+            "source": "celeb",
+            "target": "wwe",
+            "value": 1
+        },
+        {
+            "source": "famous",
+            "target": "wwe",
+            "value": 1
+        },
+        {
+            "source": "beauty",
+            "target": "brazil",
+            "value": 1
+        },
+        {
+            "source": "anime",
+            "target": "person",
+            "value": 1
+        },
+        {
+            "source": "film",
+            "target": "anime",
+            "value": 1
+        },
+        {
+            "source": "photorealistic",
+            "target": "anime",
+            "value": 1
+        },
+        {
+            "source": "anime",
+            "target": "actress",
+            "value": 1
+        },
+        {
+            "source": "film",
+            "target": "person",
+            "value": 2
+        },
+        {
+            "source": "film",
+            "target": "photorealistic",
+            "value": 1
+        },
+        {
+            "source": "film",
+            "target": "actor",
+            "value": 5
+        },
+        {
+            "source": "film",
+            "target": "actress",
+            "value": 1
+        },
+        {
+            "source": "youtuber",
+            "target": "asian",
+            "value": 1
+        },
+        {
+            "source": "celebrity",
+            "target": "youtuber",
+            "value": 1
+        },
+        {
+            "source": "voice actor",
+            "target": "youtuber",
+            "value": 1
+        },
+        {
+            "source": "voice actor",
+            "target": "asian",
+            "value": 1
+        },
+        {
+            "source": "70s",
+            "target": "actor",
+            "value": 5
+        },
+        {
+            "source": "celebrity",
+            "target": "70s",
+            "value": 4
+        },
+        {
+            "source": "70s",
+            "target": "british",
+            "value": 2
+        },
+        {
+            "source": "british",
+            "target": "actor",
+            "value": 7
+        },
+        {
+            "source": "celebrity",
+            "target": "british",
+            "value": 8
+        },
+        {
+            "source": "male",
+            "target": "singer",
+            "value": 9
+        },
+        {
+            "source": "man",
+            "target": "singer",
+            "value": 4
+        },
+        {
+            "source": "singer",
+            "target": "tv",
+            "value": 1
+        },
+        {
+            "source": "french",
+            "target": "male",
+            "value": 1
+        },
+        {
+            "source": "french",
+            "target": "man",
+            "value": 9
+        },
+        {
+            "source": "movie",
+            "target": "comedian",
+            "value": 5
+        },
+        {
+            "source": "movie",
+            "target": "comedy",
+            "value": 1
+        },
+        {
+            "source": "character",
+            "target": "superman",
+            "value": 1
+        },
+        {
+            "source": "photorealistic",
+            "target": "superman",
+            "value": 1
+        },
+        {
+            "source": "photorealistic",
+            "target": "villian",
+            "value": 1
+        },
+        {
+            "source": "movie character",
+            "target": "superman",
+            "value": 1
+        },
+        {
+            "source": "superman",
+            "target": "villian",
+            "value": 1
+        },
+        {
+            "source": "movie character",
+            "target": "villian",
+            "value": 2
+        },
+        {
+            "source": "comedian",
+            "target": "asian",
+            "value": 2
+        },
+        {
+            "source": "japan",
+            "target": "comedian",
+            "value": 2
+        },
+        {
+            "source": "comedian",
+            "target": "woman",
+            "value": 2
+        },
+        {
+            "source": "marvel",
+            "target": "wolverine",
+            "value": 3
+        },
+        {
+            "source": "wolverine",
+            "target": "actor",
+            "value": 4
+        },
+        {
+            "source": "celebrity",
+            "target": "wolverine",
+            "value": 3
+        },
+        {
+            "source": "keanu reeves",
+            "target": "realistic",
+            "value": 1
+        },
+        {
+            "source": "keanu reeves",
+            "target": "legend",
+            "value": 1
+        },
+        {
+            "source": "comedian",
+            "target": "70s",
+            "value": 2
+        },
+        {
+            "source": "comedian",
+            "target": "british",
+            "value": 2
+        },
+        {
+            "source": "photorealistic",
+            "target": "realism",
+            "value": 1
+        },
+        {
+            "source": "gay",
+            "target": "realism",
+            "value": 1
+        },
+        {
+            "source": "handsome",
+            "target": "realism",
+            "value": 1
+        },
+        {
+            "source": "girls",
+            "target": "lora",
+            "value": 1
+        },
+        {
+            "source": "realistic",
+            "target": "lora",
+            "value": 3
+        },
+        {
+            "source": "character",
+            "target": "celeb",
+            "value": 1
+        },
+        {
+            "source": "character",
+            "target": "famous",
+            "value": 2
+        },
+        {
+            "source": "movie",
+            "target": "movie character",
+            "value": 1
+        },
+        {
+            "source": "movie",
+            "target": "villian",
+            "value": 1
+        },
+        {
+            "source": "celebrity,",
+            "target": "british",
+            "value": 1
+        },
+        {
+            "source": "the boys",
+            "target": "actor",
+            "value": 8
+        },
+        {
+            "source": "celebrity",
+            "target": "the boys",
+            "value": 4
+        },
+        {
+            "source": "male",
+            "target": "the boys",
+            "value": 4
+        },
+        {
+            "source": "man",
+            "target": "the boys",
+            "value": 4
+        },
+        {
+            "source": "film",
+            "target": "celebrity",
+            "value": 3
+        },
+        {
+            "source": "movie",
+            "target": "american",
+            "value": 2
+        },
+        {
+            "source": "photorealistic",
+            "target": "american",
+            "value": 6
+        },
+        {
+            "source": "american",
+            "target": "female",
+            "value": 2
+        },
+        {
+            "source": "female",
+            "target": "dancer",
+            "value": 1
+        },
+        {
+            "source": "mean girls",
+            "target": "female",
+            "value": 1
+        },
+        {
+            "source": "american",
+            "target": "dancer",
+            "value": 1
+        },
+        {
+            "source": "mean girls",
+            "target": "american",
+            "value": 1
+        },
+        {
+            "source": "actor",
+            "target": "dancer",
+            "value": 3
+        },
+        {
+            "source": "celebrity",
+            "target": "dancer",
+            "value": 2
+        },
+        {
+            "source": "mean girls",
+            "target": "dancer",
+            "value": 1
+        },
+        {
+            "source": "mean girls",
+            "target": "actor",
+            "value": 4
+        },
+        {
+            "source": "celebrity",
+            "target": "mean girls",
+            "value": 4
+        },
+        {
+            "source": "muscle",
+            "target": "character",
+            "value": 1
+        },
+        {
+            "source": "muscle",
+            "target": "actor",
+            "value": 25
+        },
+        {
+            "source": "muscle",
+            "target": "man",
+            "value": 13
+        },
+        {
+            "source": "cinema",
+            "target": "men",
+            "value": 1
+        },
+        {
+            "source": "cinema",
+            "target": "turkish",
+            "value": 1
+        },
+        {
+            "source": "turkish",
+            "target": "actor",
+            "value": 5
+        },
+        {
+            "source": "celebrity",
+            "target": "turkish",
+            "value": 5
+        },
+        {
+            "source": "male",
+            "target": "turkish",
+            "value": 3
+        },
+        {
+            "source": "man",
+            "target": "turkish",
+            "value": 3
+        },
+        {
+            "source": "men",
+            "target": "turkish",
+            "value": 3
+        },
+        {
+            "source": "lora",
+            "target": "female",
+            "value": 1
+        },
+        {
+            "source": "character",
+            "target": "realism",
+            "value": 1
+        },
+        {
+            "source": "character",
+            "target": "hollywood",
+            "value": 1
+        },
+        {
+            "source": "movie",
+            "target": "famous",
+            "value": 1
+        },
+        {
+            "source": "famous",
+            "target": "realism",
+            "value": 1
+        },
+        {
+            "source": "hollywood",
+            "target": "famous",
+            "value": 1
+        },
+        {
+            "source": "celebrity",
+            "target": "korean",
+            "value": 6
+        },
+        {
+            "source": "man",
+            "target": "korean",
+            "value": 5
+        },
+        {
+            "source": "korean",
+            "target": "celebrity,",
+            "value": 2
+        },
+        {
+            "source": "celeb",
+            "target": "singer",
+            "value": 2
+        },
+        {
+            "source": "male",
+            "target": "celebirty",
+            "value": 5
+        },
+        {
+            "source": "cinema",
+            "target": "realism",
+            "value": 1
+        },
+        {
+            "source": "cinema",
+            "target": "characters",
+            "value": 1
+        },
+        {
+            "source": "breaking bad",
+            "target": "realism",
+            "value": 1
+        },
+        {
+            "source": "characters",
+            "target": "realism",
+            "value": 1
+        },
+        {
+            "source": "characters",
+            "target": "breaking bad",
+            "value": 1
+        },
+        {
+            "source": "characters",
+            "target": "celebrity,",
+            "value": 1
+        },
+        {
+            "source": "broadway",
+            "target": "actor",
+            "value": 3
+        },
+        {
+            "source": "celebrity",
+            "target": "broadway",
+            "value": 3
+        },
+        {
+            "source": "male",
+            "target": "broadway",
+            "value": 1
+        },
+        {
+            "source": "male focus",
+            "target": "broadway",
+            "value": 1
+        },
+        {
+            "source": "male focus",
+            "target": "actor",
+            "value": 3
+        },
+        {
+            "source": "celebrity",
+            "target": "male focus",
+            "value": 2
+        },
+        {
+            "source": "male focus",
+            "target": "male",
+            "value": 1
+        },
+        {
+            "source": "character",
+            "target": "the boys",
+            "value": 4
+        },
+        {
+            "source": "tv series",
+            "target": "the boys",
+            "value": 2
+        },
+        {
+            "source": "famous",
+            "target": "person",
+            "value": 2
+        },
+        {
+            "source": "real",
+            "target": "person",
+            "value": 2
+        },
+        {
+            "source": "real",
+            "target": "actor",
+            "value": 2
+        },
+        {
+            "source": "celebrity",
+            "target": "real",
+            "value": 2
+        },
+        {
+            "source": "male",
+            "target": "real",
+            "value": 2
+        },
+        {
+            "source": "man",
+            "target": "real",
+            "value": 2
+        },
+        {
+            "source": "real",
+            "target": "famous",
+            "value": 2
+        },
+        {
+            "source": "man",
+            "target": "the walking dead",
+            "value": 2
+        },
+        {
+            "source": "singer",
+            "target": "guy",
+            "value": 2
+        },
+        {
+            "source": "boys",
+            "target": "celebrity,",
+            "value": 2
+        },
+        {
+            "source": "boys",
+            "target": "tv",
+            "value": 1
+        },
+        {
+            "source": "boys",
+            "target": "brazil",
+            "value": 1
+        },
+        {
+            "source": "muscles",
+            "target": "model",
+            "value": 1
+        },
+        {
+            "source": "muscles",
+            "target": "young man",
+            "value": 1
+        },
+        {
+            "source": "muscular male",
+            "target": "model",
+            "value": 1
+        },
+        {
+            "source": "young man",
+            "target": "model",
+            "value": 1
+        },
+        {
+            "source": "muscular male",
+            "target": "young man",
+            "value": 1
+        },
+        {
+            "source": "young man",
+            "target": "actor",
+            "value": 2
+        },
+        {
+            "source": "celebrity",
+            "target": "young man",
+            "value": 1
+        },
+        {
+            "source": "man",
+            "target": "young man",
+            "value": 1
+        },
+        {
+            "source": "singer",
+            "target": "the walking dead",
+            "value": 1
+        },
+        {
+            "source": "the walking dead",
+            "target": "actress",
+            "value": 1
+        },
+        {
+            "source": "celebrity",
+            "target": "the walking dead",
+            "value": 2
+        },
+        {
+            "source": "realistic",
+            "target": "hollywood",
+            "value": 2
+        },
+        {
+            "source": "realistic",
+            "target": "celebrity,",
+            "value": 3
+        },
+        {
+            "source": "photorealistic",
+            "target": "doctor who",
+            "value": 1
+        },
+        {
+            "source": "sexy",
+            "target": "doctor who",
+            "value": 1
+        },
+        {
+            "source": "man",
+            "target": "doctor who",
+            "value": 2
+        },
+        {
+            "source": "photorealistic",
+            "target": "japanese",
+            "value": 1
+        },
+        {
+            "source": "japanese",
+            "target": "female",
+            "value": 1
+        },
+        {
+            "source": "japanese",
+            "target": "woman",
+            "value": 1
+        },
+        {
+            "source": "girls",
+            "target": "japanese",
+            "value": 1
+        },
+        {
+            "source": "game of thrones",
+            "target": "character",
+            "value": 2
+        },
+        {
+            "source": "game of thrones",
+            "target": "man",
+            "value": 3
+        },
+        {
+            "source": "australian",
+            "target": "male",
+            "value": 2
+        },
+        {
+            "source": "french",
+            "target": "singer",
+            "value": 2
+        },
+        {
+            "source": "film",
+            "target": "character",
+            "value": 1
+        },
+        {
+            "source": "character",
+            "target": "blade runner",
+            "value": 1
+        },
+        {
+            "source": "movie",
+            "target": "film",
+            "value": 2
+        },
+        {
+            "source": "movie",
+            "target": "blade runner",
+            "value": 2
+        },
+        {
+            "source": "film",
+            "target": "blade runner",
+            "value": 1
+        },
+        {
+            "source": "blade runner",
+            "target": "actor",
+            "value": 2
+        },
+        {
+            "source": "pornstar",
+            "target": "american",
+            "value": 5
+        },
+        {
+            "source": "tv show",
+            "target": "daddy",
+            "value": 1
+        },
+        {
+            "source": "daddy",
+            "target": "brazilian",
+            "value": 2
+        },
+        {
+            "source": "singer",
+            "target": "dancer",
+            "value": 1
+        },
+        {
+            "source": "singer",
+            "target": "celebrity,",
+            "value": 2
+        },
+        {
+            "source": "photorealistic",
+            "target": "dancer",
+            "value": 1
+        },
+        {
+            "source": "photorealistic",
+            "target": "celebrity,",
+            "value": 3
+        },
+        {
+            "source": "model",
+            "target": "dancer",
+            "value": 1
+        },
+        {
+            "source": "model",
+            "target": "celebrity,",
+            "value": 2
+        },
+        {
+            "source": "celebrity,",
+            "target": "dancer",
+            "value": 1
+        },
+        {
+            "source": "film",
+            "target": "classic",
+            "value": 1
+        },
+        {
+            "source": "character",
+            "target": "superhero",
+            "value": 3
+        },
+        {
+            "source": "superhero",
+            "target": "actor",
+            "value": 20
+        },
+        {
+            "source": "man",
+            "target": "superhero",
+            "value": 13
+        },
+        {
+            "source": "superhero",
+            "target": "the boys",
+            "value": 1
+        },
+        {
+            "source": "tv series",
+            "target": "superhero",
+            "value": 1
+        },
+        {
+            "source": "director",
+            "target": "actor",
+            "value": 3
+        },
+        {
+            "source": "celebrity",
+            "target": "director",
+            "value": 3
+        },
+        {
+            "source": "hollywood",
+            "target": "singer",
+            "value": 5
+        },
+        {
+            "source": "sdxl 1,0",
+            "target": "singer",
+            "value": 3
+        },
+        {
+            "source": "hottiesnhotties",
+            "target": "singer",
+            "value": 5
+        },
+        {
+            "source": "american",
+            "target": "person",
+            "value": 2
+        },
+        {
+            "source": "spanish",
+            "target": "photorealistic",
+            "value": 1
+        },
+        {
+            "source": "spanish",
+            "target": "actor",
+            "value": 5
+        },
+        {
+            "source": "spanish",
+            "target": "actress",
+            "value": 1
+        },
+        {
+            "source": "spanish",
+            "target": "celebrity",
+            "value": 5
+        },
+        {
+            "source": "hollywood",
+            "target": "woman",
+            "value": 2
+        },
+        {
+            "source": "spanish",
+            "target": "male",
+            "value": 1
+        },
+        {
+            "source": "spanish",
+            "target": "man",
+            "value": 3
+        },
+        {
+            "source": "spanish",
+            "target": "men",
+            "value": 1
+        },
+        {
+            "source": "spanish",
+            "target": "tv",
+            "value": 1
+        },
+        {
+            "source": "men",
+            "target": "tv",
+            "value": 2
+        },
+        {
+            "source": "photorealistic",
+            "target": "disney",
+            "value": 2
+        },
+        {
+            "source": "sexy",
+            "target": "disney",
+            "value": 2
+        },
+        {
+            "source": "disney",
+            "target": "actor",
+            "value": 6
+        },
+        {
+            "source": "celebrity",
+            "target": "disney",
+            "value": 5
+        },
+        {
+            "source": "male",
+            "target": "disney",
+            "value": 2
+        },
+        {
+            "source": "man",
+            "target": "disney",
+            "value": 4
+        },
+        {
+            "source": "youtuber",
+            "target": "person",
+            "value": 1
+        },
+        {
+            "source": "youtuber",
+            "target": "american",
+            "value": 1
+        },
+        {
+            "source": "youtuber",
+            "target": "woman",
+            "value": 1
+        },
+        {
+            "source": "youtuber",
+            "target": "actor",
+            "value": 1
+        },
+        {
+            "source": "movie",
+            "target": "realistic",
+            "value": 1
+        },
+        {
+            "source": "character",
+            "target": "sexy",
+            "value": 3
+        },
+        {
+            "source": "gay",
+            "target": "character",
+            "value": 2
+        },
+        {
+            "source": "character",
+            "target": "handsome",
+            "value": 3
+        },
+        {
+            "source": "netflix",
+            "target": "disney",
+            "value": 2
+        },
+        {
+            "source": "disney",
+            "target": "british",
+            "value": 1
+        },
+        {
+            "source": "man",
+            "target": "netflix",
+            "value": 4
+        },
+        {
+            "source": "man",
+            "target": "british",
+            "value": 1
+        },
+        {
+            "source": "netflix",
+            "target": "british",
+            "value": 1
+        },
+        {
+            "source": "fashion",
+            "target": "actor",
+            "value": 3
+        },
+        {
+            "source": "celebrity",
+            "target": "fashion",
+            "value": 3
+        },
+        {
+            "source": "famous",
+            "target": "men",
+            "value": 1
+        },
+        {
+            "source": "cinematic",
+            "target": "person",
+            "value": 1
+        },
+        {
+            "source": "film",
+            "target": "cinema",
+            "value": 1
+        },
+        {
+            "source": "film",
+            "target": "cinematic",
+            "value": 1
+        },
+        {
+            "source": "cinema",
+            "target": "cinematic",
+            "value": 1
+        },
+        {
+            "source": "character",
+            "target": "series",
+            "value": 3
+        },
+        {
+            "source": "movie",
+            "target": "series",
+            "value": 3
+        },
+        {
+            "source": "movie",
+            "target": "the boys",
+            "value": 2
+        },
+        {
+            "source": "male",
+            "target": "series",
+            "value": 3
+        },
+        {
+            "source": "series",
+            "target": "the boys",
+            "value": 2
+        },
+        {
+            "source": "australian",
+            "target": "woman",
+            "value": 1
+        },
+        {
+            "source": "mean girls",
+            "target": "woman",
+            "value": 2
+        },
+        {
+            "source": "australian",
+            "target": "actress",
+            "value": 3
+        },
+        {
+            "source": "mean girls",
+            "target": "actress",
+            "value": 1
+        },
+        {
+            "source": "australian",
+            "target": "mean girls",
+            "value": 1
+        },
+        {
+            "source": "tv",
+            "target": "daddy",
+            "value": 1
+        },
+        {
+            "source": "brazil",
+            "target": "daddy",
+            "value": 1
+        },
+        {
+            "source": "deadpool",
+            "target": "actor",
+            "value": 2
+        },
+        {
+            "source": "celebrity",
+            "target": "deadpool",
+            "value": 2
+        },
+        {
+            "source": "wolverine",
+            "target": "famous",
+            "value": 1
+        },
+        {
+            "source": "deadpool",
+            "target": "famous",
+            "value": 1
+        },
+        {
+            "source": "wolverine",
+            "target": "deadpool",
+            "value": 1
+        },
+        {
+            "source": "english",
+            "target": "actor",
+            "value": 3
+        },
+        {
+            "source": "english",
+            "target": "actress",
+            "value": 2
+        },
+        {
+            "source": "celebrity",
+            "target": "english",
+            "value": 3
+        },
+        {
+            "source": "the boys",
+            "target": "woman",
+            "value": 1
+        },
+        {
+            "source": "actress",
+            "target": "the boys",
+            "value": 1
+        },
+        {
+            "source": "pornstar",
+            "target": "lora",
+            "value": 2
+        },
+        {
+            "source": "movie",
+            "target": "keanu reeves",
+            "value": 1
+        },
+        {
+            "source": "keanu reeves",
+            "target": "realism",
+            "value": 1
+        },
+        {
+            "source": "movie",
+            "target": "cinema",
+            "value": 4
+        },
+        {
+            "source": "latina",
+            "target": "musician",
+            "value": 1
+        },
+        {
+            "source": "latina",
+            "target": "actor",
+            "value": 3
+        },
+        {
+            "source": "celebrity",
+            "target": "latina",
+            "value": 3
+        },
+        {
+            "source": "canadian",
+            "target": "hollywood",
+            "value": 2
+        },
+        {
+            "source": "canadian",
+            "target": "male",
+            "value": 2
+        },
+        {
+            "source": "canadian",
+            "target": "man",
+            "value": 1
+        },
+        {
+            "source": "singer",
+            "target": "men",
+            "value": 1
+        },
+        {
+            "source": "movie",
+            "target": "girl",
+            "value": 1
+        },
+        {
+            "source": "girl",
+            "target": "blonde",
+            "value": 1
+        },
+        {
+            "source": "celeb",
+            "target": "girl",
+            "value": 1
+        },
+        {
+            "source": "celebrity",
+            "target": "girl",
+            "value": 1
+        },
+        {
+            "source": "movie",
+            "target": "blonde",
+            "value": 1
+        },
+        {
+            "source": "blonde",
+            "target": "actress",
+            "value": 1
+        },
+        {
+            "source": "celeb",
+            "target": "blonde",
+            "value": 1
+        },
+        {
+            "source": "lora",
+            "target": "man",
+            "value": 3
+        },
+        {
+            "source": "marvel",
+            "target": "television",
+            "value": 1
+        },
+        {
+            "source": "marvel",
+            "target": "korean",
+            "value": 2
+        },
+        {
+            "source": "celebrity",
+            "target": "television",
+            "value": 7
+        },
+        {
+            "source": "korean",
+            "target": "television",
+            "value": 1
+        },
+        {
+            "source": "australian",
+            "target": "photorealistic",
+            "value": 2
+        },
+        {
+            "source": "marvel",
+            "target": "canadian",
+            "value": 1
+        },
+        {
+            "source": "actress",
+            "target": "british",
+            "value": 2
+        },
+        {
+            "source": "realism",
+            "target": "classic",
+            "value": 3
+        },
+        {
+            "source": "superhero",
+            "target": "model",
+            "value": 1
+        },
+        {
+            "source": "celebrity",
+            "target": "superhero",
+            "value": 17
+        },
+        {
+            "source": "muscle",
+            "target": "superhero",
+            "value": 6
+        },
+        {
+            "source": "muscle",
+            "target": "model",
+            "value": 7
+        },
+        {
+            "source": "muscle",
+            "target": "celebrity",
+            "value": 24
+        },
+        {
+            "source": "photorealistic",
+            "target": "broadway",
+            "value": 1
+        },
+        {
+            "source": "american",
+            "target": "broadway",
+            "value": 1
+        },
+        {
+            "source": "singer",
+            "target": "latina",
+            "value": 1
+        },
+        {
+            "source": "actress",
+            "target": "latina",
+            "value": 2
+        },
+        {
+            "source": "celeb",
+            "target": "latina",
+            "value": 1
+        },
+        {
+            "source": "mexican",
+            "target": "daddy",
+            "value": 1
+        },
+        {
+            "source": "mexican",
+            "target": "male",
+            "value": 1
+        },
+        {
+            "source": "mexican",
+            "target": "man",
+            "value": 1
+        },
+        {
+            "source": "character",
+            "target": "singer",
+            "value": 1
+        },
+        {
+            "source": "canadian",
+            "target": "photorealistic",
+            "value": 1
+        },
+        {
+            "source": "canadian",
+            "target": "actress",
+            "value": 1
+        },
+        {
+            "source": "french",
+            "target": "photorealistic",
+            "value": 14
+        },
+        {
+            "source": "french",
+            "target": "comedian",
+            "value": 13
+        },
+        {
+            "source": "gay",
+            "target": "actors",
+            "value": 1
+        },
+        {
+            "source": "gay",
+            "target": "hottiesnhotties",
+            "value": 1
+        },
+        {
+            "source": "hollywood",
+            "target": "actors",
+            "value": 1
+        },
+        {
+            "source": "hottiesnhotties",
+            "target": "actors",
+            "value": 1
+        },
+        {
+            "source": "indian",
+            "target": "character",
+            "value": 3
+        },
+        {
+            "source": "character",
+            "target": "dancer",
+            "value": 1
+        },
+        {
+            "source": "male model",
+            "target": "character",
+            "value": 3
+        },
+        {
+            "source": "sexy",
+            "target": "dancer",
+            "value": 1
+        },
+        {
+            "source": "male model",
+            "target": "sexy",
+            "value": 1
+        },
+        {
+            "source": "male model",
+            "target": "dancer",
+            "value": 1
+        },
+        {
+            "source": "male model",
+            "target": "actor",
+            "value": 12
+        },
+        {
+            "source": "american",
+            "target": "70s",
+            "value": 1
+        },
+        {
+            "source": "photo",
+            "target": "photorealism",
+            "value": 1
+        },
+        {
+            "source": "male",
+            "target": "photorealism",
+            "value": 1
+        },
+        {
+            "source": "superhero",
+            "target": "superman",
+            "value": 1
+        },
+        {
+            "source": "muscle",
+            "target": "superman",
+            "value": 1
+        },
+        {
+            "source": "twink",
+            "target": "character",
+            "value": 2
+        },
+        {
+            "source": "twink",
+            "target": "actor",
+            "value": 4
+        },
+        {
+            "source": "twink",
+            "target": "male",
+            "value": 3
+        },
+        {
+            "source": "twink",
+            "target": "male model",
+            "value": 1
+        },
+        {
+            "source": "male model",
+            "target": "male",
+            "value": 9
+        },
+        {
+            "source": "lora",
+            "target": "english",
+            "value": 1
+        },
+        {
+            "source": "character",
+            "target": "guy",
+            "value": 1
+        },
+        {
+            "source": "male",
+            "target": "doctor who",
+            "value": 1
+        },
+        {
+            "source": "men",
+            "target": "doctor who",
+            "value": 1
+        },
+        {
+            "source": "gay",
+            "target": "men",
+            "value": 2
+        },
+        {
+            "source": "men",
+            "target": "guy",
+            "value": 1
+        },
+        {
+            "source": "handsome",
+            "target": "men",
+            "value": 1
+        },
+        {
+            "source": "british",
+            "target": "woman",
+            "value": 1
+        },
+        {
+            "source": "hottiesnhotties",
+            "target": "bollywood",
+            "value": 25
+        },
+        {
+            "source": "indian",
+            "target": "hottiesnhotties",
+            "value": 38
+        },
+        {
+            "source": "superhero",
+            "target": "celebrity,",
+            "value": 1
+        },
+        {
+            "source": "character",
+            "target": "real person",
+            "value": 1
+        },
+        {
+            "source": "real person",
+            "target": "celebrity,",
+            "value": 1
+        },
+        {
+            "source": "photorealistic",
+            "target": "netflix",
+            "value": 3
+        },
+        {
+            "source": "sexy",
+            "target": "netflix",
+            "value": 3
+        },
+        {
+            "source": "male",
+            "target": "netflix",
+            "value": 2
+        },
+        {
+            "source": "cinema",
+            "target": "photorealistic",
+            "value": 9
+        },
+        {
+            "source": "photorealistic",
+            "target": "70s",
+            "value": 1
+        },
+        {
+            "source": "french",
+            "target": "cinema",
+            "value": 9
+        },
+        {
+            "source": "french",
+            "target": "70s",
+            "value": 1
+        },
+        {
+            "source": "cinema",
+            "target": "70s",
+            "value": 2
+        },
+        {
+            "source": "cinema",
+            "target": "comedian",
+            "value": 8
+        },
+        {
+            "source": "male",
+            "target": "fashion",
+            "value": 1
+        },
+        {
+            "source": "man",
+            "target": "fashion",
+            "value": 2
+        },
+        {
+            "source": "influencer",
+            "target": "fashion",
+            "value": 1
+        },
+        {
+            "source": "boys",
+            "target": "fashion",
+            "value": 1
+        },
+        {
+            "source": "boys",
+            "target": "influencer",
+            "value": 2
+        },
+        {
+            "source": "marvel",
+            "target": "character",
+            "value": 3
+        },
+        {
+            "source": "wolverine",
+            "target": "character",
+            "value": 1
+        },
+        {
+            "source": "wolverine",
+            "target": "photorealistic",
+            "value": 1
+        },
+        {
+            "source": "wolverine",
+            "target": "male",
+            "value": 1
+        },
+        {
+            "source": "wolverine",
+            "target": "man",
+            "value": 1
+        },
+        {
+            "source": "mexican",
+            "target": "woman",
+            "value": 1
+        },
+        {
+            "source": "marvel",
+            "target": "asian",
+            "value": 1
+        },
+        {
+            "source": "marvel",
+            "target": "celeb",
+            "value": 1
+        },
+        {
+            "source": "hollywood",
+            "target": "asian",
+            "value": 1
+        },
+        {
+            "source": "celeb",
+            "target": "asian",
+            "value": 1
+        },
+        {
+            "source": "asian",
+            "target": "korean",
+            "value": 1
+        },
+        {
+            "source": "hollywood",
+            "target": "korean",
+            "value": 1
+        },
+        {
+            "source": "celeb",
+            "target": "korean",
+            "value": 1
+        },
+        {
+            "source": "mexican",
+            "target": "latina",
+            "value": 1
+        },
+        {
+            "source": "mexican",
+            "target": "actress",
+            "value": 1
+        },
+        {
+            "source": "mexican",
+            "target": "lora",
+            "value": 1
+        },
+        {
+            "source": "lora",
+            "target": "latina",
+            "value": 1
+        },
+        {
+            "source": "bodybuilder",
+            "target": "model",
+            "value": 3
+        },
+        {
+            "source": "bodybuilder",
+            "target": "actor",
+            "value": 7
+        },
+        {
+            "source": "bodybuilder",
+            "target": "celebrity",
+            "value": 7
+        },
+        {
+            "source": "singer",
+            "target": "bollywood",
+            "value": 1
+        },
+        {
+            "source": "indian",
+            "target": "singer",
+            "value": 2
+        },
+        {
+            "source": "muscle",
+            "target": "male",
+            "value": 14
+        },
+        {
+            "source": "muscle",
+            "target": "celebirty",
+            "value": 1
+        },
+        {
+            "source": "asian",
+            "target": "female",
+            "value": 1
+        },
+        {
+            "source": "movie",
+            "target": "musician",
+            "value": 1
+        },
+        {
+            "source": "blade runner",
+            "target": "musician",
+            "value": 1
+        },
+        {
+            "source": "celebrity",
+            "target": "blade runner",
+            "value": 1
+        },
+        {
+            "source": "photorealistic",
+            "target": "german",
+            "value": 2
+        },
+        {
+            "source": "actress",
+            "target": "german",
+            "value": 2
+        },
+        {
+            "source": "sdxl 1,0",
+            "target": "bollywood",
+            "value": 14
+        },
+        {
+            "source": "indian",
+            "target": "sdxl 1,0",
+            "value": 20
+        },
+        {
+            "source": "retro",
+            "target": "photorealistic",
+            "value": 2
+        },
+        {
+            "source": "retro",
+            "target": "french",
+            "value": 2
+        },
+        {
+            "source": "retro",
+            "target": "cinema",
+            "value": 2
+        },
+        {
+            "source": "handsome",
+            "target": "rip",
+            "value": 1
+        },
+        {
+            "source": "photography",
+            "target": "woman",
+            "value": 1
+        },
+        {
+            "source": "english",
+            "target": "woman",
+            "value": 1
+        },
+        {
+            "source": "photography",
+            "target": "actress",
+            "value": 1
+        },
+        {
+            "source": "photography",
+            "target": "english",
+            "value": 1
+        },
+        {
+            "source": "muscle",
+            "target": "sexy",
+            "value": 2
+        },
+        {
+            "source": "pirates of the caribbean",
+            "target": "actor",
+            "value": 3
+        },
+        {
+            "source": "celebrity",
+            "target": "pirates of the caribbean",
+            "value": 2
+        },
+        {
+            "source": "movie",
+            "target": "lora",
+            "value": 2
+        },
+        {
+            "source": "lora",
+            "target": "celeb",
+            "value": 2
+        },
+        {
+            "source": "indian",
+            "target": "tv",
+            "value": 11
+        },
+        {
+            "source": "indian",
+            "target": "hot",
+            "value": 1
+        },
+        {
+            "source": "hot",
+            "target": "actor",
+            "value": 2
+        },
+        {
+            "source": "celebrity",
+            "target": "hot",
+            "value": 2
+        },
+        {
+            "source": "male",
+            "target": "hot",
+            "value": 1
+        },
+        {
+            "source": "tv",
+            "target": "hot",
+            "value": 1
+        },
+        {
+            "source": "hottiesnhotties",
+            "target": "tv",
+            "value": 10
+        },
+        {
+            "source": "hottiesnhotties",
+            "target": "hot",
+            "value": 1
+        },
+        {
+            "source": "character",
+            "target": "pirate",
+            "value": 1
+        },
+        {
+            "source": "character",
+            "target": "pirates of the caribbean",
+            "value": 1
+        },
+        {
+            "source": "pirates of the caribbean",
+            "target": "pirate",
+            "value": 1
+        },
+        {
+            "source": "mean girls",
+            "target": "musician",
+            "value": 1
+        },
+        {
+            "source": "male",
+            "target": "the walking dead",
+            "value": 1
+        },
+        {
+            "source": "character",
+            "target": "bald",
+            "value": 1
+        },
+        {
+            "source": "male",
+            "target": "superhero",
+            "value": 15
+        },
+        {
+            "source": "muscle",
+            "target": "bodybuilder",
+            "value": 4
+        },
+        {
+            "source": "bodybuilder",
+            "target": "celebrity,",
+            "value": 1
+        },
+        {
+            "source": "muscle",
+            "target": "celebrity,",
+            "value": 4
+        },
+        {
+            "source": "character",
+            "target": "old",
+            "value": 1
+        },
+        {
+            "source": "gay",
+            "target": "old",
+            "value": 1
+        },
+        {
+            "source": "old",
+            "target": "actor",
+            "value": 2
+        },
+        {
+            "source": "male",
+            "target": "old",
+            "value": 1
+        },
+        {
+            "source": "man",
+            "target": "old",
+            "value": 2
+        },
+        {
+            "source": "men",
+            "target": "old",
+            "value": 1
+        },
+        {
+            "source": "photorealistic",
+            "target": "fashion",
+            "value": 1
+        },
+        {
+            "source": "photorealistic",
+            "target": "celebirty",
+            "value": 1
+        },
+        {
+            "source": "celebirty",
+            "target": "fashion",
+            "value": 1
+        },
+        {
+            "source": "french",
+            "target": "celebrity,",
+            "value": 1
+        },
+        {
+            "source": "old man",
+            "target": "male",
+            "value": 2
+        },
+        {
+            "source": "old man",
+            "target": "man",
+            "value": 2
+        },
+        {
+            "source": "american",
+            "target": "television",
+            "value": 1
+        },
+        {
+            "source": "comedy",
+            "target": "american",
+            "value": 3
+        },
+        {
+            "source": "comedy",
+            "target": "television",
+            "value": 2
+        },
+        {
+            "source": "singer",
+            "target": "disney",
+            "value": 2
+        },
+        {
+            "source": "male",
+            "target": "star trek",
+            "value": 1
+        },
+        {
+            "source": "star trek",
+            "target": "celebrity,",
+            "value": 1
+        },
+        {
+            "source": "hollywood",
+            "target": "bollywood",
+            "value": 3
+        },
+        {
+            "source": "hottiesnhotties",
+            "target": "sexy",
+            "value": 1
+        },
+        {
+            "source": "muscle",
+            "target": "photorealistic",
+            "value": 3
+        },
+        {
+            "source": "realistic",
+            "target": "muscle",
+            "value": 3
+        },
+        {
+            "source": "tv show",
+            "target": "the boys",
+            "value": 1
+        },
+        {
+            "source": "singer",
+            "target": "broadway",
+            "value": 1
+        },
+        {
+            "source": "hollywood",
+            "target": "broadway",
+            "value": 1
+        },
+        {
+            "source": "broadway",
+            "target": "woman",
+            "value": 1
+        },
+        {
+            "source": "telugu",
+            "target": "bollywood",
+            "value": 1
+        },
+        {
+            "source": "indian",
+            "target": "telugu",
+            "value": 3
+        },
+        {
+            "source": "telugu",
+            "target": "actor",
+            "value": 3
+        },
+        {
+            "source": "celebrity",
+            "target": "telugu",
+            "value": 3
+        },
+        {
+            "source": "telugu",
+            "target": "male",
+            "value": 3
+        },
+        {
+            "source": "telugu",
+            "target": "man",
+            "value": 1
+        },
+        {
+            "source": "character",
+            "target": "german",
+            "value": 1
+        },
+        {
+            "source": "male model",
+            "target": "german",
+            "value": 1
+        },
+        {
+            "source": "character",
+            "target": "action actor",
+            "value": 1
+        },
+        {
+            "source": "photorealistic",
+            "target": "action actor",
+            "value": 1
+        },
+        {
+            "source": "realistic",
+            "target": "action actor",
+            "value": 1
+        },
+        {
+            "source": "deadpool",
+            "target": "woman",
+            "value": 1
+        },
+        {
+            "source": "deadpool",
+            "target": "actress",
+            "value": 1
+        },
+        {
+            "source": "bodybuilder",
+            "target": "comedian",
+            "value": 1
+        },
+        {
+            "source": "bodybuilder",
+            "target": "male",
+            "value": 4
+        },
+        {
+            "source": "comedian",
+            "target": "model",
+            "value": 1
+        },
+        {
+            "source": "australian",
+            "target": "hollywood",
+            "value": 2
+        },
+        {
+            "source": "australian",
+            "target": "celeb",
+            "value": 1
+        },
+        {
+            "source": "realistic",
+            "target": "australian",
+            "value": 1
+        },
+        {
+            "source": "hollywood",
+            "target": "american",
+            "value": 2
+        },
+        {
+            "source": "hollywood",
+            "target": "comedy",
+            "value": 1
+        },
+        {
+            "source": "hottiesnhotties",
+            "target": "photorealistic",
+            "value": 1
+        },
+        {
+            "source": "hottiesnhotties",
+            "target": "man",
+            "value": 7
+        },
+        {
+            "source": "realistic",
+            "target": "handsome",
+            "value": 1
+        },
+        {
+            "source": "voice actor",
+            "target": "male",
+            "value": 1
+        },
+        {
+            "source": "comedian",
+            "target": "celeb",
+            "value": 1
+        },
+        {
+            "source": "comedy",
+            "target": "celeb",
+            "value": 1
+        },
+        {
+            "source": "male",
+            "target": "asian",
+            "value": 2
+        },
+        {
+            "source": "man",
+            "target": "asian",
+            "value": 2
+        },
+        {
+            "source": "character",
+            "target": "model",
+            "value": 1
+        },
+        {
+            "source": "character",
+            "target": "angelina jolie",
+            "value": 1
+        },
+        {
+            "source": "character",
+            "target": "celebirty",
+            "value": 2
+        },
+        {
+            "source": "angelina jolie",
+            "target": "model",
+            "value": 1
+        },
+        {
+            "source": "celebirty",
+            "target": "model",
+            "value": 1
+        },
+        {
+            "source": "angelina jolie",
+            "target": "celebirty",
+            "value": 1
+        },
+        {
+            "source": "lora",
+            "target": "photorealistic",
+            "value": 1
+        },
+        {
+            "source": "photorealistic",
+            "target": "hot",
+            "value": 1
+        },
+        {
+            "source": "lora",
+            "target": "sexy",
+            "value": 1
+        },
+        {
+            "source": "sexy",
+            "target": "hot",
+            "value": 1
+        },
+        {
+            "source": "realistic",
+            "target": "hot",
+            "value": 1
+        },
+        {
+            "source": "lora",
+            "target": "hot",
+            "value": 1
+        },
+        {
+            "source": "sexy",
+            "target": "celebrity,",
+            "value": 3
+        },
+        {
+            "source": "handsome",
+            "target": "celebrity,",
+            "value": 1
+        },
+        {
+            "source": "bollywood",
+            "target": "tv",
+            "value": 3
+        },
+        {
+            "source": "sdxl 1,0",
+            "target": "tv",
+            "value": 6
+        },
+        {
+            "source": "french",
+            "target": "comedy",
+            "value": 3
+        },
+        {
+            "source": "french",
+            "target": "rip",
+            "value": 1
+        },
+        {
+            "source": "comedy",
+            "target": "rip",
+            "value": 1
+        },
+        {
+            "source": "male",
+            "target": "british",
+            "value": 2
+        },
+        {
+            "source": "muscle",
+            "target": "influencer",
+            "value": 1
+        },
+        {
+            "source": "gay",
+            "target": "disney",
+            "value": 1
+        },
+        {
+            "source": "twink",
+            "target": "disney",
+            "value": 1
+        },
+        {
+            "source": "disney",
+            "target": "guy",
+            "value": 1
+        },
+        {
+            "source": "handsome",
+            "target": "disney",
+            "value": 1
+        },
+        {
+            "source": "gay",
+            "target": "singer",
+            "value": 1
+        },
+        {
+            "source": "twink",
+            "target": "singer",
+            "value": 1
+        },
+        {
+            "source": "handsome",
+            "target": "singer",
+            "value": 1
+        },
+        {
+            "source": "gay",
+            "target": "twink",
+            "value": 1
+        },
+        {
+            "source": "twink",
+            "target": "guy",
+            "value": 1
+        },
+        {
+            "source": "twink",
+            "target": "handsome",
+            "value": 1
+        },
+        {
+            "source": "old man",
+            "target": "celebrity,",
+            "value": 1
+        },
+        {
+            "source": "bodybuilder",
+            "target": "man",
+            "value": 2
+        },
+        {
+            "source": "lora",
+            "target": "hollywood",
+            "value": 2
+        },
+        {
+            "source": "lora",
+            "target": "male",
+            "value": 2
+        },
+        {
+            "source": "hottiesnhotties",
+            "target": "lora",
+            "value": 2
+        },
+        {
+            "source": "male",
+            "target": "star wars",
+            "value": 1
+        },
+        {
+            "source": "indian",
+            "target": "hollywood",
+            "value": 2
+        },
+        {
+            "source": "indian",
+            "target": "bigg boss",
+            "value": 4
+        },
+        {
+            "source": "bigg boss",
+            "target": "actor",
+            "value": 5
+        },
+        {
+            "source": "celebrity",
+            "target": "bigg boss",
+            "value": 5
+        },
+        {
+            "source": "bigg boss",
+            "target": "male",
+            "value": 4
+        },
+        {
+            "source": "hottiesnhotties",
+            "target": "bigg boss",
+            "value": 4
+        },
+        {
+            "source": "star trek",
+            "target": "realism",
+            "value": 1
+        },
+        {
+            "source": "hollywood",
+            "target": "star trek",
+            "value": 1
+        },
+        {
+            "source": "television",
+            "target": "star trek",
+            "value": 1
+        },
+        {
+            "source": "television",
+            "target": "realism",
+            "value": 1
+        },
+        {
+            "source": "hollywood",
+            "target": "television",
+            "value": 1
+        },
+        {
+            "source": "retro",
+            "target": "comedian",
+            "value": 1
+        },
+        {
+            "source": "movie",
+            "target": "french",
+            "value": 4
+        },
+        {
+            "source": "comedy",
+            "target": "male",
+            "value": 1
+        },
+        {
+            "source": "comedy",
+            "target": "celebirty",
+            "value": 1
+        },
+        {
+            "source": "realistic",
+            "target": "netflix",
+            "value": 1
+        },
+        {
+            "source": "muscle",
+            "target": "netflix",
+            "value": 1
+        },
+        {
+            "source": "artist",
+            "target": "model",
+            "value": 1
+        },
+        {
+            "source": "celebrity",
+            "target": "male model",
+            "value": 9
+        },
+        {
+            "source": "male model",
+            "target": "male focus",
+            "value": 1
+        },
+        {
+            "source": "male",
+            "target": "korean",
+            "value": 1
+        },
+        {
+            "source": "photorealistic",
+            "target": "old",
+            "value": 1
+        },
+        {
+            "source": "television",
+            "target": "old",
+            "value": 1
+        },
+        {
+            "source": "celebrity",
+            "target": "old",
+            "value": 1
+        },
+        {
+            "source": "comedy",
+            "target": "old",
+            "value": 1
+        },
+        {
+            "source": "twink",
+            "target": "comedian",
+            "value": 1
+        },
+        {
+            "source": "indian",
+            "target": "twink",
+            "value": 1
+        },
+        {
+            "source": "indian",
+            "target": "comedian",
+            "value": 1
+        },
+        {
+            "source": "gay",
+            "target": "model",
+            "value": 1
+        },
+        {
+            "source": "model",
+            "target": "guy",
+            "value": 1
+        },
+        {
+            "source": "handsome",
+            "target": "model",
+            "value": 1
+        },
+        {
+            "source": "game of thrones",
+            "target": "celeb",
+            "value": 1
+        },
+        {
+            "source": "game of thrones",
+            "target": "actors",
+            "value": 1
+        },
+        {
+            "source": "realistic",
+            "target": "game of thrones",
+            "value": 1
+        },
+        {
+            "source": "photorealistic",
+            "target": "superhero",
+            "value": 1
+        },
+        {
+            "source": "marvel",
+            "target": "superhero",
+            "value": 1
+        },
+        {
+            "source": "bollywood",
+            "target": "rip",
+            "value": 1
+        },
+        {
+            "source": "indian",
+            "target": "rip",
+            "value": 1
+        },
+        {
+            "source": "male",
+            "target": "rip",
+            "value": 1
+        },
+        {
+            "source": "hottiesnhotties",
+            "target": "rip",
+            "value": 1
+        },
+        {
+            "source": "character",
+            "target": "influencer",
+            "value": 1
+        },
+        {
+            "source": "character",
+            "target": "boys",
+            "value": 1
+        },
+        {
+            "source": "photorealistic",
+            "target": "influencer",
+            "value": 1
+        },
+        {
+            "source": "photorealistic",
+            "target": "boys",
+            "value": 1
+        },
+        {
+            "source": "sdxl 1,0",
+            "target": "man",
+            "value": 3
+        },
+        {
+            "source": "realistic",
+            "target": "movies",
+            "value": 1
+        },
+        {
+            "source": "lora",
+            "target": "movies",
+            "value": 1
+        },
+        {
+            "source": "twink",
+            "target": "celebrity",
+            "value": 1
+        },
+        {
+            "source": "twink",
+            "target": "man",
+            "value": 1
+        },
+        {
+            "source": "director",
+            "target": "male",
+            "value": 1
+        },
+        {
+            "source": "director",
+            "target": "man",
+            "value": 1
+        },
+        {
+            "source": "tv show",
+            "target": "american",
+            "value": 1
+        },
+        {
+            "source": "asian man",
+            "target": "asian",
+            "value": 2
+        },
+        {
+            "source": "asian man",
+            "target": "actor",
+            "value": 2
+        },
+        {
+            "source": "celebrity",
+            "target": "asian man",
+            "value": 1
+        },
+        {
+            "source": "asian man",
+            "target": "man",
+            "value": 1
+        },
+        {
+            "source": "male",
+            "target": "american",
+            "value": 1
+        },
+        {
+            "source": "hottiesnhotties",
+            "target": "american",
+            "value": 1
+        },
+        {
+            "source": "bollywood",
+            "target": "british",
+            "value": 1
+        },
+        {
+            "source": "male model",
+            "target": "bollywood",
+            "value": 4
+        },
+        {
+            "source": "indian",
+            "target": "british",
+            "value": 1
+        },
+        {
+            "source": "indian",
+            "target": "male model",
+            "value": 6
+        },
+        {
+            "source": "male model",
+            "target": "british",
+            "value": 1
+        },
+        {
+            "source": "sdxl 1,0",
+            "target": "male model",
+            "value": 3
+        },
+        {
+            "source": "cute",
+            "target": "bollywood",
+            "value": 1
+        },
+        {
+            "source": "indian",
+            "target": "cute",
+            "value": 1
+        },
+        {
+            "source": "hottiesnhotties",
+            "target": "cute",
+            "value": 1
+        },
+        {
+            "source": "hottiesnhotties",
+            "target": "male model",
+            "value": 3
+        },
+        {
+            "source": "sdxl 1,0",
+            "target": "bigg boss",
+            "value": 2
+        },
+        {
+            "source": "character",
+            "target": "young man",
+            "value": 1
+        },
+        {
+            "source": "male",
+            "target": "young man",
+            "value": 1
+        },
+        {
+            "source": "sexy",
+            "target": "men",
+            "value": 1
+        },
+        {
+            "source": "character",
+            "target": "male focus",
+            "value": 1
+        },
+        {
+            "source": "handsome",
+            "target": "male focus",
+            "value": 1
+        },
+        {
+            "source": "australian",
+            "target": "singer",
+            "value": 1
+        },
+        {
+            "source": "famous",
+            "target": "turkish",
+            "value": 1
+        },
+        {
+            "source": "character",
+            "target": "70s",
+            "value": 1
+        },
+        {
+            "source": "movie",
+            "target": "70s",
+            "value": 1
+        },
+        {
+            "source": "man",
+            "target": "70s",
+            "value": 1
+        },
+        {
+            "source": "character",
+            "target": "asian",
+            "value": 1
+        },
+        {
+            "source": "character",
+            "target": "asian man",
+            "value": 1
+        },
+        {
+            "source": "asian",
+            "target": "superhero",
+            "value": 1
+        },
+        {
+            "source": "asian man",
+            "target": "superhero",
+            "value": 1
+        },
+        {
+            "source": "asian man",
+            "target": "male",
+            "value": 1
+        },
+        {
+            "source": "male model",
+            "target": "tv",
+            "value": 3
+        },
+        {
+            "source": "male model",
+            "target": "bigg boss",
+            "value": 1
+        },
+        {
+            "source": "sdxl 1,0",
+            "target": "telugu",
+            "value": 1
+        },
+        {
+            "source": "bigg boss",
+            "target": "tv",
+            "value": 1
+        }
+    ]
+}

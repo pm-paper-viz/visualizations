@@ -1,0 +1,1522 @@
+{
+    "nodes": [
+        {
+            "id": "ussr",
+            "size": 20
+        },
+        {
+            "id": "russia",
+            "size": 90
+        },
+        {
+            "id": "style",
+            "size": 12
+        },
+        {
+            "id": "soviet union",
+            "size": 2
+        },
+        {
+            "id": "clothing",
+            "size": 12
+        },
+        {
+            "id": "soldier",
+            "size": 4
+        },
+        {
+            "id": "anime",
+            "size": 10
+        },
+        {
+            "id": "girl",
+            "size": 5
+        },
+        {
+            "id": "realistic",
+            "size": 3
+        },
+        {
+            "id": "military",
+            "size": 4
+        },
+        {
+            "id": "background",
+            "size": 3
+        },
+        {
+            "id": "celebrity",
+            "size": 14
+        },
+        {
+            "id": "russian",
+            "size": 22
+        },
+        {
+            "id": "character",
+            "size": 27
+        },
+        {
+            "id": "female",
+            "size": 2
+        },
+        {
+            "id": "woman",
+            "size": 7
+        },
+        {
+            "id": "girls",
+            "size": 5
+        },
+        {
+            "id": "city",
+            "size": 2
+        },
+        {
+            "id": "retro",
+            "size": 4
+        },
+        {
+            "id": "architecture",
+            "size": 6
+        },
+        {
+            "id": "soviet",
+            "size": 7
+        },
+        {
+            "id": "buildings",
+            "size": 9
+        },
+        {
+            "id": "realism",
+            "size": 3
+        },
+        {
+            "id": "uniform",
+            "size": 3
+        },
+        {
+            "id": "blonde",
+            "size": 3
+        },
+        {
+            "id": "man",
+            "size": 5
+        },
+        {
+            "id": "photorealistic",
+            "size": 5
+        },
+        {
+            "id": "building",
+            "size": 3
+        },
+        {
+            "id": "cartoon",
+            "size": 6
+        },
+        {
+            "id": "photo",
+            "size": 2
+        },
+        {
+            "id": "vintage",
+            "size": 2
+        },
+        {
+            "id": "war",
+            "size": 2
+        },
+        {
+            "id": "vehicles",
+            "size": 3
+        },
+        {
+            "id": "vehicle",
+            "size": 9
+        },
+        {
+            "id": "singer",
+            "size": 2
+        },
+        {
+            "id": "film",
+            "size": 2
+        },
+        {
+            "id": "post-soviet",
+            "size": 5
+        },
+        {
+            "id": "person",
+            "size": 2
+        },
+        {
+            "id": "sexy",
+            "size": 3
+        },
+        {
+            "id": "cinema",
+            "size": 2
+        },
+        {
+            "id": "communism",
+            "size": 2
+        },
+        {
+            "id": "flux1.d",
+            "size": 2
+        },
+        {
+            "id": "punk",
+            "size": 3
+        },
+        {
+            "id": "car",
+            "size": 5
+        },
+        {
+            "id": "poland",
+            "size": 2
+        },
+        {
+            "id": "nature",
+            "size": 2
+        },
+        {
+            "id": "rus",
+            "size": 2
+        },
+        {
+            "id": "r",
+            "size": 2
+        },
+        {
+            "id": "concept",
+            "size": 2
+        },
+        {
+            "id": "meme",
+            "size": 2
+        },
+        {
+            "id": "men",
+            "size": 3
+        },
+        {
+            "id": "ww2",
+            "size": 2
+        },
+        {
+            "id": "objects",
+            "size": 3
+        },
+        {
+            "id": "youtube",
+            "size": 3
+        }
+    ],
+    "links": [
+        {
+            "source": "russia",
+            "target": "ussr",
+            "value": 20
+        },
+        {
+            "source": "ussr",
+            "target": "style",
+            "value": 4
+        },
+        {
+            "source": "soviet union",
+            "target": "ussr",
+            "value": 2
+        },
+        {
+            "source": "russia",
+            "target": "style",
+            "value": 12
+        },
+        {
+            "source": "soviet union",
+            "target": "russia",
+            "value": 2
+        },
+        {
+            "source": "soviet union",
+            "target": "style",
+            "value": 1
+        },
+        {
+            "source": "russia",
+            "target": "clothing",
+            "value": 12
+        },
+        {
+            "source": "russia",
+            "target": "soldier",
+            "value": 4
+        },
+        {
+            "source": "clothing",
+            "target": "soldier",
+            "value": 4
+        },
+        {
+            "source": "anime",
+            "target": "girl",
+            "value": 1
+        },
+        {
+            "source": "russia",
+            "target": "anime",
+            "value": 8
+        },
+        {
+            "source": "realistic",
+            "target": "anime",
+            "value": 1
+        },
+        {
+            "source": "russia",
+            "target": "girl",
+            "value": 5
+        },
+        {
+            "source": "realistic",
+            "target": "girl",
+            "value": 1
+        },
+        {
+            "source": "russia",
+            "target": "realistic",
+            "value": 3
+        },
+        {
+            "source": "military",
+            "target": "anime",
+            "value": 1
+        },
+        {
+            "source": "clothing",
+            "target": "anime",
+            "value": 2
+        },
+        {
+            "source": "russia",
+            "target": "military",
+            "value": 4
+        },
+        {
+            "source": "military",
+            "target": "clothing",
+            "value": 4
+        },
+        {
+            "source": "background",
+            "target": "russia",
+            "value": 3
+        },
+        {
+            "source": "russia",
+            "target": "celebrity",
+            "value": 12
+        },
+        {
+            "source": "russia",
+            "target": "russian",
+            "value": 20
+        },
+        {
+            "source": "celebrity",
+            "target": "russian",
+            "value": 6
+        },
+        {
+            "source": "character",
+            "target": "anime",
+            "value": 6
+        },
+        {
+            "source": "female",
+            "target": "anime",
+            "value": 1
+        },
+        {
+            "source": "woman",
+            "target": "anime",
+            "value": 3
+        },
+        {
+            "source": "anime",
+            "target": "girls",
+            "value": 3
+        },
+        {
+            "source": "russia",
+            "target": "female",
+            "value": 2
+        },
+        {
+            "source": "woman",
+            "target": "female",
+            "value": 1
+        },
+        {
+            "source": "female",
+            "target": "clothing",
+            "value": 1
+        },
+        {
+            "source": "female",
+            "target": "girls",
+            "value": 1
+        },
+        {
+            "source": "woman",
+            "target": "russia",
+            "value": 5
+        },
+        {
+            "source": "russia",
+            "target": "girls",
+            "value": 5
+        },
+        {
+            "source": "woman",
+            "target": "clothing",
+            "value": 2
+        },
+        {
+            "source": "woman",
+            "target": "girls",
+            "value": 4
+        },
+        {
+            "source": "clothing",
+            "target": "girls",
+            "value": 2
+        },
+        {
+            "source": "russia",
+            "target": "character",
+            "value": 24
+        },
+        {
+            "source": "city",
+            "target": "retro",
+            "value": 1
+        },
+        {
+            "source": "city",
+            "target": "architecture",
+            "value": 1
+        },
+        {
+            "source": "city",
+            "target": "soviet",
+            "value": 1
+        },
+        {
+            "source": "city",
+            "target": "buildings",
+            "value": 2
+        },
+        {
+            "source": "city",
+            "target": "russia",
+            "value": 2
+        },
+        {
+            "source": "retro",
+            "target": "architecture",
+            "value": 1
+        },
+        {
+            "source": "retro",
+            "target": "soviet",
+            "value": 1
+        },
+        {
+            "source": "retro",
+            "target": "buildings",
+            "value": 1
+        },
+        {
+            "source": "russia",
+            "target": "retro",
+            "value": 4
+        },
+        {
+            "source": "soviet",
+            "target": "architecture",
+            "value": 2
+        },
+        {
+            "source": "architecture",
+            "target": "buildings",
+            "value": 6
+        },
+        {
+            "source": "russia",
+            "target": "architecture",
+            "value": 6
+        },
+        {
+            "source": "soviet",
+            "target": "buildings",
+            "value": 2
+        },
+        {
+            "source": "russia",
+            "target": "soviet",
+            "value": 7
+        },
+        {
+            "source": "russia",
+            "target": "buildings",
+            "value": 9
+        },
+        {
+            "source": "russia",
+            "target": "realism",
+            "value": 3
+        },
+        {
+            "source": "background",
+            "target": "realism",
+            "value": 1
+        },
+        {
+            "source": "military",
+            "target": "russian",
+            "value": 2
+        },
+        {
+            "source": "military",
+            "target": "uniform",
+            "value": 2
+        },
+        {
+            "source": "military",
+            "target": "soldier",
+            "value": 2
+        },
+        {
+            "source": "russia",
+            "target": "uniform",
+            "value": 3
+        },
+        {
+            "source": "clothing",
+            "target": "russian",
+            "value": 3
+        },
+        {
+            "source": "uniform",
+            "target": "clothing",
+            "value": 3
+        },
+        {
+            "source": "uniform",
+            "target": "russian",
+            "value": 2
+        },
+        {
+            "source": "soldier",
+            "target": "russian",
+            "value": 2
+        },
+        {
+            "source": "uniform",
+            "target": "soldier",
+            "value": 3
+        },
+        {
+            "source": "russia",
+            "target": "blonde",
+            "value": 3
+        },
+        {
+            "source": "blonde",
+            "target": "celebrity",
+            "value": 3
+        },
+        {
+            "source": "man",
+            "target": "blonde",
+            "value": 2
+        },
+        {
+            "source": "russia",
+            "target": "man",
+            "value": 5
+        },
+        {
+            "source": "man",
+            "target": "celebrity",
+            "value": 3
+        },
+        {
+            "source": "background",
+            "target": "realistic",
+            "value": 1
+        },
+        {
+            "source": "ussr",
+            "target": "clothing",
+            "value": 3
+        },
+        {
+            "source": "soviet union",
+            "target": "clothing",
+            "value": 1
+        },
+        {
+            "source": "photorealistic",
+            "target": "ussr",
+            "value": 1
+        },
+        {
+            "source": "photorealistic",
+            "target": "russia",
+            "value": 5
+        },
+        {
+            "source": "photorealistic",
+            "target": "style",
+            "value": 1
+        },
+        {
+            "source": "photorealistic",
+            "target": "building",
+            "value": 1
+        },
+        {
+            "source": "ussr",
+            "target": "building",
+            "value": 2
+        },
+        {
+            "source": "russia",
+            "target": "building",
+            "value": 3
+        },
+        {
+            "source": "building",
+            "target": "style",
+            "value": 2
+        },
+        {
+            "source": "character",
+            "target": "girl",
+            "value": 4
+        },
+        {
+            "source": "cartoon",
+            "target": "character",
+            "value": 6
+        },
+        {
+            "source": "cartoon",
+            "target": "girl",
+            "value": 4
+        },
+        {
+            "source": "russia",
+            "target": "cartoon",
+            "value": 6
+        },
+        {
+            "source": "photorealistic",
+            "target": "architecture",
+            "value": 1
+        },
+        {
+            "source": "photorealistic",
+            "target": "realism",
+            "value": 2
+        },
+        {
+            "source": "photorealistic",
+            "target": "buildings",
+            "value": 1
+        },
+        {
+            "source": "photorealistic",
+            "target": "photo",
+            "value": 1
+        },
+        {
+            "source": "architecture",
+            "target": "realism",
+            "value": 1
+        },
+        {
+            "source": "architecture",
+            "target": "photo",
+            "value": 1
+        },
+        {
+            "source": "realism",
+            "target": "buildings",
+            "value": 1
+        },
+        {
+            "source": "realism",
+            "target": "photo",
+            "value": 1
+        },
+        {
+            "source": "photo",
+            "target": "buildings",
+            "value": 2
+        },
+        {
+            "source": "russia",
+            "target": "photo",
+            "value": 2
+        },
+        {
+            "source": "war",
+            "target": "vintage",
+            "value": 1
+        },
+        {
+            "source": "russia",
+            "target": "vintage",
+            "value": 2
+        },
+        {
+            "source": "vehicles",
+            "target": "vintage",
+            "value": 1
+        },
+        {
+            "source": "vehicle",
+            "target": "vintage",
+            "value": 1
+        },
+        {
+            "source": "russia",
+            "target": "war",
+            "value": 2
+        },
+        {
+            "source": "vehicles",
+            "target": "war",
+            "value": 1
+        },
+        {
+            "source": "vehicle",
+            "target": "war",
+            "value": 1
+        },
+        {
+            "source": "russia",
+            "target": "vehicles",
+            "value": 3
+        },
+        {
+            "source": "russia",
+            "target": "vehicle",
+            "value": 9
+        },
+        {
+            "source": "vehicle",
+            "target": "vehicles",
+            "value": 2
+        },
+        {
+            "source": "russia",
+            "target": "singer",
+            "value": 2
+        },
+        {
+            "source": "singer",
+            "target": "celebrity",
+            "value": 1
+        },
+        {
+            "source": "singer",
+            "target": "russian",
+            "value": 1
+        },
+        {
+            "source": "city",
+            "target": "photo",
+            "value": 1
+        },
+        {
+            "source": "photorealistic",
+            "target": "film",
+            "value": 2
+        },
+        {
+            "source": "russia",
+            "target": "film",
+            "value": 2
+        },
+        {
+            "source": "architecture",
+            "target": "ussr",
+            "value": 4
+        },
+        {
+            "source": "architecture",
+            "target": "post-soviet",
+            "value": 4
+        },
+        {
+            "source": "ussr",
+            "target": "buildings",
+            "value": 6
+        },
+        {
+            "source": "buildings",
+            "target": "post-soviet",
+            "value": 4
+        },
+        {
+            "source": "ussr",
+            "target": "post-soviet",
+            "value": 5
+        },
+        {
+            "source": "russia",
+            "target": "post-soviet",
+            "value": 5
+        },
+        {
+            "source": "soviet",
+            "target": "style",
+            "value": 3
+        },
+        {
+            "source": "blonde",
+            "target": "girls",
+            "value": 1
+        },
+        {
+            "source": "celebrity",
+            "target": "girls",
+            "value": 1
+        },
+        {
+            "source": "character",
+            "target": "russian",
+            "value": 6
+        },
+        {
+            "source": "person",
+            "target": "photorealistic",
+            "value": 1
+        },
+        {
+            "source": "person",
+            "target": "sexy",
+            "value": 1
+        },
+        {
+            "source": "person",
+            "target": "female",
+            "value": 1
+        },
+        {
+            "source": "person",
+            "target": "retro",
+            "value": 1
+        },
+        {
+            "source": "person",
+            "target": "cinema",
+            "value": 1
+        },
+        {
+            "source": "person",
+            "target": "russia",
+            "value": 2
+        },
+        {
+            "source": "photorealistic",
+            "target": "sexy",
+            "value": 1
+        },
+        {
+            "source": "photorealistic",
+            "target": "female",
+            "value": 1
+        },
+        {
+            "source": "photorealistic",
+            "target": "retro",
+            "value": 1
+        },
+        {
+            "source": "photorealistic",
+            "target": "cinema",
+            "value": 2
+        },
+        {
+            "source": "female",
+            "target": "sexy",
+            "value": 1
+        },
+        {
+            "source": "retro",
+            "target": "sexy",
+            "value": 1
+        },
+        {
+            "source": "sexy",
+            "target": "cinema",
+            "value": 1
+        },
+        {
+            "source": "russia",
+            "target": "sexy",
+            "value": 3
+        },
+        {
+            "source": "retro",
+            "target": "female",
+            "value": 1
+        },
+        {
+            "source": "female",
+            "target": "cinema",
+            "value": 1
+        },
+        {
+            "source": "retro",
+            "target": "cinema",
+            "value": 1
+        },
+        {
+            "source": "russia",
+            "target": "cinema",
+            "value": 2
+        },
+        {
+            "source": "singer",
+            "target": "character",
+            "value": 1
+        },
+        {
+            "source": "buildings",
+            "target": "building",
+            "value": 1
+        },
+        {
+            "source": "buildings",
+            "target": "communism",
+            "value": 1
+        },
+        {
+            "source": "ussr",
+            "target": "communism",
+            "value": 1
+        },
+        {
+            "source": "russia",
+            "target": "communism",
+            "value": 2
+        },
+        {
+            "source": "building",
+            "target": "communism",
+            "value": 1
+        },
+        {
+            "source": "russia",
+            "target": "flux1.d",
+            "value": 2
+        },
+        {
+            "source": "celebrity",
+            "target": "flux1.d",
+            "value": 1
+        },
+        {
+            "source": "sexy",
+            "target": "anime",
+            "value": 2
+        },
+        {
+            "source": "sexy",
+            "target": "character",
+            "value": 2
+        },
+        {
+            "source": "woman",
+            "target": "character",
+            "value": 2
+        },
+        {
+            "source": "character",
+            "target": "girls",
+            "value": 2
+        },
+        {
+            "source": "woman",
+            "target": "sexy",
+            "value": 2
+        },
+        {
+            "source": "sexy",
+            "target": "girls",
+            "value": 2
+        },
+        {
+            "source": "woman",
+            "target": "celebrity",
+            "value": 3
+        },
+        {
+            "source": "woman",
+            "target": "russian",
+            "value": 3
+        },
+        {
+            "source": "war",
+            "target": "film",
+            "value": 1
+        },
+        {
+            "source": "film",
+            "target": "cinema",
+            "value": 1
+        },
+        {
+            "source": "realism",
+            "target": "film",
+            "value": 1
+        },
+        {
+            "source": "photorealistic",
+            "target": "war",
+            "value": 1
+        },
+        {
+            "source": "war",
+            "target": "cinema",
+            "value": 1
+        },
+        {
+            "source": "realism",
+            "target": "war",
+            "value": 1
+        },
+        {
+            "source": "realism",
+            "target": "cinema",
+            "value": 1
+        },
+        {
+            "source": "person",
+            "target": "woman",
+            "value": 1
+        },
+        {
+            "source": "person",
+            "target": "celebrity",
+            "value": 1
+        },
+        {
+            "source": "person",
+            "target": "realistic",
+            "value": 1
+        },
+        {
+            "source": "person",
+            "target": "russian",
+            "value": 1
+        },
+        {
+            "source": "woman",
+            "target": "realistic",
+            "value": 1
+        },
+        {
+            "source": "realistic",
+            "target": "celebrity",
+            "value": 1
+        },
+        {
+            "source": "realistic",
+            "target": "russian",
+            "value": 1
+        },
+        {
+            "source": "punk",
+            "target": "anime",
+            "value": 2
+        },
+        {
+            "source": "ussr",
+            "target": "anime",
+            "value": 2
+        },
+        {
+            "source": "punk",
+            "target": "character",
+            "value": 3
+        },
+        {
+            "source": "ussr",
+            "target": "character",
+            "value": 3
+        },
+        {
+            "source": "punk",
+            "target": "ussr",
+            "value": 2
+        },
+        {
+            "source": "punk",
+            "target": "russia",
+            "value": 3
+        },
+        {
+            "source": "vehicle",
+            "target": "ussr",
+            "value": 3
+        },
+        {
+            "source": "ussr",
+            "target": "car",
+            "value": 2
+        },
+        {
+            "source": "ussr",
+            "target": "flux1.d",
+            "value": 1
+        },
+        {
+            "source": "russia",
+            "target": "car",
+            "value": 5
+        },
+        {
+            "source": "vehicle",
+            "target": "car",
+            "value": 5
+        },
+        {
+            "source": "vehicle",
+            "target": "flux1.d",
+            "value": 1
+        },
+        {
+            "source": "flux1.d",
+            "target": "car",
+            "value": 1
+        },
+        {
+            "source": "ussr",
+            "target": "poland",
+            "value": 1
+        },
+        {
+            "source": "woman",
+            "target": "ussr",
+            "value": 1
+        },
+        {
+            "source": "ussr",
+            "target": "girls",
+            "value": 1
+        },
+        {
+            "source": "russia",
+            "target": "poland",
+            "value": 2
+        },
+        {
+            "source": "woman",
+            "target": "poland",
+            "value": 1
+        },
+        {
+            "source": "clothing",
+            "target": "poland",
+            "value": 1
+        },
+        {
+            "source": "poland",
+            "target": "girls",
+            "value": 1
+        },
+        {
+            "source": "vehicle",
+            "target": "russian",
+            "value": 6
+        },
+        {
+            "source": "nature",
+            "target": "soviet",
+            "value": 1
+        },
+        {
+            "source": "nature",
+            "target": "russia",
+            "value": 2
+        },
+        {
+            "source": "nature",
+            "target": "style",
+            "value": 2
+        },
+        {
+            "source": "nature",
+            "target": "building",
+            "value": 1
+        },
+        {
+            "source": "rus",
+            "target": "nature",
+            "value": 1
+        },
+        {
+            "source": "soviet",
+            "target": "building",
+            "value": 1
+        },
+        {
+            "source": "rus",
+            "target": "soviet",
+            "value": 1
+        },
+        {
+            "source": "rus",
+            "target": "russia",
+            "value": 2
+        },
+        {
+            "source": "rus",
+            "target": "style",
+            "value": 1
+        },
+        {
+            "source": "rus",
+            "target": "building",
+            "value": 1
+        },
+        {
+            "source": "man",
+            "target": "character",
+            "value": 2
+        },
+        {
+            "source": "r",
+            "target": "russia",
+            "value": 2
+        },
+        {
+            "source": "r",
+            "target": "clothing",
+            "value": 1
+        },
+        {
+            "source": "clothing",
+            "target": "communism",
+            "value": 1
+        },
+        {
+            "source": "r",
+            "target": "russian",
+            "value": 1
+        },
+        {
+            "source": "communism",
+            "target": "russian",
+            "value": 1
+        },
+        {
+            "source": "r",
+            "target": "communism",
+            "value": 1
+        },
+        {
+            "source": "ussr",
+            "target": "russian",
+            "value": 1
+        },
+        {
+            "source": "car",
+            "target": "russian",
+            "value": 4
+        },
+        {
+            "source": "retro",
+            "target": "anime",
+            "value": 1
+        },
+        {
+            "source": "retro",
+            "target": "character",
+            "value": 1
+        },
+        {
+            "source": "punk",
+            "target": "retro",
+            "value": 1
+        },
+        {
+            "source": "retro",
+            "target": "ussr",
+            "value": 2
+        },
+        {
+            "source": "architecture",
+            "target": "vehicles",
+            "value": 1
+        },
+        {
+            "source": "soviet",
+            "target": "ussr",
+            "value": 3
+        },
+        {
+            "source": "soviet",
+            "target": "vehicles",
+            "value": 1
+        },
+        {
+            "source": "soviet",
+            "target": "post-soviet",
+            "value": 1
+        },
+        {
+            "source": "vehicles",
+            "target": "buildings",
+            "value": 1
+        },
+        {
+            "source": "vehicles",
+            "target": "ussr",
+            "value": 1
+        },
+        {
+            "source": "vehicles",
+            "target": "post-soviet",
+            "value": 1
+        },
+        {
+            "source": "meme",
+            "target": "concept",
+            "value": 1
+        },
+        {
+            "source": "russia",
+            "target": "concept",
+            "value": 2
+        },
+        {
+            "source": "men",
+            "target": "concept",
+            "value": 1
+        },
+        {
+            "source": "concept",
+            "target": "russian",
+            "value": 1
+        },
+        {
+            "source": "russia",
+            "target": "meme",
+            "value": 2
+        },
+        {
+            "source": "men",
+            "target": "meme",
+            "value": 1
+        },
+        {
+            "source": "meme",
+            "target": "russian",
+            "value": 1
+        },
+        {
+            "source": "men",
+            "target": "russia",
+            "value": 3
+        },
+        {
+            "source": "men",
+            "target": "russian",
+            "value": 1
+        },
+        {
+            "source": "anime",
+            "target": "style",
+            "value": 1
+        },
+        {
+            "source": "soviet",
+            "target": "clothing",
+            "value": 2
+        },
+        {
+            "source": "soviet",
+            "target": "ww2",
+            "value": 1
+        },
+        {
+            "source": "russia",
+            "target": "ww2",
+            "value": 2
+        },
+        {
+            "source": "clothing",
+            "target": "ww2",
+            "value": 1
+        },
+        {
+            "source": "soviet",
+            "target": "military",
+            "value": 1
+        },
+        {
+            "source": "military",
+            "target": "ussr",
+            "value": 1
+        },
+        {
+            "source": "russia",
+            "target": "objects",
+            "value": 3
+        },
+        {
+            "source": "vintage",
+            "target": "concept",
+            "value": 1
+        },
+        {
+            "source": "retro",
+            "target": "vintage",
+            "value": 1
+        },
+        {
+            "source": "ussr",
+            "target": "vintage",
+            "value": 1
+        },
+        {
+            "source": "vintage",
+            "target": "post-soviet",
+            "value": 1
+        },
+        {
+            "source": "retro",
+            "target": "concept",
+            "value": 1
+        },
+        {
+            "source": "ussr",
+            "target": "concept",
+            "value": 1
+        },
+        {
+            "source": "concept",
+            "target": "post-soviet",
+            "value": 1
+        },
+        {
+            "source": "retro",
+            "target": "post-soviet",
+            "value": 1
+        },
+        {
+            "source": "objects",
+            "target": "ww2",
+            "value": 1
+        },
+        {
+            "source": "vehicles",
+            "target": "russian",
+            "value": 1
+        },
+        {
+            "source": "vehicles",
+            "target": "car",
+            "value": 1
+        },
+        {
+            "source": "poland",
+            "target": "celebrity",
+            "value": 1
+        },
+        {
+            "source": "r",
+            "target": "poland",
+            "value": 1
+        },
+        {
+            "source": "rus",
+            "target": "poland",
+            "value": 1
+        },
+        {
+            "source": "r",
+            "target": "celebrity",
+            "value": 1
+        },
+        {
+            "source": "rus",
+            "target": "celebrity",
+            "value": 1
+        },
+        {
+            "source": "r",
+            "target": "rus",
+            "value": 1
+        },
+        {
+            "source": "punk",
+            "target": "russian",
+            "value": 1
+        },
+        {
+            "source": "cartoon",
+            "target": "ussr",
+            "value": 1
+        },
+        {
+            "source": "russia",
+            "target": "youtube",
+            "value": 3
+        },
+        {
+            "source": "men",
+            "target": "celebrity",
+            "value": 2
+        },
+        {
+            "source": "youtube",
+            "target": "celebrity",
+            "value": 2
+        },
+        {
+            "source": "men",
+            "target": "youtube",
+            "value": 2
+        },
+        {
+            "source": "meme",
+            "target": "character",
+            "value": 1
+        },
+        {
+            "source": "youtube",
+            "target": "character",
+            "value": 1
+        },
+        {
+            "source": "meme",
+            "target": "youtube",
+            "value": 1
+        }
+    ]
+}

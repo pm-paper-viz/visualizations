@@ -1,0 +1,5845 @@
+{
+    "nodes": [
+        {
+            "id": "anime",
+            "size": 64
+        },
+        {
+            "id": "jav",
+            "size": 33
+        },
+        {
+            "id": "japan",
+            "size": 935
+        },
+        {
+            "id": "woman",
+            "size": 257
+        },
+        {
+            "id": "photorealistic",
+            "size": 280
+        },
+        {
+            "id": "scenery",
+            "size": 439
+        },
+        {
+            "id": "illustration",
+            "size": 56
+        },
+        {
+            "id": "realistic",
+            "size": 74
+        },
+        {
+            "id": "background",
+            "size": 443
+        },
+        {
+            "id": "school",
+            "size": 31
+        },
+        {
+            "id": "love hotel",
+            "size": 18
+        },
+        {
+            "id": "celeb",
+            "size": 3
+        },
+        {
+            "id": "celebrity",
+            "size": 188
+        },
+        {
+            "id": "japanese",
+            "size": 98
+        },
+        {
+            "id": "japanese girl",
+            "size": 17
+        },
+        {
+            "id": "style",
+            "size": 71
+        },
+        {
+            "id": "girls",
+            "size": 87
+        },
+        {
+            "id": "vehicle",
+            "size": 23
+        },
+        {
+            "id": "pool",
+            "size": 5
+        },
+        {
+            "id": "lora",
+            "size": 441
+        },
+        {
+            "id": "costume",
+            "size": 11
+        },
+        {
+            "id": "clothing",
+            "size": 51
+        },
+        {
+            "id": "convenience store",
+            "size": 32
+        },
+        {
+            "id": "bathroom",
+            "size": 7
+        },
+        {
+            "id": "buildings",
+            "size": 7
+        },
+        {
+            "id": "traditional",
+            "size": 3
+        },
+        {
+            "id": "girl",
+            "size": 10
+        },
+        {
+            "id": "gravure",
+            "size": 42
+        },
+        {
+            "id": "food",
+            "size": 50
+        },
+        {
+            "id": "toilet",
+            "size": 5
+        },
+        {
+            "id": "uniform",
+            "size": 23
+        },
+        {
+            "id": "person",
+            "size": 6
+        },
+        {
+            "id": "sexy",
+            "size": 31
+        },
+        {
+            "id": "female",
+            "size": 10
+        },
+        {
+            "id": "manga",
+            "size": 4
+        },
+        {
+            "id": "asian",
+            "size": 213
+        },
+        {
+            "id": "classroom",
+            "size": 3
+        },
+        {
+            "id": "\u65e5\u672c",
+            "size": 270
+        },
+        {
+            "id": "\u5ba4\u5185",
+            "size": 67
+        },
+        {
+            "id": "cosplayer",
+            "size": 4
+        },
+        {
+            "id": "textual inversion",
+            "size": 3
+        },
+        {
+            "id": "photography",
+            "size": 3
+        },
+        {
+            "id": "porn",
+            "size": 3
+        },
+        {
+            "id": "women",
+            "size": 2
+        },
+        {
+            "id": "shrine",
+            "size": 8
+        },
+        {
+            "id": "model",
+            "size": 18
+        },
+        {
+            "id": "japan girl",
+            "size": 21
+        },
+        {
+            "id": "room",
+            "size": 7
+        },
+        {
+            "id": "\u65e5\u672c\u306e\u4f4f\u5b85",
+            "size": 16
+        },
+        {
+            "id": "fantasy",
+            "size": 3
+        },
+        {
+            "id": "idol",
+            "size": 68
+        },
+        {
+            "id": "actor",
+            "size": 80
+        },
+        {
+            "id": "restaurant",
+            "size": 79
+        },
+        {
+            "id": "art style",
+            "size": 4
+        },
+        {
+            "id": "game",
+            "size": 2
+        },
+        {
+            "id": "actress",
+            "size": 42
+        },
+        {
+            "id": "studio",
+            "size": 4
+        },
+        {
+            "id": "street",
+            "size": 4
+        },
+        {
+            "id": "character",
+            "size": 52
+        },
+        {
+            "id": "male",
+            "size": 8
+        },
+        {
+            "id": "man",
+            "size": 3
+        },
+        {
+            "id": "tokyo",
+            "size": 68
+        },
+        {
+            "id": "shop",
+            "size": 7
+        },
+        {
+            "id": "concept",
+            "size": 17
+        },
+        {
+            "id": "\u5b66\u6821",
+            "size": 16
+        },
+        {
+            "id": "hallway",
+            "size": 3
+        },
+        {
+            "id": "bar",
+            "size": 17
+        },
+        {
+            "id": "watercolor",
+            "size": 2
+        },
+        {
+            "id": "china",
+            "size": 5
+        },
+        {
+            "id": "\u98a8\u666f",
+            "size": 78
+        },
+        {
+            "id": "cake",
+            "size": 4
+        },
+        {
+            "id": "photo",
+            "size": 3
+        },
+        {
+            "id": "backgrounds",
+            "size": 16
+        },
+        {
+            "id": "train station",
+            "size": 31
+        },
+        {
+            "id": "funny",
+            "size": 8
+        },
+        {
+            "id": "kemono",
+            "size": 19
+        },
+        {
+            "id": "anthro",
+            "size": 9
+        },
+        {
+            "id": "supermarket",
+            "size": 4
+        },
+        {
+            "id": "singer",
+            "size": 31
+        },
+        {
+            "id": "bedroom",
+            "size": 8
+        },
+        {
+            "id": "fox",
+            "size": 2
+        },
+        {
+            "id": "advertising",
+            "size": 4
+        },
+        {
+            "id": "1980s",
+            "size": 5
+        },
+        {
+            "id": "objects",
+            "size": 39
+        },
+        {
+            "id": "x-japan",
+            "size": 3
+        },
+        {
+            "id": "visual kei",
+            "size": 2
+        },
+        {
+            "id": "clothes",
+            "size": 8
+        },
+        {
+            "id": "retro",
+            "size": 5
+        },
+        {
+            "id": "omatsuri",
+            "size": 18
+        },
+        {
+            "id": "building",
+            "size": 9
+        },
+        {
+            "id": "shibuya",
+            "size": 10
+        },
+        {
+            "id": "hyogo",
+            "size": 23
+        },
+        {
+            "id": "osaka",
+            "size": 39
+        },
+        {
+            "id": "torii",
+            "size": 5
+        },
+        {
+            "id": "art",
+            "size": 4
+        },
+        {
+            "id": "kobe",
+            "size": 32
+        },
+        {
+            "id": "architecture",
+            "size": 2
+        },
+        {
+            "id": "\u5927\u962a",
+            "size": 44
+        },
+        {
+            "id": "samurai",
+            "size": 5
+        },
+        {
+            "id": "kimono",
+            "size": 4
+        },
+        {
+            "id": "animated",
+            "size": 5
+        },
+        {
+            "id": "artist",
+            "size": 3
+        },
+        {
+            "id": "car",
+            "size": 2
+        },
+        {
+            "id": "old market",
+            "size": 2
+        },
+        {
+            "id": "osaka, japan",
+            "size": 13
+        },
+        {
+            "id": "vending machine",
+            "size": 5
+        },
+        {
+            "id": "cartoon",
+            "size": 11
+        },
+        {
+            "id": "ramen",
+            "size": 23
+        },
+        {
+            "id": "nature",
+            "size": 3
+        },
+        {
+            "id": "mascot",
+            "size": 5
+        },
+        {
+            "id": "cosplay",
+            "size": 3
+        },
+        {
+            "id": "train",
+            "size": 12
+        },
+        {
+            "id": "kawaii",
+            "size": 6
+        },
+        {
+            "id": "animals",
+            "size": 3
+        },
+        {
+            "id": "bear",
+            "size": 3
+        },
+        {
+            "id": "chiba lotte marines",
+            "size": 13
+        },
+        {
+            "id": "\u7e01\u65e5\u30b7\u30ea\u30fc\u30ba",
+            "size": 9
+        },
+        {
+            "id": "80s",
+            "size": 2
+        },
+        {
+            "id": "furry",
+            "size": 13
+        },
+        {
+            "id": "lovelive",
+            "size": 6
+        },
+        {
+            "id": "love live",
+            "size": 6
+        },
+        {
+            "id": "love live!",
+            "size": 6
+        },
+        {
+            "id": "cat",
+            "size": 2
+        },
+        {
+            "id": "superhero",
+            "size": 2
+        },
+        {
+            "id": "shizuoka",
+            "size": 3
+        },
+        {
+            "id": "history",
+            "size": 2
+        }
+    ],
+    "links": [
+        {
+            "source": "anime",
+            "target": "jav",
+            "value": 1
+        },
+        {
+            "source": "anime",
+            "target": "japan",
+            "value": 59
+        },
+        {
+            "source": "woman",
+            "target": "anime",
+            "value": 24
+        },
+        {
+            "source": "jav",
+            "target": "japan",
+            "value": 30
+        },
+        {
+            "source": "woman",
+            "target": "jav",
+            "value": 28
+        },
+        {
+            "source": "woman",
+            "target": "japan",
+            "value": 239
+        },
+        {
+            "source": "scenery",
+            "target": "photorealistic",
+            "value": 43
+        },
+        {
+            "source": "japan",
+            "target": "photorealistic",
+            "value": 274
+        },
+        {
+            "source": "illustration",
+            "target": "photorealistic",
+            "value": 50
+        },
+        {
+            "source": "realistic",
+            "target": "photorealistic",
+            "value": 68
+        },
+        {
+            "source": "background",
+            "target": "photorealistic",
+            "value": 41
+        },
+        {
+            "source": "school",
+            "target": "photorealistic",
+            "value": 4
+        },
+        {
+            "source": "scenery",
+            "target": "japan",
+            "value": 437
+        },
+        {
+            "source": "scenery",
+            "target": "illustration",
+            "value": 43
+        },
+        {
+            "source": "scenery",
+            "target": "realistic",
+            "value": 45
+        },
+        {
+            "source": "scenery",
+            "target": "background",
+            "value": 419
+        },
+        {
+            "source": "scenery",
+            "target": "school",
+            "value": 29
+        },
+        {
+            "source": "illustration",
+            "target": "japan",
+            "value": 56
+        },
+        {
+            "source": "japan",
+            "target": "realistic",
+            "value": 71
+        },
+        {
+            "source": "background",
+            "target": "japan",
+            "value": 440
+        },
+        {
+            "source": "school",
+            "target": "japan",
+            "value": 31
+        },
+        {
+            "source": "illustration",
+            "target": "realistic",
+            "value": 51
+        },
+        {
+            "source": "background",
+            "target": "illustration",
+            "value": 39
+        },
+        {
+            "source": "illustration",
+            "target": "school",
+            "value": 4
+        },
+        {
+            "source": "background",
+            "target": "realistic",
+            "value": 44
+        },
+        {
+            "source": "school",
+            "target": "realistic",
+            "value": 4
+        },
+        {
+            "source": "background",
+            "target": "school",
+            "value": 30
+        },
+        {
+            "source": "love hotel",
+            "target": "photorealistic",
+            "value": 1
+        },
+        {
+            "source": "love hotel",
+            "target": "scenery",
+            "value": 18
+        },
+        {
+            "source": "love hotel",
+            "target": "japan",
+            "value": 18
+        },
+        {
+            "source": "love hotel",
+            "target": "illustration",
+            "value": 1
+        },
+        {
+            "source": "love hotel",
+            "target": "realistic",
+            "value": 1
+        },
+        {
+            "source": "love hotel",
+            "target": "background",
+            "value": 18
+        },
+        {
+            "source": "jav",
+            "target": "celeb",
+            "value": 1
+        },
+        {
+            "source": "jav",
+            "target": "celebrity",
+            "value": 31
+        },
+        {
+            "source": "japanese",
+            "target": "jav",
+            "value": 9
+        },
+        {
+            "source": "jav",
+            "target": "japanese girl",
+            "value": 9
+        },
+        {
+            "source": "japan",
+            "target": "celeb",
+            "value": 2
+        },
+        {
+            "source": "japan",
+            "target": "celebrity",
+            "value": 172
+        },
+        {
+            "source": "japanese",
+            "target": "japan",
+            "value": 91
+        },
+        {
+            "source": "japanese girl",
+            "target": "japan",
+            "value": 14
+        },
+        {
+            "source": "woman",
+            "target": "celeb",
+            "value": 2
+        },
+        {
+            "source": "woman",
+            "target": "celebrity",
+            "value": 174
+        },
+        {
+            "source": "woman",
+            "target": "japanese",
+            "value": 58
+        },
+        {
+            "source": "woman",
+            "target": "japanese girl",
+            "value": 11
+        },
+        {
+            "source": "celeb",
+            "target": "celebrity",
+            "value": 2
+        },
+        {
+            "source": "japanese",
+            "target": "celeb",
+            "value": 1
+        },
+        {
+            "source": "japanese girl",
+            "target": "celeb",
+            "value": 1
+        },
+        {
+            "source": "japanese",
+            "target": "celebrity",
+            "value": 60
+        },
+        {
+            "source": "japanese girl",
+            "target": "celebrity",
+            "value": 17
+        },
+        {
+            "source": "japanese",
+            "target": "japanese girl",
+            "value": 14
+        },
+        {
+            "source": "style",
+            "target": "japan",
+            "value": 67
+        },
+        {
+            "source": "girls",
+            "target": "japan",
+            "value": 81
+        },
+        {
+            "source": "style",
+            "target": "girls",
+            "value": 3
+        },
+        {
+            "source": "vehicle",
+            "target": "photorealistic",
+            "value": 4
+        },
+        {
+            "source": "scenery",
+            "target": "vehicle",
+            "value": 11
+        },
+        {
+            "source": "japan",
+            "target": "vehicle",
+            "value": 23
+        },
+        {
+            "source": "illustration",
+            "target": "vehicle",
+            "value": 4
+        },
+        {
+            "source": "vehicle",
+            "target": "realistic",
+            "value": 5
+        },
+        {
+            "source": "pool",
+            "target": "photorealistic",
+            "value": 2
+        },
+        {
+            "source": "pool",
+            "target": "scenery",
+            "value": 3
+        },
+        {
+            "source": "pool",
+            "target": "japan",
+            "value": 5
+        },
+        {
+            "source": "pool",
+            "target": "illustration",
+            "value": 1
+        },
+        {
+            "source": "pool",
+            "target": "realistic",
+            "value": 2
+        },
+        {
+            "source": "pool",
+            "target": "background",
+            "value": 4
+        },
+        {
+            "source": "lora",
+            "target": "photorealistic",
+            "value": 15
+        },
+        {
+            "source": "scenery",
+            "target": "lora",
+            "value": 355
+        },
+        {
+            "source": "lora",
+            "target": "japan",
+            "value": 438
+        },
+        {
+            "source": "illustration",
+            "target": "lora",
+            "value": 14
+        },
+        {
+            "source": "lora",
+            "target": "realistic",
+            "value": 15
+        },
+        {
+            "source": "background",
+            "target": "lora",
+            "value": 342
+        },
+        {
+            "source": "costume",
+            "target": "photorealistic",
+            "value": 8
+        },
+        {
+            "source": "clothing",
+            "target": "photorealistic",
+            "value": 14
+        },
+        {
+            "source": "japan",
+            "target": "costume",
+            "value": 11
+        },
+        {
+            "source": "illustration",
+            "target": "costume",
+            "value": 8
+        },
+        {
+            "source": "costume",
+            "target": "clothing",
+            "value": 10
+        },
+        {
+            "source": "costume",
+            "target": "realistic",
+            "value": 7
+        },
+        {
+            "source": "japan",
+            "target": "clothing",
+            "value": 50
+        },
+        {
+            "source": "illustration",
+            "target": "clothing",
+            "value": 8
+        },
+        {
+            "source": "realistic",
+            "target": "clothing",
+            "value": 14
+        },
+        {
+            "source": "convenience store",
+            "target": "photorealistic",
+            "value": 1
+        },
+        {
+            "source": "scenery",
+            "target": "convenience store",
+            "value": 31
+        },
+        {
+            "source": "japan",
+            "target": "convenience store",
+            "value": 32
+        },
+        {
+            "source": "illustration",
+            "target": "convenience store",
+            "value": 1
+        },
+        {
+            "source": "realistic",
+            "target": "convenience store",
+            "value": 1
+        },
+        {
+            "source": "background",
+            "target": "convenience store",
+            "value": 28
+        },
+        {
+            "source": "bathroom",
+            "target": "photorealistic",
+            "value": 1
+        },
+        {
+            "source": "scenery",
+            "target": "bathroom",
+            "value": 7
+        },
+        {
+            "source": "japan",
+            "target": "bathroom",
+            "value": 7
+        },
+        {
+            "source": "illustration",
+            "target": "bathroom",
+            "value": 1
+        },
+        {
+            "source": "bathroom",
+            "target": "realistic",
+            "value": 1
+        },
+        {
+            "source": "background",
+            "target": "bathroom",
+            "value": 7
+        },
+        {
+            "source": "buildings",
+            "target": "traditional",
+            "value": 1
+        },
+        {
+            "source": "buildings",
+            "target": "japan",
+            "value": 7
+        },
+        {
+            "source": "japan",
+            "target": "traditional",
+            "value": 3
+        },
+        {
+            "source": "lora",
+            "target": "clothing",
+            "value": 28
+        },
+        {
+            "source": "japan",
+            "target": "girl",
+            "value": 9
+        },
+        {
+            "source": "gravure",
+            "target": "girl",
+            "value": 3
+        },
+        {
+            "source": "woman",
+            "target": "girl",
+            "value": 6
+        },
+        {
+            "source": "celebrity",
+            "target": "girl",
+            "value": 6
+        },
+        {
+            "source": "japanese",
+            "target": "girl",
+            "value": 6
+        },
+        {
+            "source": "japanese girl",
+            "target": "girl",
+            "value": 6
+        },
+        {
+            "source": "japan",
+            "target": "gravure",
+            "value": 42
+        },
+        {
+            "source": "woman",
+            "target": "gravure",
+            "value": 40
+        },
+        {
+            "source": "celebrity",
+            "target": "gravure",
+            "value": 18
+        },
+        {
+            "source": "japanese",
+            "target": "gravure",
+            "value": 3
+        },
+        {
+            "source": "japanese girl",
+            "target": "gravure",
+            "value": 4
+        },
+        {
+            "source": "food",
+            "target": "photorealistic",
+            "value": 1
+        },
+        {
+            "source": "scenery",
+            "target": "food",
+            "value": 10
+        },
+        {
+            "source": "food",
+            "target": "japan",
+            "value": 49
+        },
+        {
+            "source": "food",
+            "target": "illustration",
+            "value": 1
+        },
+        {
+            "source": "food",
+            "target": "realistic",
+            "value": 1
+        },
+        {
+            "source": "background",
+            "target": "food",
+            "value": 10
+        },
+        {
+            "source": "woman",
+            "target": "photorealistic",
+            "value": 206
+        },
+        {
+            "source": "woman",
+            "target": "costume",
+            "value": 2
+        },
+        {
+            "source": "woman",
+            "target": "illustration",
+            "value": 3
+        },
+        {
+            "source": "woman",
+            "target": "clothing",
+            "value": 2
+        },
+        {
+            "source": "toilet",
+            "target": "photorealistic",
+            "value": 1
+        },
+        {
+            "source": "scenery",
+            "target": "toilet",
+            "value": 5
+        },
+        {
+            "source": "toilet",
+            "target": "japan",
+            "value": 5
+        },
+        {
+            "source": "toilet",
+            "target": "illustration",
+            "value": 1
+        },
+        {
+            "source": "toilet",
+            "target": "realistic",
+            "value": 1
+        },
+        {
+            "source": "toilet",
+            "target": "background",
+            "value": 4
+        },
+        {
+            "source": "uniform",
+            "target": "photorealistic",
+            "value": 1
+        },
+        {
+            "source": "uniform",
+            "target": "costume",
+            "value": 2
+        },
+        {
+            "source": "uniform",
+            "target": "japan",
+            "value": 23
+        },
+        {
+            "source": "uniform",
+            "target": "illustration",
+            "value": 1
+        },
+        {
+            "source": "uniform",
+            "target": "clothing",
+            "value": 14
+        },
+        {
+            "source": "uniform",
+            "target": "realistic",
+            "value": 1
+        },
+        {
+            "source": "lora",
+            "target": "costume",
+            "value": 6
+        },
+        {
+            "source": "jav",
+            "target": "girl",
+            "value": 3
+        },
+        {
+            "source": "lora",
+            "target": "vehicle",
+            "value": 15
+        },
+        {
+            "source": "anime",
+            "target": "person",
+            "value": 2
+        },
+        {
+            "source": "anime",
+            "target": "sexy",
+            "value": 5
+        },
+        {
+            "source": "anime",
+            "target": "female",
+            "value": 4
+        },
+        {
+            "source": "anime",
+            "target": "manga",
+            "value": 4
+        },
+        {
+            "source": "sexy",
+            "target": "person",
+            "value": 3
+        },
+        {
+            "source": "female",
+            "target": "person",
+            "value": 3
+        },
+        {
+            "source": "manga",
+            "target": "person",
+            "value": 2
+        },
+        {
+            "source": "japan",
+            "target": "person",
+            "value": 6
+        },
+        {
+            "source": "female",
+            "target": "sexy",
+            "value": 3
+        },
+        {
+            "source": "manga",
+            "target": "sexy",
+            "value": 1
+        },
+        {
+            "source": "japan",
+            "target": "sexy",
+            "value": 30
+        },
+        {
+            "source": "female",
+            "target": "manga",
+            "value": 1
+        },
+        {
+            "source": "female",
+            "target": "japan",
+            "value": 8
+        },
+        {
+            "source": "japan",
+            "target": "manga",
+            "value": 4
+        },
+        {
+            "source": "person",
+            "target": "girl",
+            "value": 3
+        },
+        {
+            "source": "photorealistic",
+            "target": "girl",
+            "value": 2
+        },
+        {
+            "source": "sexy",
+            "target": "girl",
+            "value": 2
+        },
+        {
+            "source": "asian",
+            "target": "girl",
+            "value": 2
+        },
+        {
+            "source": "photorealistic",
+            "target": "person",
+            "value": 2
+        },
+        {
+            "source": "asian",
+            "target": "person",
+            "value": 2
+        },
+        {
+            "source": "woman",
+            "target": "person",
+            "value": 1
+        },
+        {
+            "source": "sexy",
+            "target": "photorealistic",
+            "value": 24
+        },
+        {
+            "source": "asian",
+            "target": "photorealistic",
+            "value": 205
+        },
+        {
+            "source": "asian",
+            "target": "sexy",
+            "value": 23
+        },
+        {
+            "source": "woman",
+            "target": "sexy",
+            "value": 25
+        },
+        {
+            "source": "japan",
+            "target": "asian",
+            "value": 213
+        },
+        {
+            "source": "woman",
+            "target": "asian",
+            "value": 199
+        },
+        {
+            "source": "style",
+            "target": "anime",
+            "value": 31
+        },
+        {
+            "source": "anime",
+            "target": "illustration",
+            "value": 3
+        },
+        {
+            "source": "style",
+            "target": "woman",
+            "value": 18
+        },
+        {
+            "source": "style",
+            "target": "illustration",
+            "value": 4
+        },
+        {
+            "source": "scenery",
+            "target": "classroom",
+            "value": 2
+        },
+        {
+            "source": "\u65e5\u672c",
+            "target": "scenery",
+            "value": 226
+        },
+        {
+            "source": "\u5ba4\u5185",
+            "target": "scenery",
+            "value": 66
+        },
+        {
+            "source": "classroom",
+            "target": "japan",
+            "value": 3
+        },
+        {
+            "source": "\u65e5\u672c",
+            "target": "japan",
+            "value": 269
+        },
+        {
+            "source": "\u5ba4\u5185",
+            "target": "japan",
+            "value": 67
+        },
+        {
+            "source": "classroom",
+            "target": "background",
+            "value": 3
+        },
+        {
+            "source": "\u65e5\u672c",
+            "target": "background",
+            "value": 219
+        },
+        {
+            "source": "\u5ba4\u5185",
+            "target": "background",
+            "value": 65
+        },
+        {
+            "source": "classroom",
+            "target": "school",
+            "value": 3
+        },
+        {
+            "source": "\u65e5\u672c",
+            "target": "school",
+            "value": 23
+        },
+        {
+            "source": "\u5ba4\u5185",
+            "target": "school",
+            "value": 10
+        },
+        {
+            "source": "\u65e5\u672c",
+            "target": "classroom",
+            "value": 2
+        },
+        {
+            "source": "\u5ba4\u5185",
+            "target": "classroom",
+            "value": 1
+        },
+        {
+            "source": "\u65e5\u672c",
+            "target": "\u5ba4\u5185",
+            "value": 52
+        },
+        {
+            "source": "cosplayer",
+            "target": "girl",
+            "value": 1
+        },
+        {
+            "source": "cosplayer",
+            "target": "japan",
+            "value": 4
+        },
+        {
+            "source": "cosplayer",
+            "target": "gravure",
+            "value": 1
+        },
+        {
+            "source": "cosplayer",
+            "target": "celebrity",
+            "value": 4
+        },
+        {
+            "source": "cosplayer",
+            "target": "japanese",
+            "value": 1
+        },
+        {
+            "source": "cosplayer",
+            "target": "japanese girl",
+            "value": 1
+        },
+        {
+            "source": "asian",
+            "target": "textual inversion",
+            "value": 1
+        },
+        {
+            "source": "japan",
+            "target": "textual inversion",
+            "value": 3
+        },
+        {
+            "source": "photography",
+            "target": "textual inversion",
+            "value": 1
+        },
+        {
+            "source": "textual inversion",
+            "target": "realistic",
+            "value": 1
+        },
+        {
+            "source": "photography",
+            "target": "asian",
+            "value": 1
+        },
+        {
+            "source": "asian",
+            "target": "realistic",
+            "value": 3
+        },
+        {
+            "source": "photography",
+            "target": "japan",
+            "value": 3
+        },
+        {
+            "source": "photography",
+            "target": "realistic",
+            "value": 1
+        },
+        {
+            "source": "japan",
+            "target": "porn",
+            "value": 3
+        },
+        {
+            "source": "porn",
+            "target": "celebrity",
+            "value": 3
+        },
+        {
+            "source": "porn",
+            "target": "women",
+            "value": 1
+        },
+        {
+            "source": "japan",
+            "target": "women",
+            "value": 2
+        },
+        {
+            "source": "women",
+            "target": "celebrity",
+            "value": 1
+        },
+        {
+            "source": "lora",
+            "target": "bathroom",
+            "value": 6
+        },
+        {
+            "source": "love hotel",
+            "target": "bathroom",
+            "value": 3
+        },
+        {
+            "source": "love hotel",
+            "target": "lora",
+            "value": 16
+        },
+        {
+            "source": "shrine",
+            "target": "photorealistic",
+            "value": 1
+        },
+        {
+            "source": "shrine",
+            "target": "scenery",
+            "value": 5
+        },
+        {
+            "source": "shrine",
+            "target": "japan",
+            "value": 8
+        },
+        {
+            "source": "shrine",
+            "target": "illustration",
+            "value": 1
+        },
+        {
+            "source": "shrine",
+            "target": "realistic",
+            "value": 1
+        },
+        {
+            "source": "shrine",
+            "target": "background",
+            "value": 8
+        },
+        {
+            "source": "model",
+            "target": "japan",
+            "value": 18
+        },
+        {
+            "source": "model",
+            "target": "gravure",
+            "value": 3
+        },
+        {
+            "source": "model",
+            "target": "celebrity",
+            "value": 7
+        },
+        {
+            "source": "model",
+            "target": "japanese",
+            "value": 1
+        },
+        {
+            "source": "model",
+            "target": "japanese girl",
+            "value": 1
+        },
+        {
+            "source": "japan girl",
+            "target": "jav",
+            "value": 3
+        },
+        {
+            "source": "woman",
+            "target": "japan girl",
+            "value": 15
+        },
+        {
+            "source": "japan girl",
+            "target": "celebrity",
+            "value": 16
+        },
+        {
+            "source": "japanese",
+            "target": "japan girl",
+            "value": 7
+        },
+        {
+            "source": "room",
+            "target": "scenery",
+            "value": 7
+        },
+        {
+            "source": "scenery",
+            "target": "\u65e5\u672c\u306e\u4f4f\u5b85",
+            "value": 16
+        },
+        {
+            "source": "room",
+            "target": "japan",
+            "value": 7
+        },
+        {
+            "source": "\u65e5\u672c\u306e\u4f4f\u5b85",
+            "target": "japan",
+            "value": 16
+        },
+        {
+            "source": "room",
+            "target": "background",
+            "value": 7
+        },
+        {
+            "source": "background",
+            "target": "\u65e5\u672c\u306e\u4f4f\u5b85",
+            "value": 16
+        },
+        {
+            "source": "room",
+            "target": "lora",
+            "value": 5
+        },
+        {
+            "source": "room",
+            "target": "\u65e5\u672c\u306e\u4f4f\u5b85",
+            "value": 1
+        },
+        {
+            "source": "\u65e5\u672c\u306e\u4f4f\u5b85",
+            "target": "lora",
+            "value": 14
+        },
+        {
+            "source": "fantasy",
+            "target": "anime",
+            "value": 2
+        },
+        {
+            "source": "style",
+            "target": "sexy",
+            "value": 4
+        },
+        {
+            "source": "fantasy",
+            "target": "sexy",
+            "value": 1
+        },
+        {
+            "source": "style",
+            "target": "female",
+            "value": 1
+        },
+        {
+            "source": "fantasy",
+            "target": "female",
+            "value": 1
+        },
+        {
+            "source": "fantasy",
+            "target": "japan",
+            "value": 3
+        },
+        {
+            "source": "style",
+            "target": "fantasy",
+            "value": 2
+        },
+        {
+            "source": "japan girl",
+            "target": "japan",
+            "value": 2
+        },
+        {
+            "source": "girls",
+            "target": "clothing",
+            "value": 1
+        },
+        {
+            "source": "japan girl",
+            "target": "clothing",
+            "value": 1
+        },
+        {
+            "source": "japan girl",
+            "target": "girls",
+            "value": 5
+        },
+        {
+            "source": "idol",
+            "target": "photorealistic",
+            "value": 60
+        },
+        {
+            "source": "gravure",
+            "target": "photorealistic",
+            "value": 38
+        },
+        {
+            "source": "actor",
+            "target": "photorealistic",
+            "value": 80
+        },
+        {
+            "source": "asian",
+            "target": "idol",
+            "value": 57
+        },
+        {
+            "source": "asian",
+            "target": "gravure",
+            "value": 38
+        },
+        {
+            "source": "actor",
+            "target": "asian",
+            "value": 80
+        },
+        {
+            "source": "japan",
+            "target": "idol",
+            "value": 60
+        },
+        {
+            "source": "actor",
+            "target": "japan",
+            "value": 80
+        },
+        {
+            "source": "gravure",
+            "target": "idol",
+            "value": 38
+        },
+        {
+            "source": "woman",
+            "target": "idol",
+            "value": 65
+        },
+        {
+            "source": "actor",
+            "target": "idol",
+            "value": 27
+        },
+        {
+            "source": "actor",
+            "target": "gravure",
+            "value": 18
+        },
+        {
+            "source": "woman",
+            "target": "actor",
+            "value": 80
+        },
+        {
+            "source": "pool",
+            "target": "clothing",
+            "value": 1
+        },
+        {
+            "source": "restaurant",
+            "target": "photorealistic",
+            "value": 1
+        },
+        {
+            "source": "scenery",
+            "target": "restaurant",
+            "value": 76
+        },
+        {
+            "source": "restaurant",
+            "target": "japan",
+            "value": 79
+        },
+        {
+            "source": "illustration",
+            "target": "restaurant",
+            "value": 2
+        },
+        {
+            "source": "restaurant",
+            "target": "realistic",
+            "value": 2
+        },
+        {
+            "source": "background",
+            "target": "restaurant",
+            "value": 73
+        },
+        {
+            "source": "style",
+            "target": "textual inversion",
+            "value": 1
+        },
+        {
+            "source": "art style",
+            "target": "textual inversion",
+            "value": 1
+        },
+        {
+            "source": "japanese",
+            "target": "textual inversion",
+            "value": 1
+        },
+        {
+            "source": "art style",
+            "target": "japan",
+            "value": 3
+        },
+        {
+            "source": "style",
+            "target": "art style",
+            "value": 4
+        },
+        {
+            "source": "style",
+            "target": "japanese",
+            "value": 6
+        },
+        {
+            "source": "japanese",
+            "target": "art style",
+            "value": 1
+        },
+        {
+            "source": "game",
+            "target": "buildings",
+            "value": 1
+        },
+        {
+            "source": "game",
+            "target": "japan",
+            "value": 2
+        },
+        {
+            "source": "toilet",
+            "target": "school",
+            "value": 1
+        },
+        {
+            "source": "lora",
+            "target": "school",
+            "value": 22
+        },
+        {
+            "source": "toilet",
+            "target": "lora",
+            "value": 4
+        },
+        {
+            "source": "actress",
+            "target": "photorealistic",
+            "value": 41
+        },
+        {
+            "source": "celebrity",
+            "target": "photorealistic",
+            "value": 152
+        },
+        {
+            "source": "actress",
+            "target": "asian",
+            "value": 41
+        },
+        {
+            "source": "asian",
+            "target": "celebrity",
+            "value": 146
+        },
+        {
+            "source": "actress",
+            "target": "japan",
+            "value": 42
+        },
+        {
+            "source": "woman",
+            "target": "actress",
+            "value": 42
+        },
+        {
+            "source": "actor",
+            "target": "actress",
+            "value": 39
+        },
+        {
+            "source": "actor",
+            "target": "celebrity",
+            "value": 41
+        },
+        {
+            "source": "actress",
+            "target": "celebrity",
+            "value": 28
+        },
+        {
+            "source": "studio",
+            "target": "photorealistic",
+            "value": 1
+        },
+        {
+            "source": "studio",
+            "target": "scenery",
+            "value": 4
+        },
+        {
+            "source": "studio",
+            "target": "japan",
+            "value": 4
+        },
+        {
+            "source": "studio",
+            "target": "illustration",
+            "value": 1
+        },
+        {
+            "source": "studio",
+            "target": "realistic",
+            "value": 1
+        },
+        {
+            "source": "studio",
+            "target": "background",
+            "value": 4
+        },
+        {
+            "source": "scenery",
+            "target": "street",
+            "value": 3
+        },
+        {
+            "source": "japan",
+            "target": "street",
+            "value": 4
+        },
+        {
+            "source": "background",
+            "target": "street",
+            "value": 3
+        },
+        {
+            "source": "lora",
+            "target": "street",
+            "value": 2
+        },
+        {
+            "source": "\u65e5\u672c\u306e\u4f4f\u5b85",
+            "target": "street",
+            "value": 1
+        },
+        {
+            "source": "woman",
+            "target": "female",
+            "value": 5
+        },
+        {
+            "source": "female",
+            "target": "celebrity",
+            "value": 3
+        },
+        {
+            "source": "female",
+            "target": "girls",
+            "value": 3
+        },
+        {
+            "source": "japanese",
+            "target": "female",
+            "value": 3
+        },
+        {
+            "source": "japan girl",
+            "target": "female",
+            "value": 2
+        },
+        {
+            "source": "woman",
+            "target": "girls",
+            "value": 83
+        },
+        {
+            "source": "girls",
+            "target": "celebrity",
+            "value": 79
+        },
+        {
+            "source": "japanese",
+            "target": "girls",
+            "value": 44
+        },
+        {
+            "source": "anime",
+            "target": "character",
+            "value": 18
+        },
+        {
+            "source": "anime",
+            "target": "male",
+            "value": 5
+        },
+        {
+            "source": "anime",
+            "target": "man",
+            "value": 1
+        },
+        {
+            "source": "anime",
+            "target": "uniform",
+            "value": 2
+        },
+        {
+            "source": "japan",
+            "target": "character",
+            "value": 47
+        },
+        {
+            "source": "male",
+            "target": "character",
+            "value": 7
+        },
+        {
+            "source": "man",
+            "target": "character",
+            "value": 3
+        },
+        {
+            "source": "uniform",
+            "target": "character",
+            "value": 1
+        },
+        {
+            "source": "japan",
+            "target": "male",
+            "value": 8
+        },
+        {
+            "source": "man",
+            "target": "japan",
+            "value": 3
+        },
+        {
+            "source": "man",
+            "target": "male",
+            "value": 2
+        },
+        {
+            "source": "uniform",
+            "target": "male",
+            "value": 1
+        },
+        {
+            "source": "man",
+            "target": "uniform",
+            "value": 1
+        },
+        {
+            "source": "tokyo",
+            "target": "character",
+            "value": 1
+        },
+        {
+            "source": "character",
+            "target": "idol",
+            "value": 1
+        },
+        {
+            "source": "woman",
+            "target": "character",
+            "value": 9
+        },
+        {
+            "source": "japanese",
+            "target": "character",
+            "value": 10
+        },
+        {
+            "source": "character",
+            "target": "women",
+            "value": 1
+        },
+        {
+            "source": "tokyo",
+            "target": "japan",
+            "value": 68
+        },
+        {
+            "source": "tokyo",
+            "target": "idol",
+            "value": 1
+        },
+        {
+            "source": "woman",
+            "target": "tokyo",
+            "value": 2
+        },
+        {
+            "source": "japanese",
+            "target": "tokyo",
+            "value": 2
+        },
+        {
+            "source": "tokyo",
+            "target": "women",
+            "value": 1
+        },
+        {
+            "source": "japanese",
+            "target": "idol",
+            "value": 2
+        },
+        {
+            "source": "women",
+            "target": "idol",
+            "value": 1
+        },
+        {
+            "source": "woman",
+            "target": "women",
+            "value": 1
+        },
+        {
+            "source": "japanese",
+            "target": "women",
+            "value": 1
+        },
+        {
+            "source": "scenery",
+            "target": "tokyo",
+            "value": 58
+        },
+        {
+            "source": "background",
+            "target": "tokyo",
+            "value": 62
+        },
+        {
+            "source": "tokyo",
+            "target": "lora",
+            "value": 44
+        },
+        {
+            "source": "shop",
+            "target": "photorealistic",
+            "value": 1
+        },
+        {
+            "source": "shop",
+            "target": "scenery",
+            "value": 7
+        },
+        {
+            "source": "shop",
+            "target": "japan",
+            "value": 7
+        },
+        {
+            "source": "shop",
+            "target": "illustration",
+            "value": 1
+        },
+        {
+            "source": "shop",
+            "target": "realistic",
+            "value": 1
+        },
+        {
+            "source": "shop",
+            "target": "background",
+            "value": 7
+        },
+        {
+            "source": "concept",
+            "target": "japan",
+            "value": 17
+        },
+        {
+            "source": "concept",
+            "target": "fantasy",
+            "value": 1
+        },
+        {
+            "source": "classroom",
+            "target": "lora",
+            "value": 1
+        },
+        {
+            "source": "\u65e5\u672c",
+            "target": "lora",
+            "value": 249
+        },
+        {
+            "source": "\u5b66\u6821",
+            "target": "scenery",
+            "value": 14
+        },
+        {
+            "source": "\u5b66\u6821",
+            "target": "japan",
+            "value": 16
+        },
+        {
+            "source": "\u5b66\u6821",
+            "target": "background",
+            "value": 14
+        },
+        {
+            "source": "\u5ba4\u5185",
+            "target": "lora",
+            "value": 58
+        },
+        {
+            "source": "\u5b66\u6821",
+            "target": "lora",
+            "value": 16
+        },
+        {
+            "source": "\u65e5\u672c",
+            "target": "\u5b66\u6821",
+            "value": 15
+        },
+        {
+            "source": "\u5ba4\u5185",
+            "target": "\u5b66\u6821",
+            "value": 2
+        },
+        {
+            "source": "hallway",
+            "target": "scenery",
+            "value": 3
+        },
+        {
+            "source": "hallway",
+            "target": "japan",
+            "value": 3
+        },
+        {
+            "source": "hallway",
+            "target": "background",
+            "value": 3
+        },
+        {
+            "source": "hallway",
+            "target": "school",
+            "value": 1
+        },
+        {
+            "source": "\u65e5\u672c",
+            "target": "hallway",
+            "value": 1
+        },
+        {
+            "source": "hallway",
+            "target": "\u5ba4\u5185",
+            "value": 1
+        },
+        {
+            "source": "pool",
+            "target": "tokyo",
+            "value": 1
+        },
+        {
+            "source": "pool",
+            "target": "lora",
+            "value": 1
+        },
+        {
+            "source": "\u65e5\u672c",
+            "target": "bathroom",
+            "value": 2
+        },
+        {
+            "source": "bar",
+            "target": "photorealistic",
+            "value": 1
+        },
+        {
+            "source": "scenery",
+            "target": "bar",
+            "value": 17
+        },
+        {
+            "source": "bar",
+            "target": "japan",
+            "value": 17
+        },
+        {
+            "source": "bar",
+            "target": "illustration",
+            "value": 2
+        },
+        {
+            "source": "bar",
+            "target": "realistic",
+            "value": 2
+        },
+        {
+            "source": "bar",
+            "target": "background",
+            "value": 16
+        },
+        {
+            "source": "girls",
+            "target": "photorealistic",
+            "value": 75
+        },
+        {
+            "source": "girls",
+            "target": "asian",
+            "value": 71
+        },
+        {
+            "source": "actor",
+            "target": "girls",
+            "value": 7
+        },
+        {
+            "source": "japan",
+            "target": "watercolor",
+            "value": 2
+        },
+        {
+            "source": "style",
+            "target": "watercolor",
+            "value": 2
+        },
+        {
+            "source": "china",
+            "target": "watercolor",
+            "value": 1
+        },
+        {
+            "source": "china",
+            "target": "japan",
+            "value": 5
+        },
+        {
+            "source": "style",
+            "target": "china",
+            "value": 3
+        },
+        {
+            "source": "hallway",
+            "target": "\u65e5\u672c\u306e\u4f4f\u5b85",
+            "value": 1
+        },
+        {
+            "source": "japanese",
+            "target": "photorealistic",
+            "value": 46
+        },
+        {
+            "source": "japanese",
+            "target": "asian",
+            "value": 45
+        },
+        {
+            "source": "school",
+            "target": "clothing",
+            "value": 1
+        },
+        {
+            "source": "\u65e5\u672c",
+            "target": "clothing",
+            "value": 10
+        },
+        {
+            "source": "\u5b66\u6821",
+            "target": "clothing",
+            "value": 2
+        },
+        {
+            "source": "\u5b66\u6821",
+            "target": "school",
+            "value": 12
+        },
+        {
+            "source": "female",
+            "target": "girl",
+            "value": 2
+        },
+        {
+            "source": "female",
+            "target": "photorealistic",
+            "value": 2
+        },
+        {
+            "source": "female",
+            "target": "asian",
+            "value": 1
+        },
+        {
+            "source": "tokyo",
+            "target": "photorealistic",
+            "value": 9
+        },
+        {
+            "source": "tokyo",
+            "target": "realistic",
+            "value": 8
+        },
+        {
+            "source": "\u98a8\u666f",
+            "target": "scenery",
+            "value": 77
+        },
+        {
+            "source": "\u98a8\u666f",
+            "target": "japan",
+            "value": 78
+        },
+        {
+            "source": "\u98a8\u666f",
+            "target": "background",
+            "value": 77
+        },
+        {
+            "source": "room",
+            "target": "\u5ba4\u5185",
+            "value": 3
+        },
+        {
+            "source": "\u98a8\u666f",
+            "target": "room",
+            "value": 3
+        },
+        {
+            "source": "\u98a8\u666f",
+            "target": "lora",
+            "value": 69
+        },
+        {
+            "source": "\u98a8\u666f",
+            "target": "\u5ba4\u5185",
+            "value": 14
+        },
+        {
+            "source": "concept",
+            "target": "china",
+            "value": 2
+        },
+        {
+            "source": "cake",
+            "target": "scenery",
+            "value": 2
+        },
+        {
+            "source": "cake",
+            "target": "japan",
+            "value": 4
+        },
+        {
+            "source": "cake",
+            "target": "background",
+            "value": 2
+        },
+        {
+            "source": "cake",
+            "target": "restaurant",
+            "value": 1
+        },
+        {
+            "source": "cake",
+            "target": "lora",
+            "value": 3
+        },
+        {
+            "source": "restaurant",
+            "target": "lora",
+            "value": 71
+        },
+        {
+            "source": "photo",
+            "target": "japan",
+            "value": 3
+        },
+        {
+            "source": "style",
+            "target": "photo",
+            "value": 2
+        },
+        {
+            "source": "photo",
+            "target": "lora",
+            "value": 1
+        },
+        {
+            "source": "style",
+            "target": "lora",
+            "value": 2
+        },
+        {
+            "source": "anime",
+            "target": "girls",
+            "value": 6
+        },
+        {
+            "source": "japanese",
+            "target": "anime",
+            "value": 12
+        },
+        {
+            "source": "anime",
+            "target": "background",
+            "value": 4
+        },
+        {
+            "source": "background",
+            "target": "female",
+            "value": 1
+        },
+        {
+            "source": "woman",
+            "target": "background",
+            "value": 1
+        },
+        {
+            "source": "background",
+            "target": "girls",
+            "value": 1
+        },
+        {
+            "source": "japanese",
+            "target": "background",
+            "value": 14
+        },
+        {
+            "source": "backgrounds",
+            "target": "japan",
+            "value": 16
+        },
+        {
+            "source": "japanese",
+            "target": "school",
+            "value": 2
+        },
+        {
+            "source": "japanese",
+            "target": "classroom",
+            "value": 1
+        },
+        {
+            "source": "japanese",
+            "target": "backgrounds",
+            "value": 9
+        },
+        {
+            "source": "background",
+            "target": "backgrounds",
+            "value": 13
+        },
+        {
+            "source": "backgrounds",
+            "target": "school",
+            "value": 2
+        },
+        {
+            "source": "classroom",
+            "target": "backgrounds",
+            "value": 1
+        },
+        {
+            "source": "japanese",
+            "target": "pool",
+            "value": 1
+        },
+        {
+            "source": "pool",
+            "target": "backgrounds",
+            "value": 1
+        },
+        {
+            "source": "japan girl",
+            "target": "japanese girl",
+            "value": 3
+        },
+        {
+            "source": "\u65e5\u672c",
+            "target": "toilet",
+            "value": 2
+        },
+        {
+            "source": "\u5ba4\u5185",
+            "target": "toilet",
+            "value": 2
+        },
+        {
+            "source": "train station",
+            "target": "photorealistic",
+            "value": 1
+        },
+        {
+            "source": "scenery",
+            "target": "train station",
+            "value": 31
+        },
+        {
+            "source": "train station",
+            "target": "japan",
+            "value": 31
+        },
+        {
+            "source": "train station",
+            "target": "illustration",
+            "value": 1
+        },
+        {
+            "source": "train station",
+            "target": "realistic",
+            "value": 1
+        },
+        {
+            "source": "train station",
+            "target": "background",
+            "value": 31
+        },
+        {
+            "source": "japan girl",
+            "target": "character",
+            "value": 2
+        },
+        {
+            "source": "toilet",
+            "target": "\u65e5\u672c\u306e\u4f4f\u5b85",
+            "value": 1
+        },
+        {
+            "source": "model",
+            "target": "photorealistic",
+            "value": 16
+        },
+        {
+            "source": "model",
+            "target": "asian",
+            "value": 16
+        },
+        {
+            "source": "model",
+            "target": "woman",
+            "value": 16
+        },
+        {
+            "source": "model",
+            "target": "actor",
+            "value": 8
+        },
+        {
+            "source": "anime",
+            "target": "funny",
+            "value": 8
+        },
+        {
+            "source": "anime",
+            "target": "kemono",
+            "value": 18
+        },
+        {
+            "source": "anime",
+            "target": "anthro",
+            "value": 8
+        },
+        {
+            "source": "japan",
+            "target": "funny",
+            "value": 8
+        },
+        {
+            "source": "funny",
+            "target": "kemono",
+            "value": 8
+        },
+        {
+            "source": "style",
+            "target": "funny",
+            "value": 5
+        },
+        {
+            "source": "woman",
+            "target": "funny",
+            "value": 4
+        },
+        {
+            "source": "funny",
+            "target": "anthro",
+            "value": 5
+        },
+        {
+            "source": "japan",
+            "target": "kemono",
+            "value": 19
+        },
+        {
+            "source": "japan",
+            "target": "anthro",
+            "value": 9
+        },
+        {
+            "source": "style",
+            "target": "kemono",
+            "value": 13
+        },
+        {
+            "source": "woman",
+            "target": "kemono",
+            "value": 11
+        },
+        {
+            "source": "anthro",
+            "target": "kemono",
+            "value": 9
+        },
+        {
+            "source": "style",
+            "target": "anthro",
+            "value": 6
+        },
+        {
+            "source": "woman",
+            "target": "anthro",
+            "value": 6
+        },
+        {
+            "source": "scenery",
+            "target": "clothing",
+            "value": 6
+        },
+        {
+            "source": "restaurant",
+            "target": "clothing",
+            "value": 4
+        },
+        {
+            "source": "jav",
+            "target": "photorealistic",
+            "value": 20
+        },
+        {
+            "source": "jav",
+            "target": "sexy",
+            "value": 21
+        },
+        {
+            "source": "celebrity",
+            "target": "sexy",
+            "value": 20
+        },
+        {
+            "source": "jav",
+            "target": "asian",
+            "value": 20
+        },
+        {
+            "source": "scenery",
+            "target": "uniform",
+            "value": 13
+        },
+        {
+            "source": "convenience store",
+            "target": "clothing",
+            "value": 3
+        },
+        {
+            "source": "uniform",
+            "target": "convenience store",
+            "value": 8
+        },
+        {
+            "source": "uniform",
+            "target": "lora",
+            "value": 16
+        },
+        {
+            "source": "\u65e5\u672c",
+            "target": "uniform",
+            "value": 12
+        },
+        {
+            "source": "lora",
+            "target": "convenience store",
+            "value": 29
+        },
+        {
+            "source": "\u65e5\u672c",
+            "target": "convenience store",
+            "value": 31
+        },
+        {
+            "source": "japanese",
+            "target": "scenery",
+            "value": 7
+        },
+        {
+            "source": "supermarket",
+            "target": "scenery",
+            "value": 4
+        },
+        {
+            "source": "scenery",
+            "target": "backgrounds",
+            "value": 9
+        },
+        {
+            "source": "supermarket",
+            "target": "japan",
+            "value": 4
+        },
+        {
+            "source": "japanese",
+            "target": "supermarket",
+            "value": 1
+        },
+        {
+            "source": "supermarket",
+            "target": "background",
+            "value": 4
+        },
+        {
+            "source": "supermarket",
+            "target": "backgrounds",
+            "value": 1
+        },
+        {
+            "source": "\u65e5\u672c",
+            "target": "\u98a8\u666f",
+            "value": 65
+        },
+        {
+            "source": "singer",
+            "target": "girl",
+            "value": 1
+        },
+        {
+            "source": "textual inversion",
+            "target": "girl",
+            "value": 1
+        },
+        {
+            "source": "model",
+            "target": "girl",
+            "value": 1
+        },
+        {
+            "source": "singer",
+            "target": "person",
+            "value": 1
+        },
+        {
+            "source": "textual inversion",
+            "target": "person",
+            "value": 1
+        },
+        {
+            "source": "model",
+            "target": "person",
+            "value": 1
+        },
+        {
+            "source": "female",
+            "target": "singer",
+            "value": 1
+        },
+        {
+            "source": "textual inversion",
+            "target": "singer",
+            "value": 1
+        },
+        {
+            "source": "model",
+            "target": "singer",
+            "value": 5
+        },
+        {
+            "source": "japan",
+            "target": "singer",
+            "value": 31
+        },
+        {
+            "source": "female",
+            "target": "textual inversion",
+            "value": 1
+        },
+        {
+            "source": "model",
+            "target": "female",
+            "value": 1
+        },
+        {
+            "source": "model",
+            "target": "textual inversion",
+            "value": 1
+        },
+        {
+            "source": "photorealistic",
+            "target": "singer",
+            "value": 30
+        },
+        {
+            "source": "asian",
+            "target": "singer",
+            "value": 30
+        },
+        {
+            "source": "idol",
+            "target": "singer",
+            "value": 18
+        },
+        {
+            "source": "bar",
+            "target": "restaurant",
+            "value": 11
+        },
+        {
+            "source": "\u65e5\u672c",
+            "target": "restaurant",
+            "value": 39
+        },
+        {
+            "source": "\u5ba4\u5185",
+            "target": "restaurant",
+            "value": 10
+        },
+        {
+            "source": "scenery",
+            "target": "bedroom",
+            "value": 8
+        },
+        {
+            "source": "bedroom",
+            "target": "japan",
+            "value": 8
+        },
+        {
+            "source": "bedroom",
+            "target": "background",
+            "value": 8
+        },
+        {
+            "source": "room",
+            "target": "bedroom",
+            "value": 2
+        },
+        {
+            "source": "anime",
+            "target": "fox",
+            "value": 1
+        },
+        {
+            "source": "fox",
+            "target": "japan",
+            "value": 2
+        },
+        {
+            "source": "style",
+            "target": "fox",
+            "value": 1
+        },
+        {
+            "source": "japanese",
+            "target": "fox",
+            "value": 1
+        },
+        {
+            "source": "model",
+            "target": "actress",
+            "value": 5
+        },
+        {
+            "source": "\u98a8\u666f",
+            "target": "convenience store",
+            "value": 19
+        },
+        {
+            "source": "japan girl",
+            "target": "celeb",
+            "value": 1
+        },
+        {
+            "source": "advertising",
+            "target": "japan",
+            "value": 4
+        },
+        {
+            "source": "advertising",
+            "target": "style",
+            "value": 3
+        },
+        {
+            "source": "advertising",
+            "target": "1980s",
+            "value": 2
+        },
+        {
+            "source": "japan",
+            "target": "1980s",
+            "value": 5
+        },
+        {
+            "source": "style",
+            "target": "1980s",
+            "value": 4
+        },
+        {
+            "source": "tokyo",
+            "target": "illustration",
+            "value": 7
+        },
+        {
+            "source": "japan",
+            "target": "objects",
+            "value": 38
+        },
+        {
+            "source": "food",
+            "target": "objects",
+            "value": 35
+        },
+        {
+            "source": "restaurant",
+            "target": "objects",
+            "value": 1
+        },
+        {
+            "source": "lora",
+            "target": "objects",
+            "value": 38
+        },
+        {
+            "source": "\u65e5\u672c",
+            "target": "objects",
+            "value": 33
+        },
+        {
+            "source": "food",
+            "target": "restaurant",
+            "value": 4
+        },
+        {
+            "source": "food",
+            "target": "lora",
+            "value": 42
+        },
+        {
+            "source": "\u65e5\u672c",
+            "target": "food",
+            "value": 37
+        },
+        {
+            "source": "bedroom",
+            "target": "lora",
+            "value": 7
+        },
+        {
+            "source": "bedroom",
+            "target": "\u65e5\u672c\u306e\u4f4f\u5b85",
+            "value": 2
+        },
+        {
+            "source": "anime",
+            "target": "x-japan",
+            "value": 3
+        },
+        {
+            "source": "anime",
+            "target": "visual kei",
+            "value": 1
+        },
+        {
+            "source": "style",
+            "target": "x-japan",
+            "value": 3
+        },
+        {
+            "source": "style",
+            "target": "visual kei",
+            "value": 1
+        },
+        {
+            "source": "x-japan",
+            "target": "visual kei",
+            "value": 1
+        },
+        {
+            "source": "\u98a8\u666f",
+            "target": "\u5b66\u6821",
+            "value": 2
+        },
+        {
+            "source": "clothes",
+            "target": "photorealistic",
+            "value": 5
+        },
+        {
+            "source": "clothes",
+            "target": "japan",
+            "value": 8
+        },
+        {
+            "source": "clothes",
+            "target": "clothing",
+            "value": 7
+        },
+        {
+            "source": "clothes",
+            "target": "realistic",
+            "value": 5
+        },
+        {
+            "source": "retro",
+            "target": "tokyo",
+            "value": 1
+        },
+        {
+            "source": "retro",
+            "target": "japan",
+            "value": 5
+        },
+        {
+            "source": "retro",
+            "target": "style",
+            "value": 4
+        },
+        {
+            "source": "retro",
+            "target": "1980s",
+            "value": 3
+        },
+        {
+            "source": "style",
+            "target": "tokyo",
+            "value": 2
+        },
+        {
+            "source": "tokyo",
+            "target": "1980s",
+            "value": 1
+        },
+        {
+            "source": "woman",
+            "target": "singer",
+            "value": 29
+        },
+        {
+            "source": "actor",
+            "target": "singer",
+            "value": 16
+        },
+        {
+            "source": "actress",
+            "target": "singer",
+            "value": 4
+        },
+        {
+            "source": "celebrity",
+            "target": "idol",
+            "value": 29
+        },
+        {
+            "source": "japan girl",
+            "target": "idol",
+            "value": 8
+        },
+        {
+            "source": "scenery",
+            "target": "omatsuri",
+            "value": 4
+        },
+        {
+            "source": "japan",
+            "target": "omatsuri",
+            "value": 18
+        },
+        {
+            "source": "background",
+            "target": "omatsuri",
+            "value": 4
+        },
+        {
+            "source": "lora",
+            "target": "omatsuri",
+            "value": 18
+        },
+        {
+            "source": "\u65e5\u672c",
+            "target": "omatsuri",
+            "value": 16
+        },
+        {
+            "source": "\u98a8\u666f",
+            "target": "omatsuri",
+            "value": 2
+        },
+        {
+            "source": "bar",
+            "target": "lora",
+            "value": 12
+        },
+        {
+            "source": "\u5ba4\u5185",
+            "target": "bar",
+            "value": 6
+        },
+        {
+            "source": "\u98a8\u666f",
+            "target": "bar",
+            "value": 1
+        },
+        {
+            "source": "buildings",
+            "target": "building",
+            "value": 2
+        },
+        {
+            "source": "buildings",
+            "target": "backgrounds",
+            "value": 1
+        },
+        {
+            "source": "building",
+            "target": "japan",
+            "value": 9
+        },
+        {
+            "source": "backgrounds",
+            "target": "building",
+            "value": 1
+        },
+        {
+            "source": "tokyo",
+            "target": "shibuya",
+            "value": 10
+        },
+        {
+            "source": "scenery",
+            "target": "shibuya",
+            "value": 9
+        },
+        {
+            "source": "japan",
+            "target": "shibuya",
+            "value": 10
+        },
+        {
+            "source": "background",
+            "target": "shibuya",
+            "value": 9
+        },
+        {
+            "source": "lora",
+            "target": "shibuya",
+            "value": 9
+        },
+        {
+            "source": "\u65e5\u672c",
+            "target": "shibuya",
+            "value": 9
+        },
+        {
+            "source": "\u65e5\u672c",
+            "target": "tokyo",
+            "value": 35
+        },
+        {
+            "source": "idol",
+            "target": "sexy",
+            "value": 1
+        },
+        {
+            "source": "gravure",
+            "target": "sexy",
+            "value": 1
+        },
+        {
+            "source": "scenery",
+            "target": "hyogo",
+            "value": 21
+        },
+        {
+            "source": "japan",
+            "target": "hyogo",
+            "value": 23
+        },
+        {
+            "source": "background",
+            "target": "hyogo",
+            "value": 20
+        },
+        {
+            "source": "lora",
+            "target": "hyogo",
+            "value": 20
+        },
+        {
+            "source": "scenery",
+            "target": "osaka",
+            "value": 36
+        },
+        {
+            "source": "bar",
+            "target": "osaka",
+            "value": 4
+        },
+        {
+            "source": "osaka",
+            "target": "japan",
+            "value": 39
+        },
+        {
+            "source": "background",
+            "target": "osaka",
+            "value": 31
+        },
+        {
+            "source": "restaurant",
+            "target": "osaka",
+            "value": 4
+        },
+        {
+            "source": "osaka",
+            "target": "lora",
+            "value": 33
+        },
+        {
+            "source": "\u65e5\u672c",
+            "target": "bedroom",
+            "value": 1
+        },
+        {
+            "source": "girls",
+            "target": "sexy",
+            "value": 1
+        },
+        {
+            "source": "jav",
+            "target": "girls",
+            "value": 1
+        },
+        {
+            "source": "building",
+            "target": "photorealistic",
+            "value": 1
+        },
+        {
+            "source": "scenery",
+            "target": "building",
+            "value": 7
+        },
+        {
+            "source": "illustration",
+            "target": "building",
+            "value": 1
+        },
+        {
+            "source": "building",
+            "target": "realistic",
+            "value": 1
+        },
+        {
+            "source": "background",
+            "target": "building",
+            "value": 7
+        },
+        {
+            "source": "shrine",
+            "target": "lora",
+            "value": 4
+        },
+        {
+            "source": "concept",
+            "target": "person",
+            "value": 1
+        },
+        {
+            "source": "anime",
+            "target": "asian",
+            "value": 8
+        },
+        {
+            "source": "torii",
+            "target": "anime",
+            "value": 3
+        },
+        {
+            "source": "shrine",
+            "target": "anime",
+            "value": 3
+        },
+        {
+            "source": "background",
+            "target": "asian",
+            "value": 3
+        },
+        {
+            "source": "torii",
+            "target": "asian",
+            "value": 3
+        },
+        {
+            "source": "shrine",
+            "target": "asian",
+            "value": 3
+        },
+        {
+            "source": "torii",
+            "target": "japan",
+            "value": 5
+        },
+        {
+            "source": "japanese",
+            "target": "torii",
+            "value": 2
+        },
+        {
+            "source": "japanese",
+            "target": "shrine",
+            "value": 2
+        },
+        {
+            "source": "torii",
+            "target": "background",
+            "value": 4
+        },
+        {
+            "source": "shrine",
+            "target": "torii",
+            "value": 3
+        },
+        {
+            "source": "art",
+            "target": "japan",
+            "value": 4
+        },
+        {
+            "source": "style",
+            "target": "art",
+            "value": 4
+        },
+        {
+            "source": "art",
+            "target": "lora",
+            "value": 1
+        },
+        {
+            "source": "food",
+            "target": "tokyo",
+            "value": 1
+        },
+        {
+            "source": "uniform",
+            "target": "tokyo",
+            "value": 2
+        },
+        {
+            "source": "cake",
+            "target": "tokyo",
+            "value": 1
+        },
+        {
+            "source": "uniform",
+            "target": "food",
+            "value": 1
+        },
+        {
+            "source": "cake",
+            "target": "food",
+            "value": 2
+        },
+        {
+            "source": "background",
+            "target": "uniform",
+            "value": 7
+        },
+        {
+            "source": "cake",
+            "target": "uniform",
+            "value": 1
+        },
+        {
+            "source": "japan girl",
+            "target": "sexy",
+            "value": 1
+        },
+        {
+            "source": "scenery",
+            "target": "kobe",
+            "value": 32
+        },
+        {
+            "source": "japan",
+            "target": "kobe",
+            "value": 32
+        },
+        {
+            "source": "background",
+            "target": "kobe",
+            "value": 32
+        },
+        {
+            "source": "lora",
+            "target": "kobe",
+            "value": 30
+        },
+        {
+            "source": "\u65e5\u672c",
+            "target": "kobe",
+            "value": 17
+        },
+        {
+            "source": "\u98a8\u666f",
+            "target": "kobe",
+            "value": 3
+        },
+        {
+            "source": "\u65e5\u672c",
+            "target": "love hotel",
+            "value": 4
+        },
+        {
+            "source": "\u98a8\u666f",
+            "target": "love hotel",
+            "value": 2
+        },
+        {
+            "source": "\u65e5\u672c",
+            "target": "bar",
+            "value": 9
+        },
+        {
+            "source": "anime",
+            "target": "architecture",
+            "value": 1
+        },
+        {
+            "source": "japan",
+            "target": "architecture",
+            "value": 2
+        },
+        {
+            "source": "style",
+            "target": "architecture",
+            "value": 1
+        },
+        {
+            "source": "fantasy",
+            "target": "architecture",
+            "value": 1
+        },
+        {
+            "source": "scenery",
+            "target": "\u5927\u962a",
+            "value": 37
+        },
+        {
+            "source": "\u5927\u962a",
+            "target": "japan",
+            "value": 42
+        },
+        {
+            "source": "background",
+            "target": "\u5927\u962a",
+            "value": 32
+        },
+        {
+            "source": "osaka",
+            "target": "\u5927\u962a",
+            "value": 22
+        },
+        {
+            "source": "tokyo",
+            "target": "vehicle",
+            "value": 1
+        },
+        {
+            "source": "samurai",
+            "target": "photorealistic",
+            "value": 1
+        },
+        {
+            "source": "style",
+            "target": "photorealistic",
+            "value": 6
+        },
+        {
+            "source": "kimono",
+            "target": "photorealistic",
+            "value": 1
+        },
+        {
+            "source": "asian",
+            "target": "samurai",
+            "value": 1
+        },
+        {
+            "source": "japan",
+            "target": "samurai",
+            "value": 5
+        },
+        {
+            "source": "style",
+            "target": "samurai",
+            "value": 2
+        },
+        {
+            "source": "kimono",
+            "target": "samurai",
+            "value": 2
+        },
+        {
+            "source": "style",
+            "target": "asian",
+            "value": 3
+        },
+        {
+            "source": "kimono",
+            "target": "asian",
+            "value": 2
+        },
+        {
+            "source": "japan",
+            "target": "kimono",
+            "value": 4
+        },
+        {
+            "source": "style",
+            "target": "kimono",
+            "value": 1
+        },
+        {
+            "source": "idol",
+            "target": "girl",
+            "value": 1
+        },
+        {
+            "source": "japan girl",
+            "target": "girl",
+            "value": 1
+        },
+        {
+            "source": "train station",
+            "target": "tokyo",
+            "value": 14
+        },
+        {
+            "source": "train station",
+            "target": "lora",
+            "value": 29
+        },
+        {
+            "source": "\u65e5\u672c",
+            "target": "train station",
+            "value": 22
+        },
+        {
+            "source": "actress",
+            "target": "idol",
+            "value": 2
+        },
+        {
+            "source": "actress",
+            "target": "gravure",
+            "value": 1
+        },
+        {
+            "source": "anime",
+            "target": "animated",
+            "value": 5
+        },
+        {
+            "source": "anime",
+            "target": "art style",
+            "value": 3
+        },
+        {
+            "source": "anime",
+            "target": "artist",
+            "value": 1
+        },
+        {
+            "source": "style",
+            "target": "animated",
+            "value": 1
+        },
+        {
+            "source": "art style",
+            "target": "animated",
+            "value": 1
+        },
+        {
+            "source": "artist",
+            "target": "animated",
+            "value": 1
+        },
+        {
+            "source": "x-japan",
+            "target": "animated",
+            "value": 1
+        },
+        {
+            "source": "style",
+            "target": "artist",
+            "value": 2
+        },
+        {
+            "source": "art style",
+            "target": "artist",
+            "value": 1
+        },
+        {
+            "source": "art style",
+            "target": "x-japan",
+            "value": 1
+        },
+        {
+            "source": "x-japan",
+            "target": "artist",
+            "value": 1
+        },
+        {
+            "source": "scenery",
+            "target": "car",
+            "value": 1
+        },
+        {
+            "source": "car",
+            "target": "japan",
+            "value": 2
+        },
+        {
+            "source": "japanese",
+            "target": "car",
+            "value": 1
+        },
+        {
+            "source": "background",
+            "target": "car",
+            "value": 1
+        },
+        {
+            "source": "backgrounds",
+            "target": "car",
+            "value": 1
+        },
+        {
+            "source": "\u98a8\u666f",
+            "target": "tokyo",
+            "value": 9
+        },
+        {
+            "source": "\u5ba4\u5185",
+            "target": "love hotel",
+            "value": 3
+        },
+        {
+            "source": "backgrounds",
+            "target": "photorealistic",
+            "value": 2
+        },
+        {
+            "source": "style",
+            "target": "realistic",
+            "value": 3
+        },
+        {
+            "source": "style",
+            "target": "backgrounds",
+            "value": 1
+        },
+        {
+            "source": "backgrounds",
+            "target": "realistic",
+            "value": 3
+        },
+        {
+            "source": "bar",
+            "target": "clothing",
+            "value": 1
+        },
+        {
+            "source": "bar",
+            "target": "uniform",
+            "value": 1
+        },
+        {
+            "source": "uniform",
+            "target": "restaurant",
+            "value": 5
+        },
+        {
+            "source": "hyogo",
+            "target": "kobe",
+            "value": 7
+        },
+        {
+            "source": "\u65e5\u672c",
+            "target": "hyogo",
+            "value": 16
+        },
+        {
+            "source": "model",
+            "target": "girls",
+            "value": 1
+        },
+        {
+            "source": "photo",
+            "target": "realistic",
+            "value": 1
+        },
+        {
+            "source": "background",
+            "target": "photo",
+            "value": 1
+        },
+        {
+            "source": "backgrounds",
+            "target": "photo",
+            "value": 1
+        },
+        {
+            "source": "old market",
+            "target": "scenery",
+            "value": 1
+        },
+        {
+            "source": "old market",
+            "target": "japan",
+            "value": 2
+        },
+        {
+            "source": "old market",
+            "target": "background",
+            "value": 2
+        },
+        {
+            "source": "old market",
+            "target": "backgrounds",
+            "value": 1
+        },
+        {
+            "source": "fox",
+            "target": "photorealistic",
+            "value": 1
+        },
+        {
+            "source": "fox",
+            "target": "asian",
+            "value": 1
+        },
+        {
+            "source": "fox",
+            "target": "idol",
+            "value": 1
+        },
+        {
+            "source": "fox",
+            "target": "gravure",
+            "value": 1
+        },
+        {
+            "source": "woman",
+            "target": "fox",
+            "value": 1
+        },
+        {
+            "source": "japanese girl",
+            "target": "photorealistic",
+            "value": 1
+        },
+        {
+            "source": "japan girl",
+            "target": "photorealistic",
+            "value": 6
+        },
+        {
+            "source": "japanese girl",
+            "target": "girls",
+            "value": 1
+        },
+        {
+            "source": "tokyo",
+            "target": "building",
+            "value": 4
+        },
+        {
+            "source": "train station",
+            "target": "building",
+            "value": 1
+        },
+        {
+            "source": "lora",
+            "target": "building",
+            "value": 5
+        },
+        {
+            "source": "\u98a8\u666f",
+            "target": "restaurant",
+            "value": 16
+        },
+        {
+            "source": "scenery",
+            "target": "osaka, japan",
+            "value": 11
+        },
+        {
+            "source": "background",
+            "target": "osaka, japan",
+            "value": 11
+        },
+        {
+            "source": "\u5927\u962a",
+            "target": "lora",
+            "value": 39
+        },
+        {
+            "source": "lora",
+            "target": "osaka, japan",
+            "value": 12
+        },
+        {
+            "source": "\u5927\u962a",
+            "target": "osaka, japan",
+            "value": 11
+        },
+        {
+            "source": "japan",
+            "target": "osaka, japan",
+            "value": 10
+        },
+        {
+            "source": "food",
+            "target": "\u5927\u962a",
+            "value": 4
+        },
+        {
+            "source": "food",
+            "target": "osaka, japan",
+            "value": 2
+        },
+        {
+            "source": "realistic",
+            "target": "idol",
+            "value": 2
+        },
+        {
+            "source": "woman",
+            "target": "realistic",
+            "value": 3
+        },
+        {
+            "source": "realistic",
+            "target": "celebrity",
+            "value": 3
+        },
+        {
+            "source": "japan girl",
+            "target": "realistic",
+            "value": 3
+        },
+        {
+            "source": "vending machine",
+            "target": "photorealistic",
+            "value": 1
+        },
+        {
+            "source": "vending machine",
+            "target": "scenery",
+            "value": 5
+        },
+        {
+            "source": "vending machine",
+            "target": "japan",
+            "value": 5
+        },
+        {
+            "source": "vending machine",
+            "target": "illustration",
+            "value": 1
+        },
+        {
+            "source": "vending machine",
+            "target": "realistic",
+            "value": 1
+        },
+        {
+            "source": "vending machine",
+            "target": "background",
+            "value": 5
+        },
+        {
+            "source": "concept",
+            "target": "food",
+            "value": 4
+        },
+        {
+            "source": "anime",
+            "target": "cartoon",
+            "value": 9
+        },
+        {
+            "source": "character",
+            "target": "animated",
+            "value": 4
+        },
+        {
+            "source": "cartoon",
+            "target": "character",
+            "value": 8
+        },
+        {
+            "source": "japan",
+            "target": "animated",
+            "value": 4
+        },
+        {
+            "source": "cartoon",
+            "target": "animated",
+            "value": 4
+        },
+        {
+            "source": "japanese",
+            "target": "animated",
+            "value": 4
+        },
+        {
+            "source": "male",
+            "target": "animated",
+            "value": 4
+        },
+        {
+            "source": "cartoon",
+            "target": "japan",
+            "value": 11
+        },
+        {
+            "source": "japanese",
+            "target": "cartoon",
+            "value": 4
+        },
+        {
+            "source": "cartoon",
+            "target": "male",
+            "value": 4
+        },
+        {
+            "source": "japanese",
+            "target": "male",
+            "value": 5
+        },
+        {
+            "source": "girls",
+            "target": "character",
+            "value": 2
+        },
+        {
+            "source": "anime",
+            "target": "shibuya",
+            "value": 1
+        },
+        {
+            "source": "anime",
+            "target": "tokyo",
+            "value": 1
+        },
+        {
+            "source": "style",
+            "target": "shibuya",
+            "value": 1
+        },
+        {
+            "source": "woman",
+            "target": "shibuya",
+            "value": 1
+        },
+        {
+            "source": "\u5ba4\u5185",
+            "target": "clothing",
+            "value": 1
+        },
+        {
+            "source": "\u98a8\u666f",
+            "target": "clothing",
+            "value": 1
+        },
+        {
+            "source": "\u5ba4\u5185",
+            "target": "uniform",
+            "value": 1
+        },
+        {
+            "source": "\u98a8\u666f",
+            "target": "uniform",
+            "value": 1
+        },
+        {
+            "source": "vending machine",
+            "target": "lora",
+            "value": 4
+        },
+        {
+            "source": "vending machine",
+            "target": "\u65e5\u672c",
+            "value": 3
+        },
+        {
+            "source": "vending machine",
+            "target": "\u98a8\u666f",
+            "value": 2
+        },
+        {
+            "source": "\u5ba4\u5185",
+            "target": "convenience store",
+            "value": 1
+        },
+        {
+            "source": "scenery",
+            "target": "ramen",
+            "value": 23
+        },
+        {
+            "source": "japan",
+            "target": "ramen",
+            "value": 23
+        },
+        {
+            "source": "background",
+            "target": "ramen",
+            "value": 23
+        },
+        {
+            "source": "restaurant",
+            "target": "ramen",
+            "value": 21
+        },
+        {
+            "source": "lora",
+            "target": "ramen",
+            "value": 23
+        },
+        {
+            "source": "\u98a8\u666f",
+            "target": "ramen",
+            "value": 2
+        },
+        {
+            "source": "clothes",
+            "target": "japanese",
+            "value": 3
+        },
+        {
+            "source": "clothes",
+            "target": "male",
+            "value": 1
+        },
+        {
+            "source": "japanese",
+            "target": "clothing",
+            "value": 2
+        },
+        {
+            "source": "male",
+            "target": "clothing",
+            "value": 1
+        },
+        {
+            "source": "nature",
+            "target": "japan",
+            "value": 3
+        },
+        {
+            "source": "japanese",
+            "target": "nature",
+            "value": 1
+        },
+        {
+            "source": "nature",
+            "target": "background",
+            "value": 2
+        },
+        {
+            "source": "nature",
+            "target": "backgrounds",
+            "value": 1
+        },
+        {
+            "source": "illustration",
+            "target": "girls",
+            "value": 1
+        },
+        {
+            "source": "scenery",
+            "target": "character",
+            "value": 1
+        },
+        {
+            "source": "mascot",
+            "target": "character",
+            "value": 4
+        },
+        {
+            "source": "lora",
+            "target": "character",
+            "value": 13
+        },
+        {
+            "source": "\u65e5\u672c",
+            "target": "character",
+            "value": 1
+        },
+        {
+            "source": "mascot",
+            "target": "scenery",
+            "value": 1
+        },
+        {
+            "source": "mascot",
+            "target": "japan",
+            "value": 5
+        },
+        {
+            "source": "mascot",
+            "target": "lora",
+            "value": 1
+        },
+        {
+            "source": "mascot",
+            "target": "\u65e5\u672c",
+            "value": 1
+        },
+        {
+            "source": "celebrity",
+            "target": "singer",
+            "value": 13
+        },
+        {
+            "source": "cosplay",
+            "target": "japan",
+            "value": 3
+        },
+        {
+            "source": "cosplayer",
+            "target": "cosplay",
+            "value": 2
+        },
+        {
+            "source": "cosplay",
+            "target": "celebrity",
+            "value": 2
+        },
+        {
+            "source": "cosplay",
+            "target": "girls",
+            "value": 1
+        },
+        {
+            "source": "cosplayer",
+            "target": "girls",
+            "value": 1
+        },
+        {
+            "source": "anime",
+            "target": "food",
+            "value": 1
+        },
+        {
+            "source": "food",
+            "target": "female",
+            "value": 1
+        },
+        {
+            "source": "woman",
+            "target": "food",
+            "value": 1
+        },
+        {
+            "source": "japanese",
+            "target": "food",
+            "value": 1
+        },
+        {
+            "source": "\u5ba4\u5185",
+            "target": "tokyo",
+            "value": 4
+        },
+        {
+            "source": "\u5ba4\u5185",
+            "target": "train station",
+            "value": 10
+        },
+        {
+            "source": "\u65e5\u672c",
+            "target": "costume",
+            "value": 2
+        },
+        {
+            "source": "uniform",
+            "target": "hyogo",
+            "value": 1
+        },
+        {
+            "source": "restaurant",
+            "target": "hyogo",
+            "value": 3
+        },
+        {
+            "source": "anime",
+            "target": "samurai",
+            "value": 3
+        },
+        {
+            "source": "character",
+            "target": "samurai",
+            "value": 1
+        },
+        {
+            "source": "scenery",
+            "target": "train",
+            "value": 4
+        },
+        {
+            "source": "train",
+            "target": "japan",
+            "value": 12
+        },
+        {
+            "source": "japanese",
+            "target": "train",
+            "value": 1
+        },
+        {
+            "source": "background",
+            "target": "train",
+            "value": 1
+        },
+        {
+            "source": "shop",
+            "target": "lora",
+            "value": 5
+        },
+        {
+            "source": "shop",
+            "target": "\u5ba4\u5185",
+            "value": 2
+        },
+        {
+            "source": "shop",
+            "target": "\u5927\u962a",
+            "value": 1
+        },
+        {
+            "source": "\u5ba4\u5185",
+            "target": "\u5927\u962a",
+            "value": 4
+        },
+        {
+            "source": "anime",
+            "target": "art",
+            "value": 3
+        },
+        {
+            "source": "anime",
+            "target": "kawaii",
+            "value": 5
+        },
+        {
+            "source": "art",
+            "target": "sexy",
+            "value": 1
+        },
+        {
+            "source": "kawaii",
+            "target": "sexy",
+            "value": 2
+        },
+        {
+            "source": "kemono",
+            "target": "sexy",
+            "value": 1
+        },
+        {
+            "source": "art",
+            "target": "kawaii",
+            "value": 1
+        },
+        {
+            "source": "art",
+            "target": "kemono",
+            "value": 3
+        },
+        {
+            "source": "kawaii",
+            "target": "japan",
+            "value": 6
+        },
+        {
+            "source": "kawaii",
+            "target": "kemono",
+            "value": 5
+        },
+        {
+            "source": "style",
+            "target": "kawaii",
+            "value": 3
+        },
+        {
+            "source": "anime",
+            "target": "animals",
+            "value": 1
+        },
+        {
+            "source": "anime",
+            "target": "bear",
+            "value": 2
+        },
+        {
+            "source": "animals",
+            "target": "character",
+            "value": 1
+        },
+        {
+            "source": "bear",
+            "target": "character",
+            "value": 3
+        },
+        {
+            "source": "bear",
+            "target": "animals",
+            "value": 1
+        },
+        {
+            "source": "animals",
+            "target": "japan",
+            "value": 3
+        },
+        {
+            "source": "bear",
+            "target": "japan",
+            "value": 3
+        },
+        {
+            "source": "anime",
+            "target": "photorealistic",
+            "value": 4
+        },
+        {
+            "source": "model",
+            "target": "idol",
+            "value": 4
+        },
+        {
+            "source": "animals",
+            "target": "photorealistic",
+            "value": 1
+        },
+        {
+            "source": "style",
+            "target": "animals",
+            "value": 2
+        },
+        {
+            "source": "woman",
+            "target": "animals",
+            "value": 2
+        },
+        {
+            "source": "japanese",
+            "target": "animals",
+            "value": 1
+        },
+        {
+            "source": "buildings",
+            "target": "torii",
+            "value": 1
+        },
+        {
+            "source": "supermarket",
+            "target": "lora",
+            "value": 3
+        },
+        {
+            "source": "supermarket",
+            "target": "osaka",
+            "value": 2
+        },
+        {
+            "source": "supermarket",
+            "target": "\u5927\u962a",
+            "value": 3
+        },
+        {
+            "source": "\u65e5\u672c",
+            "target": "ramen",
+            "value": 6
+        },
+        {
+            "source": "cosplayer",
+            "target": "idol",
+            "value": 1
+        },
+        {
+            "source": "cosplayer",
+            "target": "woman",
+            "value": 1
+        },
+        {
+            "source": "restaurant",
+            "target": "\u5927\u962a",
+            "value": 3
+        },
+        {
+            "source": "\u98a8\u666f",
+            "target": "\u5927\u962a",
+            "value": 3
+        },
+        {
+            "source": "shop",
+            "target": "tokyo",
+            "value": 3
+        },
+        {
+            "source": "shop",
+            "target": "train station",
+            "value": 1
+        },
+        {
+            "source": "character",
+            "target": "sexy",
+            "value": 2
+        },
+        {
+            "source": "costume",
+            "target": "character",
+            "value": 1
+        },
+        {
+            "source": "costume",
+            "target": "sexy",
+            "value": 1
+        },
+        {
+            "source": "\u65e5\u672c",
+            "target": "vehicle",
+            "value": 5
+        },
+        {
+            "source": "osaka",
+            "target": "vehicle",
+            "value": 8
+        },
+        {
+            "source": "\u5927\u962a",
+            "target": "vehicle",
+            "value": 8
+        },
+        {
+            "source": "\u65e5\u672c",
+            "target": "osaka",
+            "value": 20
+        },
+        {
+            "source": "\u65e5\u672c",
+            "target": "\u5927\u962a",
+            "value": 14
+        },
+        {
+            "source": "\u98a8\u666f",
+            "target": "hyogo",
+            "value": 1
+        },
+        {
+            "source": "girls",
+            "target": "realistic",
+            "value": 1
+        },
+        {
+            "source": "\u5ba4\u5185",
+            "target": "osaka",
+            "value": 4
+        },
+        {
+            "source": "japanese",
+            "target": "actress",
+            "value": 1
+        },
+        {
+            "source": "clothes",
+            "target": "kimono",
+            "value": 2
+        },
+        {
+            "source": "kimono",
+            "target": "clothing",
+            "value": 2
+        },
+        {
+            "source": "japanese",
+            "target": "kimono",
+            "value": 2
+        },
+        {
+            "source": "traditional",
+            "target": "photorealistic",
+            "value": 2
+        },
+        {
+            "source": "japanese",
+            "target": "traditional",
+            "value": 1
+        },
+        {
+            "source": "realistic",
+            "target": "traditional",
+            "value": 2
+        },
+        {
+            "source": "background",
+            "target": "traditional",
+            "value": 1
+        },
+        {
+            "source": "backgrounds",
+            "target": "traditional",
+            "value": 1
+        },
+        {
+            "source": "japanese",
+            "target": "realistic",
+            "value": 3
+        },
+        {
+            "source": "art style",
+            "target": "samurai",
+            "value": 1
+        },
+        {
+            "source": "samurai",
+            "target": "person",
+            "value": 1
+        },
+        {
+            "source": "manga",
+            "target": "samurai",
+            "value": 1
+        },
+        {
+            "source": "train station",
+            "target": "osaka",
+            "value": 3
+        },
+        {
+            "source": "tokyo",
+            "target": "restaurant",
+            "value": 2
+        },
+        {
+            "source": "shop",
+            "target": "building",
+            "value": 2
+        },
+        {
+            "source": "restaurant",
+            "target": "building",
+            "value": 1
+        },
+        {
+            "source": "shop",
+            "target": "restaurant",
+            "value": 2
+        },
+        {
+            "source": "chiba lotte marines",
+            "target": "japan",
+            "value": 13
+        },
+        {
+            "source": "chiba lotte marines",
+            "target": "clothing",
+            "value": 7
+        },
+        {
+            "source": "chiba lotte marines",
+            "target": "lora",
+            "value": 13
+        },
+        {
+            "source": "vending machine",
+            "target": "tokyo",
+            "value": 1
+        },
+        {
+            "source": "train",
+            "target": "vehicle",
+            "value": 11
+        },
+        {
+            "source": "train",
+            "target": "lora",
+            "value": 11
+        },
+        {
+            "source": "backgrounds",
+            "target": "clothing",
+            "value": 1
+        },
+        {
+            "source": "\u5927\u962a",
+            "target": "clothing",
+            "value": 1
+        },
+        {
+            "source": "backgrounds",
+            "target": "uniform",
+            "value": 1
+        },
+        {
+            "source": "uniform",
+            "target": "\u5927\u962a",
+            "value": 1
+        },
+        {
+            "source": "backgrounds",
+            "target": "lora",
+            "value": 1
+        },
+        {
+            "source": "backgrounds",
+            "target": "\u5927\u962a",
+            "value": 1
+        },
+        {
+            "source": "mascot",
+            "target": "style",
+            "value": 1
+        },
+        {
+            "source": "retro",
+            "target": "advertising",
+            "value": 1
+        },
+        {
+            "source": "japanese",
+            "target": "hallway",
+            "value": 1
+        },
+        {
+            "source": "hallway",
+            "target": "backgrounds",
+            "value": 1
+        },
+        {
+            "source": "\u5ba4\u5185",
+            "target": "bathroom",
+            "value": 1
+        },
+        {
+            "source": "objects",
+            "target": "omatsuri",
+            "value": 14
+        },
+        {
+            "source": "food",
+            "target": "omatsuri",
+            "value": 12
+        },
+        {
+            "source": "restaurant",
+            "target": "kobe",
+            "value": 17
+        },
+        {
+            "source": "kobe",
+            "target": "ramen",
+            "value": 12
+        },
+        {
+            "source": "\u7e01\u65e5\u30b7\u30ea\u30fc\u30ba",
+            "target": "objects",
+            "value": 7
+        },
+        {
+            "source": "\u7e01\u65e5\u30b7\u30ea\u30fc\u30ba",
+            "target": "japan",
+            "value": 9
+        },
+        {
+            "source": "\u7e01\u65e5\u30b7\u30ea\u30fc\u30ba",
+            "target": "food",
+            "value": 5
+        },
+        {
+            "source": "\u7e01\u65e5\u30b7\u30ea\u30fc\u30ba",
+            "target": "lora",
+            "value": 9
+        },
+        {
+            "source": "\u65e5\u672c",
+            "target": "\u7e01\u65e5\u30b7\u30ea\u30fc\u30ba",
+            "value": 7
+        },
+        {
+            "source": "\u7e01\u65e5\u30b7\u30ea\u30fc\u30ba",
+            "target": "omatsuri",
+            "value": 9
+        },
+        {
+            "source": "japanese",
+            "target": "room",
+            "value": 1
+        },
+        {
+            "source": "room",
+            "target": "backgrounds",
+            "value": 1
+        },
+        {
+            "source": "girls",
+            "target": "idol",
+            "value": 1
+        },
+        {
+            "source": "bar",
+            "target": "\u5927\u962a",
+            "value": 1
+        },
+        {
+            "source": "character",
+            "target": "photorealistic",
+            "value": 7
+        },
+        {
+            "source": "female",
+            "target": "character",
+            "value": 1
+        },
+        {
+            "source": "\u5927\u962a",
+            "target": "objects",
+            "value": 3
+        },
+        {
+            "source": "shrine",
+            "target": "\u65e5\u672c",
+            "value": 3
+        },
+        {
+            "source": "concept",
+            "target": "visual kei",
+            "value": 1
+        },
+        {
+            "source": "japan",
+            "target": "visual kei",
+            "value": 1
+        },
+        {
+            "source": "funny",
+            "target": "character",
+            "value": 3
+        },
+        {
+            "source": "character",
+            "target": "kemono",
+            "value": 6
+        },
+        {
+            "source": "character",
+            "target": "anthro",
+            "value": 3
+        },
+        {
+            "source": "\u65e5\u672c",
+            "target": "train",
+            "value": 3
+        },
+        {
+            "source": "train",
+            "target": "osaka",
+            "value": 5
+        },
+        {
+            "source": "80s",
+            "target": "japan",
+            "value": 2
+        },
+        {
+            "source": "style",
+            "target": "80s",
+            "value": 1
+        },
+        {
+            "source": "style",
+            "target": "japan girl",
+            "value": 1
+        },
+        {
+            "source": "scenery",
+            "target": "\u7e01\u65e5\u30b7\u30ea\u30fc\u30ba",
+            "value": 2
+        },
+        {
+            "source": "background",
+            "target": "\u7e01\u65e5\u30b7\u30ea\u30fc\u30ba",
+            "value": 2
+        },
+        {
+            "source": "manga",
+            "target": "character",
+            "value": 2
+        },
+        {
+            "source": "asian",
+            "target": "character",
+            "value": 5
+        },
+        {
+            "source": "manga",
+            "target": "photorealistic",
+            "value": 2
+        },
+        {
+            "source": "asian",
+            "target": "manga",
+            "value": 2
+        },
+        {
+            "source": "japanese",
+            "target": "manga",
+            "value": 1
+        },
+        {
+            "source": "train",
+            "target": "\u5927\u962a",
+            "value": 5
+        },
+        {
+            "source": "building",
+            "target": "kobe",
+            "value": 3
+        },
+        {
+            "source": "\u65e5\u672c",
+            "target": "old market",
+            "value": 1
+        },
+        {
+            "source": "hyogo",
+            "target": "clothing",
+            "value": 1
+        },
+        {
+            "source": "illustration",
+            "target": "character",
+            "value": 1
+        },
+        {
+            "source": "character",
+            "target": "realistic",
+            "value": 3
+        },
+        {
+            "source": "\u65e5\u672c",
+            "target": "building",
+            "value": 2
+        },
+        {
+            "source": "porn",
+            "target": "asian",
+            "value": 1
+        },
+        {
+            "source": "jav",
+            "target": "porn",
+            "value": 1
+        },
+        {
+            "source": "japanese",
+            "target": "porn",
+            "value": 2
+        },
+        {
+            "source": "woman",
+            "target": "porn",
+            "value": 1
+        },
+        {
+            "source": "japanese girl",
+            "target": "porn",
+            "value": 1
+        },
+        {
+            "source": "furry",
+            "target": "anime",
+            "value": 10
+        },
+        {
+            "source": "furry",
+            "target": "japan",
+            "value": 13
+        },
+        {
+            "source": "furry",
+            "target": "kemono",
+            "value": 10
+        },
+        {
+            "source": "style",
+            "target": "furry",
+            "value": 7
+        },
+        {
+            "source": "woman",
+            "target": "furry",
+            "value": 7
+        },
+        {
+            "source": "furry",
+            "target": "anthro",
+            "value": 3
+        },
+        {
+            "source": "hyogo",
+            "target": "vehicle",
+            "value": 1
+        },
+        {
+            "source": "vehicle",
+            "target": "osaka, japan",
+            "value": 1
+        },
+        {
+            "source": "train",
+            "target": "hyogo",
+            "value": 1
+        },
+        {
+            "source": "train",
+            "target": "osaka, japan",
+            "value": 1
+        },
+        {
+            "source": "\u5927\u962a",
+            "target": "hyogo",
+            "value": 1
+        },
+        {
+            "source": "hyogo",
+            "target": "osaka, japan",
+            "value": 1
+        },
+        {
+            "source": "chiba lotte marines",
+            "target": "character",
+            "value": 3
+        },
+        {
+            "source": "cake",
+            "target": "objects",
+            "value": 2
+        },
+        {
+            "source": "anime",
+            "target": "clothing",
+            "value": 3
+        },
+        {
+            "source": "food",
+            "target": "osaka",
+            "value": 3
+        },
+        {
+            "source": "scenery",
+            "target": "nature",
+            "value": 1
+        },
+        {
+            "source": "anime",
+            "target": "realistic",
+            "value": 2
+        },
+        {
+            "source": "buildings",
+            "target": "photorealistic",
+            "value": 1
+        },
+        {
+            "source": "photography",
+            "target": "photorealistic",
+            "value": 1
+        },
+        {
+            "source": "street",
+            "target": "photorealistic",
+            "value": 1
+        },
+        {
+            "source": "buildings",
+            "target": "tokyo",
+            "value": 2
+        },
+        {
+            "source": "buildings",
+            "target": "photography",
+            "value": 1
+        },
+        {
+            "source": "buildings",
+            "target": "street",
+            "value": 1
+        },
+        {
+            "source": "tokyo",
+            "target": "photography",
+            "value": 1
+        },
+        {
+            "source": "tokyo",
+            "target": "street",
+            "value": 1
+        },
+        {
+            "source": "photography",
+            "target": "street",
+            "value": 1
+        },
+        {
+            "source": "cosplay",
+            "target": "tokyo",
+            "value": 1
+        },
+        {
+            "source": "cosplay",
+            "target": "scenery",
+            "value": 1
+        },
+        {
+            "source": "cosplay",
+            "target": "background",
+            "value": 1
+        },
+        {
+            "source": "cosplay",
+            "target": "lora",
+            "value": 1
+        },
+        {
+            "source": "\u65e5\u672c",
+            "target": "cosplay",
+            "value": 1
+        },
+        {
+            "source": "restaurant",
+            "target": "osaka, japan",
+            "value": 2
+        },
+        {
+            "source": "lovelive",
+            "target": "tokyo",
+            "value": 5
+        },
+        {
+            "source": "love live",
+            "target": "tokyo",
+            "value": 5
+        },
+        {
+            "source": "love live!",
+            "target": "tokyo",
+            "value": 5
+        },
+        {
+            "source": "lovelive",
+            "target": "japan",
+            "value": 6
+        },
+        {
+            "source": "love live",
+            "target": "japan",
+            "value": 6
+        },
+        {
+            "source": "love live!",
+            "target": "japan",
+            "value": 6
+        },
+        {
+            "source": "lovelive",
+            "target": "background",
+            "value": 6
+        },
+        {
+            "source": "love live",
+            "target": "background",
+            "value": 6
+        },
+        {
+            "source": "background",
+            "target": "love live!",
+            "value": 6
+        },
+        {
+            "source": "lovelive",
+            "target": "love live",
+            "value": 6
+        },
+        {
+            "source": "lovelive",
+            "target": "love live!",
+            "value": 6
+        },
+        {
+            "source": "love live",
+            "target": "love live!",
+            "value": 6
+        },
+        {
+            "source": "anime",
+            "target": "cat",
+            "value": 1
+        },
+        {
+            "source": "cat",
+            "target": "sexy",
+            "value": 1
+        },
+        {
+            "source": "kawaii",
+            "target": "cat",
+            "value": 2
+        },
+        {
+            "source": "cat",
+            "target": "japan",
+            "value": 2
+        },
+        {
+            "source": "style",
+            "target": "cat",
+            "value": 1
+        },
+        {
+            "source": "character",
+            "target": "superhero",
+            "value": 2
+        },
+        {
+            "source": "japan",
+            "target": "superhero",
+            "value": 2
+        },
+        {
+            "source": "lora",
+            "target": "superhero",
+            "value": 1
+        },
+        {
+            "source": "cake",
+            "target": "\u65e5\u672c",
+            "value": 1
+        },
+        {
+            "source": "cake",
+            "target": "\u5927\u962a",
+            "value": 1
+        },
+        {
+            "source": "girls",
+            "target": "singer",
+            "value": 2
+        },
+        {
+            "source": "food",
+            "target": "kobe",
+            "value": 1
+        },
+        {
+            "source": "objects",
+            "target": "osaka, japan",
+            "value": 1
+        },
+        {
+            "source": "\u65e5\u672c",
+            "target": "osaka, japan",
+            "value": 1
+        },
+        {
+            "source": "concept",
+            "target": "anime",
+            "value": 1
+        },
+        {
+            "source": "concept",
+            "target": "girls",
+            "value": 1
+        },
+        {
+            "source": "shizuoka",
+            "target": "scenery",
+            "value": 2
+        },
+        {
+            "source": "shizuoka",
+            "target": "japan",
+            "value": 3
+        },
+        {
+            "source": "shizuoka",
+            "target": "background",
+            "value": 3
+        },
+        {
+            "source": "shizuoka",
+            "target": "restaurant",
+            "value": 2
+        },
+        {
+            "source": "shizuoka",
+            "target": "lora",
+            "value": 2
+        },
+        {
+            "source": "train station",
+            "target": "\u5927\u962a",
+            "value": 2
+        },
+        {
+            "source": "style",
+            "target": "cartoon",
+            "value": 3
+        },
+        {
+            "source": "furry",
+            "target": "cartoon",
+            "value": 4
+        },
+        {
+            "source": "food",
+            "target": "ramen",
+            "value": 1
+        },
+        {
+            "source": "buildings",
+            "target": "architecture",
+            "value": 1
+        },
+        {
+            "source": "tokyo",
+            "target": "architecture",
+            "value": 1
+        },
+        {
+            "source": "history",
+            "target": "architecture",
+            "value": 1
+        },
+        {
+            "source": "building",
+            "target": "architecture",
+            "value": 1
+        },
+        {
+            "source": "history",
+            "target": "buildings",
+            "value": 1
+        },
+        {
+            "source": "history",
+            "target": "tokyo",
+            "value": 1
+        },
+        {
+            "source": "history",
+            "target": "japan",
+            "value": 2
+        },
+        {
+            "source": "history",
+            "target": "building",
+            "value": 1
+        },
+        {
+            "source": "concept",
+            "target": "photorealistic",
+            "value": 1
+        },
+        {
+            "source": "china",
+            "target": "photorealistic",
+            "value": 1
+        },
+        {
+            "source": "concept",
+            "target": "asian",
+            "value": 1
+        },
+        {
+            "source": "china",
+            "target": "asian",
+            "value": 2
+        },
+        {
+            "source": "anime",
+            "target": "china",
+            "value": 1
+        },
+        {
+            "source": "anime",
+            "target": "kimono",
+            "value": 1
+        },
+        {
+            "source": "asian",
+            "target": "clothing",
+            "value": 1
+        },
+        {
+            "source": "woman",
+            "target": "kimono",
+            "value": 1
+        },
+        {
+            "source": "concept",
+            "target": "lora",
+            "value": 1
+        },
+        {
+            "source": "furry",
+            "target": "character",
+            "value": 6
+        },
+        {
+            "source": "superhero",
+            "target": "sexy",
+            "value": 1
+        },
+        {
+            "source": "mascot",
+            "target": "superhero",
+            "value": 1
+        },
+        {
+            "source": "woman",
+            "target": "superhero",
+            "value": 1
+        },
+        {
+            "source": "furry",
+            "target": "superhero",
+            "value": 1
+        },
+        {
+            "source": "mascot",
+            "target": "sexy",
+            "value": 1
+        },
+        {
+            "source": "furry",
+            "target": "sexy",
+            "value": 1
+        },
+        {
+            "source": "mascot",
+            "target": "woman",
+            "value": 1
+        },
+        {
+            "source": "mascot",
+            "target": "furry",
+            "value": 2
+        },
+        {
+            "source": "scenery",
+            "target": "chiba lotte marines",
+            "value": 3
+        },
+        {
+            "source": "background",
+            "target": "chiba lotte marines",
+            "value": 3
+        },
+        {
+            "source": "\u65e5\u672c",
+            "target": "chiba lotte marines",
+            "value": 2
+        },
+        {
+            "source": "\u98a8\u666f",
+            "target": "chiba lotte marines",
+            "value": 2
+        },
+        {
+            "source": "woman",
+            "target": "art",
+            "value": 2
+        },
+        {
+            "source": "furry",
+            "target": "art",
+            "value": 2
+        },
+        {
+            "source": "shizuoka",
+            "target": "lovelive",
+            "value": 1
+        },
+        {
+            "source": "shizuoka",
+            "target": "love live",
+            "value": 1
+        },
+        {
+            "source": "shizuoka",
+            "target": "love live!",
+            "value": 1
+        },
+        {
+            "source": "woman",
+            "target": "x-japan",
+            "value": 1
+        },
+        {
+            "source": "girls",
+            "target": "x-japan",
+            "value": 1
+        },
+        {
+            "source": "advertising",
+            "target": "concept",
+            "value": 1
+        },
+        {
+            "source": "concept",
+            "target": "80s",
+            "value": 1
+        },
+        {
+            "source": "concept",
+            "target": "idol",
+            "value": 1
+        },
+        {
+            "source": "concept",
+            "target": "1980s",
+            "value": 1
+        },
+        {
+            "source": "advertising",
+            "target": "80s",
+            "value": 1
+        },
+        {
+            "source": "advertising",
+            "target": "idol",
+            "value": 1
+        },
+        {
+            "source": "80s",
+            "target": "idol",
+            "value": 1
+        },
+        {
+            "source": "80s",
+            "target": "1980s",
+            "value": 1
+        },
+        {
+            "source": "1980s",
+            "target": "idol",
+            "value": 1
+        },
+        {
+            "source": "cartoon",
+            "target": "kemono",
+            "value": 3
+        },
+        {
+            "source": "studio",
+            "target": "lora",
+            "value": 3
+        },
+        {
+            "source": "studio",
+            "target": "\u65e5\u672c",
+            "value": 2
+        },
+        {
+            "source": "studio",
+            "target": "\u5ba4\u5185",
+            "value": 3
+        },
+        {
+            "source": "game",
+            "target": "character",
+            "value": 1
+        },
+        {
+            "source": "game",
+            "target": "asian",
+            "value": 1
+        },
+        {
+            "source": "woman",
+            "target": "game",
+            "value": 1
+        },
+        {
+            "source": "anime",
+            "target": "traditional",
+            "value": 1
+        },
+        {
+            "source": "style",
+            "target": "traditional",
+            "value": 1
+        },
+        {
+            "source": "studio",
+            "target": "\u98a8\u666f",
+            "value": 1
+        },
+        {
+            "source": "woman",
+            "target": "cartoon",
+            "value": 1
+        },
+        {
+            "source": "train station",
+            "target": "hyogo",
+            "value": 1
+        },
+        {
+            "source": "car",
+            "target": "photorealistic",
+            "value": 1
+        },
+        {
+            "source": "car",
+            "target": "realistic",
+            "value": 1
+        },
+        {
+            "source": "car",
+            "target": "vehicle",
+            "value": 1
+        },
+        {
+            "source": "kawaii",
+            "target": "funny",
+            "value": 2
+        },
+        {
+            "source": "retro",
+            "target": "background",
+            "value": 1
+        },
+        {
+            "source": "shop",
+            "target": "\u65e5\u672c",
+            "value": 2
+        },
+        {
+            "source": "\u65e5\u672c",
+            "target": "street",
+            "value": 1
+        },
+        {
+            "source": "osaka",
+            "target": "street",
+            "value": 1
+        },
+        {
+            "source": "japan",
+            "target": "artist",
+            "value": 2
+        },
+        {
+            "source": "japanese",
+            "target": "watercolor",
+            "value": 1
+        },
+        {
+            "source": "kawaii",
+            "target": "character",
+            "value": 3
+        },
+        {
+            "source": "furry",
+            "target": "funny",
+            "value": 2
+        },
+        {
+            "source": "furry",
+            "target": "kawaii",
+            "value": 3
+        },
+        {
+            "source": "nature",
+            "target": "photo",
+            "value": 1
+        },
+        {
+            "source": "style",
+            "target": "nature",
+            "value": 1
+        },
+        {
+            "source": "nature",
+            "target": "photography",
+            "value": 1
+        },
+        {
+            "source": "photo",
+            "target": "photography",
+            "value": 1
+        },
+        {
+            "source": "style",
+            "target": "photography",
+            "value": 1
+        },
+        {
+            "source": "objects",
+            "target": "convenience store",
+            "value": 1
+        },
+        {
+            "source": "food",
+            "target": "convenience store",
+            "value": 1
+        },
+        {
+            "source": "cartoon",
+            "target": "kawaii",
+            "value": 1
+        },
+        {
+            "source": "concept",
+            "target": "samurai",
+            "value": 1
+        },
+        {
+            "source": "clothes",
+            "target": "concept",
+            "value": 1
+        },
+        {
+            "source": "concept",
+            "target": "kimono",
+            "value": 1
+        },
+        {
+            "source": "japanese",
+            "target": "concept",
+            "value": 1
+        },
+        {
+            "source": "clothes",
+            "target": "samurai",
+            "value": 1
+        },
+        {
+            "source": "japanese",
+            "target": "samurai",
+            "value": 1
+        },
+        {
+            "source": "man",
+            "target": "photorealistic",
+            "value": 1
+        },
+        {
+            "source": "woman",
+            "target": "bear",
+            "value": 1
+        },
+        {
+            "source": "celeb",
+            "target": "character",
+            "value": 1
+        },
+        {
+            "source": "mascot",
+            "target": "bear",
+            "value": 1
+        },
+        {
+            "source": "furry",
+            "target": "bear",
+            "value": 1
+        },
+        {
+            "source": "cat",
+            "target": "character",
+            "value": 1
+        },
+        {
+            "source": "kawaii",
+            "target": "anthro",
+            "value": 1
+        },
+        {
+            "source": "cat",
+            "target": "kemono",
+            "value": 1
+        },
+        {
+            "source": "cat",
+            "target": "anthro",
+            "value": 1
+        },
+        {
+            "source": "furry",
+            "target": "cat",
+            "value": 1
+        },
+        {
+            "source": "artist",
+            "target": "photorealistic",
+            "value": 1
+        },
+        {
+            "source": "asian",
+            "target": "artist",
+            "value": 1
+        },
+        {
+            "source": "woman",
+            "target": "artist",
+            "value": 1
+        },
+        {
+            "source": "celebrity",
+            "target": "artist",
+            "value": 1
+        },
+        {
+            "source": "girls",
+            "target": "artist",
+            "value": 1
+        },
+        {
+            "source": "history",
+            "target": "character",
+            "value": 1
+        },
+        {
+            "source": "history",
+            "target": "male",
+            "value": 1
+        },
+        {
+            "source": "history",
+            "target": "man",
+            "value": 1
+        }
+    ]
+}

@@ -1,0 +1,2100 @@
+{
+    "nodes": [
+        {
+            "id": "retro",
+            "size": 1
+        },
+        {
+            "id": "analog",
+            "size": 1
+        },
+        {
+            "id": "style",
+            "size": 5
+        },
+        {
+            "id": "1990s",
+            "size": 1
+        },
+        {
+            "id": "berlin",
+            "size": 3
+        },
+        {
+            "id": "germany",
+            "size": 34
+        },
+        {
+            "id": "instagram",
+            "size": 1
+        },
+        {
+            "id": "celebrity",
+            "size": 19
+        },
+        {
+            "id": "instagram model",
+            "size": 1
+        },
+        {
+            "id": "tiktok",
+            "size": 1
+        },
+        {
+            "id": "german",
+            "size": 14
+        },
+        {
+            "id": "urbex",
+            "size": 1
+        },
+        {
+            "id": "abandoned",
+            "size": 1
+        },
+        {
+            "id": "background",
+            "size": 2
+        },
+        {
+            "id": "water park",
+            "size": 1
+        },
+        {
+            "id": "fashion",
+            "size": 1
+        },
+        {
+            "id": "sovietpunk",
+            "size": 1
+        },
+        {
+            "id": "cold war",
+            "size": 1
+        },
+        {
+            "id": "east germany",
+            "size": 1
+        },
+        {
+            "id": "iron curtain",
+            "size": 1
+        },
+        {
+            "id": "female",
+            "size": 3
+        },
+        {
+            "id": "woman",
+            "size": 7
+        },
+        {
+            "id": "youtube",
+            "size": 1
+        },
+        {
+            "id": "lora",
+            "size": 1
+        },
+        {
+            "id": "asmr",
+            "size": 1
+        },
+        {
+            "id": "politician",
+            "size": 10
+        },
+        {
+            "id": "male",
+            "size": 4
+        },
+        {
+            "id": "realism",
+            "size": 4
+        },
+        {
+            "id": "political",
+            "size": 1
+        },
+        {
+            "id": "celeb",
+            "size": 5
+        },
+        {
+            "id": "celebrity,",
+            "size": 4
+        },
+        {
+            "id": "photorealism",
+            "size": 5
+        },
+        {
+            "id": "art",
+            "size": 1
+        },
+        {
+            "id": "costume",
+            "size": 1
+        },
+        {
+            "id": "dance",
+            "size": 1
+        },
+        {
+            "id": "clothing",
+            "size": 2
+        },
+        {
+            "id": "leather pants",
+            "size": 1
+        },
+        {
+            "id": "bavaria",
+            "size": 1
+        },
+        {
+            "id": "cinematic",
+            "size": 1
+        },
+        {
+            "id": "documentary",
+            "size": 1
+        },
+        {
+            "id": "football",
+            "size": 1
+        },
+        {
+            "id": "man",
+            "size": 2
+        },
+        {
+            "id": "men",
+            "size": 1
+        },
+        {
+            "id": "politican",
+            "size": 2
+        },
+        {
+            "id": "buildings",
+            "size": 1
+        },
+        {
+            "id": "building",
+            "size": 2
+        },
+        {
+            "id": "civilization",
+            "size": 1
+        },
+        {
+            "id": "famous building",
+            "size": 1
+        },
+        {
+            "id": "world wonder",
+            "size": 1
+        },
+        {
+            "id": "civilization 6",
+            "size": 1
+        },
+        {
+            "id": "photorealistic",
+            "size": 1
+        },
+        {
+            "id": "pornstar",
+            "size": 1
+        },
+        {
+            "id": "adult model",
+            "size": 1
+        },
+        {
+            "id": "photoralistic",
+            "size": 1
+        },
+        {
+            "id": "soccer player",
+            "size": 1
+        },
+        {
+            "id": "anime",
+            "size": 3
+        },
+        {
+            "id": "concept",
+            "size": 1
+        },
+        {
+            "id": "meme",
+            "size": 1
+        },
+        {
+            "id": "old photo",
+            "size": 1
+        },
+        {
+            "id": "memes",
+            "size": 1
+        },
+        {
+            "id": "concepts",
+            "size": 1
+        },
+        {
+            "id": "photorealim",
+            "size": 1
+        },
+        {
+            "id": "military",
+            "size": 1
+        },
+        {
+            "id": "historical",
+            "size": 1
+        },
+        {
+            "id": "uniform",
+            "size": 1
+        },
+        {
+            "id": "character",
+            "size": 3
+        },
+        {
+            "id": "mythical",
+            "size": 1
+        },
+        {
+            "id": "demon",
+            "size": 1
+        },
+        {
+            "id": "cartoon",
+            "size": 1
+        },
+        {
+            "id": "person",
+            "size": 1
+        },
+        {
+            "id": "realistic",
+            "size": 1
+        },
+        {
+            "id": "vehicle",
+            "size": 2
+        },
+        {
+            "id": "world war 2",
+            "size": 1
+        },
+        {
+            "id": "engineering",
+            "size": 1
+        },
+        {
+            "id": "half-truck",
+            "size": 1
+        },
+        {
+            "id": "guy",
+            "size": 1
+        },
+        {
+            "id": "streamer",
+            "size": 1
+        },
+        {
+            "id": "1960s",
+            "size": 1
+        },
+        {
+            "id": "porsche",
+            "size": 1
+        },
+        {
+            "id": "sports car",
+            "size": 1
+        },
+        {
+            "id": "race car",
+            "size": 1
+        },
+        {
+            "id": "architecture",
+            "size": 1
+        },
+        {
+            "id": "texture",
+            "size": 1
+        },
+        {
+            "id": "european style",
+            "size": 1
+        },
+        {
+            "id": "germany flag",
+            "size": 1
+        },
+        {
+            "id": "countryhuman",
+            "size": 1
+        }
+    ],
+    "links": [
+        {
+            "source": "retro",
+            "target": "analog",
+            "value": 1
+        },
+        {
+            "source": "retro",
+            "target": "style",
+            "value": 1
+        },
+        {
+            "source": "1990s",
+            "target": "retro",
+            "value": 1
+        },
+        {
+            "source": "retro",
+            "target": "berlin",
+            "value": 1
+        },
+        {
+            "source": "retro",
+            "target": "germany",
+            "value": 1
+        },
+        {
+            "source": "analog",
+            "target": "style",
+            "value": 1
+        },
+        {
+            "source": "1990s",
+            "target": "analog",
+            "value": 1
+        },
+        {
+            "source": "berlin",
+            "target": "analog",
+            "value": 1
+        },
+        {
+            "source": "analog",
+            "target": "germany",
+            "value": 1
+        },
+        {
+            "source": "1990s",
+            "target": "style",
+            "value": 1
+        },
+        {
+            "source": "berlin",
+            "target": "style",
+            "value": 1
+        },
+        {
+            "source": "germany",
+            "target": "style",
+            "value": 4
+        },
+        {
+            "source": "1990s",
+            "target": "berlin",
+            "value": 1
+        },
+        {
+            "source": "1990s",
+            "target": "germany",
+            "value": 1
+        },
+        {
+            "source": "berlin",
+            "target": "germany",
+            "value": 3
+        },
+        {
+            "source": "instagram",
+            "target": "celebrity",
+            "value": 1
+        },
+        {
+            "source": "instagram",
+            "target": "instagram model",
+            "value": 1
+        },
+        {
+            "source": "instagram",
+            "target": "tiktok",
+            "value": 1
+        },
+        {
+            "source": "instagram",
+            "target": "german",
+            "value": 1
+        },
+        {
+            "source": "instagram",
+            "target": "germany",
+            "value": 1
+        },
+        {
+            "source": "instagram model",
+            "target": "celebrity",
+            "value": 1
+        },
+        {
+            "source": "tiktok",
+            "target": "celebrity",
+            "value": 1
+        },
+        {
+            "source": "german",
+            "target": "celebrity",
+            "value": 7
+        },
+        {
+            "source": "germany",
+            "target": "celebrity",
+            "value": 19
+        },
+        {
+            "source": "instagram model",
+            "target": "tiktok",
+            "value": 1
+        },
+        {
+            "source": "instagram model",
+            "target": "german",
+            "value": 1
+        },
+        {
+            "source": "instagram model",
+            "target": "germany",
+            "value": 1
+        },
+        {
+            "source": "german",
+            "target": "tiktok",
+            "value": 1
+        },
+        {
+            "source": "tiktok",
+            "target": "germany",
+            "value": 1
+        },
+        {
+            "source": "german",
+            "target": "germany",
+            "value": 14
+        },
+        {
+            "source": "abandoned",
+            "target": "urbex",
+            "value": 1
+        },
+        {
+            "source": "background",
+            "target": "urbex",
+            "value": 1
+        },
+        {
+            "source": "urbex",
+            "target": "water park",
+            "value": 1
+        },
+        {
+            "source": "berlin",
+            "target": "urbex",
+            "value": 1
+        },
+        {
+            "source": "urbex",
+            "target": "germany",
+            "value": 1
+        },
+        {
+            "source": "abandoned",
+            "target": "background",
+            "value": 1
+        },
+        {
+            "source": "abandoned",
+            "target": "water park",
+            "value": 1
+        },
+        {
+            "source": "abandoned",
+            "target": "berlin",
+            "value": 1
+        },
+        {
+            "source": "abandoned",
+            "target": "germany",
+            "value": 1
+        },
+        {
+            "source": "background",
+            "target": "water park",
+            "value": 1
+        },
+        {
+            "source": "background",
+            "target": "berlin",
+            "value": 2
+        },
+        {
+            "source": "background",
+            "target": "germany",
+            "value": 2
+        },
+        {
+            "source": "berlin",
+            "target": "water park",
+            "value": 1
+        },
+        {
+            "source": "germany",
+            "target": "water park",
+            "value": 1
+        },
+        {
+            "source": "fashion",
+            "target": "style",
+            "value": 1
+        },
+        {
+            "source": "sovietpunk",
+            "target": "fashion",
+            "value": 1
+        },
+        {
+            "source": "cold war",
+            "target": "fashion",
+            "value": 1
+        },
+        {
+            "source": "east germany",
+            "target": "fashion",
+            "value": 1
+        },
+        {
+            "source": "iron curtain",
+            "target": "fashion",
+            "value": 1
+        },
+        {
+            "source": "sovietpunk",
+            "target": "style",
+            "value": 1
+        },
+        {
+            "source": "cold war",
+            "target": "style",
+            "value": 1
+        },
+        {
+            "source": "east germany",
+            "target": "style",
+            "value": 1
+        },
+        {
+            "source": "iron curtain",
+            "target": "style",
+            "value": 1
+        },
+        {
+            "source": "cold war",
+            "target": "sovietpunk",
+            "value": 1
+        },
+        {
+            "source": "east germany",
+            "target": "sovietpunk",
+            "value": 1
+        },
+        {
+            "source": "iron curtain",
+            "target": "sovietpunk",
+            "value": 1
+        },
+        {
+            "source": "cold war",
+            "target": "east germany",
+            "value": 1
+        },
+        {
+            "source": "cold war",
+            "target": "iron curtain",
+            "value": 1
+        },
+        {
+            "source": "iron curtain",
+            "target": "east germany",
+            "value": 1
+        },
+        {
+            "source": "woman",
+            "target": "female",
+            "value": 1
+        },
+        {
+            "source": "female",
+            "target": "celebrity",
+            "value": 3
+        },
+        {
+            "source": "female",
+            "target": "youtube",
+            "value": 1
+        },
+        {
+            "source": "female",
+            "target": "lora",
+            "value": 1
+        },
+        {
+            "source": "female",
+            "target": "asmr",
+            "value": 1
+        },
+        {
+            "source": "female",
+            "target": "germany",
+            "value": 3
+        },
+        {
+            "source": "woman",
+            "target": "celebrity",
+            "value": 7
+        },
+        {
+            "source": "woman",
+            "target": "youtube",
+            "value": 1
+        },
+        {
+            "source": "woman",
+            "target": "lora",
+            "value": 1
+        },
+        {
+            "source": "woman",
+            "target": "asmr",
+            "value": 1
+        },
+        {
+            "source": "woman",
+            "target": "germany",
+            "value": 7
+        },
+        {
+            "source": "youtube",
+            "target": "celebrity",
+            "value": 1
+        },
+        {
+            "source": "lora",
+            "target": "celebrity",
+            "value": 1
+        },
+        {
+            "source": "asmr",
+            "target": "celebrity",
+            "value": 1
+        },
+        {
+            "source": "lora",
+            "target": "youtube",
+            "value": 1
+        },
+        {
+            "source": "asmr",
+            "target": "youtube",
+            "value": 1
+        },
+        {
+            "source": "youtube",
+            "target": "germany",
+            "value": 1
+        },
+        {
+            "source": "asmr",
+            "target": "lora",
+            "value": 1
+        },
+        {
+            "source": "lora",
+            "target": "germany",
+            "value": 1
+        },
+        {
+            "source": "asmr",
+            "target": "germany",
+            "value": 1
+        },
+        {
+            "source": "celebrity",
+            "target": "politician",
+            "value": 9
+        },
+        {
+            "source": "male",
+            "target": "politician",
+            "value": 3
+        },
+        {
+            "source": "germany",
+            "target": "politician",
+            "value": 10
+        },
+        {
+            "source": "male",
+            "target": "celebrity",
+            "value": 4
+        },
+        {
+            "source": "male",
+            "target": "germany",
+            "value": 4
+        },
+        {
+            "source": "realism",
+            "target": "politician",
+            "value": 2
+        },
+        {
+            "source": "political",
+            "target": "realism",
+            "value": 1
+        },
+        {
+            "source": "realism",
+            "target": "celeb",
+            "value": 4
+        },
+        {
+            "source": "realism",
+            "target": "celebrity",
+            "value": 4
+        },
+        {
+            "source": "realism",
+            "target": "germany",
+            "value": 4
+        },
+        {
+            "source": "realism",
+            "target": "celebrity,",
+            "value": 4
+        },
+        {
+            "source": "political",
+            "target": "politician",
+            "value": 1
+        },
+        {
+            "source": "celeb",
+            "target": "politician",
+            "value": 2
+        },
+        {
+            "source": "celebrity,",
+            "target": "politician",
+            "value": 2
+        },
+        {
+            "source": "political",
+            "target": "celeb",
+            "value": 1
+        },
+        {
+            "source": "political",
+            "target": "celebrity",
+            "value": 1
+        },
+        {
+            "source": "political",
+            "target": "germany",
+            "value": 1
+        },
+        {
+            "source": "political",
+            "target": "celebrity,",
+            "value": 1
+        },
+        {
+            "source": "celeb",
+            "target": "celebrity",
+            "value": 5
+        },
+        {
+            "source": "celeb",
+            "target": "germany",
+            "value": 5
+        },
+        {
+            "source": "celebrity,",
+            "target": "celeb",
+            "value": 4
+        },
+        {
+            "source": "celebrity,",
+            "target": "celebrity",
+            "value": 4
+        },
+        {
+            "source": "celebrity,",
+            "target": "germany",
+            "value": 4
+        },
+        {
+            "source": "female",
+            "target": "politician",
+            "value": 2
+        },
+        {
+            "source": "woman",
+            "target": "realism",
+            "value": 2
+        },
+        {
+            "source": "realism",
+            "target": "photorealism",
+            "value": 1
+        },
+        {
+            "source": "woman",
+            "target": "celeb",
+            "value": 3
+        },
+        {
+            "source": "woman",
+            "target": "photorealism",
+            "value": 4
+        },
+        {
+            "source": "woman",
+            "target": "celebrity,",
+            "value": 2
+        },
+        {
+            "source": "celeb",
+            "target": "photorealism",
+            "value": 2
+        },
+        {
+            "source": "celebrity",
+            "target": "photorealism",
+            "value": 4
+        },
+        {
+            "source": "germany",
+            "target": "photorealism",
+            "value": 5
+        },
+        {
+            "source": "celebrity,",
+            "target": "photorealism",
+            "value": 1
+        },
+        {
+            "source": "art",
+            "target": "costume",
+            "value": 1
+        },
+        {
+            "source": "art",
+            "target": "style",
+            "value": 1
+        },
+        {
+            "source": "art",
+            "target": "german",
+            "value": 1
+        },
+        {
+            "source": "art",
+            "target": "dance",
+            "value": 1
+        },
+        {
+            "source": "art",
+            "target": "germany",
+            "value": 1
+        },
+        {
+            "source": "costume",
+            "target": "style",
+            "value": 1
+        },
+        {
+            "source": "costume",
+            "target": "german",
+            "value": 1
+        },
+        {
+            "source": "costume",
+            "target": "dance",
+            "value": 1
+        },
+        {
+            "source": "costume",
+            "target": "germany",
+            "value": 1
+        },
+        {
+            "source": "german",
+            "target": "style",
+            "value": 3
+        },
+        {
+            "source": "dance",
+            "target": "style",
+            "value": 1
+        },
+        {
+            "source": "german",
+            "target": "dance",
+            "value": 1
+        },
+        {
+            "source": "germany",
+            "target": "dance",
+            "value": 1
+        },
+        {
+            "source": "clothing",
+            "target": "leather pants",
+            "value": 1
+        },
+        {
+            "source": "clothing",
+            "target": "germany",
+            "value": 2
+        },
+        {
+            "source": "bavaria",
+            "target": "clothing",
+            "value": 1
+        },
+        {
+            "source": "germany",
+            "target": "leather pants",
+            "value": 1
+        },
+        {
+            "source": "bavaria",
+            "target": "leather pants",
+            "value": 1
+        },
+        {
+            "source": "bavaria",
+            "target": "germany",
+            "value": 1
+        },
+        {
+            "source": "style",
+            "target": "cinematic",
+            "value": 1
+        },
+        {
+            "source": "style",
+            "target": "photorealism",
+            "value": 1
+        },
+        {
+            "source": "documentary",
+            "target": "style",
+            "value": 1
+        },
+        {
+            "source": "photorealism",
+            "target": "cinematic",
+            "value": 1
+        },
+        {
+            "source": "german",
+            "target": "cinematic",
+            "value": 1
+        },
+        {
+            "source": "germany",
+            "target": "cinematic",
+            "value": 1
+        },
+        {
+            "source": "documentary",
+            "target": "cinematic",
+            "value": 1
+        },
+        {
+            "source": "german",
+            "target": "photorealism",
+            "value": 4
+        },
+        {
+            "source": "documentary",
+            "target": "photorealism",
+            "value": 1
+        },
+        {
+            "source": "documentary",
+            "target": "german",
+            "value": 1
+        },
+        {
+            "source": "documentary",
+            "target": "germany",
+            "value": 1
+        },
+        {
+            "source": "celebrity",
+            "target": "football",
+            "value": 1
+        },
+        {
+            "source": "male",
+            "target": "football",
+            "value": 1
+        },
+        {
+            "source": "man",
+            "target": "football",
+            "value": 1
+        },
+        {
+            "source": "men",
+            "target": "football",
+            "value": 1
+        },
+        {
+            "source": "german",
+            "target": "football",
+            "value": 1
+        },
+        {
+            "source": "germany",
+            "target": "football",
+            "value": 1
+        },
+        {
+            "source": "man",
+            "target": "celebrity",
+            "value": 1
+        },
+        {
+            "source": "men",
+            "target": "celebrity",
+            "value": 1
+        },
+        {
+            "source": "man",
+            "target": "male",
+            "value": 1
+        },
+        {
+            "source": "men",
+            "target": "male",
+            "value": 1
+        },
+        {
+            "source": "male",
+            "target": "german",
+            "value": 1
+        },
+        {
+            "source": "men",
+            "target": "man",
+            "value": 1
+        },
+        {
+            "source": "man",
+            "target": "german",
+            "value": 2
+        },
+        {
+            "source": "man",
+            "target": "germany",
+            "value": 2
+        },
+        {
+            "source": "men",
+            "target": "german",
+            "value": 1
+        },
+        {
+            "source": "men",
+            "target": "germany",
+            "value": 1
+        },
+        {
+            "source": "realism",
+            "target": "politican",
+            "value": 1
+        },
+        {
+            "source": "woman",
+            "target": "politican",
+            "value": 1
+        },
+        {
+            "source": "politican",
+            "target": "celeb",
+            "value": 1
+        },
+        {
+            "source": "politican",
+            "target": "celebrity",
+            "value": 1
+        },
+        {
+            "source": "politican",
+            "target": "germany",
+            "value": 2
+        },
+        {
+            "source": "politican",
+            "target": "celebrity,",
+            "value": 1
+        },
+        {
+            "source": "buildings",
+            "target": "building",
+            "value": 1
+        },
+        {
+            "source": "buildings",
+            "target": "germany",
+            "value": 1
+        },
+        {
+            "source": "civilization",
+            "target": "buildings",
+            "value": 1
+        },
+        {
+            "source": "famous building",
+            "target": "buildings",
+            "value": 1
+        },
+        {
+            "source": "buildings",
+            "target": "world wonder",
+            "value": 1
+        },
+        {
+            "source": "civilization 6",
+            "target": "buildings",
+            "value": 1
+        },
+        {
+            "source": "building",
+            "target": "germany",
+            "value": 2
+        },
+        {
+            "source": "civilization",
+            "target": "building",
+            "value": 1
+        },
+        {
+            "source": "famous building",
+            "target": "building",
+            "value": 1
+        },
+        {
+            "source": "building",
+            "target": "world wonder",
+            "value": 1
+        },
+        {
+            "source": "civilization 6",
+            "target": "building",
+            "value": 1
+        },
+        {
+            "source": "civilization",
+            "target": "germany",
+            "value": 1
+        },
+        {
+            "source": "famous building",
+            "target": "germany",
+            "value": 1
+        },
+        {
+            "source": "germany",
+            "target": "world wonder",
+            "value": 1
+        },
+        {
+            "source": "civilization 6",
+            "target": "germany",
+            "value": 1
+        },
+        {
+            "source": "famous building",
+            "target": "civilization",
+            "value": 1
+        },
+        {
+            "source": "civilization",
+            "target": "world wonder",
+            "value": 1
+        },
+        {
+            "source": "civilization",
+            "target": "civilization 6",
+            "value": 1
+        },
+        {
+            "source": "famous building",
+            "target": "world wonder",
+            "value": 1
+        },
+        {
+            "source": "famous building",
+            "target": "civilization 6",
+            "value": 1
+        },
+        {
+            "source": "civilization 6",
+            "target": "world wonder",
+            "value": 1
+        },
+        {
+            "source": "woman",
+            "target": "photorealistic",
+            "value": 1
+        },
+        {
+            "source": "photorealistic",
+            "target": "celebrity",
+            "value": 1
+        },
+        {
+            "source": "photorealistic",
+            "target": "pornstar",
+            "value": 1
+        },
+        {
+            "source": "photorealistic",
+            "target": "german",
+            "value": 1
+        },
+        {
+            "source": "photorealistic",
+            "target": "adult model",
+            "value": 1
+        },
+        {
+            "source": "photorealistic",
+            "target": "germany",
+            "value": 1
+        },
+        {
+            "source": "woman",
+            "target": "pornstar",
+            "value": 1
+        },
+        {
+            "source": "woman",
+            "target": "german",
+            "value": 4
+        },
+        {
+            "source": "woman",
+            "target": "adult model",
+            "value": 1
+        },
+        {
+            "source": "pornstar",
+            "target": "celebrity",
+            "value": 1
+        },
+        {
+            "source": "adult model",
+            "target": "celebrity",
+            "value": 1
+        },
+        {
+            "source": "german",
+            "target": "pornstar",
+            "value": 1
+        },
+        {
+            "source": "adult model",
+            "target": "pornstar",
+            "value": 1
+        },
+        {
+            "source": "pornstar",
+            "target": "germany",
+            "value": 1
+        },
+        {
+            "source": "adult model",
+            "target": "german",
+            "value": 1
+        },
+        {
+            "source": "adult model",
+            "target": "germany",
+            "value": 1
+        },
+        {
+            "source": "woman",
+            "target": "photoralistic",
+            "value": 1
+        },
+        {
+            "source": "german",
+            "target": "celeb",
+            "value": 1
+        },
+        {
+            "source": "photoralistic",
+            "target": "celeb",
+            "value": 1
+        },
+        {
+            "source": "photoralistic",
+            "target": "celebrity",
+            "value": 1
+        },
+        {
+            "source": "photoralistic",
+            "target": "photorealism",
+            "value": 1
+        },
+        {
+            "source": "german",
+            "target": "photoralistic",
+            "value": 1
+        },
+        {
+            "source": "photoralistic",
+            "target": "germany",
+            "value": 1
+        },
+        {
+            "source": "woman",
+            "target": "soccer player",
+            "value": 1
+        },
+        {
+            "source": "soccer player",
+            "target": "celebrity",
+            "value": 1
+        },
+        {
+            "source": "soccer player",
+            "target": "photorealism",
+            "value": 1
+        },
+        {
+            "source": "soccer player",
+            "target": "german",
+            "value": 1
+        },
+        {
+            "source": "soccer player",
+            "target": "germany",
+            "value": 1
+        },
+        {
+            "source": "anime",
+            "target": "concept",
+            "value": 1
+        },
+        {
+            "source": "meme",
+            "target": "anime",
+            "value": 1
+        },
+        {
+            "source": "anime",
+            "target": "old photo",
+            "value": 1
+        },
+        {
+            "source": "anime",
+            "target": "memes",
+            "value": 1
+        },
+        {
+            "source": "anime",
+            "target": "germany",
+            "value": 3
+        },
+        {
+            "source": "concepts",
+            "target": "anime",
+            "value": 1
+        },
+        {
+            "source": "meme",
+            "target": "concept",
+            "value": 1
+        },
+        {
+            "source": "old photo",
+            "target": "concept",
+            "value": 1
+        },
+        {
+            "source": "concept",
+            "target": "memes",
+            "value": 1
+        },
+        {
+            "source": "germany",
+            "target": "concept",
+            "value": 1
+        },
+        {
+            "source": "concepts",
+            "target": "concept",
+            "value": 1
+        },
+        {
+            "source": "meme",
+            "target": "old photo",
+            "value": 1
+        },
+        {
+            "source": "meme",
+            "target": "memes",
+            "value": 1
+        },
+        {
+            "source": "meme",
+            "target": "germany",
+            "value": 1
+        },
+        {
+            "source": "meme",
+            "target": "concepts",
+            "value": 1
+        },
+        {
+            "source": "old photo",
+            "target": "memes",
+            "value": 1
+        },
+        {
+            "source": "old photo",
+            "target": "germany",
+            "value": 1
+        },
+        {
+            "source": "concepts",
+            "target": "old photo",
+            "value": 1
+        },
+        {
+            "source": "germany",
+            "target": "memes",
+            "value": 1
+        },
+        {
+            "source": "concepts",
+            "target": "memes",
+            "value": 1
+        },
+        {
+            "source": "concepts",
+            "target": "germany",
+            "value": 1
+        },
+        {
+            "source": "realism",
+            "target": "photorealim",
+            "value": 1
+        },
+        {
+            "source": "politician",
+            "target": "photorealim",
+            "value": 1
+        },
+        {
+            "source": "celeb",
+            "target": "photorealim",
+            "value": 1
+        },
+        {
+            "source": "celebrity",
+            "target": "photorealim",
+            "value": 1
+        },
+        {
+            "source": "germany",
+            "target": "photorealim",
+            "value": 1
+        },
+        {
+            "source": "celebrity,",
+            "target": "photorealim",
+            "value": 1
+        },
+        {
+            "source": "military",
+            "target": "anime",
+            "value": 1
+        },
+        {
+            "source": "historical",
+            "target": "anime",
+            "value": 1
+        },
+        {
+            "source": "clothing",
+            "target": "anime",
+            "value": 1
+        },
+        {
+            "source": "uniform",
+            "target": "anime",
+            "value": 1
+        },
+        {
+            "source": "german",
+            "target": "anime",
+            "value": 2
+        },
+        {
+            "source": "historical",
+            "target": "military",
+            "value": 1
+        },
+        {
+            "source": "military",
+            "target": "clothing",
+            "value": 1
+        },
+        {
+            "source": "military",
+            "target": "uniform",
+            "value": 1
+        },
+        {
+            "source": "military",
+            "target": "german",
+            "value": 1
+        },
+        {
+            "source": "military",
+            "target": "germany",
+            "value": 1
+        },
+        {
+            "source": "historical",
+            "target": "clothing",
+            "value": 1
+        },
+        {
+            "source": "historical",
+            "target": "uniform",
+            "value": 1
+        },
+        {
+            "source": "historical",
+            "target": "german",
+            "value": 1
+        },
+        {
+            "source": "historical",
+            "target": "germany",
+            "value": 1
+        },
+        {
+            "source": "uniform",
+            "target": "clothing",
+            "value": 1
+        },
+        {
+            "source": "german",
+            "target": "clothing",
+            "value": 1
+        },
+        {
+            "source": "german",
+            "target": "uniform",
+            "value": 1
+        },
+        {
+            "source": "uniform",
+            "target": "germany",
+            "value": 1
+        },
+        {
+            "source": "character",
+            "target": "politician",
+            "value": 1
+        },
+        {
+            "source": "man",
+            "target": "character",
+            "value": 1
+        },
+        {
+            "source": "german",
+            "target": "character",
+            "value": 1
+        },
+        {
+            "source": "character",
+            "target": "germany",
+            "value": 3
+        },
+        {
+            "source": "politican",
+            "target": "character",
+            "value": 1
+        },
+        {
+            "source": "man",
+            "target": "politician",
+            "value": 1
+        },
+        {
+            "source": "german",
+            "target": "politician",
+            "value": 1
+        },
+        {
+            "source": "politican",
+            "target": "politician",
+            "value": 1
+        },
+        {
+            "source": "man",
+            "target": "politican",
+            "value": 1
+        },
+        {
+            "source": "german",
+            "target": "politican",
+            "value": 1
+        },
+        {
+            "source": "character",
+            "target": "mythical",
+            "value": 1
+        },
+        {
+            "source": "character",
+            "target": "demon",
+            "value": 1
+        },
+        {
+            "source": "demon",
+            "target": "mythical",
+            "value": 1
+        },
+        {
+            "source": "germany",
+            "target": "mythical",
+            "value": 1
+        },
+        {
+            "source": "germany",
+            "target": "demon",
+            "value": 1
+        },
+        {
+            "source": "anime",
+            "target": "style",
+            "value": 1
+        },
+        {
+            "source": "cartoon",
+            "target": "anime",
+            "value": 1
+        },
+        {
+            "source": "cartoon",
+            "target": "style",
+            "value": 1
+        },
+        {
+            "source": "cartoon",
+            "target": "german",
+            "value": 1
+        },
+        {
+            "source": "cartoon",
+            "target": "germany",
+            "value": 1
+        },
+        {
+            "source": "person",
+            "target": "woman",
+            "value": 1
+        },
+        {
+            "source": "person",
+            "target": "celebrity",
+            "value": 1
+        },
+        {
+            "source": "person",
+            "target": "photorealism",
+            "value": 1
+        },
+        {
+            "source": "person",
+            "target": "realistic",
+            "value": 1
+        },
+        {
+            "source": "person",
+            "target": "german",
+            "value": 1
+        },
+        {
+            "source": "person",
+            "target": "germany",
+            "value": 1
+        },
+        {
+            "source": "woman",
+            "target": "realistic",
+            "value": 1
+        },
+        {
+            "source": "realistic",
+            "target": "celebrity",
+            "value": 1
+        },
+        {
+            "source": "realistic",
+            "target": "photorealism",
+            "value": 1
+        },
+        {
+            "source": "realistic",
+            "target": "german",
+            "value": 1
+        },
+        {
+            "source": "realistic",
+            "target": "germany",
+            "value": 1
+        },
+        {
+            "source": "vehicle",
+            "target": "german",
+            "value": 2
+        },
+        {
+            "source": "german",
+            "target": "world war 2",
+            "value": 1
+        },
+        {
+            "source": "german",
+            "target": "engineering",
+            "value": 1
+        },
+        {
+            "source": "half-truck",
+            "target": "german",
+            "value": 1
+        },
+        {
+            "source": "vehicle",
+            "target": "germany",
+            "value": 2
+        },
+        {
+            "source": "vehicle",
+            "target": "world war 2",
+            "value": 1
+        },
+        {
+            "source": "vehicle",
+            "target": "engineering",
+            "value": 1
+        },
+        {
+            "source": "half-truck",
+            "target": "vehicle",
+            "value": 1
+        },
+        {
+            "source": "world war 2",
+            "target": "germany",
+            "value": 1
+        },
+        {
+            "source": "engineering",
+            "target": "germany",
+            "value": 1
+        },
+        {
+            "source": "half-truck",
+            "target": "germany",
+            "value": 1
+        },
+        {
+            "source": "engineering",
+            "target": "world war 2",
+            "value": 1
+        },
+        {
+            "source": "half-truck",
+            "target": "world war 2",
+            "value": 1
+        },
+        {
+            "source": "half-truck",
+            "target": "engineering",
+            "value": 1
+        },
+        {
+            "source": "guy",
+            "target": "streamer",
+            "value": 1
+        },
+        {
+            "source": "guy",
+            "target": "celebrity",
+            "value": 1
+        },
+        {
+            "source": "guy",
+            "target": "german",
+            "value": 1
+        },
+        {
+            "source": "guy",
+            "target": "germany",
+            "value": 1
+        },
+        {
+            "source": "streamer",
+            "target": "celebrity",
+            "value": 1
+        },
+        {
+            "source": "streamer",
+            "target": "german",
+            "value": 1
+        },
+        {
+            "source": "streamer",
+            "target": "germany",
+            "value": 1
+        },
+        {
+            "source": "1960s",
+            "target": "german",
+            "value": 1
+        },
+        {
+            "source": "porsche",
+            "target": "1960s",
+            "value": 1
+        },
+        {
+            "source": "1960s",
+            "target": "vehicle",
+            "value": 1
+        },
+        {
+            "source": "sports car",
+            "target": "1960s",
+            "value": 1
+        },
+        {
+            "source": "1960s",
+            "target": "race car",
+            "value": 1
+        },
+        {
+            "source": "1960s",
+            "target": "germany",
+            "value": 1
+        },
+        {
+            "source": "porsche",
+            "target": "german",
+            "value": 1
+        },
+        {
+            "source": "sports car",
+            "target": "german",
+            "value": 1
+        },
+        {
+            "source": "german",
+            "target": "race car",
+            "value": 1
+        },
+        {
+            "source": "porsche",
+            "target": "vehicle",
+            "value": 1
+        },
+        {
+            "source": "porsche",
+            "target": "sports car",
+            "value": 1
+        },
+        {
+            "source": "porsche",
+            "target": "race car",
+            "value": 1
+        },
+        {
+            "source": "porsche",
+            "target": "germany",
+            "value": 1
+        },
+        {
+            "source": "sports car",
+            "target": "vehicle",
+            "value": 1
+        },
+        {
+            "source": "vehicle",
+            "target": "race car",
+            "value": 1
+        },
+        {
+            "source": "sports car",
+            "target": "race car",
+            "value": 1
+        },
+        {
+            "source": "sports car",
+            "target": "germany",
+            "value": 1
+        },
+        {
+            "source": "germany",
+            "target": "race car",
+            "value": 1
+        },
+        {
+            "source": "texture",
+            "target": "architecture",
+            "value": 1
+        },
+        {
+            "source": "background",
+            "target": "architecture",
+            "value": 1
+        },
+        {
+            "source": "architecture",
+            "target": "building",
+            "value": 1
+        },
+        {
+            "source": "architecture",
+            "target": "berlin",
+            "value": 1
+        },
+        {
+            "source": "architecture",
+            "target": "germany",
+            "value": 1
+        },
+        {
+            "source": "architecture",
+            "target": "european style",
+            "value": 1
+        },
+        {
+            "source": "texture",
+            "target": "background",
+            "value": 1
+        },
+        {
+            "source": "texture",
+            "target": "building",
+            "value": 1
+        },
+        {
+            "source": "texture",
+            "target": "berlin",
+            "value": 1
+        },
+        {
+            "source": "texture",
+            "target": "germany",
+            "value": 1
+        },
+        {
+            "source": "texture",
+            "target": "european style",
+            "value": 1
+        },
+        {
+            "source": "background",
+            "target": "building",
+            "value": 1
+        },
+        {
+            "source": "background",
+            "target": "european style",
+            "value": 1
+        },
+        {
+            "source": "berlin",
+            "target": "building",
+            "value": 1
+        },
+        {
+            "source": "building",
+            "target": "european style",
+            "value": 1
+        },
+        {
+            "source": "berlin",
+            "target": "european style",
+            "value": 1
+        },
+        {
+            "source": "germany",
+            "target": "european style",
+            "value": 1
+        },
+        {
+            "source": "germany flag",
+            "target": "character",
+            "value": 1
+        },
+        {
+            "source": "countryhuman",
+            "target": "character",
+            "value": 1
+        },
+        {
+            "source": "germany flag",
+            "target": "germany",
+            "value": 1
+        },
+        {
+            "source": "countryhuman",
+            "target": "germany",
+            "value": 1
+        },
+        {
+            "source": "countryhuman",
+            "target": "germany flag",
+            "value": 1
+        }
+    ]
+}

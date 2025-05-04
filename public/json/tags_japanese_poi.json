@@ -1,0 +1,2953 @@
+{
+    "nodes": [
+        {
+            "id": "photorealistic",
+            "size": 171
+        },
+        {
+            "id": "idol",
+            "size": 79
+        },
+        {
+            "id": "woman",
+            "size": 405
+        },
+        {
+            "id": "actress",
+            "size": 73
+        },
+        {
+            "id": "celebrity",
+            "size": 547
+        },
+        {
+            "id": "japanese",
+            "size": 505
+        },
+        {
+            "id": "realistic",
+            "size": 87
+        },
+        {
+            "id": "girl",
+            "size": 51
+        },
+        {
+            "id": "japanese girl",
+            "size": 96
+        },
+        {
+            "id": "jav",
+            "size": 161
+        },
+        {
+            "id": "japan",
+            "size": 59
+        },
+        {
+            "id": "celeb",
+            "size": 9
+        },
+        {
+            "id": "cosplayer",
+            "size": 4
+        },
+        {
+            "id": "gravure",
+            "size": 68
+        },
+        {
+            "id": "cute",
+            "size": 8
+        },
+        {
+            "id": "female",
+            "size": 75
+        },
+        {
+            "id": "girls",
+            "size": 146
+        },
+        {
+            "id": "women",
+            "size": 6
+        },
+        {
+            "id": "beauty",
+            "size": 4
+        },
+        {
+            "id": "japanese idol",
+            "size": 44
+        },
+        {
+            "id": "japanese actress",
+            "size": 29
+        },
+        {
+            "id": "asian",
+            "size": 76
+        },
+        {
+            "id": "real person",
+            "size": 3
+        },
+        {
+            "id": "japanese woman",
+            "size": 43
+        },
+        {
+            "id": "model",
+            "size": 13
+        },
+        {
+            "id": "japan girl",
+            "size": 7
+        },
+        {
+            "id": "tokusatsu",
+            "size": 4
+        },
+        {
+            "id": "chinese",
+            "size": 2
+        },
+        {
+            "id": "twice",
+            "size": 4
+        },
+        {
+            "id": "korean",
+            "size": 2
+        },
+        {
+            "id": "av actress",
+            "size": 14
+        },
+        {
+            "id": "portrait",
+            "size": 2
+        },
+        {
+            "id": "kpop",
+            "size": 21
+        },
+        {
+            "id": "lora",
+            "size": 12
+        },
+        {
+            "id": "jpop",
+            "size": 14
+        },
+        {
+            "id": "shinozaki ai",
+            "size": 2
+        },
+        {
+            "id": "ai shinozaki",
+            "size": 2
+        },
+        {
+            "id": "sexy",
+            "size": 24
+        },
+        {
+            "id": "pornstar",
+            "size": 37
+        },
+        {
+            "id": "singer",
+            "size": 11
+        },
+        {
+            "id": "yakuza",
+            "size": 3
+        },
+        {
+            "id": "gravure idol",
+            "size": 19
+        },
+        {
+            "id": "character",
+            "size": 47
+        },
+        {
+            "id": "porn",
+            "size": 6
+        },
+        {
+            "id": "dancer",
+            "size": 3
+        },
+        {
+            "id": "youtuber",
+            "size": 4
+        },
+        {
+            "id": "celebrity,",
+            "size": 23
+        },
+        {
+            "id": "milf",
+            "size": 4
+        },
+        {
+            "id": "av idol",
+            "size": 3
+        },
+        {
+            "id": "musician",
+            "size": 4
+        },
+        {
+            "id": "person",
+            "size": 5
+        },
+        {
+            "id": "textual inversion",
+            "size": 3
+        },
+        {
+            "id": "male",
+            "size": 3
+        },
+        {
+            "id": "actor",
+            "size": 4
+        },
+        {
+            "id": "man",
+            "size": 10
+        },
+        {
+            "id": "celebirty",
+            "size": 4
+        },
+        {
+            "id": "anime",
+            "size": 2
+        },
+        {
+            "id": "wwe",
+            "size": 3
+        }
+    ],
+    "links": [
+        {
+            "source": "idol",
+            "target": "photorealistic",
+            "value": 12
+        },
+        {
+            "source": "woman",
+            "target": "photorealistic",
+            "value": 148
+        },
+        {
+            "source": "photorealistic",
+            "target": "actress",
+            "value": 15
+        },
+        {
+            "source": "photorealistic",
+            "target": "celebrity",
+            "value": 162
+        },
+        {
+            "source": "photorealistic",
+            "target": "japanese",
+            "value": 164
+        },
+        {
+            "source": "photorealistic",
+            "target": "realistic",
+            "value": 51
+        },
+        {
+            "source": "idol",
+            "target": "woman",
+            "value": 46
+        },
+        {
+            "source": "idol",
+            "target": "actress",
+            "value": 18
+        },
+        {
+            "source": "idol",
+            "target": "celebrity",
+            "value": 72
+        },
+        {
+            "source": "idol",
+            "target": "japanese",
+            "value": 67
+        },
+        {
+            "source": "idol",
+            "target": "realistic",
+            "value": 7
+        },
+        {
+            "source": "woman",
+            "target": "actress",
+            "value": 53
+        },
+        {
+            "source": "woman",
+            "target": "celebrity",
+            "value": 381
+        },
+        {
+            "source": "woman",
+            "target": "japanese",
+            "value": 378
+        },
+        {
+            "source": "woman",
+            "target": "realistic",
+            "value": 61
+        },
+        {
+            "source": "actress",
+            "target": "celebrity",
+            "value": 73
+        },
+        {
+            "source": "actress",
+            "target": "japanese",
+            "value": 71
+        },
+        {
+            "source": "actress",
+            "target": "realistic",
+            "value": 6
+        },
+        {
+            "source": "celebrity",
+            "target": "japanese",
+            "value": 458
+        },
+        {
+            "source": "realistic",
+            "target": "celebrity",
+            "value": 65
+        },
+        {
+            "source": "realistic",
+            "target": "japanese",
+            "value": 79
+        },
+        {
+            "source": "photorealistic",
+            "target": "girl",
+            "value": 16
+        },
+        {
+            "source": "woman",
+            "target": "girl",
+            "value": 47
+        },
+        {
+            "source": "girl",
+            "target": "celebrity",
+            "value": 47
+        },
+        {
+            "source": "girl",
+            "target": "japanese",
+            "value": 47
+        },
+        {
+            "source": "girl",
+            "target": "realistic",
+            "value": 10
+        },
+        {
+            "source": "japanese girl",
+            "target": "girl",
+            "value": 14
+        },
+        {
+            "source": "photorealistic",
+            "target": "japanese girl",
+            "value": 13
+        },
+        {
+            "source": "woman",
+            "target": "japanese girl",
+            "value": 54
+        },
+        {
+            "source": "japanese girl",
+            "target": "celebrity",
+            "value": 81
+        },
+        {
+            "source": "japanese girl",
+            "target": "japanese",
+            "value": 50
+        },
+        {
+            "source": "japanese girl",
+            "target": "realistic",
+            "value": 11
+        },
+        {
+            "source": "japan",
+            "target": "jav",
+            "value": 9
+        },
+        {
+            "source": "woman",
+            "target": "jav",
+            "value": 115
+        },
+        {
+            "source": "celeb",
+            "target": "jav",
+            "value": 1
+        },
+        {
+            "source": "celebrity",
+            "target": "jav",
+            "value": 159
+        },
+        {
+            "source": "japanese",
+            "target": "jav",
+            "value": 135
+        },
+        {
+            "source": "japanese girl",
+            "target": "jav",
+            "value": 27
+        },
+        {
+            "source": "woman",
+            "target": "japan",
+            "value": 50
+        },
+        {
+            "source": "japan",
+            "target": "celeb",
+            "value": 1
+        },
+        {
+            "source": "celebrity",
+            "target": "japan",
+            "value": 57
+        },
+        {
+            "source": "japan",
+            "target": "japanese",
+            "value": 56
+        },
+        {
+            "source": "japanese girl",
+            "target": "japan",
+            "value": 14
+        },
+        {
+            "source": "woman",
+            "target": "celeb",
+            "value": 7
+        },
+        {
+            "source": "celebrity",
+            "target": "celeb",
+            "value": 9
+        },
+        {
+            "source": "celeb",
+            "target": "japanese",
+            "value": 8
+        },
+        {
+            "source": "japanese girl",
+            "target": "celeb",
+            "value": 2
+        },
+        {
+            "source": "gravure",
+            "target": "cosplayer",
+            "value": 2
+        },
+        {
+            "source": "cosplayer",
+            "target": "celebrity",
+            "value": 4
+        },
+        {
+            "source": "cosplayer",
+            "target": "japanese girl",
+            "value": 2
+        },
+        {
+            "source": "gravure",
+            "target": "celebrity",
+            "value": 66
+        },
+        {
+            "source": "gravure",
+            "target": "japanese girl",
+            "value": 17
+        },
+        {
+            "source": "cute",
+            "target": "celebrity",
+            "value": 7
+        },
+        {
+            "source": "cute",
+            "target": "japanese",
+            "value": 8
+        },
+        {
+            "source": "cosplayer",
+            "target": "girl",
+            "value": 2
+        },
+        {
+            "source": "cosplayer",
+            "target": "photorealistic",
+            "value": 2
+        },
+        {
+            "source": "woman",
+            "target": "cosplayer",
+            "value": 2
+        },
+        {
+            "source": "cosplayer",
+            "target": "japanese",
+            "value": 3
+        },
+        {
+            "source": "photorealistic",
+            "target": "female",
+            "value": 32
+        },
+        {
+            "source": "photorealistic",
+            "target": "jav",
+            "value": 21
+        },
+        {
+            "source": "female",
+            "target": "jav",
+            "value": 30
+        },
+        {
+            "source": "woman",
+            "target": "female",
+            "value": 62
+        },
+        {
+            "source": "female",
+            "target": "celebrity",
+            "value": 71
+        },
+        {
+            "source": "female",
+            "target": "japanese",
+            "value": 69
+        },
+        {
+            "source": "female",
+            "target": "realistic",
+            "value": 17
+        },
+        {
+            "source": "realistic",
+            "target": "jav",
+            "value": 15
+        },
+        {
+            "source": "female",
+            "target": "actress",
+            "value": 9
+        },
+        {
+            "source": "gravure",
+            "target": "girl",
+            "value": 8
+        },
+        {
+            "source": "gravure",
+            "target": "woman",
+            "value": 49
+        },
+        {
+            "source": "gravure",
+            "target": "japanese",
+            "value": 62
+        },
+        {
+            "source": "cosplayer",
+            "target": "female",
+            "value": 1
+        },
+        {
+            "source": "cosplayer",
+            "target": "realistic",
+            "value": 1
+        },
+        {
+            "source": "female",
+            "target": "girl",
+            "value": 8
+        },
+        {
+            "source": "girl",
+            "target": "jav",
+            "value": 12
+        },
+        {
+            "source": "girls",
+            "target": "girl",
+            "value": 4
+        },
+        {
+            "source": "women",
+            "target": "girl",
+            "value": 1
+        },
+        {
+            "source": "girls",
+            "target": "celebrity",
+            "value": 135
+        },
+        {
+            "source": "women",
+            "target": "celebrity",
+            "value": 6
+        },
+        {
+            "source": "girls",
+            "target": "japanese",
+            "value": 128
+        },
+        {
+            "source": "girls",
+            "target": "realistic",
+            "value": 29
+        },
+        {
+            "source": "women",
+            "target": "girls",
+            "value": 1
+        },
+        {
+            "source": "women",
+            "target": "japanese",
+            "value": 6
+        },
+        {
+            "source": "women",
+            "target": "realistic",
+            "value": 2
+        },
+        {
+            "source": "girl",
+            "target": "japan",
+            "value": 6
+        },
+        {
+            "source": "gravure",
+            "target": "japan",
+            "value": 4
+        },
+        {
+            "source": "idol",
+            "target": "beauty",
+            "value": 1
+        },
+        {
+            "source": "idol",
+            "target": "women",
+            "value": 1
+        },
+        {
+            "source": "woman",
+            "target": "beauty",
+            "value": 4
+        },
+        {
+            "source": "actress",
+            "target": "beauty",
+            "value": 1
+        },
+        {
+            "source": "celebrity",
+            "target": "beauty",
+            "value": 4
+        },
+        {
+            "source": "japanese",
+            "target": "beauty",
+            "value": 4
+        },
+        {
+            "source": "women",
+            "target": "beauty",
+            "value": 2
+        },
+        {
+            "source": "woman",
+            "target": "women",
+            "value": 4
+        },
+        {
+            "source": "actress",
+            "target": "women",
+            "value": 2
+        },
+        {
+            "source": "japanese idol",
+            "target": "jav",
+            "value": 21
+        },
+        {
+            "source": "japanese idol",
+            "target": "celebrity",
+            "value": 38
+        },
+        {
+            "source": "woman",
+            "target": "girls",
+            "value": 126
+        },
+        {
+            "source": "japanese girl",
+            "target": "girls",
+            "value": 18
+        },
+        {
+            "source": "photorealistic",
+            "target": "girls",
+            "value": 85
+        },
+        {
+            "source": "female",
+            "target": "girls",
+            "value": 27
+        },
+        {
+            "source": "girls",
+            "target": "jav",
+            "value": 28
+        },
+        {
+            "source": "celebrity",
+            "target": "japanese actress",
+            "value": 29
+        },
+        {
+            "source": "photorealistic",
+            "target": "asian",
+            "value": 45
+        },
+        {
+            "source": "real person",
+            "target": "photorealistic",
+            "value": 1
+        },
+        {
+            "source": "woman",
+            "target": "asian",
+            "value": 62
+        },
+        {
+            "source": "celebrity",
+            "target": "asian",
+            "value": 73
+        },
+        {
+            "source": "asian",
+            "target": "japanese",
+            "value": 74
+        },
+        {
+            "source": "realistic",
+            "target": "asian",
+            "value": 2
+        },
+        {
+            "source": "real person",
+            "target": "asian",
+            "value": 2
+        },
+        {
+            "source": "real person",
+            "target": "woman",
+            "value": 3
+        },
+        {
+            "source": "real person",
+            "target": "celebrity",
+            "value": 3
+        },
+        {
+            "source": "real person",
+            "target": "japanese",
+            "value": 2
+        },
+        {
+            "source": "real person",
+            "target": "realistic",
+            "value": 1
+        },
+        {
+            "source": "idol",
+            "target": "female",
+            "value": 9
+        },
+        {
+            "source": "gravure",
+            "target": "female",
+            "value": 10
+        },
+        {
+            "source": "idol",
+            "target": "gravure",
+            "value": 10
+        },
+        {
+            "source": "japanese woman",
+            "target": "jav",
+            "value": 13
+        },
+        {
+            "source": "japanese woman",
+            "target": "celebrity",
+            "value": 32
+        },
+        {
+            "source": "japanese woman",
+            "target": "japanese idol",
+            "value": 13
+        },
+        {
+            "source": "gravure",
+            "target": "actress",
+            "value": 4
+        },
+        {
+            "source": "idol",
+            "target": "japanese girl",
+            "value": 15
+        },
+        {
+            "source": "idol",
+            "target": "japanese woman",
+            "value": 5
+        },
+        {
+            "source": "japanese woman",
+            "target": "woman",
+            "value": 16
+        },
+        {
+            "source": "japanese woman",
+            "target": "japanese",
+            "value": 27
+        },
+        {
+            "source": "japanese woman",
+            "target": "japanese girl",
+            "value": 10
+        },
+        {
+            "source": "cosplayer",
+            "target": "japan",
+            "value": 1
+        },
+        {
+            "source": "photorealistic",
+            "target": "model",
+            "value": 2
+        },
+        {
+            "source": "female",
+            "target": "model",
+            "value": 3
+        },
+        {
+            "source": "woman",
+            "target": "model",
+            "value": 6
+        },
+        {
+            "source": "model",
+            "target": "celebrity",
+            "value": 13
+        },
+        {
+            "source": "model",
+            "target": "girls",
+            "value": 2
+        },
+        {
+            "source": "model",
+            "target": "japanese",
+            "value": 9
+        },
+        {
+            "source": "gravure",
+            "target": "japanese idol",
+            "value": 3
+        },
+        {
+            "source": "woman",
+            "target": "japanese idol",
+            "value": 16
+        },
+        {
+            "source": "japanese idol",
+            "target": "japanese",
+            "value": 14
+        },
+        {
+            "source": "japanese girl",
+            "target": "japanese idol",
+            "value": 21
+        },
+        {
+            "source": "actress",
+            "target": "girls",
+            "value": 11
+        },
+        {
+            "source": "actress",
+            "target": "japanese girl",
+            "value": 3
+        },
+        {
+            "source": "japanese woman",
+            "target": "actress",
+            "value": 2
+        },
+        {
+            "source": "japanese woman",
+            "target": "girls",
+            "value": 2
+        },
+        {
+            "source": "model",
+            "target": "japan",
+            "value": 1
+        },
+        {
+            "source": "gravure",
+            "target": "model",
+            "value": 3
+        },
+        {
+            "source": "model",
+            "target": "japanese girl",
+            "value": 3
+        },
+        {
+            "source": "japan girl",
+            "target": "jav",
+            "value": 2
+        },
+        {
+            "source": "japan girl",
+            "target": "woman",
+            "value": 5
+        },
+        {
+            "source": "japan girl",
+            "target": "celebrity",
+            "value": 6
+        },
+        {
+            "source": "japan girl",
+            "target": "japanese",
+            "value": 7
+        },
+        {
+            "source": "tokusatsu",
+            "target": "girl",
+            "value": 1
+        },
+        {
+            "source": "tokusatsu",
+            "target": "photorealistic",
+            "value": 3
+        },
+        {
+            "source": "tokusatsu",
+            "target": "woman",
+            "value": 4
+        },
+        {
+            "source": "tokusatsu",
+            "target": "celebrity",
+            "value": 4
+        },
+        {
+            "source": "tokusatsu",
+            "target": "japanese",
+            "value": 4
+        },
+        {
+            "source": "tokusatsu",
+            "target": "realistic",
+            "value": 3
+        },
+        {
+            "source": "idol",
+            "target": "girl",
+            "value": 7
+        },
+        {
+            "source": "twice",
+            "target": "chinese",
+            "value": 1
+        },
+        {
+            "source": "idol",
+            "target": "chinese",
+            "value": 1
+        },
+        {
+            "source": "celebrity",
+            "target": "chinese",
+            "value": 2
+        },
+        {
+            "source": "japanese",
+            "target": "chinese",
+            "value": 2
+        },
+        {
+            "source": "korean",
+            "target": "chinese",
+            "value": 1
+        },
+        {
+            "source": "twice",
+            "target": "idol",
+            "value": 2
+        },
+        {
+            "source": "twice",
+            "target": "celebrity",
+            "value": 4
+        },
+        {
+            "source": "twice",
+            "target": "japanese",
+            "value": 4
+        },
+        {
+            "source": "twice",
+            "target": "korean",
+            "value": 1
+        },
+        {
+            "source": "idol",
+            "target": "korean",
+            "value": 1
+        },
+        {
+            "source": "celebrity",
+            "target": "korean",
+            "value": 2
+        },
+        {
+            "source": "korean",
+            "target": "japanese",
+            "value": 2
+        },
+        {
+            "source": "gravure",
+            "target": "japanese woman",
+            "value": 2
+        },
+        {
+            "source": "av actress",
+            "target": "woman",
+            "value": 13
+        },
+        {
+            "source": "av actress",
+            "target": "celebrity",
+            "value": 14
+        },
+        {
+            "source": "av actress",
+            "target": "girls",
+            "value": 1
+        },
+        {
+            "source": "av actress",
+            "target": "japanese girl",
+            "value": 2
+        },
+        {
+            "source": "av actress",
+            "target": "japanese woman",
+            "value": 3
+        },
+        {
+            "source": "photorealistic",
+            "target": "japanese idol",
+            "value": 3
+        },
+        {
+            "source": "actress",
+            "target": "japanese idol",
+            "value": 4
+        },
+        {
+            "source": "girls",
+            "target": "japanese idol",
+            "value": 6
+        },
+        {
+            "source": "japanese idol",
+            "target": "realistic",
+            "value": 3
+        },
+        {
+            "source": "gravure",
+            "target": "jav",
+            "value": 22
+        },
+        {
+            "source": "portrait",
+            "target": "kpop",
+            "value": 1
+        },
+        {
+            "source": "portrait",
+            "target": "idol",
+            "value": 1
+        },
+        {
+            "source": "portrait",
+            "target": "lora",
+            "value": 1
+        },
+        {
+            "source": "portrait",
+            "target": "jpop",
+            "value": 1
+        },
+        {
+            "source": "portrait",
+            "target": "japanese woman",
+            "value": 1
+        },
+        {
+            "source": "idol",
+            "target": "kpop",
+            "value": 6
+        },
+        {
+            "source": "kpop",
+            "target": "lora",
+            "value": 4
+        },
+        {
+            "source": "jpop",
+            "target": "kpop",
+            "value": 1
+        },
+        {
+            "source": "japanese woman",
+            "target": "kpop",
+            "value": 2
+        },
+        {
+            "source": "idol",
+            "target": "lora",
+            "value": 4
+        },
+        {
+            "source": "idol",
+            "target": "jpop",
+            "value": 1
+        },
+        {
+            "source": "jpop",
+            "target": "lora",
+            "value": 1
+        },
+        {
+            "source": "japanese woman",
+            "target": "lora",
+            "value": 1
+        },
+        {
+            "source": "jpop",
+            "target": "japanese woman",
+            "value": 1
+        },
+        {
+            "source": "gravure",
+            "target": "photorealistic",
+            "value": 18
+        },
+        {
+            "source": "kpop",
+            "target": "japanese idol",
+            "value": 1
+        },
+        {
+            "source": "female",
+            "target": "japanese girl",
+            "value": 8
+        },
+        {
+            "source": "tokusatsu",
+            "target": "female",
+            "value": 1
+        },
+        {
+            "source": "photorealistic",
+            "target": "women",
+            "value": 1
+        },
+        {
+            "source": "tokusatsu",
+            "target": "women",
+            "value": 1
+        },
+        {
+            "source": "idol",
+            "target": "model",
+            "value": 2
+        },
+        {
+            "source": "model",
+            "target": "shinozaki ai",
+            "value": 1
+        },
+        {
+            "source": "model",
+            "target": "ai shinozaki",
+            "value": 1
+        },
+        {
+            "source": "idol",
+            "target": "shinozaki ai",
+            "value": 1
+        },
+        {
+            "source": "idol",
+            "target": "ai shinozaki",
+            "value": 1
+        },
+        {
+            "source": "celebrity",
+            "target": "shinozaki ai",
+            "value": 1
+        },
+        {
+            "source": "celebrity",
+            "target": "ai shinozaki",
+            "value": 1
+        },
+        {
+            "source": "shinozaki ai",
+            "target": "japanese",
+            "value": 2
+        },
+        {
+            "source": "ai shinozaki",
+            "target": "japanese",
+            "value": 2
+        },
+        {
+            "source": "ai shinozaki",
+            "target": "shinozaki ai",
+            "value": 2
+        },
+        {
+            "source": "cute",
+            "target": "female",
+            "value": 1
+        },
+        {
+            "source": "idol",
+            "target": "cute",
+            "value": 2
+        },
+        {
+            "source": "idol",
+            "target": "girls",
+            "value": 7
+        },
+        {
+            "source": "cute",
+            "target": "woman",
+            "value": 4
+        },
+        {
+            "source": "cute",
+            "target": "girls",
+            "value": 3
+        },
+        {
+            "source": "idol",
+            "target": "japanese idol",
+            "value": 4
+        },
+        {
+            "source": "sexy",
+            "target": "photorealistic",
+            "value": 10
+        },
+        {
+            "source": "pornstar",
+            "target": "photorealistic",
+            "value": 8
+        },
+        {
+            "source": "sexy",
+            "target": "woman",
+            "value": 23
+        },
+        {
+            "source": "sexy",
+            "target": "celebrity",
+            "value": 24
+        },
+        {
+            "source": "sexy",
+            "target": "japanese",
+            "value": 23
+        },
+        {
+            "source": "pornstar",
+            "target": "sexy",
+            "value": 10
+        },
+        {
+            "source": "pornstar",
+            "target": "woman",
+            "value": 28
+        },
+        {
+            "source": "pornstar",
+            "target": "celebrity",
+            "value": 34
+        },
+        {
+            "source": "pornstar",
+            "target": "japanese",
+            "value": 34
+        },
+        {
+            "source": "photorealistic",
+            "target": "singer",
+            "value": 4
+        },
+        {
+            "source": "woman",
+            "target": "singer",
+            "value": 5
+        },
+        {
+            "source": "singer",
+            "target": "celebrity",
+            "value": 10
+        },
+        {
+            "source": "singer",
+            "target": "japanese",
+            "value": 9
+        },
+        {
+            "source": "girls",
+            "target": "japanese actress",
+            "value": 3
+        },
+        {
+            "source": "women",
+            "target": "jav",
+            "value": 2
+        },
+        {
+            "source": "av actress",
+            "target": "jav",
+            "value": 6
+        },
+        {
+            "source": "av actress",
+            "target": "japanese",
+            "value": 13
+        },
+        {
+            "source": "japanese girl",
+            "target": "women",
+            "value": 1
+        },
+        {
+            "source": "av actress",
+            "target": "women",
+            "value": 1
+        },
+        {
+            "source": "japan girl",
+            "target": "female",
+            "value": 1
+        },
+        {
+            "source": "japan girl",
+            "target": "girls",
+            "value": 2
+        },
+        {
+            "source": "female",
+            "target": "japanese actress",
+            "value": 1
+        },
+        {
+            "source": "idol",
+            "target": "japanese actress",
+            "value": 1
+        },
+        {
+            "source": "woman",
+            "target": "japanese actress",
+            "value": 4
+        },
+        {
+            "source": "japanese actress",
+            "target": "japanese",
+            "value": 2
+        },
+        {
+            "source": "japanese girl",
+            "target": "japanese actress",
+            "value": 1
+        },
+        {
+            "source": "girl",
+            "target": "japanese idol",
+            "value": 2
+        },
+        {
+            "source": "yakuza",
+            "target": "photorealistic",
+            "value": 1
+        },
+        {
+            "source": "yakuza",
+            "target": "female",
+            "value": 1
+        },
+        {
+            "source": "yakuza",
+            "target": "woman",
+            "value": 2
+        },
+        {
+            "source": "yakuza",
+            "target": "celebrity",
+            "value": 1
+        },
+        {
+            "source": "yakuza",
+            "target": "japanese",
+            "value": 3
+        },
+        {
+            "source": "yakuza",
+            "target": "japanese girl",
+            "value": 1
+        },
+        {
+            "source": "female",
+            "target": "asian",
+            "value": 1
+        },
+        {
+            "source": "asian",
+            "target": "jav",
+            "value": 4
+        },
+        {
+            "source": "gravure idol",
+            "target": "woman",
+            "value": 16
+        },
+        {
+            "source": "gravure idol",
+            "target": "celebrity",
+            "value": 19
+        },
+        {
+            "source": "gravure idol",
+            "target": "japanese",
+            "value": 17
+        },
+        {
+            "source": "girl",
+            "target": "japanese actress",
+            "value": 2
+        },
+        {
+            "source": "photorealistic",
+            "target": "japan",
+            "value": 42
+        },
+        {
+            "source": "japan",
+            "target": "asian",
+            "value": 42
+        },
+        {
+            "source": "girls",
+            "target": "asian",
+            "value": 44
+        },
+        {
+            "source": "girls",
+            "target": "japan",
+            "value": 40
+        },
+        {
+            "source": "pornstar",
+            "target": "female",
+            "value": 3
+        },
+        {
+            "source": "actress",
+            "target": "jav",
+            "value": 33
+        },
+        {
+            "source": "pornstar",
+            "target": "jav",
+            "value": 22
+        },
+        {
+            "source": "pornstar",
+            "target": "actress",
+            "value": 3
+        },
+        {
+            "source": "pornstar",
+            "target": "realistic",
+            "value": 5
+        },
+        {
+            "source": "model",
+            "target": "japanese actress",
+            "value": 2
+        },
+        {
+            "source": "sexy",
+            "target": "jav",
+            "value": 13
+        },
+        {
+            "source": "sexy",
+            "target": "actress",
+            "value": 4
+        },
+        {
+            "source": "sexy",
+            "target": "girl",
+            "value": 1
+        },
+        {
+            "source": "actress",
+            "target": "girl",
+            "value": 1
+        },
+        {
+            "source": "japan girl",
+            "target": "japanese girl",
+            "value": 3
+        },
+        {
+            "source": "character",
+            "target": "japanese",
+            "value": 40
+        },
+        {
+            "source": "character",
+            "target": "realistic",
+            "value": 22
+        },
+        {
+            "source": "idol",
+            "target": "jav",
+            "value": 15
+        },
+        {
+            "source": "character",
+            "target": "woman",
+            "value": 16
+        },
+        {
+            "source": "character",
+            "target": "girls",
+            "value": 8
+        },
+        {
+            "source": "character",
+            "target": "japanese girl",
+            "value": 12
+        },
+        {
+            "source": "sexy",
+            "target": "female",
+            "value": 2
+        },
+        {
+            "source": "character",
+            "target": "jav",
+            "value": 2
+        },
+        {
+            "source": "character",
+            "target": "japanese idol",
+            "value": 2
+        },
+        {
+            "source": "cute",
+            "target": "girl",
+            "value": 2
+        },
+        {
+            "source": "cute",
+            "target": "photorealistic",
+            "value": 2
+        },
+        {
+            "source": "pornstar",
+            "target": "gravure",
+            "value": 15
+        },
+        {
+            "source": "jpop",
+            "target": "singer",
+            "value": 1
+        },
+        {
+            "source": "jpop",
+            "target": "celebrity",
+            "value": 13
+        },
+        {
+            "source": "jpop",
+            "target": "japanese",
+            "value": 13
+        },
+        {
+            "source": "porn",
+            "target": "asian",
+            "value": 2
+        },
+        {
+            "source": "woman",
+            "target": "porn",
+            "value": 5
+        },
+        {
+            "source": "porn",
+            "target": "actress",
+            "value": 1
+        },
+        {
+            "source": "porn",
+            "target": "celebrity",
+            "value": 6
+        },
+        {
+            "source": "porn",
+            "target": "japanese",
+            "value": 6
+        },
+        {
+            "source": "porn",
+            "target": "japanese idol",
+            "value": 1
+        },
+        {
+            "source": "actress",
+            "target": "asian",
+            "value": 6
+        },
+        {
+            "source": "japanese idol",
+            "target": "asian",
+            "value": 1
+        },
+        {
+            "source": "japanese idol",
+            "target": "japanese actress",
+            "value": 1
+        },
+        {
+            "source": "kpop",
+            "target": "celebrity",
+            "value": 19
+        },
+        {
+            "source": "kpop",
+            "target": "japanese",
+            "value": 19
+        },
+        {
+            "source": "celebrity",
+            "target": "lora",
+            "value": 11
+        },
+        {
+            "source": "lora",
+            "target": "japanese",
+            "value": 11
+        },
+        {
+            "source": "pornstar",
+            "target": "japanese woman",
+            "value": 2
+        },
+        {
+            "source": "gravure",
+            "target": "lora",
+            "value": 3
+        },
+        {
+            "source": "gravure",
+            "target": "gravure idol",
+            "value": 5
+        },
+        {
+            "source": "gravure idol",
+            "target": "japanese girl",
+            "value": 5
+        },
+        {
+            "source": "female",
+            "target": "singer",
+            "value": 3
+        },
+        {
+            "source": "dancer",
+            "target": "singer",
+            "value": 2
+        },
+        {
+            "source": "girls",
+            "target": "singer",
+            "value": 1
+        },
+        {
+            "source": "dancer",
+            "target": "female",
+            "value": 2
+        },
+        {
+            "source": "dancer",
+            "target": "woman",
+            "value": 1
+        },
+        {
+            "source": "dancer",
+            "target": "celebrity",
+            "value": 3
+        },
+        {
+            "source": "dancer",
+            "target": "girls",
+            "value": 1
+        },
+        {
+            "source": "dancer",
+            "target": "japanese",
+            "value": 2
+        },
+        {
+            "source": "female",
+            "target": "youtuber",
+            "value": 1
+        },
+        {
+            "source": "youtuber",
+            "target": "jav",
+            "value": 2
+        },
+        {
+            "source": "woman",
+            "target": "youtuber",
+            "value": 4
+        },
+        {
+            "source": "actress",
+            "target": "youtuber",
+            "value": 1
+        },
+        {
+            "source": "youtuber",
+            "target": "celebrity",
+            "value": 3
+        },
+        {
+            "source": "youtuber",
+            "target": "japanese",
+            "value": 4
+        },
+        {
+            "source": "av actress",
+            "target": "gravure",
+            "value": 4
+        },
+        {
+            "source": "pornstar",
+            "target": "av actress",
+            "value": 4
+        },
+        {
+            "source": "gravure",
+            "target": "realistic",
+            "value": 10
+        },
+        {
+            "source": "idol",
+            "target": "celebrity,",
+            "value": 7
+        },
+        {
+            "source": "celebrity,",
+            "target": "celebrity",
+            "value": 22
+        },
+        {
+            "source": "celebrity,",
+            "target": "japanese girl",
+            "value": 7
+        },
+        {
+            "source": "sexy",
+            "target": "gravure",
+            "value": 7
+        },
+        {
+            "source": "japanese idol",
+            "target": "japan",
+            "value": 1
+        },
+        {
+            "source": "japanese idol",
+            "target": "singer",
+            "value": 1
+        },
+        {
+            "source": "japan girl",
+            "target": "girl",
+            "value": 1
+        },
+        {
+            "source": "idol",
+            "target": "japan girl",
+            "value": 1
+        },
+        {
+            "source": "japan girl",
+            "target": "japanese idol",
+            "value": 1
+        },
+        {
+            "source": "av actress",
+            "target": "girl",
+            "value": 2
+        },
+        {
+            "source": "sexy",
+            "target": "girls",
+            "value": 7
+        },
+        {
+            "source": "pornstar",
+            "target": "girls",
+            "value": 1
+        },
+        {
+            "source": "milf",
+            "target": "sexy",
+            "value": 1
+        },
+        {
+            "source": "milf",
+            "target": "jav",
+            "value": 4
+        },
+        {
+            "source": "milf",
+            "target": "gravure",
+            "value": 1
+        },
+        {
+            "source": "milf",
+            "target": "woman",
+            "value": 4
+        },
+        {
+            "source": "milf",
+            "target": "celebrity",
+            "value": 4
+        },
+        {
+            "source": "milf",
+            "target": "japanese",
+            "value": 4
+        },
+        {
+            "source": "av idol",
+            "target": "porn",
+            "value": 2
+        },
+        {
+            "source": "av idol",
+            "target": "woman",
+            "value": 1
+        },
+        {
+            "source": "av idol",
+            "target": "celebrity",
+            "value": 3
+        },
+        {
+            "source": "av idol",
+            "target": "japanese",
+            "value": 3
+        },
+        {
+            "source": "girls",
+            "target": "celeb",
+            "value": 1
+        },
+        {
+            "source": "realistic",
+            "target": "celeb",
+            "value": 3
+        },
+        {
+            "source": "musician",
+            "target": "celebrity",
+            "value": 4
+        },
+        {
+            "source": "musician",
+            "target": "japanese girl",
+            "value": 1
+        },
+        {
+            "source": "celebrity,",
+            "target": "musician",
+            "value": 1
+        },
+        {
+            "source": "pornstar",
+            "target": "asian",
+            "value": 4
+        },
+        {
+            "source": "actress",
+            "target": "celeb",
+            "value": 1
+        },
+        {
+            "source": "tokusatsu",
+            "target": "actress",
+            "value": 1
+        },
+        {
+            "source": "tokusatsu",
+            "target": "celeb",
+            "value": 1
+        },
+        {
+            "source": "sexy",
+            "target": "japanese girl",
+            "value": 1
+        },
+        {
+            "source": "pornstar",
+            "target": "japanese girl",
+            "value": 3
+        },
+        {
+            "source": "japan girl",
+            "target": "photorealistic",
+            "value": 1
+        },
+        {
+            "source": "singer",
+            "target": "person",
+            "value": 1
+        },
+        {
+            "source": "female",
+            "target": "person",
+            "value": 3
+        },
+        {
+            "source": "idol",
+            "target": "person",
+            "value": 1
+        },
+        {
+            "source": "dancer",
+            "target": "person",
+            "value": 1
+        },
+        {
+            "source": "celebrity",
+            "target": "person",
+            "value": 5
+        },
+        {
+            "source": "japanese girl",
+            "target": "person",
+            "value": 1
+        },
+        {
+            "source": "idol",
+            "target": "singer",
+            "value": 2
+        },
+        {
+            "source": "japanese girl",
+            "target": "singer",
+            "value": 1
+        },
+        {
+            "source": "idol",
+            "target": "dancer",
+            "value": 1
+        },
+        {
+            "source": "dancer",
+            "target": "japanese girl",
+            "value": 1
+        },
+        {
+            "source": "celebrity,",
+            "target": "woman",
+            "value": 6
+        },
+        {
+            "source": "celebrity,",
+            "target": "actress",
+            "value": 5
+        },
+        {
+            "source": "celebrity,",
+            "target": "japanese",
+            "value": 16
+        },
+        {
+            "source": "textual inversion",
+            "target": "person",
+            "value": 2
+        },
+        {
+            "source": "female",
+            "target": "textual inversion",
+            "value": 2
+        },
+        {
+            "source": "textual inversion",
+            "target": "celebrity",
+            "value": 3
+        },
+        {
+            "source": "idol",
+            "target": "pornstar",
+            "value": 4
+        },
+        {
+            "source": "model",
+            "target": "person",
+            "value": 1
+        },
+        {
+            "source": "person",
+            "target": "japanese",
+            "value": 3
+        },
+        {
+            "source": "model",
+            "target": "textual inversion",
+            "value": 1
+        },
+        {
+            "source": "textual inversion",
+            "target": "japanese",
+            "value": 2
+        },
+        {
+            "source": "idol",
+            "target": "sexy",
+            "value": 2
+        },
+        {
+            "source": "celebrity",
+            "target": "male",
+            "value": 3
+        },
+        {
+            "source": "male",
+            "target": "japanese",
+            "value": 3
+        },
+        {
+            "source": "lora",
+            "target": "male",
+            "value": 1
+        },
+        {
+            "source": "porn",
+            "target": "girl",
+            "value": 1
+        },
+        {
+            "source": "av actress",
+            "target": "porn",
+            "value": 1
+        },
+        {
+            "source": "jpop",
+            "target": "photorealistic",
+            "value": 11
+        },
+        {
+            "source": "celebrity,",
+            "target": "photorealistic",
+            "value": 1
+        },
+        {
+            "source": "jpop",
+            "target": "girls",
+            "value": 1
+        },
+        {
+            "source": "celebrity,",
+            "target": "girls",
+            "value": 1
+        },
+        {
+            "source": "celebrity,",
+            "target": "jpop",
+            "value": 2
+        },
+        {
+            "source": "gravure",
+            "target": "girls",
+            "value": 10
+        },
+        {
+            "source": "photorealistic",
+            "target": "kpop",
+            "value": 9
+        },
+        {
+            "source": "woman",
+            "target": "kpop",
+            "value": 9
+        },
+        {
+            "source": "celebrity",
+            "target": "actor",
+            "value": 4
+        },
+        {
+            "source": "actor",
+            "target": "japanese",
+            "value": 4
+        },
+        {
+            "source": "man",
+            "target": "actor",
+            "value": 2
+        },
+        {
+            "source": "man",
+            "target": "celebrity",
+            "value": 8
+        },
+        {
+            "source": "man",
+            "target": "japanese",
+            "value": 10
+        },
+        {
+            "source": "celebrity,",
+            "target": "gravure",
+            "value": 2
+        },
+        {
+            "source": "celebrity,",
+            "target": "lora",
+            "value": 1
+        },
+        {
+            "source": "photorealistic",
+            "target": "lora",
+            "value": 3
+        },
+        {
+            "source": "av idol",
+            "target": "photorealistic",
+            "value": 1
+        },
+        {
+            "source": "lora",
+            "target": "jav",
+            "value": 1
+        },
+        {
+            "source": "av idol",
+            "target": "jav",
+            "value": 2
+        },
+        {
+            "source": "pornstar",
+            "target": "lora",
+            "value": 1
+        },
+        {
+            "source": "pornstar",
+            "target": "av idol",
+            "value": 1
+        },
+        {
+            "source": "av idol",
+            "target": "lora",
+            "value": 1
+        },
+        {
+            "source": "celebrity,",
+            "target": "jav",
+            "value": 1
+        },
+        {
+            "source": "celebrity,",
+            "target": "milf",
+            "value": 1
+        },
+        {
+            "source": "character",
+            "target": "photorealistic",
+            "value": 9
+        },
+        {
+            "source": "character",
+            "target": "asian",
+            "value": 3
+        },
+        {
+            "source": "character",
+            "target": "idol",
+            "value": 4
+        },
+        {
+            "source": "character",
+            "target": "pornstar",
+            "value": 3
+        },
+        {
+            "source": "character",
+            "target": "japanese woman",
+            "value": 9
+        },
+        {
+            "source": "japanese woman",
+            "target": "photorealistic",
+            "value": 1
+        },
+        {
+            "source": "idol",
+            "target": "asian",
+            "value": 4
+        },
+        {
+            "source": "japanese woman",
+            "target": "asian",
+            "value": 1
+        },
+        {
+            "source": "character",
+            "target": "female",
+            "value": 1
+        },
+        {
+            "source": "female",
+            "target": "japanese idol",
+            "value": 3
+        },
+        {
+            "source": "female",
+            "target": "shinozaki ai",
+            "value": 1
+        },
+        {
+            "source": "female",
+            "target": "ai shinozaki",
+            "value": 1
+        },
+        {
+            "source": "gravure",
+            "target": "shinozaki ai",
+            "value": 1
+        },
+        {
+            "source": "gravure",
+            "target": "ai shinozaki",
+            "value": 1
+        },
+        {
+            "source": "woman",
+            "target": "shinozaki ai",
+            "value": 1
+        },
+        {
+            "source": "woman",
+            "target": "ai shinozaki",
+            "value": 1
+        },
+        {
+            "source": "japanese idol",
+            "target": "shinozaki ai",
+            "value": 1
+        },
+        {
+            "source": "japanese idol",
+            "target": "ai shinozaki",
+            "value": 1
+        },
+        {
+            "source": "jpop",
+            "target": "woman",
+            "value": 10
+        },
+        {
+            "source": "gravure idol",
+            "target": "girl",
+            "value": 4
+        },
+        {
+            "source": "idol",
+            "target": "gravure idol",
+            "value": 6
+        },
+        {
+            "source": "gravure idol",
+            "target": "realistic",
+            "value": 1
+        },
+        {
+            "source": "actress",
+            "target": "japan",
+            "value": 1
+        },
+        {
+            "source": "woman",
+            "target": "celebirty",
+            "value": 2
+        },
+        {
+            "source": "celebirty",
+            "target": "celebrity",
+            "value": 4
+        },
+        {
+            "source": "celebirty",
+            "target": "japanese",
+            "value": 4
+        },
+        {
+            "source": "sexy",
+            "target": "realistic",
+            "value": 6
+        },
+        {
+            "source": "singer",
+            "target": "asian",
+            "value": 1
+        },
+        {
+            "source": "actress",
+            "target": "singer",
+            "value": 1
+        },
+        {
+            "source": "celebrity,",
+            "target": "kpop",
+            "value": 4
+        },
+        {
+            "source": "celebirty",
+            "target": "actor",
+            "value": 1
+        },
+        {
+            "source": "man",
+            "target": "celebirty",
+            "value": 1
+        },
+        {
+            "source": "gravure idol",
+            "target": "girls",
+            "value": 2
+        },
+        {
+            "source": "gravure idol",
+            "target": "model",
+            "value": 1
+        },
+        {
+            "source": "celebrity,",
+            "target": "asian",
+            "value": 3
+        },
+        {
+            "source": "woman",
+            "target": "lora",
+            "value": 2
+        },
+        {
+            "source": "girls",
+            "target": "lora",
+            "value": 2
+        },
+        {
+            "source": "realistic",
+            "target": "lora",
+            "value": 2
+        },
+        {
+            "source": "kpop",
+            "target": "asian",
+            "value": 2
+        },
+        {
+            "source": "twice",
+            "target": "asian",
+            "value": 2
+        },
+        {
+            "source": "twice",
+            "target": "kpop",
+            "value": 3
+        },
+        {
+            "source": "twice",
+            "target": "celebrity,",
+            "value": 1
+        },
+        {
+            "source": "celebirty",
+            "target": "jav",
+            "value": 1
+        },
+        {
+            "source": "av actress",
+            "target": "celebirty",
+            "value": 1
+        },
+        {
+            "source": "character",
+            "target": "anime",
+            "value": 1
+        },
+        {
+            "source": "anime",
+            "target": "photorealistic",
+            "value": 1
+        },
+        {
+            "source": "anime",
+            "target": "asian",
+            "value": 1
+        },
+        {
+            "source": "anime",
+            "target": "japan",
+            "value": 1
+        },
+        {
+            "source": "anime",
+            "target": "japanese",
+            "value": 1
+        },
+        {
+            "source": "character",
+            "target": "japan",
+            "value": 2
+        },
+        {
+            "source": "photorealistic",
+            "target": "wwe",
+            "value": 1
+        },
+        {
+            "source": "wwe",
+            "target": "japan",
+            "value": 1
+        },
+        {
+            "source": "woman",
+            "target": "wwe",
+            "value": 3
+        },
+        {
+            "source": "wwe",
+            "target": "celebrity",
+            "value": 3
+        },
+        {
+            "source": "girls",
+            "target": "wwe",
+            "value": 1
+        },
+        {
+            "source": "wwe",
+            "target": "japanese",
+            "value": 3
+        },
+        {
+            "source": "musician",
+            "target": "anime",
+            "value": 1
+        },
+        {
+            "source": "anime",
+            "target": "celebrity",
+            "value": 1
+        },
+        {
+            "source": "girl",
+            "target": "asian",
+            "value": 8
+        },
+        {
+            "source": "person",
+            "target": "male",
+            "value": 1
+        },
+        {
+            "source": "porn",
+            "target": "jav",
+            "value": 1
+        },
+        {
+            "source": "porn",
+            "target": "japan",
+            "value": 2
+        },
+        {
+            "source": "av idol",
+            "target": "asian",
+            "value": 1
+        },
+        {
+            "source": "av idol",
+            "target": "japan",
+            "value": 1
+        },
+        {
+            "source": "musician",
+            "target": "singer",
+            "value": 2
+        },
+        {
+            "source": "man",
+            "target": "singer",
+            "value": 2
+        },
+        {
+            "source": "musician",
+            "target": "photorealistic",
+            "value": 2
+        },
+        {
+            "source": "man",
+            "target": "photorealistic",
+            "value": 4
+        },
+        {
+            "source": "musician",
+            "target": "japanese",
+            "value": 2
+        },
+        {
+            "source": "musician",
+            "target": "man",
+            "value": 2
+        },
+        {
+            "source": "pornstar",
+            "target": "porn",
+            "value": 1
+        },
+        {
+            "source": "porn",
+            "target": "japanese girl",
+            "value": 1
+        },
+        {
+            "source": "pornstar",
+            "target": "japan",
+            "value": 1
+        },
+        {
+            "source": "japanese woman",
+            "target": "realistic",
+            "value": 7
+        },
+        {
+            "source": "photorealistic",
+            "target": "beauty",
+            "value": 1
+        },
+        {
+            "source": "beauty",
+            "target": "jav",
+            "value": 3
+        },
+        {
+            "source": "girls",
+            "target": "beauty",
+            "value": 1
+        },
+        {
+            "source": "dancer",
+            "target": "asian",
+            "value": 1
+        },
+        {
+            "source": "dancer",
+            "target": "kpop",
+            "value": 1
+        },
+        {
+            "source": "twice",
+            "target": "dancer",
+            "value": 1
+        },
+        {
+            "source": "woman",
+            "target": "textual inversion",
+            "value": 1
+        },
+        {
+            "source": "kpop",
+            "target": "singer",
+            "value": 1
+        },
+        {
+            "source": "celebrity,",
+            "target": "singer",
+            "value": 1
+        },
+        {
+            "source": "portrait",
+            "target": "photorealistic",
+            "value": 1
+        },
+        {
+            "source": "portrait",
+            "target": "celebrity",
+            "value": 1
+        },
+        {
+            "source": "portrait",
+            "target": "japanese",
+            "value": 1
+        },
+        {
+            "source": "portrait",
+            "target": "man",
+            "value": 1
+        },
+        {
+            "source": "japanese idol",
+            "target": "celeb",
+            "value": 1
+        },
+        {
+            "source": "photorealistic",
+            "target": "actor",
+            "value": 1
+        },
+        {
+            "source": "female",
+            "target": "actor",
+            "value": 1
+        },
+        {
+            "source": "woman",
+            "target": "actor",
+            "value": 1
+        },
+        {
+            "source": "girls",
+            "target": "actor",
+            "value": 1
+        },
+        {
+            "source": "kpop",
+            "target": "celeb",
+            "value": 2
+        },
+        {
+            "source": "celebrity,",
+            "target": "celeb",
+            "value": 1
+        },
+        {
+            "source": "photorealistic",
+            "target": "person",
+            "value": 1
+        },
+        {
+            "source": "woman",
+            "target": "person",
+            "value": 1
+        },
+        {
+            "source": "kpop",
+            "target": "realistic",
+            "value": 1
+        },
+        {
+            "source": "girls",
+            "target": "kpop",
+            "value": 1
+        },
+        {
+            "source": "twice",
+            "target": "woman",
+            "value": 1
+        },
+        {
+            "source": "twice",
+            "target": "girls",
+            "value": 1
+        },
+        {
+            "source": "real person",
+            "target": "female",
+            "value": 1
+        },
+        {
+            "source": "real person",
+            "target": "girls",
+            "value": 1
+        },
+        {
+            "source": "real person",
+            "target": "japanese girl",
+            "value": 1
+        },
+        {
+            "source": "real person",
+            "target": "japanese idol",
+            "value": 1
+        },
+        {
+            "source": "japanese girl",
+            "target": "asian",
+            "value": 1
+        },
+        {
+            "source": "jpop",
+            "target": "asian",
+            "value": 1
+        },
+        {
+            "source": "jpop",
+            "target": "actress",
+            "value": 1
+        },
+        {
+            "source": "celebrity,",
+            "target": "man",
+            "value": 2
+        },
+        {
+            "source": "cute",
+            "target": "asian",
+            "value": 1
+        },
+        {
+            "source": "cute",
+            "target": "actress",
+            "value": 1
+        },
+        {
+            "source": "kpop",
+            "target": "korean",
+            "value": 1
+        },
+        {
+            "source": "celeb",
+            "target": "korean",
+            "value": 1
+        },
+        {
+            "source": "character",
+            "target": "man",
+            "value": 2
+        },
+        {
+            "source": "character",
+            "target": "celebrity,",
+            "value": 1
+        },
+        {
+            "source": "milf",
+            "target": "photorealistic",
+            "value": 2
+        },
+        {
+            "source": "milf",
+            "target": "realistic",
+            "value": 2
+        },
+        {
+            "source": "youtuber",
+            "target": "realistic",
+            "value": 1
+        },
+        {
+            "source": "realistic",
+            "target": "japan",
+            "value": 1
+        },
+        {
+            "source": "model",
+            "target": "asian",
+            "value": 1
+        },
+        {
+            "source": "women",
+            "target": "asian",
+            "value": 1
+        },
+        {
+            "source": "model",
+            "target": "actress",
+            "value": 1
+        },
+        {
+            "source": "model",
+            "target": "women",
+            "value": 1
+        },
+        {
+            "source": "character",
+            "target": "yakuza",
+            "value": 2
+        },
+        {
+            "source": "character",
+            "target": "gravure",
+            "value": 1
+        },
+        {
+            "source": "gravure",
+            "target": "asian",
+            "value": 1
+        },
+        {
+            "source": "gravure idol",
+            "target": "jav",
+            "value": 1
+        },
+        {
+            "source": "sexy",
+            "target": "wwe",
+            "value": 1
+        },
+        {
+            "source": "sexy",
+            "target": "celeb",
+            "value": 1
+        },
+        {
+            "source": "wwe",
+            "target": "celeb",
+            "value": 2
+        },
+        {
+            "source": "realistic",
+            "target": "wwe",
+            "value": 2
+        },
+        {
+            "source": "asian",
+            "target": "chinese",
+            "value": 1
+        },
+        {
+            "source": "male",
+            "target": "chinese",
+            "value": 1
+        },
+        {
+            "source": "man",
+            "target": "chinese",
+            "value": 1
+        },
+        {
+            "source": "asian",
+            "target": "male",
+            "value": 1
+        },
+        {
+            "source": "man",
+            "target": "asian",
+            "value": 1
+        },
+        {
+            "source": "man",
+            "target": "male",
+            "value": 1
+        },
+        {
+            "source": "pornstar",
+            "target": "model",
+            "value": 1
+        },
+        {
+            "source": "character",
+            "target": "youtuber",
+            "value": 1
+        },
+        {
+            "source": "yakuza",
+            "target": "man",
+            "value": 1
+        },
+        {
+            "source": "lora",
+            "target": "asian",
+            "value": 1
+        },
+        {
+            "source": "celebirty",
+            "target": "asian",
+            "value": 1
+        },
+        {
+            "source": "celebirty",
+            "target": "lora",
+            "value": 1
+        }
+    ]
+}

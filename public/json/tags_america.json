@@ -1,0 +1,2411 @@
+{
+    "nodes": [
+        {
+            "id": "american",
+            "size": 4
+        },
+        {
+            "id": "funny",
+            "size": 1
+        },
+        {
+            "id": "politician",
+            "size": 3
+        },
+        {
+            "id": "political",
+            "size": 2
+        },
+        {
+            "id": "america",
+            "size": 20
+        },
+        {
+            "id": "celebrity",
+            "size": 5
+        },
+        {
+            "id": "joke",
+            "size": 1
+        },
+        {
+            "id": "vintage",
+            "size": 1
+        },
+        {
+            "id": "pin-up",
+            "size": 1
+        },
+        {
+            "id": "pinups",
+            "size": 1
+        },
+        {
+            "id": "posters",
+            "size": 1
+        },
+        {
+            "id": "airbrushed",
+            "size": 1
+        },
+        {
+            "id": "wwii",
+            "size": 1
+        },
+        {
+            "id": "1950s",
+            "size": 1
+        },
+        {
+            "id": "photorealistic",
+            "size": 3
+        },
+        {
+            "id": "oldschool",
+            "size": 1
+        },
+        {
+            "id": "style",
+            "size": 3
+        },
+        {
+            "id": "realistic",
+            "size": 1
+        },
+        {
+            "id": "usa",
+            "size": 5
+        },
+        {
+            "id": "woman",
+            "size": 7
+        },
+        {
+            "id": "photorealism",
+            "size": 1
+        },
+        {
+            "id": "real person",
+            "size": 1
+        },
+        {
+            "id": "anime",
+            "size": 3
+        },
+        {
+            "id": "character",
+            "size": 7
+        },
+        {
+            "id": "female",
+            "size": 1
+        },
+        {
+            "id": "blonde",
+            "size": 2
+        },
+        {
+            "id": "touhou",
+            "size": 1
+        },
+        {
+            "id": "clothing",
+            "size": 4
+        },
+        {
+            "id": "trump",
+            "size": 1
+        },
+        {
+            "id": "donald trump",
+            "size": 1
+        },
+        {
+            "id": "maga",
+            "size": 1
+        },
+        {
+            "id": "maga cap",
+            "size": 1
+        },
+        {
+            "id": "make america great again hat",
+            "size": 1
+        },
+        {
+            "id": "maga hat",
+            "size": 1
+        },
+        {
+            "id": "base model",
+            "size": 3
+        },
+        {
+            "id": "indigenous",
+            "size": 3
+        },
+        {
+            "id": "indigenous cultures",
+            "size": 3
+        },
+        {
+            "id": "north america",
+            "size": 1
+        },
+        {
+            "id": "north american",
+            "size": 1
+        },
+        {
+            "id": "north-america",
+            "size": 1
+        },
+        {
+            "id": "south america",
+            "size": 2
+        },
+        {
+            "id": "south-america",
+            "size": 1
+        },
+        {
+            "id": "south american",
+            "size": 1
+        },
+        {
+            "id": "military",
+            "size": 1
+        },
+        {
+            "id": "uniform",
+            "size": 1
+        },
+        {
+            "id": "soldier",
+            "size": 1
+        },
+        {
+            "id": "military uniform",
+            "size": 1
+        },
+        {
+            "id": "background",
+            "size": 1
+        },
+        {
+            "id": "place",
+            "size": 1
+        },
+        {
+            "id": "landmark",
+            "size": 1
+        },
+        {
+            "id": "latin american",
+            "size": 1
+        },
+        {
+            "id": "sexy",
+            "size": 2
+        },
+        {
+            "id": "airplane",
+            "size": 1
+        },
+        {
+            "id": "vehicles",
+            "size": 1
+        },
+        {
+            "id": "marvel",
+            "size": 2
+        },
+        {
+            "id": "comics",
+            "size": 1
+        },
+        {
+            "id": "america chavez",
+            "size": 1
+        },
+        {
+            "id": "objects",
+            "size": 1
+        },
+        {
+            "id": "flag",
+            "size": 1
+        },
+        {
+            "id": "american flag",
+            "size": 1
+        },
+        {
+            "id": "us flag",
+            "size": 1
+        },
+        {
+            "id": "united states flag",
+            "size": 1
+        },
+        {
+            "id": "hayley atwell",
+            "size": 1
+        },
+        {
+            "id": "captain america",
+            "size": 2
+        },
+        {
+            "id": "mcu suit designs",
+            "size": 1
+        },
+        {
+            "id": "peggy carter",
+            "size": 1
+        },
+        {
+            "id": "right",
+            "size": 1
+        },
+        {
+            "id": "male",
+            "size": 1
+        },
+        {
+            "id": "concept",
+            "size": 2
+        },
+        {
+            "id": "red",
+            "size": 1
+        },
+        {
+            "id": "stardust",
+            "size": 1
+        },
+        {
+            "id": "blue",
+            "size": 1
+        },
+        {
+            "id": "filter",
+            "size": 1
+        },
+        {
+            "id": "colorize",
+            "size": 1
+        },
+        {
+            "id": "superhero",
+            "size": 2
+        },
+        {
+            "id": "my hero academia",
+            "size": 1
+        },
+        {
+            "id": "boku no hero academia",
+            "size": 1
+        },
+        {
+            "id": "cape",
+            "size": 1
+        },
+        {
+            "id": "inca",
+            "size": 1
+        },
+        {
+            "id": "andes",
+            "size": 1
+        },
+        {
+            "id": "avengers",
+            "size": 1
+        },
+        {
+            "id": "american dream",
+            "size": 1
+        },
+        {
+            "id": "shannon carter",
+            "size": 1
+        },
+        {
+            "id": "illustration",
+            "size": 1
+        },
+        {
+            "id": "post-war",
+            "size": 1
+        },
+        {
+            "id": "battle of the sexes",
+            "size": 1
+        },
+        {
+            "id": "pornstar",
+            "size": 1
+        },
+        {
+            "id": "mature",
+            "size": 1
+        },
+        {
+            "id": "photography",
+            "size": 1
+        },
+        {
+            "id": "thanksgiving",
+            "size": 1
+        },
+        {
+            "id": "colonial america",
+            "size": 1
+        },
+        {
+            "id": "puritans",
+            "size": 1
+        },
+        {
+            "id": "uncle sam",
+            "size": 1
+        },
+        {
+            "id": "fries",
+            "size": 1
+        },
+        {
+            "id": "hamburger",
+            "size": 1
+        },
+        {
+            "id": "freedom",
+            "size": 1
+        },
+        {
+            "id": "man",
+            "size": 1
+        },
+        {
+            "id": "president",
+            "size": 1
+        },
+        {
+            "id": "influencer",
+            "size": 1
+        },
+        {
+            "id": "celebrity,",
+            "size": 1
+        }
+    ],
+    "links": [
+        {
+            "source": "funny",
+            "target": "american",
+            "value": 1
+        },
+        {
+            "source": "american",
+            "target": "politician",
+            "value": 1
+        },
+        {
+            "source": "political",
+            "target": "american",
+            "value": 1
+        },
+        {
+            "source": "american",
+            "target": "america",
+            "value": 4
+        },
+        {
+            "source": "american",
+            "target": "celebrity",
+            "value": 1
+        },
+        {
+            "source": "joke",
+            "target": "american",
+            "value": 1
+        },
+        {
+            "source": "funny",
+            "target": "politician",
+            "value": 1
+        },
+        {
+            "source": "funny",
+            "target": "political",
+            "value": 1
+        },
+        {
+            "source": "funny",
+            "target": "america",
+            "value": 1
+        },
+        {
+            "source": "funny",
+            "target": "celebrity",
+            "value": 1
+        },
+        {
+            "source": "joke",
+            "target": "funny",
+            "value": 1
+        },
+        {
+            "source": "political",
+            "target": "politician",
+            "value": 2
+        },
+        {
+            "source": "america",
+            "target": "politician",
+            "value": 3
+        },
+        {
+            "source": "celebrity",
+            "target": "politician",
+            "value": 2
+        },
+        {
+            "source": "joke",
+            "target": "politician",
+            "value": 1
+        },
+        {
+            "source": "political",
+            "target": "america",
+            "value": 2
+        },
+        {
+            "source": "political",
+            "target": "celebrity",
+            "value": 1
+        },
+        {
+            "source": "joke",
+            "target": "political",
+            "value": 1
+        },
+        {
+            "source": "america",
+            "target": "celebrity",
+            "value": 4
+        },
+        {
+            "source": "joke",
+            "target": "america",
+            "value": 1
+        },
+        {
+            "source": "joke",
+            "target": "celebrity",
+            "value": 1
+        },
+        {
+            "source": "pin-up",
+            "target": "vintage",
+            "value": 1
+        },
+        {
+            "source": "pinups",
+            "target": "vintage",
+            "value": 1
+        },
+        {
+            "source": "posters",
+            "target": "vintage",
+            "value": 1
+        },
+        {
+            "source": "vintage",
+            "target": "airbrushed",
+            "value": 1
+        },
+        {
+            "source": "wwii",
+            "target": "vintage",
+            "value": 1
+        },
+        {
+            "source": "vintage",
+            "target": "america",
+            "value": 1
+        },
+        {
+            "source": "pinups",
+            "target": "pin-up",
+            "value": 1
+        },
+        {
+            "source": "posters",
+            "target": "pin-up",
+            "value": 1
+        },
+        {
+            "source": "pin-up",
+            "target": "airbrushed",
+            "value": 1
+        },
+        {
+            "source": "wwii",
+            "target": "pin-up",
+            "value": 1
+        },
+        {
+            "source": "pin-up",
+            "target": "america",
+            "value": 1
+        },
+        {
+            "source": "pinups",
+            "target": "posters",
+            "value": 1
+        },
+        {
+            "source": "pinups",
+            "target": "airbrushed",
+            "value": 1
+        },
+        {
+            "source": "pinups",
+            "target": "wwii",
+            "value": 1
+        },
+        {
+            "source": "pinups",
+            "target": "america",
+            "value": 1
+        },
+        {
+            "source": "posters",
+            "target": "airbrushed",
+            "value": 1
+        },
+        {
+            "source": "wwii",
+            "target": "posters",
+            "value": 1
+        },
+        {
+            "source": "posters",
+            "target": "america",
+            "value": 1
+        },
+        {
+            "source": "wwii",
+            "target": "airbrushed",
+            "value": 1
+        },
+        {
+            "source": "america",
+            "target": "airbrushed",
+            "value": 1
+        },
+        {
+            "source": "wwii",
+            "target": "america",
+            "value": 1
+        },
+        {
+            "source": "photorealistic",
+            "target": "1950s",
+            "value": 1
+        },
+        {
+            "source": "1950s",
+            "target": "oldschool",
+            "value": 1
+        },
+        {
+            "source": "1950s",
+            "target": "america",
+            "value": 1
+        },
+        {
+            "source": "1950s",
+            "target": "style",
+            "value": 1
+        },
+        {
+            "source": "1950s",
+            "target": "realistic",
+            "value": 1
+        },
+        {
+            "source": "1950s",
+            "target": "usa",
+            "value": 1
+        },
+        {
+            "source": "photorealistic",
+            "target": "oldschool",
+            "value": 1
+        },
+        {
+            "source": "photorealistic",
+            "target": "america",
+            "value": 3
+        },
+        {
+            "source": "photorealistic",
+            "target": "style",
+            "value": 1
+        },
+        {
+            "source": "photorealistic",
+            "target": "realistic",
+            "value": 1
+        },
+        {
+            "source": "photorealistic",
+            "target": "usa",
+            "value": 1
+        },
+        {
+            "source": "america",
+            "target": "oldschool",
+            "value": 1
+        },
+        {
+            "source": "style",
+            "target": "oldschool",
+            "value": 1
+        },
+        {
+            "source": "realistic",
+            "target": "oldschool",
+            "value": 1
+        },
+        {
+            "source": "usa",
+            "target": "oldschool",
+            "value": 1
+        },
+        {
+            "source": "america",
+            "target": "style",
+            "value": 3
+        },
+        {
+            "source": "realistic",
+            "target": "america",
+            "value": 1
+        },
+        {
+            "source": "usa",
+            "target": "america",
+            "value": 5
+        },
+        {
+            "source": "realistic",
+            "target": "style",
+            "value": 1
+        },
+        {
+            "source": "usa",
+            "target": "style",
+            "value": 1
+        },
+        {
+            "source": "realistic",
+            "target": "usa",
+            "value": 1
+        },
+        {
+            "source": "photorealistic",
+            "target": "politician",
+            "value": 1
+        },
+        {
+            "source": "woman",
+            "target": "photorealistic",
+            "value": 1
+        },
+        {
+            "source": "photorealistic",
+            "target": "celebrity",
+            "value": 1
+        },
+        {
+            "source": "photorealistic",
+            "target": "photorealism",
+            "value": 1
+        },
+        {
+            "source": "real person",
+            "target": "photorealistic",
+            "value": 1
+        },
+        {
+            "source": "woman",
+            "target": "politician",
+            "value": 1
+        },
+        {
+            "source": "politician",
+            "target": "photorealism",
+            "value": 1
+        },
+        {
+            "source": "real person",
+            "target": "politician",
+            "value": 1
+        },
+        {
+            "source": "woman",
+            "target": "america",
+            "value": 4
+        },
+        {
+            "source": "america",
+            "target": "photorealism",
+            "value": 1
+        },
+        {
+            "source": "real person",
+            "target": "america",
+            "value": 1
+        },
+        {
+            "source": "woman",
+            "target": "celebrity",
+            "value": 3
+        },
+        {
+            "source": "woman",
+            "target": "photorealism",
+            "value": 1
+        },
+        {
+            "source": "woman",
+            "target": "real person",
+            "value": 1
+        },
+        {
+            "source": "celebrity",
+            "target": "photorealism",
+            "value": 1
+        },
+        {
+            "source": "real person",
+            "target": "celebrity",
+            "value": 1
+        },
+        {
+            "source": "real person",
+            "target": "photorealism",
+            "value": 1
+        },
+        {
+            "source": "character",
+            "target": "anime",
+            "value": 1
+        },
+        {
+            "source": "female",
+            "target": "anime",
+            "value": 1
+        },
+        {
+            "source": "blonde",
+            "target": "anime",
+            "value": 1
+        },
+        {
+            "source": "touhou",
+            "target": "anime",
+            "value": 1
+        },
+        {
+            "source": "america",
+            "target": "anime",
+            "value": 2
+        },
+        {
+            "source": "woman",
+            "target": "anime",
+            "value": 3
+        },
+        {
+            "source": "female",
+            "target": "character",
+            "value": 1
+        },
+        {
+            "source": "blonde",
+            "target": "character",
+            "value": 2
+        },
+        {
+            "source": "touhou",
+            "target": "character",
+            "value": 1
+        },
+        {
+            "source": "america",
+            "target": "character",
+            "value": 5
+        },
+        {
+            "source": "woman",
+            "target": "character",
+            "value": 2
+        },
+        {
+            "source": "female",
+            "target": "blonde",
+            "value": 1
+        },
+        {
+            "source": "female",
+            "target": "touhou",
+            "value": 1
+        },
+        {
+            "source": "female",
+            "target": "america",
+            "value": 1
+        },
+        {
+            "source": "woman",
+            "target": "female",
+            "value": 1
+        },
+        {
+            "source": "blonde",
+            "target": "touhou",
+            "value": 1
+        },
+        {
+            "source": "blonde",
+            "target": "america",
+            "value": 2
+        },
+        {
+            "source": "woman",
+            "target": "blonde",
+            "value": 1
+        },
+        {
+            "source": "america",
+            "target": "touhou",
+            "value": 1
+        },
+        {
+            "source": "woman",
+            "target": "touhou",
+            "value": 1
+        },
+        {
+            "source": "clothing",
+            "target": "trump",
+            "value": 1
+        },
+        {
+            "source": "donald trump",
+            "target": "clothing",
+            "value": 1
+        },
+        {
+            "source": "maga",
+            "target": "clothing",
+            "value": 1
+        },
+        {
+            "source": "maga cap",
+            "target": "clothing",
+            "value": 1
+        },
+        {
+            "source": "make america great again hat",
+            "target": "clothing",
+            "value": 1
+        },
+        {
+            "source": "clothing",
+            "target": "maga hat",
+            "value": 1
+        },
+        {
+            "source": "donald trump",
+            "target": "trump",
+            "value": 1
+        },
+        {
+            "source": "maga",
+            "target": "trump",
+            "value": 1
+        },
+        {
+            "source": "maga cap",
+            "target": "trump",
+            "value": 1
+        },
+        {
+            "source": "make america great again hat",
+            "target": "trump",
+            "value": 1
+        },
+        {
+            "source": "trump",
+            "target": "maga hat",
+            "value": 1
+        },
+        {
+            "source": "donald trump",
+            "target": "maga",
+            "value": 1
+        },
+        {
+            "source": "maga cap",
+            "target": "donald trump",
+            "value": 1
+        },
+        {
+            "source": "make america great again hat",
+            "target": "donald trump",
+            "value": 1
+        },
+        {
+            "source": "donald trump",
+            "target": "maga hat",
+            "value": 1
+        },
+        {
+            "source": "maga cap",
+            "target": "maga",
+            "value": 1
+        },
+        {
+            "source": "make america great again hat",
+            "target": "maga",
+            "value": 1
+        },
+        {
+            "source": "maga",
+            "target": "maga hat",
+            "value": 1
+        },
+        {
+            "source": "make america great again hat",
+            "target": "maga cap",
+            "value": 1
+        },
+        {
+            "source": "maga cap",
+            "target": "maga hat",
+            "value": 1
+        },
+        {
+            "source": "make america great again hat",
+            "target": "maga hat",
+            "value": 1
+        },
+        {
+            "source": "base model",
+            "target": "indigenous",
+            "value": 3
+        },
+        {
+            "source": "indigenous cultures",
+            "target": "base model",
+            "value": 3
+        },
+        {
+            "source": "north america",
+            "target": "base model",
+            "value": 1
+        },
+        {
+            "source": "base model",
+            "target": "north american",
+            "value": 1
+        },
+        {
+            "source": "north-america",
+            "target": "base model",
+            "value": 1
+        },
+        {
+            "source": "indigenous cultures",
+            "target": "indigenous",
+            "value": 3
+        },
+        {
+            "source": "north america",
+            "target": "indigenous",
+            "value": 1
+        },
+        {
+            "source": "north american",
+            "target": "indigenous",
+            "value": 1
+        },
+        {
+            "source": "north-america",
+            "target": "indigenous",
+            "value": 1
+        },
+        {
+            "source": "indigenous cultures",
+            "target": "north america",
+            "value": 1
+        },
+        {
+            "source": "indigenous cultures",
+            "target": "north american",
+            "value": 1
+        },
+        {
+            "source": "indigenous cultures",
+            "target": "north-america",
+            "value": 1
+        },
+        {
+            "source": "north america",
+            "target": "north american",
+            "value": 1
+        },
+        {
+            "source": "north-america",
+            "target": "north america",
+            "value": 1
+        },
+        {
+            "source": "north-america",
+            "target": "north american",
+            "value": 1
+        },
+        {
+            "source": "south america",
+            "target": "base model",
+            "value": 1
+        },
+        {
+            "source": "south-america",
+            "target": "base model",
+            "value": 1
+        },
+        {
+            "source": "base model",
+            "target": "south american",
+            "value": 1
+        },
+        {
+            "source": "south america",
+            "target": "indigenous",
+            "value": 1
+        },
+        {
+            "source": "south-america",
+            "target": "indigenous",
+            "value": 1
+        },
+        {
+            "source": "south american",
+            "target": "indigenous",
+            "value": 1
+        },
+        {
+            "source": "south america",
+            "target": "indigenous cultures",
+            "value": 1
+        },
+        {
+            "source": "south-america",
+            "target": "indigenous cultures",
+            "value": 1
+        },
+        {
+            "source": "indigenous cultures",
+            "target": "south american",
+            "value": 1
+        },
+        {
+            "source": "south-america",
+            "target": "south america",
+            "value": 1
+        },
+        {
+            "source": "south america",
+            "target": "south american",
+            "value": 1
+        },
+        {
+            "source": "south-america",
+            "target": "south american",
+            "value": 1
+        },
+        {
+            "source": "military",
+            "target": "american",
+            "value": 1
+        },
+        {
+            "source": "american",
+            "target": "clothing",
+            "value": 1
+        },
+        {
+            "source": "american",
+            "target": "uniform",
+            "value": 1
+        },
+        {
+            "source": "american",
+            "target": "soldier",
+            "value": 1
+        },
+        {
+            "source": "american",
+            "target": "military uniform",
+            "value": 1
+        },
+        {
+            "source": "military",
+            "target": "america",
+            "value": 1
+        },
+        {
+            "source": "military",
+            "target": "clothing",
+            "value": 1
+        },
+        {
+            "source": "military",
+            "target": "uniform",
+            "value": 1
+        },
+        {
+            "source": "military",
+            "target": "soldier",
+            "value": 1
+        },
+        {
+            "source": "military",
+            "target": "military uniform",
+            "value": 1
+        },
+        {
+            "source": "clothing",
+            "target": "america",
+            "value": 2
+        },
+        {
+            "source": "uniform",
+            "target": "america",
+            "value": 1
+        },
+        {
+            "source": "america",
+            "target": "soldier",
+            "value": 1
+        },
+        {
+            "source": "america",
+            "target": "military uniform",
+            "value": 1
+        },
+        {
+            "source": "uniform",
+            "target": "clothing",
+            "value": 1
+        },
+        {
+            "source": "clothing",
+            "target": "soldier",
+            "value": 1
+        },
+        {
+            "source": "clothing",
+            "target": "military uniform",
+            "value": 1
+        },
+        {
+            "source": "uniform",
+            "target": "soldier",
+            "value": 1
+        },
+        {
+            "source": "uniform",
+            "target": "military uniform",
+            "value": 1
+        },
+        {
+            "source": "military uniform",
+            "target": "soldier",
+            "value": 1
+        },
+        {
+            "source": "background",
+            "target": "america",
+            "value": 1
+        },
+        {
+            "source": "america",
+            "target": "place",
+            "value": 1
+        },
+        {
+            "source": "landmark",
+            "target": "america",
+            "value": 1
+        },
+        {
+            "source": "latin american",
+            "target": "america",
+            "value": 1
+        },
+        {
+            "source": "background",
+            "target": "place",
+            "value": 1
+        },
+        {
+            "source": "background",
+            "target": "landmark",
+            "value": 1
+        },
+        {
+            "source": "background",
+            "target": "latin american",
+            "value": 1
+        },
+        {
+            "source": "landmark",
+            "target": "place",
+            "value": 1
+        },
+        {
+            "source": "latin american",
+            "target": "place",
+            "value": 1
+        },
+        {
+            "source": "latin american",
+            "target": "landmark",
+            "value": 1
+        },
+        {
+            "source": "american",
+            "target": "base model",
+            "value": 1
+        },
+        {
+            "source": "american",
+            "target": "indigenous",
+            "value": 1
+        },
+        {
+            "source": "indigenous cultures",
+            "target": "american",
+            "value": 1
+        },
+        {
+            "source": "america",
+            "target": "base model",
+            "value": 1
+        },
+        {
+            "source": "america",
+            "target": "indigenous",
+            "value": 1
+        },
+        {
+            "source": "indigenous cultures",
+            "target": "america",
+            "value": 1
+        },
+        {
+            "source": "photorealistic",
+            "target": "character",
+            "value": 1
+        },
+        {
+            "source": "sexy",
+            "target": "character",
+            "value": 1
+        },
+        {
+            "source": "american",
+            "target": "character",
+            "value": 1
+        },
+        {
+            "source": "character",
+            "target": "airplane",
+            "value": 1
+        },
+        {
+            "source": "vehicles",
+            "target": "character",
+            "value": 1
+        },
+        {
+            "source": "photorealistic",
+            "target": "sexy",
+            "value": 1
+        },
+        {
+            "source": "photorealistic",
+            "target": "american",
+            "value": 1
+        },
+        {
+            "source": "photorealistic",
+            "target": "airplane",
+            "value": 1
+        },
+        {
+            "source": "photorealistic",
+            "target": "vehicles",
+            "value": 1
+        },
+        {
+            "source": "american",
+            "target": "sexy",
+            "value": 1
+        },
+        {
+            "source": "sexy",
+            "target": "airplane",
+            "value": 1
+        },
+        {
+            "source": "vehicles",
+            "target": "sexy",
+            "value": 1
+        },
+        {
+            "source": "sexy",
+            "target": "america",
+            "value": 2
+        },
+        {
+            "source": "american",
+            "target": "airplane",
+            "value": 1
+        },
+        {
+            "source": "vehicles",
+            "target": "american",
+            "value": 1
+        },
+        {
+            "source": "vehicles",
+            "target": "airplane",
+            "value": 1
+        },
+        {
+            "source": "america",
+            "target": "airplane",
+            "value": 1
+        },
+        {
+            "source": "vehicles",
+            "target": "america",
+            "value": 1
+        },
+        {
+            "source": "marvel",
+            "target": "character",
+            "value": 1
+        },
+        {
+            "source": "character",
+            "target": "comics",
+            "value": 1
+        },
+        {
+            "source": "character",
+            "target": "america chavez",
+            "value": 1
+        },
+        {
+            "source": "marvel",
+            "target": "comics",
+            "value": 1
+        },
+        {
+            "source": "marvel",
+            "target": "woman",
+            "value": 2
+        },
+        {
+            "source": "marvel",
+            "target": "america chavez",
+            "value": 1
+        },
+        {
+            "source": "woman",
+            "target": "comics",
+            "value": 1
+        },
+        {
+            "source": "america chavez",
+            "target": "comics",
+            "value": 1
+        },
+        {
+            "source": "woman",
+            "target": "america chavez",
+            "value": 1
+        },
+        {
+            "source": "objects",
+            "target": "america",
+            "value": 1
+        },
+        {
+            "source": "objects",
+            "target": "flag",
+            "value": 1
+        },
+        {
+            "source": "objects",
+            "target": "usa",
+            "value": 1
+        },
+        {
+            "source": "objects",
+            "target": "american flag",
+            "value": 1
+        },
+        {
+            "source": "objects",
+            "target": "us flag",
+            "value": 1
+        },
+        {
+            "source": "objects",
+            "target": "united states flag",
+            "value": 1
+        },
+        {
+            "source": "flag",
+            "target": "america",
+            "value": 1
+        },
+        {
+            "source": "america",
+            "target": "american flag",
+            "value": 1
+        },
+        {
+            "source": "us flag",
+            "target": "america",
+            "value": 1
+        },
+        {
+            "source": "america",
+            "target": "united states flag",
+            "value": 1
+        },
+        {
+            "source": "flag",
+            "target": "usa",
+            "value": 1
+        },
+        {
+            "source": "flag",
+            "target": "american flag",
+            "value": 1
+        },
+        {
+            "source": "flag",
+            "target": "us flag",
+            "value": 1
+        },
+        {
+            "source": "flag",
+            "target": "united states flag",
+            "value": 1
+        },
+        {
+            "source": "usa",
+            "target": "american flag",
+            "value": 1
+        },
+        {
+            "source": "us flag",
+            "target": "usa",
+            "value": 1
+        },
+        {
+            "source": "usa",
+            "target": "united states flag",
+            "value": 1
+        },
+        {
+            "source": "us flag",
+            "target": "american flag",
+            "value": 1
+        },
+        {
+            "source": "united states flag",
+            "target": "american flag",
+            "value": 1
+        },
+        {
+            "source": "us flag",
+            "target": "united states flag",
+            "value": 1
+        },
+        {
+            "source": "marvel",
+            "target": "celebrity",
+            "value": 1
+        },
+        {
+            "source": "marvel",
+            "target": "hayley atwell",
+            "value": 1
+        },
+        {
+            "source": "marvel",
+            "target": "captain america",
+            "value": 1
+        },
+        {
+            "source": "marvel",
+            "target": "mcu suit designs",
+            "value": 1
+        },
+        {
+            "source": "marvel",
+            "target": "peggy carter",
+            "value": 1
+        },
+        {
+            "source": "woman",
+            "target": "hayley atwell",
+            "value": 1
+        },
+        {
+            "source": "woman",
+            "target": "captain america",
+            "value": 1
+        },
+        {
+            "source": "woman",
+            "target": "mcu suit designs",
+            "value": 1
+        },
+        {
+            "source": "woman",
+            "target": "peggy carter",
+            "value": 1
+        },
+        {
+            "source": "hayley atwell",
+            "target": "celebrity",
+            "value": 1
+        },
+        {
+            "source": "captain america",
+            "target": "celebrity",
+            "value": 1
+        },
+        {
+            "source": "mcu suit designs",
+            "target": "celebrity",
+            "value": 1
+        },
+        {
+            "source": "peggy carter",
+            "target": "celebrity",
+            "value": 1
+        },
+        {
+            "source": "captain america",
+            "target": "hayley atwell",
+            "value": 1
+        },
+        {
+            "source": "hayley atwell",
+            "target": "mcu suit designs",
+            "value": 1
+        },
+        {
+            "source": "hayley atwell",
+            "target": "peggy carter",
+            "value": 1
+        },
+        {
+            "source": "captain america",
+            "target": "mcu suit designs",
+            "value": 1
+        },
+        {
+            "source": "captain america",
+            "target": "peggy carter",
+            "value": 1
+        },
+        {
+            "source": "mcu suit designs",
+            "target": "peggy carter",
+            "value": 1
+        },
+        {
+            "source": "character",
+            "target": "politician",
+            "value": 1
+        },
+        {
+            "source": "political",
+            "target": "character",
+            "value": 1
+        },
+        {
+            "source": "right",
+            "target": "character",
+            "value": 1
+        },
+        {
+            "source": "male",
+            "target": "character",
+            "value": 1
+        },
+        {
+            "source": "blonde",
+            "target": "politician",
+            "value": 1
+        },
+        {
+            "source": "blonde",
+            "target": "political",
+            "value": 1
+        },
+        {
+            "source": "right",
+            "target": "blonde",
+            "value": 1
+        },
+        {
+            "source": "blonde",
+            "target": "male",
+            "value": 1
+        },
+        {
+            "source": "right",
+            "target": "politician",
+            "value": 1
+        },
+        {
+            "source": "male",
+            "target": "politician",
+            "value": 1
+        },
+        {
+            "source": "right",
+            "target": "political",
+            "value": 1
+        },
+        {
+            "source": "political",
+            "target": "male",
+            "value": 1
+        },
+        {
+            "source": "right",
+            "target": "america",
+            "value": 1
+        },
+        {
+            "source": "male",
+            "target": "america",
+            "value": 1
+        },
+        {
+            "source": "right",
+            "target": "male",
+            "value": 1
+        },
+        {
+            "source": "concept",
+            "target": "red",
+            "value": 1
+        },
+        {
+            "source": "america",
+            "target": "concept",
+            "value": 2
+        },
+        {
+            "source": "stardust",
+            "target": "concept",
+            "value": 1
+        },
+        {
+            "source": "blue",
+            "target": "concept",
+            "value": 1
+        },
+        {
+            "source": "concept",
+            "target": "filter",
+            "value": 1
+        },
+        {
+            "source": "concept",
+            "target": "colorize",
+            "value": 1
+        },
+        {
+            "source": "america",
+            "target": "red",
+            "value": 1
+        },
+        {
+            "source": "stardust",
+            "target": "red",
+            "value": 1
+        },
+        {
+            "source": "blue",
+            "target": "red",
+            "value": 1
+        },
+        {
+            "source": "red",
+            "target": "filter",
+            "value": 1
+        },
+        {
+            "source": "red",
+            "target": "colorize",
+            "value": 1
+        },
+        {
+            "source": "stardust",
+            "target": "america",
+            "value": 1
+        },
+        {
+            "source": "blue",
+            "target": "america",
+            "value": 1
+        },
+        {
+            "source": "america",
+            "target": "filter",
+            "value": 1
+        },
+        {
+            "source": "america",
+            "target": "colorize",
+            "value": 1
+        },
+        {
+            "source": "stardust",
+            "target": "blue",
+            "value": 1
+        },
+        {
+            "source": "stardust",
+            "target": "filter",
+            "value": 1
+        },
+        {
+            "source": "stardust",
+            "target": "colorize",
+            "value": 1
+        },
+        {
+            "source": "blue",
+            "target": "filter",
+            "value": 1
+        },
+        {
+            "source": "blue",
+            "target": "colorize",
+            "value": 1
+        },
+        {
+            "source": "colorize",
+            "target": "filter",
+            "value": 1
+        },
+        {
+            "source": "superhero",
+            "target": "character",
+            "value": 2
+        },
+        {
+            "source": "my hero academia",
+            "target": "character",
+            "value": 1
+        },
+        {
+            "source": "character",
+            "target": "boku no hero academia",
+            "value": 1
+        },
+        {
+            "source": "cape",
+            "target": "character",
+            "value": 1
+        },
+        {
+            "source": "superhero",
+            "target": "my hero academia",
+            "value": 1
+        },
+        {
+            "source": "superhero",
+            "target": "america",
+            "value": 1
+        },
+        {
+            "source": "superhero",
+            "target": "boku no hero academia",
+            "value": 1
+        },
+        {
+            "source": "superhero",
+            "target": "cape",
+            "value": 1
+        },
+        {
+            "source": "my hero academia",
+            "target": "america",
+            "value": 1
+        },
+        {
+            "source": "my hero academia",
+            "target": "boku no hero academia",
+            "value": 1
+        },
+        {
+            "source": "cape",
+            "target": "my hero academia",
+            "value": 1
+        },
+        {
+            "source": "america",
+            "target": "boku no hero academia",
+            "value": 1
+        },
+        {
+            "source": "cape",
+            "target": "america",
+            "value": 1
+        },
+        {
+            "source": "cape",
+            "target": "boku no hero academia",
+            "value": 1
+        },
+        {
+            "source": "clothing",
+            "target": "anime",
+            "value": 2
+        },
+        {
+            "source": "inca",
+            "target": "anime",
+            "value": 1
+        },
+        {
+            "source": "south america",
+            "target": "anime",
+            "value": 1
+        },
+        {
+            "source": "andes",
+            "target": "anime",
+            "value": 1
+        },
+        {
+            "source": "woman",
+            "target": "clothing",
+            "value": 2
+        },
+        {
+            "source": "woman",
+            "target": "inca",
+            "value": 1
+        },
+        {
+            "source": "woman",
+            "target": "south america",
+            "value": 1
+        },
+        {
+            "source": "woman",
+            "target": "andes",
+            "value": 1
+        },
+        {
+            "source": "inca",
+            "target": "clothing",
+            "value": 1
+        },
+        {
+            "source": "south america",
+            "target": "clothing",
+            "value": 1
+        },
+        {
+            "source": "andes",
+            "target": "clothing",
+            "value": 1
+        },
+        {
+            "source": "south america",
+            "target": "inca",
+            "value": 1
+        },
+        {
+            "source": "inca",
+            "target": "andes",
+            "value": 1
+        },
+        {
+            "source": "south america",
+            "target": "andes",
+            "value": 1
+        },
+        {
+            "source": "avengers",
+            "target": "character",
+            "value": 1
+        },
+        {
+            "source": "captain america",
+            "target": "character",
+            "value": 1
+        },
+        {
+            "source": "american dream",
+            "target": "character",
+            "value": 1
+        },
+        {
+            "source": "shannon carter",
+            "target": "character",
+            "value": 1
+        },
+        {
+            "source": "superhero",
+            "target": "avengers",
+            "value": 1
+        },
+        {
+            "source": "superhero",
+            "target": "captain america",
+            "value": 1
+        },
+        {
+            "source": "superhero",
+            "target": "american dream",
+            "value": 1
+        },
+        {
+            "source": "superhero",
+            "target": "shannon carter",
+            "value": 1
+        },
+        {
+            "source": "avengers",
+            "target": "captain america",
+            "value": 1
+        },
+        {
+            "source": "avengers",
+            "target": "american dream",
+            "value": 1
+        },
+        {
+            "source": "avengers",
+            "target": "shannon carter",
+            "value": 1
+        },
+        {
+            "source": "captain america",
+            "target": "american dream",
+            "value": 1
+        },
+        {
+            "source": "captain america",
+            "target": "shannon carter",
+            "value": 1
+        },
+        {
+            "source": "american dream",
+            "target": "shannon carter",
+            "value": 1
+        },
+        {
+            "source": "illustration",
+            "target": "america",
+            "value": 1
+        },
+        {
+            "source": "post-war",
+            "target": "america",
+            "value": 1
+        },
+        {
+            "source": "america",
+            "target": "battle of the sexes",
+            "value": 1
+        },
+        {
+            "source": "illustration",
+            "target": "style",
+            "value": 1
+        },
+        {
+            "source": "post-war",
+            "target": "style",
+            "value": 1
+        },
+        {
+            "source": "battle of the sexes",
+            "target": "style",
+            "value": 1
+        },
+        {
+            "source": "post-war",
+            "target": "illustration",
+            "value": 1
+        },
+        {
+            "source": "illustration",
+            "target": "battle of the sexes",
+            "value": 1
+        },
+        {
+            "source": "post-war",
+            "target": "battle of the sexes",
+            "value": 1
+        },
+        {
+            "source": "woman",
+            "target": "sexy",
+            "value": 1
+        },
+        {
+            "source": "sexy",
+            "target": "celebrity",
+            "value": 1
+        },
+        {
+            "source": "sexy",
+            "target": "pornstar",
+            "value": 1
+        },
+        {
+            "source": "mature",
+            "target": "sexy",
+            "value": 1
+        },
+        {
+            "source": "america",
+            "target": "pornstar",
+            "value": 1
+        },
+        {
+            "source": "mature",
+            "target": "america",
+            "value": 1
+        },
+        {
+            "source": "woman",
+            "target": "pornstar",
+            "value": 1
+        },
+        {
+            "source": "woman",
+            "target": "mature",
+            "value": 1
+        },
+        {
+            "source": "pornstar",
+            "target": "celebrity",
+            "value": 1
+        },
+        {
+            "source": "mature",
+            "target": "celebrity",
+            "value": 1
+        },
+        {
+            "source": "mature",
+            "target": "pornstar",
+            "value": 1
+        },
+        {
+            "source": "america",
+            "target": "photography",
+            "value": 1
+        },
+        {
+            "source": "style",
+            "target": "photography",
+            "value": 1
+        },
+        {
+            "source": "thanksgiving",
+            "target": "anime",
+            "value": 1
+        },
+        {
+            "source": "anime",
+            "target": "colonial america",
+            "value": 1
+        },
+        {
+            "source": "anime",
+            "target": "puritans",
+            "value": 1
+        },
+        {
+            "source": "thanksgiving",
+            "target": "america",
+            "value": 1
+        },
+        {
+            "source": "america",
+            "target": "colonial america",
+            "value": 1
+        },
+        {
+            "source": "america",
+            "target": "puritans",
+            "value": 1
+        },
+        {
+            "source": "woman",
+            "target": "thanksgiving",
+            "value": 1
+        },
+        {
+            "source": "woman",
+            "target": "colonial america",
+            "value": 1
+        },
+        {
+            "source": "woman",
+            "target": "puritans",
+            "value": 1
+        },
+        {
+            "source": "thanksgiving",
+            "target": "clothing",
+            "value": 1
+        },
+        {
+            "source": "clothing",
+            "target": "colonial america",
+            "value": 1
+        },
+        {
+            "source": "clothing",
+            "target": "puritans",
+            "value": 1
+        },
+        {
+            "source": "thanksgiving",
+            "target": "colonial america",
+            "value": 1
+        },
+        {
+            "source": "thanksgiving",
+            "target": "puritans",
+            "value": 1
+        },
+        {
+            "source": "colonial america",
+            "target": "puritans",
+            "value": 1
+        },
+        {
+            "source": "usa",
+            "target": "character",
+            "value": 1
+        },
+        {
+            "source": "character",
+            "target": "uncle sam",
+            "value": 1
+        },
+        {
+            "source": "america",
+            "target": "uncle sam",
+            "value": 1
+        },
+        {
+            "source": "usa",
+            "target": "uncle sam",
+            "value": 1
+        },
+        {
+            "source": "usa",
+            "target": "concept",
+            "value": 1
+        },
+        {
+            "source": "fries",
+            "target": "concept",
+            "value": 1
+        },
+        {
+            "source": "hamburger",
+            "target": "concept",
+            "value": 1
+        },
+        {
+            "source": "freedom",
+            "target": "concept",
+            "value": 1
+        },
+        {
+            "source": "fries",
+            "target": "america",
+            "value": 1
+        },
+        {
+            "source": "hamburger",
+            "target": "america",
+            "value": 1
+        },
+        {
+            "source": "america",
+            "target": "freedom",
+            "value": 1
+        },
+        {
+            "source": "fries",
+            "target": "usa",
+            "value": 1
+        },
+        {
+            "source": "usa",
+            "target": "hamburger",
+            "value": 1
+        },
+        {
+            "source": "usa",
+            "target": "freedom",
+            "value": 1
+        },
+        {
+            "source": "fries",
+            "target": "hamburger",
+            "value": 1
+        },
+        {
+            "source": "fries",
+            "target": "freedom",
+            "value": 1
+        },
+        {
+            "source": "hamburger",
+            "target": "freedom",
+            "value": 1
+        },
+        {
+            "source": "man",
+            "target": "america",
+            "value": 1
+        },
+        {
+            "source": "america",
+            "target": "president",
+            "value": 1
+        },
+        {
+            "source": "america",
+            "target": "influencer",
+            "value": 1
+        },
+        {
+            "source": "celebrity,",
+            "target": "america",
+            "value": 1
+        },
+        {
+            "source": "man",
+            "target": "celebrity",
+            "value": 1
+        },
+        {
+            "source": "usa",
+            "target": "celebrity",
+            "value": 1
+        },
+        {
+            "source": "president",
+            "target": "celebrity",
+            "value": 1
+        },
+        {
+            "source": "celebrity",
+            "target": "influencer",
+            "value": 1
+        },
+        {
+            "source": "celebrity,",
+            "target": "celebrity",
+            "value": 1
+        },
+        {
+            "source": "man",
+            "target": "usa",
+            "value": 1
+        },
+        {
+            "source": "man",
+            "target": "president",
+            "value": 1
+        },
+        {
+            "source": "man",
+            "target": "influencer",
+            "value": 1
+        },
+        {
+            "source": "man",
+            "target": "celebrity,",
+            "value": 1
+        },
+        {
+            "source": "usa",
+            "target": "president",
+            "value": 1
+        },
+        {
+            "source": "usa",
+            "target": "influencer",
+            "value": 1
+        },
+        {
+            "source": "usa",
+            "target": "celebrity,",
+            "value": 1
+        },
+        {
+            "source": "president",
+            "target": "influencer",
+            "value": 1
+        },
+        {
+            "source": "celebrity,",
+            "target": "president",
+            "value": 1
+        },
+        {
+            "source": "celebrity,",
+            "target": "influencer",
+            "value": 1
+        }
+    ]
+}

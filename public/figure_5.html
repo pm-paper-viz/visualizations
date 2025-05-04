@@ -1,0 +1,442 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <script src="https://d3js.org/d3.v7.min.js"></script>
+  <link rel="stylesheet" href="styles.css">
+
+</head>
+<body>
+  <!-- Header Overlay -->
+  <div class="header-overlay">
+    <div class="visualization-container">
+      <h1>Tag Co-Occurrence Network</h1>
+      <h2 class="caption">Thematic clustering of the most frequent promotional tags used across all shared assets on CivitAI</h2>
+    
+      <div class="nav-buttons">
+        
+        
+           
+         
+     
+
+      </div>
+      <button class="nav-button" onclick="location.href='index.html'">Home</button>
+      <button class="nav-button" onclick="location.href='figure_15.html'">Next: Textual Training Data</button>
+
+      
+      <div class="theme-toggle">
+        <label><input type="checkbox" id="modeToggle"> Toggle Light Mode</label>
+
+
+  <div class="controls">
+    <label>Top N Nodes:
+      <input type="range" id="nodeCountInput" value="30" min="1" max="300" />
+      <output id="nodeCountOutput">20</output>
+    </label><br/>
+
+    <label>Link Distance Scale:
+      <input type="range" id="linkScaleInput" value="1500" min="0" max="10000" />
+      <output id="linkScaleOutput">0</output>
+    </label><br/>
+
+    <label>Charge Strength:
+      <input type="range" id="chargeInput" value="10" min="0" max="50" />
+      <output id="chargeOutput">5</output>
+    </label><br/>
+
+    <label>Collide Strength:
+      <input type="range" id="collideInput" value="2" min="0" max="10" step="0.1" />
+      <output id="collideOutput">2</output>
+    </label><br/>
+
+    <label>Collide Base Radius:
+      <input type="range" id="collideBaseInput" value="22" min="0" max="35" />
+      <output id="collideBaseOutput">17</output>
+    </label><br/>
+
+    <label>Node Radius Scale:
+      <input type="range" id="radiusInput" value="65" min="5" max="80" />
+      <output id="radiusOutput">30</output>
+    </label><br/>
+
+    <label>Font Size Scale:
+      <input type="range" id="fontInput" value="25" min="1" max="50" />
+      <output id="fontOutput">25</output>
+    </label><br/>
+
+    <label>Link Thickness Base:
+      <input type="range" id="LinkStrokeIn" value="30" min="1" max="50" />
+      <output id="LinkStrokeOut">5</output>
+    </label><br/>
+      
+    <label for="jsonSelector">Choose a JSON file:</label>
+    <select id="jsonSelector">
+      <option value="json/nodes_all.json">nodes_all.json</option>
+      <option value="json/nodes.json">nodes.json</option>
+      <option value="json/promo_tags_poi_true.json">promo_tags_poi_true.json</option>
+      <option value="json/promo_tags.json">promo_tags.json</option>
+      <option value="json/sunburst_data.json">sunburst_data.json</option>
+      <option value="json/tags_actor.json">tags_actor.json</option>
+      <option value="json/tags_actress.json">tags_actress.json</option>
+      <option value="json/tags_all_poi.json">tags_all_poi.json</option>
+      <option value="json/tags_american_poi.json">tags_american_poi.json</option>
+      <option value="json/tags_american.json">tags_american.json</option>
+      <option value="json/tags_asian_poi.json">tags_asian_poi.json</option>
+      <option value="json/tags_asian.json">tags_asian.json</option>
+      <option value="json/tags_canada.json">tags_canada.json</option>
+      <option value="json/tags_celebrity.json">tags_celebrity.json</option>
+      <option value="json/tags_character.json">tags_character.json</option>
+      <option value="json/tags_china.json">tags_china.json</option>
+      <option value="json/tags_chinese_poi.json">tags_chinese_poi.json</option>
+      <option value="json/tags_chinese.json">tags_chinese.json</option>
+      <option value="json/tags_german_poi.json">tags_german_poi.json</option>
+      <option value="json/tags_german.json">tags_german.json</option>
+      <option value="json/tags_germany.json">tags_germany.json</option>
+      <option value="json/tags_india.json">tags_india.json</option>
+      <option value="json/tags_indian_poi.json">tags_indian_poi.json</option>
+      <option value="json/tags_indian.json">tags_indian.json</option>
+      <option value="json/tags_instagram.json">tags_instagram.json</option>
+      <option value="json/tags_japan.json">tags_japan.json</option>
+      <option value="json/tags_japanese_poi.json">tags_japanese_poi.json</option>
+      <option value="json/tags_japanese.json">tags_japanese.json</option>
+      <option value="json/tags_korea.json">tags_korea.json</option>
+      <option value="json/tags_korean_poi.json">tags_korean_poi.json</option>
+      <option value="json/tags_korean.json">tags_korean.json</option>
+      <option value="json/tags_kpop.json">tags_kpop.json</option>
+      <option value="json/tags_man_poi.json">tags_man_poi.json</option>
+      <option value="json/tags_man.json">tags_man.json</option>
+      <option value="json/tags_russia.json">tags_russia.json</option>
+      <option value="json/tags_russian_poi.json">tags_russian_poi.json</option>
+      <option value="json/tags_russian.json">tags_russian.json</option>
+      <option value="json/tags_style_poi.json">tags_style_poi.json</option>
+      <option value="json/tags_style.json">tags_style.json</option>
+      <option value="json/tags_tiktok.json">tags_tiktok.json</option>
+      <option value="json/tags_uk.json">tags_uk.json</option>
+      <option value="json/tags_ukrainian.json">tags_ukrainian.json</option>
+      <option value="json/tags_woman_poi.json">tags_woman_poi.json</option>
+      <option value="json/tags_woman.json">tags_woman.json</option>
+      <option value="json/tags_youtuber.json">tags_youtuber.json</option>
+      <option value="json/tree_data.json">tree_data.json</option>
+    </select>
+    
+    <button id="resetBtn">Reset</button>
+    <button id="downloadBtn">Download SVG</button>
+  </div>
+      </div>
+
+      
+      
+      </div>
+
+    </div>
+    
+  </div>
+
+
+  
+  <!-- Main Content -->
+  
+
+  <!-- Visualization -->
+  <!-- Change the SVG element to this -->
+<svg viewBox="0 0 1600 1200" preserveAspectRatio="xMidYMid meet"></svg>
+
+  <!-- Theme Toggle -->
+
+  <!-- Navigation -->
+  
+
+  <script>
+    const svgElement = document.querySelector("svg");
+    const width = 1600;
+    const height = 2000;
+    const NODE_BASE_RADIUS = 1;
+    const FONT_SIZE_BASE = 14;
+
+    let LINK_DISTANCE_SCALE = -200;
+    let CHARGE_STRENGTH = 80;
+    let COLLIDE_STRENGTH = 2;
+    let COLLIDE_BASE_RADIUS = 17;
+    let NODE_RADIUS_SCALE = 30;
+    let FONT_SIZE_SCALE = 25;
+    let LINK_THICKNESS_BASE = 5;
+
+    const svg = d3.select("svg");
+    const zoomLayer = svg.append("g").attr("class", "zoom-layer");
+
+    // Add zoom/pan behavior
+    svg.call(d3.zoom()
+      .scaleExtent([0.1, 8])
+      .on("zoom", (event) => {
+        zoomLayer.attr("transform", event.transform);
+      })
+    );
+
+    // Set initial background
+    zoomLayer.append("rect")
+      .attr("width", width)
+      .attr("height", height)
+      .attr("fill", getComputedStyle(document.documentElement).getPropertyValue('--svg-fill').trim());
+
+    let fullGraph = null;
+
+    function renderGraph(graph, nodeCount = 1) {
+        zoomLayer.selectAll("*").remove();
+
+        zoomLayer.append("rect")
+          .attr("width", width)
+          .attr("height", height)
+          .attr("fill", getComputedStyle(document.documentElement).getPropertyValue('--svg-fill').trim());
+
+        const nodeMap = new Map(graph.nodes.map(n => [n.id, n]));
+
+        graph.nodes.sort((a, b) => b.size - a.size);
+        const filteredNodes = graph.nodes.slice(0, nodeCount);
+        const topIds = new Set(filteredNodes.map(n => n.id));
+        const filteredLinks = graph.links
+          .filter(link => topIds.has(link.source) && topIds.has(link.target) && link.value >= 1)
+          .map(link => ({ 
+            ...link, 
+            source: nodeMap.get(link.source), 
+            target: nodeMap.get(link.target) 
+          }));
+
+        const [minNodeSize, maxNodeSize] = d3.extent(filteredNodes, n => n.size);
+        filteredNodes.forEach(n => {
+            n.normSize = (n.size - minNodeSize) / (maxNodeSize - minNodeSize || 1);
+        });
+
+        const [minLinkVal, maxLinkVal] = d3.extent(filteredLinks, d => d.value);
+        filteredLinks.forEach(d => {
+            d.normValue = (d.value - minLinkVal) / (maxLinkVal - minLinkVal || 1);
+            d.distance = 100 + d.normValue * LINK_DISTANCE_SCALE;
+        });
+
+        const edgeColor = d3.scaleLinear()
+            .domain([0, 0.3, 1])
+            .interpolate(d3.interpolateRgb)
+            .range(["#BC8F8F", "#FF7F50", "#800000"]);
+
+        const link = zoomLayer.append("g").selectAll("line")
+            .data(filteredLinks)
+            .enter().append("line")
+            .attr("stroke", d => edgeColor(d.normValue))
+            .attr("stroke-width", d => Math.max(0.1, d.value / maxLinkVal * LINK_THICKNESS_BASE))
+            .attr("stroke-opacity", d => d.normValue + 80)
+
+        const node = zoomLayer.append("g").selectAll("circle")
+            .data(filteredNodes)
+            .enter().append("circle")
+            .attr("r", d => d.size / maxNodeSize * NODE_RADIUS_SCALE)
+            .attr("fill", "#FF7F50")
+            .attr("stroke", "#800000")
+            .attr("stroke-width", 5)
+            .call(d3.drag().on("start", dragstarted).on("drag", dragged).on("end", dragended));
+
+        const labels = zoomLayer.append("g")
+            .attr("class", "label-group")
+            .selectAll("g")
+            .data(filteredNodes)
+            .enter().append("g")
+            .attr("class", "label");
+
+        labels.append("text")
+            .attr("text-anchor", "start")
+            .style("font-weight", "bold")
+            .style("font-size", d => `${FONT_SIZE_BASE + d.normSize * FONT_SIZE_SCALE}px`)
+            .attr("x", d => NODE_BASE_RADIUS + d.normSize * NODE_RADIUS_SCALE + 6)
+            .text(d => d.id);
+
+        const top10 = filteredNodes.slice(0, 3);
+        const insideLabels = zoomLayer.append("g")
+            .selectAll("text")
+            .data(top10)
+            .enter().append("text")
+            .attr("text-anchor", "middle")
+            .attr("dy", "0.35em")
+            .style("font-weight", "bold")
+            .style("fill", "#800000")
+            .style("pointer-events", "none")
+            .style("font-size", d => `${FONT_SIZE_BASE + d.normSize * FONT_SIZE_SCALE * 0.2}px`)
+            .text(d => d.size);
+
+        labels.each(function(d) {
+            const group = d3.select(this);
+            const text = group.select("text");
+
+            const fontSize = FONT_SIZE_BASE + d.normSize * FONT_SIZE_SCALE;
+            const paddingX = 4;
+            const paddingY = 2;
+
+            const labelX = NODE_BASE_RADIUS + d.normSize * NODE_RADIUS_SCALE + 6;
+            text
+                .attr("x", labelX)
+                .attr("y", 0)
+                .attr("dy", "0.35em")
+                .style("font-size", `${fontSize}px`);
+
+            const actualWidth = text.node().getComputedTextLength();
+            const actualHeight = fontSize;
+
+            group.insert("rect", "text")
+                .attr("x", labelX - paddingX)
+                .attr("y", -actualHeight / 2 - paddingY)
+                .attr("width", actualWidth + paddingX * 0.2)
+                .attr("height", actualHeight + paddingY * 2)
+                .attr("rx", 4)
+                .attr("ry", 4)
+                .attr("fill", "white")
+                .attr("fill-opacity", 0.7)
+                .attr("stroke", "#800000")
+                .attr("stroke-width", 4)
+                .attr("stroke-opacity", 1);
+        });
+        const simulation = d3.forceSimulation(filteredNodes)
+    .alphaDecay(0.05)
+    .alphaMin(0.001)
+    .force("link", d3.forceLink(filteredLinks).id(d => d.id).distance(d => d.distance))
+    .force("charge", d3.forceManyBody().strength(CHARGE_STRENGTH))
+    .force("center", d3.forceCenter(width / 2 -300, height / 2 - 200))  // Adjusted vertical center
+    .force("collide", d3.forceCollide().radius(d =>
+        COLLIDE_BASE_RADIUS + d.normSize * NODE_RADIUS_SCALE + (FONT_SIZE_BASE + d.normSize * FONT_SIZE_SCALE) * 0.1
+    ).strength(COLLIDE_STRENGTH))
+    .on("tick", ticked);
+        function ticked() {
+            link.attr("x1", d => d.source.x).attr("y1", d => d.source.y)
+                .attr("x2", d => d.target.x).attr("y2", d => d.target.y);
+            node.attr("cx", d => d.x).attr("cy", d => d.y);
+            labels.attr("transform", d => `translate(${d.x}, ${d.y})`);
+            insideLabels.attr("x", d => d.x).attr("y", d => d.y);
+        }
+
+        function dragstarted(event, d) {
+            if (!event.active) simulation.alphaTarget(0.3).restart();
+            d.fx = d.x; d.fy = d.y;
+        }
+
+        function dragged(event, d) {
+            d.fx = event.x; d.fy = event.y;
+        }
+
+        function dragended(event, d) {
+            if (!event.active) simulation.alphaTarget(0);
+        }
+    }
+
+    // Rest of your existing JavaScript for controls, theme toggle, etc.
+    const sliders = {
+        nodeCount: document.getElementById("nodeCountInput"),
+        linkScale: document.getElementById("linkScaleInput"),
+        charge: document.getElementById("chargeInput"),
+        collide: document.getElementById("collideInput"),
+        collideBase: document.getElementById("collideBaseInput"),
+        radius: document.getElementById("radiusInput"),
+        font: document.getElementById("fontInput"),
+        linkThickness: document.getElementById("LinkStrokeIn"),
+    };
+
+    const outputs = {
+        nodeCount: document.getElementById("nodeCountOutput"),
+        linkScale: document.getElementById("linkScaleOutput"),
+        charge: document.getElementById("chargeOutput"),
+        collide: document.getElementById("collideOutput"),
+        collideBase: document.getElementById("collideBaseOutput"),
+        radius: document.getElementById("radiusOutput"),
+        font: document.getElementById("fontOutput"),
+        linkThickness: document.getElementById("LinkStrokeOut"),
+    };
+
+    function updateAndRender() {
+        LINK_DISTANCE_SCALE = +sliders.linkScale.value;
+        CHARGE_STRENGTH = +sliders.charge.value;
+        COLLIDE_STRENGTH = +sliders.collide.value;
+        COLLIDE_BASE_RADIUS = +sliders.collideBase.value;
+        NODE_RADIUS_SCALE = +sliders.radius.value;
+        FONT_SIZE_SCALE = +sliders.font.value;
+        LINK_THICKNESS_BASE = +sliders.linkThickness.value;
+
+        outputs.linkScale.textContent = LINK_DISTANCE_SCALE;
+        outputs.charge.textContent = CHARGE_STRENGTH;
+        outputs.collide.textContent = COLLIDE_STRENGTH;
+        outputs.collideBase.textContent = COLLIDE_BASE_RADIUS;
+        outputs.radius.textContent = NODE_RADIUS_SCALE;
+        outputs.font.textContent = FONT_SIZE_SCALE;
+        outputs.linkThickness.textContent = LINK_THICKNESS_BASE;
+        outputs.nodeCount.textContent = sliders.nodeCount.value;
+
+        if (fullGraph) renderGraph(fullGraph, +sliders.nodeCount.value);
+    }
+
+    for (const key in sliders) {
+        sliders[key].addEventListener("input", updateAndRender);
+    }
+
+    document.getElementById("resetBtn").addEventListener("click", () => {
+        sliders.nodeCount.value = 50;
+        sliders.linkScale.value = -200;
+        sliders.charge.value = 80;
+        sliders.collide.value = 2;
+        sliders.collideBase.value = 17;
+        sliders.radius.value = 30;
+        sliders.font.value = 25;
+        sliders.linkThickness.value = 5;
+        updateAndRender();
+    });
+
+    document.getElementById("jsonSelector").addEventListener("change", function() {
+        loadJSON(this.value);
+    });
+
+    function updateSvgThemeStyles() {
+      const fill = getComputedStyle(document.documentElement).getPropertyValue('--svg-fill').trim();
+      const textColor = getComputedStyle(document.documentElement).getPropertyValue('--text-color').trim();
+      const labelBg = getComputedStyle(document.documentElement).getPropertyValue('--label-bg').trim();
+
+      zoomLayer.select("rect").attr("fill", fill);
+      zoomLayer.selectAll("text").attr("fill", textColor);
+      zoomLayer.selectAll("g.label rect").attr("fill", labelBg);
+    }
+
+    const toggle = document.getElementById('modeToggle');
+    const root = document.documentElement;
+
+    root.classList.remove('light-mode');
+
+    toggle.addEventListener('change', () => {
+      root.classList.toggle('light-mode');
+      setTimeout(updateSvgThemeStyles, 50);
+    });
+
+    function loadJSON(filePath) {
+        d3.json(filePath).then(graph => {
+            fullGraph = graph;
+            updateAndRender();
+        });
+    }
+
+    const selector = document.getElementById("jsonSelector");
+    loadJSON(selector.value);
+
+    document.getElementById("downloadBtn").addEventListener("click", () => {
+        const svgNode = document.querySelector("svg");
+        const serializer = new XMLSerializer();
+        const source = serializer.serializeToString(svgNode);
+        const blob = new Blob([source], {type: "image/svg+xml;charset=utf-8"});
+        const url = URL.createObjectURL(blob);
+
+        const link = document.createElement("a");
+        link.href = url;
+        link.download = "graph-export.svg";
+        document.body.appendChild(link);
+        link.click();
+        document.body.removeChild(link);
+        URL.revokeObjectURL(url);
+    });
+
+    // Initial render
+    updateSvgThemeStyles();
+    updateAndRender();
+  </script>
+</body>
+</html>

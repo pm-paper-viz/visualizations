@@ -1,0 +1,4172 @@
+{
+    "nodes": [
+        {
+            "id": "indian",
+            "size": 676
+        },
+        {
+            "id": "style",
+            "size": 33
+        },
+        {
+            "id": "exotic",
+            "size": 2
+        },
+        {
+            "id": "ethnic",
+            "size": 5
+        },
+        {
+            "id": "character",
+            "size": 47
+        },
+        {
+            "id": "sexy",
+            "size": 31
+        },
+        {
+            "id": "female",
+            "size": 120
+        },
+        {
+            "id": "woman",
+            "size": 289
+        },
+        {
+            "id": "realistic",
+            "size": 51
+        },
+        {
+            "id": "anime",
+            "size": 12
+        },
+        {
+            "id": "clothing",
+            "size": 25
+        },
+        {
+            "id": "cloth",
+            "size": 4
+        },
+        {
+            "id": "indian outfit",
+            "size": 8
+        },
+        {
+            "id": "saree",
+            "size": 11
+        },
+        {
+            "id": "fashion",
+            "size": 5
+        },
+        {
+            "id": "outfit",
+            "size": 4
+        },
+        {
+            "id": "sari",
+            "size": 8
+        },
+        {
+            "id": "concept",
+            "size": 10
+        },
+        {
+            "id": "photorealistic",
+            "size": 88
+        },
+        {
+            "id": "desi",
+            "size": 280
+        },
+        {
+            "id": "bollywood",
+            "size": 360
+        },
+        {
+            "id": "celebrity",
+            "size": 566
+        },
+        {
+            "id": "hindi",
+            "size": 14
+        },
+        {
+            "id": "dark skin",
+            "size": 4
+        },
+        {
+            "id": "traditional",
+            "size": 4
+        },
+        {
+            "id": "ramayana",
+            "size": 2
+        },
+        {
+            "id": "actress",
+            "size": 294
+        },
+        {
+            "id": "celeb",
+            "size": 130
+        },
+        {
+            "id": "textual inversion",
+            "size": 28
+        },
+        {
+            "id": "experimental",
+            "size": 8
+        },
+        {
+            "id": "lora",
+            "size": 16
+        },
+        {
+            "id": "disney",
+            "size": 2
+        },
+        {
+            "id": "cartoon",
+            "size": 2
+        },
+        {
+            "id": "person",
+            "size": 27
+        },
+        {
+            "id": "instagram",
+            "size": 3
+        },
+        {
+            "id": "instagram model",
+            "size": 3
+        },
+        {
+            "id": "indian women",
+            "size": 41
+        },
+        {
+            "id": "south asian",
+            "size": 4
+        },
+        {
+            "id": "dress",
+            "size": 4
+        },
+        {
+            "id": "girls",
+            "size": 43
+        },
+        {
+            "id": "tamanna",
+            "size": 3
+        },
+        {
+            "id": "asian",
+            "size": 5
+        },
+        {
+            "id": "indialove",
+            "size": 2
+        },
+        {
+            "id": "kollywood",
+            "size": 6
+        },
+        {
+            "id": "actor",
+            "size": 61
+        },
+        {
+            "id": "women",
+            "size": 59
+        },
+        {
+            "id": "indian actress",
+            "size": 13
+        },
+        {
+            "id": "ethnicity",
+            "size": 2
+        },
+        {
+            "id": "indian celebrity",
+            "size": 39
+        },
+        {
+            "id": "man",
+            "size": 11
+        },
+        {
+            "id": "brown",
+            "size": 3
+        },
+        {
+            "id": "reactor",
+            "size": 7
+        },
+        {
+            "id": "face model",
+            "size": 4
+        },
+        {
+            "id": "model",
+            "size": 13
+        },
+        {
+            "id": "mallu",
+            "size": 5
+        },
+        {
+            "id": "girl",
+            "size": 3
+        },
+        {
+            "id": "celebrity,",
+            "size": 26
+        },
+        {
+            "id": "influencer",
+            "size": 4
+        },
+        {
+            "id": "alia bhatt",
+            "size": 5
+        },
+        {
+            "id": "cute",
+            "size": 4
+        },
+        {
+            "id": "singer",
+            "size": 6
+        },
+        {
+            "id": "american",
+            "size": 4
+        },
+        {
+            "id": "canadian",
+            "size": 3
+        },
+        {
+            "id": "male",
+            "size": 62
+        },
+        {
+            "id": "hollywood",
+            "size": 4
+        },
+        {
+            "id": "beautiful",
+            "size": 3
+        },
+        {
+            "id": "film",
+            "size": 2
+        },
+        {
+            "id": "india",
+            "size": 5
+        },
+        {
+            "id": "south asia",
+            "size": 4
+        },
+        {
+            "id": "tamil",
+            "size": 6
+        },
+        {
+            "id": "south indian",
+            "size": 7
+        },
+        {
+            "id": "hindu text",
+            "size": 2
+        },
+        {
+            "id": "flux1.d",
+            "size": 4
+        },
+        {
+            "id": "styles",
+            "size": 2
+        },
+        {
+            "id": "tamil actress",
+            "size": 4
+        },
+        {
+            "id": "tollywood",
+            "size": 12
+        },
+        {
+            "id": "avneet kaur",
+            "size": 3
+        },
+        {
+            "id": "bollywood actress",
+            "size": 17
+        },
+        {
+            "id": "bengali",
+            "size": 5
+        },
+        {
+            "id": "malayalam",
+            "size": 3
+        },
+        {
+            "id": "telugu",
+            "size": 11
+        },
+        {
+            "id": "star",
+            "size": 2
+        },
+        {
+            "id": "tv",
+            "size": 15
+        },
+        {
+            "id": "hottiesnhotties",
+            "size": 50
+        },
+        {
+            "id": "sdxl 1,0",
+            "size": 26
+        },
+        {
+            "id": "cricketer",
+            "size": 4
+        },
+        {
+            "id": "sportsman",
+            "size": 3
+        },
+        {
+            "id": "male model",
+            "size": 10
+        },
+        {
+            "id": "bigg boss",
+            "size": 6
+        }
+    ],
+    "links": [
+        {
+            "source": "indian",
+            "target": "style",
+            "value": 32
+        },
+        {
+            "source": "indian",
+            "target": "exotic",
+            "value": 2
+        },
+        {
+            "source": "ethnic",
+            "target": "indian",
+            "value": 5
+        },
+        {
+            "source": "exotic",
+            "target": "style",
+            "value": 1
+        },
+        {
+            "source": "ethnic",
+            "target": "style",
+            "value": 4
+        },
+        {
+            "source": "ethnic",
+            "target": "exotic",
+            "value": 1
+        },
+        {
+            "source": "character",
+            "target": "sexy",
+            "value": 4
+        },
+        {
+            "source": "character",
+            "target": "female",
+            "value": 9
+        },
+        {
+            "source": "character",
+            "target": "indian",
+            "value": 37
+        },
+        {
+            "source": "character",
+            "target": "woman",
+            "value": 26
+        },
+        {
+            "source": "character",
+            "target": "realistic",
+            "value": 12
+        },
+        {
+            "source": "sexy",
+            "target": "female",
+            "value": 4
+        },
+        {
+            "source": "sexy",
+            "target": "indian",
+            "value": 31
+        },
+        {
+            "source": "sexy",
+            "target": "woman",
+            "value": 28
+        },
+        {
+            "source": "sexy",
+            "target": "realistic",
+            "value": 6
+        },
+        {
+            "source": "female",
+            "target": "indian",
+            "value": 117
+        },
+        {
+            "source": "woman",
+            "target": "female",
+            "value": 68
+        },
+        {
+            "source": "female",
+            "target": "realistic",
+            "value": 11
+        },
+        {
+            "source": "woman",
+            "target": "indian",
+            "value": 280
+        },
+        {
+            "source": "indian",
+            "target": "realistic",
+            "value": 47
+        },
+        {
+            "source": "woman",
+            "target": "realistic",
+            "value": 42
+        },
+        {
+            "source": "clothing",
+            "target": "cloth",
+            "value": 4
+        },
+        {
+            "source": "clothing",
+            "target": "indian outfit",
+            "value": 5
+        },
+        {
+            "source": "clothing",
+            "target": "saree",
+            "value": 9
+        },
+        {
+            "source": "cloth",
+            "target": "indian outfit",
+            "value": 4
+        },
+        {
+            "source": "cloth",
+            "target": "saree",
+            "value": 2
+        },
+        {
+            "source": "saree",
+            "target": "indian outfit",
+            "value": 2
+        },
+        {
+            "source": "fashion",
+            "target": "indian",
+            "value": 5
+        },
+        {
+            "source": "woman",
+            "target": "fashion",
+            "value": 2
+        },
+        {
+            "source": "clothing",
+            "target": "fashion",
+            "value": 2
+        },
+        {
+            "source": "clothing",
+            "target": "indian",
+            "value": 20
+        },
+        {
+            "source": "clothing",
+            "target": "woman",
+            "value": 8
+        },
+        {
+            "source": "outfit",
+            "target": "indian",
+            "value": 3
+        },
+        {
+            "source": "indian",
+            "target": "sari",
+            "value": 8
+        },
+        {
+            "source": "cloth",
+            "target": "indian",
+            "value": 3
+        },
+        {
+            "source": "indian",
+            "target": "indian outfit",
+            "value": 6
+        },
+        {
+            "source": "indian",
+            "target": "saree",
+            "value": 10
+        },
+        {
+            "source": "clothing",
+            "target": "outfit",
+            "value": 4
+        },
+        {
+            "source": "outfit",
+            "target": "sari",
+            "value": 2
+        },
+        {
+            "source": "outfit",
+            "target": "cloth",
+            "value": 2
+        },
+        {
+            "source": "outfit",
+            "target": "indian outfit",
+            "value": 3
+        },
+        {
+            "source": "outfit",
+            "target": "saree",
+            "value": 1
+        },
+        {
+            "source": "clothing",
+            "target": "sari",
+            "value": 7
+        },
+        {
+            "source": "cloth",
+            "target": "sari",
+            "value": 2
+        },
+        {
+            "source": "indian outfit",
+            "target": "sari",
+            "value": 2
+        },
+        {
+            "source": "saree",
+            "target": "sari",
+            "value": 2
+        },
+        {
+            "source": "indian",
+            "target": "concept",
+            "value": 8
+        },
+        {
+            "source": "photorealistic",
+            "target": "female",
+            "value": 25
+        },
+        {
+            "source": "photorealistic",
+            "target": "indian",
+            "value": 83
+        },
+        {
+            "source": "photorealistic",
+            "target": "style",
+            "value": 10
+        },
+        {
+            "source": "woman",
+            "target": "photorealistic",
+            "value": 79
+        },
+        {
+            "source": "photorealistic",
+            "target": "ethnic",
+            "value": 4
+        },
+        {
+            "source": "photorealistic",
+            "target": "desi",
+            "value": 13
+        },
+        {
+            "source": "female",
+            "target": "style",
+            "value": 6
+        },
+        {
+            "source": "female",
+            "target": "ethnic",
+            "value": 4
+        },
+        {
+            "source": "female",
+            "target": "desi",
+            "value": 24
+        },
+        {
+            "source": "desi",
+            "target": "indian",
+            "value": 280
+        },
+        {
+            "source": "woman",
+            "target": "style",
+            "value": 13
+        },
+        {
+            "source": "desi",
+            "target": "style",
+            "value": 19
+        },
+        {
+            "source": "woman",
+            "target": "ethnic",
+            "value": 3
+        },
+        {
+            "source": "woman",
+            "target": "desi",
+            "value": 96
+        },
+        {
+            "source": "desi",
+            "target": "ethnic",
+            "value": 3
+        },
+        {
+            "source": "bollywood",
+            "target": "female",
+            "value": 53
+        },
+        {
+            "source": "female",
+            "target": "celebrity",
+            "value": 87
+        },
+        {
+            "source": "female",
+            "target": "hindi",
+            "value": 2
+        },
+        {
+            "source": "bollywood",
+            "target": "indian",
+            "value": 357
+        },
+        {
+            "source": "bollywood",
+            "target": "celebrity",
+            "value": 346
+        },
+        {
+            "source": "bollywood",
+            "target": "hindi",
+            "value": 11
+        },
+        {
+            "source": "indian",
+            "target": "celebrity",
+            "value": 556
+        },
+        {
+            "source": "indian",
+            "target": "hindi",
+            "value": 14
+        },
+        {
+            "source": "celebrity",
+            "target": "hindi",
+            "value": 14
+        },
+        {
+            "source": "dark skin",
+            "target": "concept",
+            "value": 1
+        },
+        {
+            "source": "dark skin",
+            "target": "indian",
+            "value": 4
+        },
+        {
+            "source": "indian",
+            "target": "traditional",
+            "value": 4
+        },
+        {
+            "source": "clothing",
+            "target": "traditional",
+            "value": 2
+        },
+        {
+            "source": "ramayana",
+            "target": "traditional",
+            "value": 1
+        },
+        {
+            "source": "ramayana",
+            "target": "indian",
+            "value": 2
+        },
+        {
+            "source": "clothing",
+            "target": "ramayana",
+            "value": 1
+        },
+        {
+            "source": "bollywood",
+            "target": "sexy",
+            "value": 8
+        },
+        {
+            "source": "sexy",
+            "target": "actress",
+            "value": 21
+        },
+        {
+            "source": "sexy",
+            "target": "celeb",
+            "value": 1
+        },
+        {
+            "source": "bollywood",
+            "target": "woman",
+            "value": 130
+        },
+        {
+            "source": "bollywood",
+            "target": "actress",
+            "value": 201
+        },
+        {
+            "source": "bollywood",
+            "target": "celeb",
+            "value": 118
+        },
+        {
+            "source": "actress",
+            "target": "indian",
+            "value": 288
+        },
+        {
+            "source": "indian",
+            "target": "celeb",
+            "value": 129
+        },
+        {
+            "source": "woman",
+            "target": "actress",
+            "value": 156
+        },
+        {
+            "source": "woman",
+            "target": "celeb",
+            "value": 82
+        },
+        {
+            "source": "actress",
+            "target": "celeb",
+            "value": 97
+        },
+        {
+            "source": "textual inversion",
+            "target": "indian",
+            "value": 28
+        },
+        {
+            "source": "desi",
+            "target": "realistic",
+            "value": 6
+        },
+        {
+            "source": "female",
+            "target": "experimental",
+            "value": 1
+        },
+        {
+            "source": "female",
+            "target": "lora",
+            "value": 2
+        },
+        {
+            "source": "experimental",
+            "target": "indian",
+            "value": 8
+        },
+        {
+            "source": "experimental",
+            "target": "style",
+            "value": 7
+        },
+        {
+            "source": "experimental",
+            "target": "lora",
+            "value": 1
+        },
+        {
+            "source": "experimental",
+            "target": "desi",
+            "value": 8
+        },
+        {
+            "source": "indian",
+            "target": "lora",
+            "value": 16
+        },
+        {
+            "source": "lora",
+            "target": "style",
+            "value": 2
+        },
+        {
+            "source": "desi",
+            "target": "lora",
+            "value": 2
+        },
+        {
+            "source": "character",
+            "target": "disney",
+            "value": 2
+        },
+        {
+            "source": "character",
+            "target": "cartoon",
+            "value": 2
+        },
+        {
+            "source": "disney",
+            "target": "female",
+            "value": 1
+        },
+        {
+            "source": "disney",
+            "target": "indian",
+            "value": 2
+        },
+        {
+            "source": "disney",
+            "target": "woman",
+            "value": 1
+        },
+        {
+            "source": "disney",
+            "target": "cartoon",
+            "value": 1
+        },
+        {
+            "source": "cartoon",
+            "target": "female",
+            "value": 1
+        },
+        {
+            "source": "cartoon",
+            "target": "indian",
+            "value": 2
+        },
+        {
+            "source": "cartoon",
+            "target": "woman",
+            "value": 1
+        },
+        {
+            "source": "female",
+            "target": "person",
+            "value": 27
+        },
+        {
+            "source": "textual inversion",
+            "target": "person",
+            "value": 25
+        },
+        {
+            "source": "indian",
+            "target": "person",
+            "value": 27
+        },
+        {
+            "source": "instagram",
+            "target": "person",
+            "value": 1
+        },
+        {
+            "source": "celebrity",
+            "target": "person",
+            "value": 16
+        },
+        {
+            "source": "instagram model",
+            "target": "person",
+            "value": 1
+        },
+        {
+            "source": "female",
+            "target": "textual inversion",
+            "value": 25
+        },
+        {
+            "source": "instagram",
+            "target": "female",
+            "value": 1
+        },
+        {
+            "source": "female",
+            "target": "instagram model",
+            "value": 1
+        },
+        {
+            "source": "instagram",
+            "target": "textual inversion",
+            "value": 1
+        },
+        {
+            "source": "textual inversion",
+            "target": "celebrity",
+            "value": 17
+        },
+        {
+            "source": "textual inversion",
+            "target": "instagram model",
+            "value": 1
+        },
+        {
+            "source": "instagram",
+            "target": "indian",
+            "value": 3
+        },
+        {
+            "source": "indian",
+            "target": "instagram model",
+            "value": 3
+        },
+        {
+            "source": "instagram",
+            "target": "celebrity",
+            "value": 3
+        },
+        {
+            "source": "instagram",
+            "target": "instagram model",
+            "value": 1
+        },
+        {
+            "source": "celebrity",
+            "target": "instagram model",
+            "value": 3
+        },
+        {
+            "source": "bollywood",
+            "target": "person",
+            "value": 19
+        },
+        {
+            "source": "actress",
+            "target": "person",
+            "value": 24
+        },
+        {
+            "source": "female",
+            "target": "actress",
+            "value": 44
+        },
+        {
+            "source": "bollywood",
+            "target": "textual inversion",
+            "value": 17
+        },
+        {
+            "source": "actress",
+            "target": "textual inversion",
+            "value": 23
+        },
+        {
+            "source": "sexy",
+            "target": "celebrity",
+            "value": 20
+        },
+        {
+            "source": "sexy",
+            "target": "indian women",
+            "value": 2
+        },
+        {
+            "source": "bollywood",
+            "target": "indian women",
+            "value": 6
+        },
+        {
+            "source": "indian women",
+            "target": "indian",
+            "value": 37
+        },
+        {
+            "source": "woman",
+            "target": "celebrity",
+            "value": 231
+        },
+        {
+            "source": "woman",
+            "target": "indian women",
+            "value": 25
+        },
+        {
+            "source": "actress",
+            "target": "celebrity",
+            "value": 280
+        },
+        {
+            "source": "actress",
+            "target": "indian women",
+            "value": 9
+        },
+        {
+            "source": "indian women",
+            "target": "celebrity",
+            "value": 35
+        },
+        {
+            "source": "photorealistic",
+            "target": "realistic",
+            "value": 33
+        },
+        {
+            "source": "realistic",
+            "target": "style",
+            "value": 4
+        },
+        {
+            "source": "photorealistic",
+            "target": "south asian",
+            "value": 1
+        },
+        {
+            "source": "indian",
+            "target": "south asian",
+            "value": 4
+        },
+        {
+            "source": "desi",
+            "target": "south asian",
+            "value": 2
+        },
+        {
+            "source": "anime",
+            "target": "female",
+            "value": 3
+        },
+        {
+            "source": "anime",
+            "target": "dress",
+            "value": 1
+        },
+        {
+            "source": "anime",
+            "target": "outfit",
+            "value": 1
+        },
+        {
+            "source": "clothing",
+            "target": "anime",
+            "value": 5
+        },
+        {
+            "source": "anime",
+            "target": "realistic",
+            "value": 2
+        },
+        {
+            "source": "anime",
+            "target": "indian outfit",
+            "value": 1
+        },
+        {
+            "source": "female",
+            "target": "dress",
+            "value": 2
+        },
+        {
+            "source": "outfit",
+            "target": "female",
+            "value": 1
+        },
+        {
+            "source": "clothing",
+            "target": "female",
+            "value": 3
+        },
+        {
+            "source": "female",
+            "target": "indian outfit",
+            "value": 4
+        },
+        {
+            "source": "outfit",
+            "target": "dress",
+            "value": 2
+        },
+        {
+            "source": "clothing",
+            "target": "dress",
+            "value": 3
+        },
+        {
+            "source": "dress",
+            "target": "realistic",
+            "value": 1
+        },
+        {
+            "source": "dress",
+            "target": "indian outfit",
+            "value": 1
+        },
+        {
+            "source": "outfit",
+            "target": "realistic",
+            "value": 1
+        },
+        {
+            "source": "clothing",
+            "target": "realistic",
+            "value": 1
+        },
+        {
+            "source": "realistic",
+            "target": "indian outfit",
+            "value": 1
+        },
+        {
+            "source": "photorealistic",
+            "target": "concept",
+            "value": 1
+        },
+        {
+            "source": "female",
+            "target": "concept",
+            "value": 1
+        },
+        {
+            "source": "ethnic",
+            "target": "concept",
+            "value": 1
+        },
+        {
+            "source": "desi",
+            "target": "concept",
+            "value": 3
+        },
+        {
+            "source": "character",
+            "target": "photorealistic",
+            "value": 10
+        },
+        {
+            "source": "character",
+            "target": "girls",
+            "value": 9
+        },
+        {
+            "source": "photorealistic",
+            "target": "girls",
+            "value": 30
+        },
+        {
+            "source": "female",
+            "target": "girls",
+            "value": 10
+        },
+        {
+            "source": "girls",
+            "target": "indian",
+            "value": 40
+        },
+        {
+            "source": "woman",
+            "target": "girls",
+            "value": 39
+        },
+        {
+            "source": "girls",
+            "target": "realistic",
+            "value": 13
+        },
+        {
+            "source": "outfit",
+            "target": "fashion",
+            "value": 1
+        },
+        {
+            "source": "fashion",
+            "target": "sari",
+            "value": 1
+        },
+        {
+            "source": "cloth",
+            "target": "fashion",
+            "value": 1
+        },
+        {
+            "source": "fashion",
+            "target": "indian outfit",
+            "value": 1
+        },
+        {
+            "source": "photorealistic",
+            "target": "indian women",
+            "value": 9
+        },
+        {
+            "source": "indian women",
+            "target": "style",
+            "value": 1
+        },
+        {
+            "source": "indian women",
+            "target": "desi",
+            "value": 3
+        },
+        {
+            "source": "clothing",
+            "target": "photorealistic",
+            "value": 3
+        },
+        {
+            "source": "photorealistic",
+            "target": "sari",
+            "value": 2
+        },
+        {
+            "source": "female",
+            "target": "sari",
+            "value": 1
+        },
+        {
+            "source": "woman",
+            "target": "sari",
+            "value": 3
+        },
+        {
+            "source": "clothing",
+            "target": "girls",
+            "value": 4
+        },
+        {
+            "source": "girls",
+            "target": "sari",
+            "value": 2
+        },
+        {
+            "source": "bollywood",
+            "target": "desi",
+            "value": 211
+        },
+        {
+            "source": "desi",
+            "target": "celebrity",
+            "value": 244
+        },
+        {
+            "source": "indian",
+            "target": "tamanna",
+            "value": 3
+        },
+        {
+            "source": "actress",
+            "target": "sari",
+            "value": 1
+        },
+        {
+            "source": "actress",
+            "target": "tamanna",
+            "value": 3
+        },
+        {
+            "source": "tamanna",
+            "target": "sari",
+            "value": 1
+        },
+        {
+            "source": "indian",
+            "target": "asian",
+            "value": 5
+        },
+        {
+            "source": "actress",
+            "target": "asian",
+            "value": 5
+        },
+        {
+            "source": "asian",
+            "target": "celeb",
+            "value": 5
+        },
+        {
+            "source": "celebrity",
+            "target": "asian",
+            "value": 5
+        },
+        {
+            "source": "desi",
+            "target": "asian",
+            "value": 1
+        },
+        {
+            "source": "indian women",
+            "target": "asian",
+            "value": 1
+        },
+        {
+            "source": "actress",
+            "target": "desi",
+            "value": 143
+        },
+        {
+            "source": "celebrity",
+            "target": "celeb",
+            "value": 129
+        },
+        {
+            "source": "desi",
+            "target": "celeb",
+            "value": 85
+        },
+        {
+            "source": "indian women",
+            "target": "celeb",
+            "value": 6
+        },
+        {
+            "source": "female",
+            "target": "celeb",
+            "value": 19
+        },
+        {
+            "source": "sexy",
+            "target": "photorealistic",
+            "value": 24
+        },
+        {
+            "source": "photorealistic",
+            "target": "dress",
+            "value": 1
+        },
+        {
+            "source": "bollywood",
+            "target": "photorealistic",
+            "value": 19
+        },
+        {
+            "source": "sexy",
+            "target": "dress",
+            "value": 1
+        },
+        {
+            "source": "bollywood",
+            "target": "dress",
+            "value": 1
+        },
+        {
+            "source": "dress",
+            "target": "indian",
+            "value": 2
+        },
+        {
+            "source": "woman",
+            "target": "dress",
+            "value": 1
+        },
+        {
+            "source": "bollywood",
+            "target": "indialove",
+            "value": 1
+        },
+        {
+            "source": "bollywood",
+            "target": "kollywood",
+            "value": 5
+        },
+        {
+            "source": "indialove",
+            "target": "indian",
+            "value": 2
+        },
+        {
+            "source": "indian",
+            "target": "kollywood",
+            "value": 6
+        },
+        {
+            "source": "indialove",
+            "target": "actress",
+            "value": 1
+        },
+        {
+            "source": "actress",
+            "target": "kollywood",
+            "value": 6
+        },
+        {
+            "source": "indialove",
+            "target": "celeb",
+            "value": 1
+        },
+        {
+            "source": "kollywood",
+            "target": "celeb",
+            "value": 5
+        },
+        {
+            "source": "indialove",
+            "target": "celebrity",
+            "value": 1
+        },
+        {
+            "source": "kollywood",
+            "target": "celebrity",
+            "value": 6
+        },
+        {
+            "source": "indialove",
+            "target": "kollywood",
+            "value": 1
+        },
+        {
+            "source": "bollywood",
+            "target": "actor",
+            "value": 35
+        },
+        {
+            "source": "bollywood",
+            "target": "women",
+            "value": 55
+        },
+        {
+            "source": "bollywood",
+            "target": "indian actress",
+            "value": 4
+        },
+        {
+            "source": "actress",
+            "target": "actor",
+            "value": 3
+        },
+        {
+            "source": "actor",
+            "target": "celeb",
+            "value": 5
+        },
+        {
+            "source": "celebrity",
+            "target": "actor",
+            "value": 60
+        },
+        {
+            "source": "women",
+            "target": "actor",
+            "value": 2
+        },
+        {
+            "source": "actor",
+            "target": "indian actress",
+            "value": 1
+        },
+        {
+            "source": "actress",
+            "target": "women",
+            "value": 4
+        },
+        {
+            "source": "actress",
+            "target": "indian actress",
+            "value": 4
+        },
+        {
+            "source": "women",
+            "target": "celeb",
+            "value": 2
+        },
+        {
+            "source": "celeb",
+            "target": "indian actress",
+            "value": 2
+        },
+        {
+            "source": "women",
+            "target": "celebrity",
+            "value": 58
+        },
+        {
+            "source": "celebrity",
+            "target": "indian actress",
+            "value": 11
+        },
+        {
+            "source": "women",
+            "target": "indian actress",
+            "value": 1
+        },
+        {
+            "source": "female",
+            "target": "indian actress",
+            "value": 3
+        },
+        {
+            "source": "indian",
+            "target": "indian actress",
+            "value": 9
+        },
+        {
+            "source": "experimental",
+            "target": "concept",
+            "value": 1
+        },
+        {
+            "source": "woman",
+            "target": "concept",
+            "value": 2
+        },
+        {
+            "source": "ethnicity",
+            "target": "concept",
+            "value": 1
+        },
+        {
+            "source": "woman",
+            "target": "experimental",
+            "value": 5
+        },
+        {
+            "source": "experimental",
+            "target": "ethnicity",
+            "value": 1
+        },
+        {
+            "source": "ethnicity",
+            "target": "indian",
+            "value": 2
+        },
+        {
+            "source": "woman",
+            "target": "ethnicity",
+            "value": 1
+        },
+        {
+            "source": "ethnicity",
+            "target": "desi",
+            "value": 2
+        },
+        {
+            "source": "indian",
+            "target": "indian celebrity",
+            "value": 33
+        },
+        {
+            "source": "celebrity",
+            "target": "indian celebrity",
+            "value": 38
+        },
+        {
+            "source": "indian celebrity",
+            "target": "indian actress",
+            "value": 4
+        },
+        {
+            "source": "man",
+            "target": "dress",
+            "value": 1
+        },
+        {
+            "source": "man",
+            "target": "indian",
+            "value": 11
+        },
+        {
+            "source": "outfit",
+            "target": "man",
+            "value": 1
+        },
+        {
+            "source": "clothing",
+            "target": "man",
+            "value": 1
+        },
+        {
+            "source": "woman",
+            "target": "person",
+            "value": 4
+        },
+        {
+            "source": "woman",
+            "target": "textual inversion",
+            "value": 5
+        },
+        {
+            "source": "brown",
+            "target": "concept",
+            "value": 1
+        },
+        {
+            "source": "indian",
+            "target": "brown",
+            "value": 3
+        },
+        {
+            "source": "desi",
+            "target": "brown",
+            "value": 3
+        },
+        {
+            "source": "character",
+            "target": "reactor",
+            "value": 7
+        },
+        {
+            "source": "character",
+            "target": "desi",
+            "value": 10
+        },
+        {
+            "source": "character",
+            "target": "face model",
+            "value": 4
+        },
+        {
+            "source": "reactor",
+            "target": "female",
+            "value": 3
+        },
+        {
+            "source": "female",
+            "target": "face model",
+            "value": 2
+        },
+        {
+            "source": "reactor",
+            "target": "indian",
+            "value": 7
+        },
+        {
+            "source": "reactor",
+            "target": "desi",
+            "value": 7
+        },
+        {
+            "source": "reactor",
+            "target": "face model",
+            "value": 4
+        },
+        {
+            "source": "indian",
+            "target": "face model",
+            "value": 4
+        },
+        {
+            "source": "desi",
+            "target": "face model",
+            "value": 4
+        },
+        {
+            "source": "model",
+            "target": "person",
+            "value": 6
+        },
+        {
+            "source": "female",
+            "target": "model",
+            "value": 6
+        },
+        {
+            "source": "model",
+            "target": "textual inversion",
+            "value": 6
+        },
+        {
+            "source": "bollywood",
+            "target": "model",
+            "value": 8
+        },
+        {
+            "source": "model",
+            "target": "indian",
+            "value": 13
+        },
+        {
+            "source": "model",
+            "target": "actress",
+            "value": 9
+        },
+        {
+            "source": "photorealistic",
+            "target": "celebrity",
+            "value": 59
+        },
+        {
+            "source": "bollywood",
+            "target": "instagram",
+            "value": 1
+        },
+        {
+            "source": "instagram",
+            "target": "actress",
+            "value": 1
+        },
+        {
+            "source": "photorealistic",
+            "target": "actress",
+            "value": 38
+        },
+        {
+            "source": "photorealistic",
+            "target": "indian actress",
+            "value": 3
+        },
+        {
+            "source": "woman",
+            "target": "indian actress",
+            "value": 7
+        },
+        {
+            "source": "indian",
+            "target": "mallu",
+            "value": 5
+        },
+        {
+            "source": "clothing",
+            "target": "indialove",
+            "value": 1
+        },
+        {
+            "source": "clothing",
+            "target": "indian women",
+            "value": 1
+        },
+        {
+            "source": "clothing",
+            "target": "mallu",
+            "value": 1
+        },
+        {
+            "source": "indialove",
+            "target": "sari",
+            "value": 1
+        },
+        {
+            "source": "indialove",
+            "target": "saree",
+            "value": 1
+        },
+        {
+            "source": "indialove",
+            "target": "indian women",
+            "value": 1
+        },
+        {
+            "source": "indialove",
+            "target": "mallu",
+            "value": 1
+        },
+        {
+            "source": "indian women",
+            "target": "sari",
+            "value": 1
+        },
+        {
+            "source": "mallu",
+            "target": "sari",
+            "value": 1
+        },
+        {
+            "source": "indian women",
+            "target": "saree",
+            "value": 1
+        },
+        {
+            "source": "mallu",
+            "target": "saree",
+            "value": 1
+        },
+        {
+            "source": "indian women",
+            "target": "mallu",
+            "value": 1
+        },
+        {
+            "source": "female",
+            "target": "girl",
+            "value": 1
+        },
+        {
+            "source": "bollywood",
+            "target": "girl",
+            "value": 1
+        },
+        {
+            "source": "girl",
+            "target": "indian",
+            "value": 3
+        },
+        {
+            "source": "actress",
+            "target": "girl",
+            "value": 2
+        },
+        {
+            "source": "girl",
+            "target": "celebrity",
+            "value": 2
+        },
+        {
+            "source": "girl",
+            "target": "realistic",
+            "value": 1
+        },
+        {
+            "source": "bollywood",
+            "target": "realistic",
+            "value": 8
+        },
+        {
+            "source": "actress",
+            "target": "realistic",
+            "value": 15
+        },
+        {
+            "source": "realistic",
+            "target": "celebrity",
+            "value": 33
+        },
+        {
+            "source": "celebrity,",
+            "target": "indian",
+            "value": 25
+        },
+        {
+            "source": "celebrity,",
+            "target": "actress",
+            "value": 24
+        },
+        {
+            "source": "celebrity,",
+            "target": "celebrity",
+            "value": 26
+        },
+        {
+            "source": "indian",
+            "target": "influencer",
+            "value": 4
+        },
+        {
+            "source": "woman",
+            "target": "influencer",
+            "value": 3
+        },
+        {
+            "source": "girls",
+            "target": "celebrity",
+            "value": 29
+        },
+        {
+            "source": "celebrity",
+            "target": "influencer",
+            "value": 3
+        },
+        {
+            "source": "girls",
+            "target": "influencer",
+            "value": 2
+        },
+        {
+            "source": "girls",
+            "target": "indian actress",
+            "value": 3
+        },
+        {
+            "source": "indian actress",
+            "target": "influencer",
+            "value": 1
+        },
+        {
+            "source": "cloth",
+            "target": "female",
+            "value": 1
+        },
+        {
+            "source": "cloth",
+            "target": "woman",
+            "value": 1
+        },
+        {
+            "source": "woman",
+            "target": "indian outfit",
+            "value": 3
+        },
+        {
+            "source": "bollywood",
+            "target": "alia bhatt",
+            "value": 4
+        },
+        {
+            "source": "indian",
+            "target": "alia bhatt",
+            "value": 4
+        },
+        {
+            "source": "alia bhatt",
+            "target": "celeb",
+            "value": 3
+        },
+        {
+            "source": "celebrity",
+            "target": "alia bhatt",
+            "value": 4
+        },
+        {
+            "source": "desi",
+            "target": "alia bhatt",
+            "value": 2
+        },
+        {
+            "source": "cute",
+            "target": "female",
+            "value": 1
+        },
+        {
+            "source": "bollywood",
+            "target": "cute",
+            "value": 3
+        },
+        {
+            "source": "cute",
+            "target": "indian",
+            "value": 4
+        },
+        {
+            "source": "cute",
+            "target": "celebrity",
+            "value": 3
+        },
+        {
+            "source": "cute",
+            "target": "desi",
+            "value": 1
+        },
+        {
+            "source": "female",
+            "target": "indian celebrity",
+            "value": 21
+        },
+        {
+            "source": "woman",
+            "target": "indian celebrity",
+            "value": 26
+        },
+        {
+            "source": "anime",
+            "target": "photorealistic",
+            "value": 3
+        },
+        {
+            "source": "anime",
+            "target": "indian",
+            "value": 10
+        },
+        {
+            "source": "anime",
+            "target": "woman",
+            "value": 7
+        },
+        {
+            "source": "anime",
+            "target": "girls",
+            "value": 2
+        },
+        {
+            "source": "anime",
+            "target": "saree",
+            "value": 2
+        },
+        {
+            "source": "photorealistic",
+            "target": "saree",
+            "value": 2
+        },
+        {
+            "source": "woman",
+            "target": "saree",
+            "value": 5
+        },
+        {
+            "source": "girls",
+            "target": "saree",
+            "value": 3
+        },
+        {
+            "source": "female",
+            "target": "indian women",
+            "value": 21
+        },
+        {
+            "source": "singer",
+            "target": "person",
+            "value": 1
+        },
+        {
+            "source": "female",
+            "target": "singer",
+            "value": 1
+        },
+        {
+            "source": "textual inversion",
+            "target": "singer",
+            "value": 1
+        },
+        {
+            "source": "bollywood",
+            "target": "singer",
+            "value": 3
+        },
+        {
+            "source": "indian",
+            "target": "singer",
+            "value": 6
+        },
+        {
+            "source": "woman",
+            "target": "singer",
+            "value": 1
+        },
+        {
+            "source": "photorealistic",
+            "target": "experimental",
+            "value": 3
+        },
+        {
+            "source": "experimental",
+            "target": "realistic",
+            "value": 3
+        },
+        {
+            "source": "american",
+            "target": "person",
+            "value": 2
+        },
+        {
+            "source": "female",
+            "target": "american",
+            "value": 2
+        },
+        {
+            "source": "american",
+            "target": "textual inversion",
+            "value": 2
+        },
+        {
+            "source": "american",
+            "target": "indian",
+            "value": 4
+        },
+        {
+            "source": "american",
+            "target": "celebrity",
+            "value": 4
+        },
+        {
+            "source": "female",
+            "target": "canadian",
+            "value": 1
+        },
+        {
+            "source": "bollywood",
+            "target": "canadian",
+            "value": 1
+        },
+        {
+            "source": "canadian",
+            "target": "indian",
+            "value": 3
+        },
+        {
+            "source": "woman",
+            "target": "canadian",
+            "value": 1
+        },
+        {
+            "source": "canadian",
+            "target": "celeb",
+            "value": 1
+        },
+        {
+            "source": "canadian",
+            "target": "celebrity",
+            "value": 3
+        },
+        {
+            "source": "woman",
+            "target": "model",
+            "value": 7
+        },
+        {
+            "source": "bollywood",
+            "target": "male",
+            "value": 32
+        },
+        {
+            "source": "bollywood",
+            "target": "man",
+            "value": 5
+        },
+        {
+            "source": "indian",
+            "target": "actor",
+            "value": 60
+        },
+        {
+            "source": "indian",
+            "target": "male",
+            "value": 62
+        },
+        {
+            "source": "actor",
+            "target": "male",
+            "value": 53
+        },
+        {
+            "source": "man",
+            "target": "actor",
+            "value": 7
+        },
+        {
+            "source": "celeb",
+            "target": "male",
+            "value": 2
+        },
+        {
+            "source": "man",
+            "target": "celeb",
+            "value": 2
+        },
+        {
+            "source": "celebrity",
+            "target": "male",
+            "value": 58
+        },
+        {
+            "source": "man",
+            "target": "celebrity",
+            "value": 9
+        },
+        {
+            "source": "man",
+            "target": "male",
+            "value": 6
+        },
+        {
+            "source": "indian women",
+            "target": "indian celebrity",
+            "value": 20
+        },
+        {
+            "source": "hindi",
+            "target": "person",
+            "value": 1
+        },
+        {
+            "source": "actress",
+            "target": "hindi",
+            "value": 12
+        },
+        {
+            "source": "indian women",
+            "target": "girls",
+            "value": 7
+        },
+        {
+            "source": "indian women",
+            "target": "realistic",
+            "value": 7
+        },
+        {
+            "source": "actress",
+            "target": "american",
+            "value": 2
+        },
+        {
+            "source": "bollywood",
+            "target": "lora",
+            "value": 2
+        },
+        {
+            "source": "woman",
+            "target": "lora",
+            "value": 11
+        },
+        {
+            "source": "celebrity",
+            "target": "lora",
+            "value": 12
+        },
+        {
+            "source": "clothing",
+            "target": "influencer",
+            "value": 1
+        },
+        {
+            "source": "saree",
+            "target": "influencer",
+            "value": 1
+        },
+        {
+            "source": "hollywood",
+            "target": "indian",
+            "value": 4
+        },
+        {
+            "source": "hollywood",
+            "target": "actress",
+            "value": 1
+        },
+        {
+            "source": "hollywood",
+            "target": "celebrity",
+            "value": 4
+        },
+        {
+            "source": "hollywood",
+            "target": "canadian",
+            "value": 1
+        },
+        {
+            "source": "actress",
+            "target": "canadian",
+            "value": 1
+        },
+        {
+            "source": "bollywood",
+            "target": "instagram model",
+            "value": 1
+        },
+        {
+            "source": "woman",
+            "target": "instagram model",
+            "value": 2
+        },
+        {
+            "source": "bollywood",
+            "target": "beautiful",
+            "value": 1
+        },
+        {
+            "source": "indian",
+            "target": "beautiful",
+            "value": 3
+        },
+        {
+            "source": "actress",
+            "target": "beautiful",
+            "value": 2
+        },
+        {
+            "source": "celebrity",
+            "target": "beautiful",
+            "value": 2
+        },
+        {
+            "source": "desi",
+            "target": "beautiful",
+            "value": 1
+        },
+        {
+            "source": "indian women",
+            "target": "beautiful",
+            "value": 1
+        },
+        {
+            "source": "photorealistic",
+            "target": "textual inversion",
+            "value": 1
+        },
+        {
+            "source": "sexy",
+            "target": "textual inversion",
+            "value": 1
+        },
+        {
+            "source": "actress",
+            "target": "girls",
+            "value": 16
+        },
+        {
+            "source": "character",
+            "target": "film",
+            "value": 1
+        },
+        {
+            "source": "disney",
+            "target": "film",
+            "value": 1
+        },
+        {
+            "source": "indian",
+            "target": "film",
+            "value": 2
+        },
+        {
+            "source": "singer",
+            "target": "celebrity",
+            "value": 5
+        },
+        {
+            "source": "traditional",
+            "target": "concept",
+            "value": 2
+        },
+        {
+            "source": "dark skin",
+            "target": "female",
+            "value": 2
+        },
+        {
+            "source": "bollywood",
+            "target": "dark skin",
+            "value": 1
+        },
+        {
+            "source": "dark skin",
+            "target": "woman",
+            "value": 2
+        },
+        {
+            "source": "dark skin",
+            "target": "celebrity",
+            "value": 1
+        },
+        {
+            "source": "dark skin",
+            "target": "desi",
+            "value": 2
+        },
+        {
+            "source": "india",
+            "target": "experimental",
+            "value": 1
+        },
+        {
+            "source": "india",
+            "target": "indian",
+            "value": 5
+        },
+        {
+            "source": "india",
+            "target": "style",
+            "value": 2
+        },
+        {
+            "source": "india",
+            "target": "woman",
+            "value": 1
+        },
+        {
+            "source": "india",
+            "target": "desi",
+            "value": 2
+        },
+        {
+            "source": "photorealistic",
+            "target": "indian outfit",
+            "value": 1
+        },
+        {
+            "source": "celebrity",
+            "target": "indian outfit",
+            "value": 2
+        },
+        {
+            "source": "girls",
+            "target": "indian outfit",
+            "value": 1
+        },
+        {
+            "source": "beautiful",
+            "target": "concept",
+            "value": 1
+        },
+        {
+            "source": "woman",
+            "target": "beautiful",
+            "value": 2
+        },
+        {
+            "source": "girls",
+            "target": "indian celebrity",
+            "value": 4
+        },
+        {
+            "source": "actress",
+            "target": "alia bhatt",
+            "value": 3
+        },
+        {
+            "source": "photorealistic",
+            "target": "celeb",
+            "value": 5
+        },
+        {
+            "source": "character",
+            "target": "india",
+            "value": 2
+        },
+        {
+            "source": "character",
+            "target": "indian women",
+            "value": 4
+        },
+        {
+            "source": "character",
+            "target": "south asia",
+            "value": 1
+        },
+        {
+            "source": "south asia",
+            "target": "indian",
+            "value": 4
+        },
+        {
+            "source": "india",
+            "target": "indian women",
+            "value": 1
+        },
+        {
+            "source": "india",
+            "target": "south asia",
+            "value": 1
+        },
+        {
+            "source": "south asia",
+            "target": "indian women",
+            "value": 1
+        },
+        {
+            "source": "south asian",
+            "target": "style",
+            "value": 2
+        },
+        {
+            "source": "tamil",
+            "target": "indian",
+            "value": 5
+        },
+        {
+            "source": "south indian",
+            "target": "indian",
+            "value": 6
+        },
+        {
+            "source": "dark skin",
+            "target": "style",
+            "value": 1
+        },
+        {
+            "source": "tamil",
+            "target": "style",
+            "value": 1
+        },
+        {
+            "source": "south indian",
+            "target": "style",
+            "value": 1
+        },
+        {
+            "source": "dark skin",
+            "target": "tamil",
+            "value": 1
+        },
+        {
+            "source": "dark skin",
+            "target": "south indian",
+            "value": 1
+        },
+        {
+            "source": "south indian",
+            "target": "tamil",
+            "value": 1
+        },
+        {
+            "source": "desi",
+            "target": "tamil",
+            "value": 2
+        },
+        {
+            "source": "desi",
+            "target": "south indian",
+            "value": 1
+        },
+        {
+            "source": "realistic",
+            "target": "indian celebrity",
+            "value": 3
+        },
+        {
+            "source": "character",
+            "target": "cute",
+            "value": 1
+        },
+        {
+            "source": "cute",
+            "target": "girls",
+            "value": 1
+        },
+        {
+            "source": "indian women",
+            "target": "women",
+            "value": 1
+        },
+        {
+            "source": "celebrity,",
+            "target": "women",
+            "value": 3
+        },
+        {
+            "source": "celebrity,",
+            "target": "indian women",
+            "value": 1
+        },
+        {
+            "source": "cute",
+            "target": "woman",
+            "value": 1
+        },
+        {
+            "source": "cute",
+            "target": "actress",
+            "value": 1
+        },
+        {
+            "source": "cute",
+            "target": "realistic",
+            "value": 1
+        },
+        {
+            "source": "bollywood",
+            "target": "tamil",
+            "value": 3
+        },
+        {
+            "source": "actress",
+            "target": "tamil",
+            "value": 5
+        },
+        {
+            "source": "tamil",
+            "target": "celeb",
+            "value": 1
+        },
+        {
+            "source": "tamil",
+            "target": "celebrity",
+            "value": 5
+        },
+        {
+            "source": "tamil",
+            "target": "kollywood",
+            "value": 1
+        },
+        {
+            "source": "anime",
+            "target": "sari",
+            "value": 1
+        },
+        {
+            "source": "character",
+            "target": "hindu text",
+            "value": 1
+        },
+        {
+            "source": "indian",
+            "target": "hindu text",
+            "value": 2
+        },
+        {
+            "source": "women",
+            "target": "indian",
+            "value": 57
+        },
+        {
+            "source": "experimental",
+            "target": "flux1.d",
+            "value": 2
+        },
+        {
+            "source": "flux1.d",
+            "target": "indian",
+            "value": 4
+        },
+        {
+            "source": "flux1.d",
+            "target": "style",
+            "value": 2
+        },
+        {
+            "source": "flux1.d",
+            "target": "desi",
+            "value": 2
+        },
+        {
+            "source": "woman",
+            "target": "actor",
+            "value": 1
+        },
+        {
+            "source": "anime",
+            "target": "sexy",
+            "value": 2
+        },
+        {
+            "source": "clothing",
+            "target": "sexy",
+            "value": 2
+        },
+        {
+            "source": "bollywood",
+            "target": "indian celebrity",
+            "value": 2
+        },
+        {
+            "source": "celeb",
+            "target": "indian celebrity",
+            "value": 2
+        },
+        {
+            "source": "indian",
+            "target": "styles",
+            "value": 2
+        },
+        {
+            "source": "styles",
+            "target": "style",
+            "value": 2
+        },
+        {
+            "source": "ramayana",
+            "target": "style",
+            "value": 1
+        },
+        {
+            "source": "hindu text",
+            "target": "style",
+            "value": 1
+        },
+        {
+            "source": "ramayana",
+            "target": "styles",
+            "value": 1
+        },
+        {
+            "source": "styles",
+            "target": "hindu text",
+            "value": 1
+        },
+        {
+            "source": "ramayana",
+            "target": "hindu text",
+            "value": 1
+        },
+        {
+            "source": "character",
+            "target": "anime",
+            "value": 4
+        },
+        {
+            "source": "anime",
+            "target": "male",
+            "value": 2
+        },
+        {
+            "source": "character",
+            "target": "male",
+            "value": 4
+        },
+        {
+            "source": "photorealistic",
+            "target": "indian celebrity",
+            "value": 1
+        },
+        {
+            "source": "sexy",
+            "target": "girls",
+            "value": 12
+        },
+        {
+            "source": "hindi",
+            "target": "celeb",
+            "value": 1
+        },
+        {
+            "source": "indian women",
+            "target": "hindi",
+            "value": 1
+        },
+        {
+            "source": "indian women",
+            "target": "indian actress",
+            "value": 2
+        },
+        {
+            "source": "dark skin",
+            "target": "anime",
+            "value": 1
+        },
+        {
+            "source": "character",
+            "target": "dark skin",
+            "value": 1
+        },
+        {
+            "source": "bollywood",
+            "target": "girls",
+            "value": 4
+        },
+        {
+            "source": "anime",
+            "target": "celebrity",
+            "value": 1
+        },
+        {
+            "source": "clothing",
+            "target": "desi",
+            "value": 1
+        },
+        {
+            "source": "desi",
+            "target": "saree",
+            "value": 1
+        },
+        {
+            "source": "realistic",
+            "target": "indian actress",
+            "value": 1
+        },
+        {
+            "source": "desi",
+            "target": "women",
+            "value": 53
+        },
+        {
+            "source": "actress",
+            "target": "indian celebrity",
+            "value": 3
+        },
+        {
+            "source": "model",
+            "target": "style",
+            "value": 1
+        },
+        {
+            "source": "model",
+            "target": "girls",
+            "value": 2
+        },
+        {
+            "source": "model",
+            "target": "women",
+            "value": 1
+        },
+        {
+            "source": "girls",
+            "target": "style",
+            "value": 1
+        },
+        {
+            "source": "women",
+            "target": "style",
+            "value": 1
+        },
+        {
+            "source": "woman",
+            "target": "women",
+            "value": 2
+        },
+        {
+            "source": "women",
+            "target": "girls",
+            "value": 1
+        },
+        {
+            "source": "bollywood",
+            "target": "celebrity,",
+            "value": 8
+        },
+        {
+            "source": "woman",
+            "target": "alia bhatt",
+            "value": 2
+        },
+        {
+            "source": "celebrity,",
+            "target": "woman",
+            "value": 17
+        },
+        {
+            "source": "celebrity,",
+            "target": "alia bhatt",
+            "value": 1
+        },
+        {
+            "source": "woman",
+            "target": "tamil",
+            "value": 2
+        },
+        {
+            "source": "woman",
+            "target": "tamil actress",
+            "value": 3
+        },
+        {
+            "source": "actress",
+            "target": "tamil actress",
+            "value": 3
+        },
+        {
+            "source": "tamil actress",
+            "target": "celebrity",
+            "value": 4
+        },
+        {
+            "source": "tamil",
+            "target": "indian celebrity",
+            "value": 1
+        },
+        {
+            "source": "tamil",
+            "target": "tamil actress",
+            "value": 1
+        },
+        {
+            "source": "tamil actress",
+            "target": "indian celebrity",
+            "value": 1
+        },
+        {
+            "source": "anime",
+            "target": "model",
+            "value": 1
+        },
+        {
+            "source": "bollywood",
+            "target": "anime",
+            "value": 1
+        },
+        {
+            "source": "photorealistic",
+            "target": "model",
+            "value": 2
+        },
+        {
+            "source": "sexy",
+            "target": "model",
+            "value": 2
+        },
+        {
+            "source": "actress",
+            "target": "lora",
+            "value": 4
+        },
+        {
+            "source": "actress",
+            "target": "south indian",
+            "value": 3
+        },
+        {
+            "source": "actress",
+            "target": "mallu",
+            "value": 3
+        },
+        {
+            "source": "south indian",
+            "target": "celebrity",
+            "value": 6
+        },
+        {
+            "source": "mallu",
+            "target": "celebrity",
+            "value": 3
+        },
+        {
+            "source": "south indian",
+            "target": "lora",
+            "value": 1
+        },
+        {
+            "source": "mallu",
+            "target": "lora",
+            "value": 2
+        },
+        {
+            "source": "south indian",
+            "target": "mallu",
+            "value": 1
+        },
+        {
+            "source": "photorealistic",
+            "target": "lora",
+            "value": 8
+        },
+        {
+            "source": "realistic",
+            "target": "lora",
+            "value": 8
+        },
+        {
+            "source": "woman",
+            "target": "south indian",
+            "value": 2
+        },
+        {
+            "source": "character",
+            "target": "lora",
+            "value": 2
+        },
+        {
+            "source": "indian women",
+            "target": "indian outfit",
+            "value": 1
+        },
+        {
+            "source": "indian celebrity",
+            "target": "indian outfit",
+            "value": 1
+        },
+        {
+            "source": "bollywood",
+            "target": "tollywood",
+            "value": 5
+        },
+        {
+            "source": "tollywood",
+            "target": "indian",
+            "value": 12
+        },
+        {
+            "source": "actress",
+            "target": "tollywood",
+            "value": 10
+        },
+        {
+            "source": "tollywood",
+            "target": "celebrity",
+            "value": 12
+        },
+        {
+            "source": "tollywood",
+            "target": "desi",
+            "value": 3
+        },
+        {
+            "source": "bollywood",
+            "target": "avneet kaur",
+            "value": 2
+        },
+        {
+            "source": "avneet kaur",
+            "target": "indian",
+            "value": 3
+        },
+        {
+            "source": "avneet kaur",
+            "target": "actress",
+            "value": 2
+        },
+        {
+            "source": "avneet kaur",
+            "target": "celebrity",
+            "value": 3
+        },
+        {
+            "source": "avneet kaur",
+            "target": "desi",
+            "value": 2
+        },
+        {
+            "source": "character",
+            "target": "brown",
+            "value": 1
+        },
+        {
+            "source": "female",
+            "target": "brown",
+            "value": 1
+        },
+        {
+            "source": "reactor",
+            "target": "brown",
+            "value": 1
+        },
+        {
+            "source": "exotic",
+            "target": "celebrity",
+            "value": 1
+        },
+        {
+            "source": "desi",
+            "target": "exotic",
+            "value": 1
+        },
+        {
+            "source": "reactor",
+            "target": "woman",
+            "value": 4
+        },
+        {
+            "source": "woman",
+            "target": "face model",
+            "value": 2
+        },
+        {
+            "source": "model",
+            "target": "celebrity",
+            "value": 5
+        },
+        {
+            "source": "celebrity,",
+            "target": "model",
+            "value": 1
+        },
+        {
+            "source": "photorealistic",
+            "target": "influencer",
+            "value": 1
+        },
+        {
+            "source": "realistic",
+            "target": "influencer",
+            "value": 1
+        },
+        {
+            "source": "south asian",
+            "target": "concept",
+            "value": 1
+        },
+        {
+            "source": "south asian",
+            "target": "traditional",
+            "value": 1
+        },
+        {
+            "source": "indian",
+            "target": "bollywood actress",
+            "value": 15
+        },
+        {
+            "source": "bollywood actress",
+            "target": "celebrity",
+            "value": 17
+        },
+        {
+            "source": "desi",
+            "target": "bollywood actress",
+            "value": 15
+        },
+        {
+            "source": "fashion",
+            "target": "celebrity",
+            "value": 3
+        },
+        {
+            "source": "fashion",
+            "target": "desi",
+            "value": 2
+        },
+        {
+            "source": "fashion",
+            "target": "bollywood actress",
+            "value": 2
+        },
+        {
+            "source": "woman",
+            "target": "tollywood",
+            "value": 7
+        },
+        {
+            "source": "celebrity,",
+            "target": "tollywood",
+            "value": 7
+        },
+        {
+            "source": "woman",
+            "target": "american",
+            "value": 2
+        },
+        {
+            "source": "bollywood",
+            "target": "bengali",
+            "value": 1
+        },
+        {
+            "source": "bengali",
+            "target": "indian",
+            "value": 5
+        },
+        {
+            "source": "actress",
+            "target": "bengali",
+            "value": 1
+        },
+        {
+            "source": "bengali",
+            "target": "celebrity",
+            "value": 4
+        },
+        {
+            "source": "bengali",
+            "target": "desi",
+            "value": 3
+        },
+        {
+            "source": "celebrity,",
+            "target": "female",
+            "value": 2
+        },
+        {
+            "source": "bollywood",
+            "target": "south indian",
+            "value": 1
+        },
+        {
+            "source": "south indian",
+            "target": "celeb",
+            "value": 1
+        },
+        {
+            "source": "south indian",
+            "target": "kollywood",
+            "value": 1
+        },
+        {
+            "source": "woman",
+            "target": "bollywood actress",
+            "value": 2
+        },
+        {
+            "source": "bollywood actress",
+            "target": "indian celebrity",
+            "value": 2
+        },
+        {
+            "source": "malayalam",
+            "target": "photorealistic",
+            "value": 1
+        },
+        {
+            "source": "malayalam",
+            "target": "indian",
+            "value": 3
+        },
+        {
+            "source": "malayalam",
+            "target": "woman",
+            "value": 1
+        },
+        {
+            "source": "malayalam",
+            "target": "actress",
+            "value": 2
+        },
+        {
+            "source": "malayalam",
+            "target": "celebrity",
+            "value": 3
+        },
+        {
+            "source": "bollywood",
+            "target": "telugu",
+            "value": 6
+        },
+        {
+            "source": "bollywood",
+            "target": "tamil actress",
+            "value": 2
+        },
+        {
+            "source": "woman",
+            "target": "telugu",
+            "value": 2
+        },
+        {
+            "source": "telugu",
+            "target": "celebrity",
+            "value": 11
+        },
+        {
+            "source": "telugu",
+            "target": "indian actress",
+            "value": 1
+        },
+        {
+            "source": "tamil actress",
+            "target": "indian actress",
+            "value": 1
+        },
+        {
+            "source": "telugu",
+            "target": "tamil actress",
+            "value": 2
+        },
+        {
+            "source": "hollywood",
+            "target": "photorealistic",
+            "value": 1
+        },
+        {
+            "source": "bollywood",
+            "target": "hollywood",
+            "value": 3
+        },
+        {
+            "source": "hollywood",
+            "target": "woman",
+            "value": 1
+        },
+        {
+            "source": "hollywood",
+            "target": "realistic",
+            "value": 1
+        },
+        {
+            "source": "reactor",
+            "target": "photorealistic",
+            "value": 1
+        },
+        {
+            "source": "photorealistic",
+            "target": "film",
+            "value": 1
+        },
+        {
+            "source": "sexy",
+            "target": "film",
+            "value": 1
+        },
+        {
+            "source": "star",
+            "target": "film",
+            "value": 1
+        },
+        {
+            "source": "woman",
+            "target": "film",
+            "value": 1
+        },
+        {
+            "source": "star",
+            "target": "photorealistic",
+            "value": 1
+        },
+        {
+            "source": "star",
+            "target": "sexy",
+            "value": 1
+        },
+        {
+            "source": "star",
+            "target": "indian",
+            "value": 2
+        },
+        {
+            "source": "star",
+            "target": "woman",
+            "value": 1
+        },
+        {
+            "source": "telugu",
+            "target": "indian",
+            "value": 10
+        },
+        {
+            "source": "telugu",
+            "target": "desi",
+            "value": 2
+        },
+        {
+            "source": "telugu",
+            "target": "tollywood",
+            "value": 1
+        },
+        {
+            "source": "actress",
+            "target": "telugu",
+            "value": 6
+        },
+        {
+            "source": "tamil",
+            "target": "hindi",
+            "value": 3
+        },
+        {
+            "source": "desi",
+            "target": "hindi",
+            "value": 3
+        },
+        {
+            "source": "telugu",
+            "target": "hindi",
+            "value": 3
+        },
+        {
+            "source": "telugu",
+            "target": "tamil",
+            "value": 2
+        },
+        {
+            "source": "bollywood",
+            "target": "fashion",
+            "value": 1
+        },
+        {
+            "source": "fashion",
+            "target": "actress",
+            "value": 1
+        },
+        {
+            "source": "fashion",
+            "target": "celeb",
+            "value": 1
+        },
+        {
+            "source": "celebrity,",
+            "target": "kollywood",
+            "value": 2
+        },
+        {
+            "source": "tollywood",
+            "target": "kollywood",
+            "value": 1
+        },
+        {
+            "source": "clothing",
+            "target": "bengali",
+            "value": 1
+        },
+        {
+            "source": "bengali",
+            "target": "saree",
+            "value": 1
+        },
+        {
+            "source": "indian",
+            "target": "tamil actress",
+            "value": 2
+        },
+        {
+            "source": "woman",
+            "target": "flux1.d",
+            "value": 1
+        },
+        {
+            "source": "actress",
+            "target": "flux1.d",
+            "value": 2
+        },
+        {
+            "source": "flux1.d",
+            "target": "celebrity",
+            "value": 2
+        },
+        {
+            "source": "flux1.d",
+            "target": "tamil actress",
+            "value": 1
+        },
+        {
+            "source": "bollywood",
+            "target": "asian",
+            "value": 4
+        },
+        {
+            "source": "kollywood",
+            "target": "asian",
+            "value": 1
+        },
+        {
+            "source": "malayalam",
+            "target": "lora",
+            "value": 1
+        },
+        {
+            "source": "desi",
+            "target": "mallu",
+            "value": 1
+        },
+        {
+            "source": "malayalam",
+            "target": "desi",
+            "value": 1
+        },
+        {
+            "source": "malayalam",
+            "target": "mallu",
+            "value": 1
+        },
+        {
+            "source": "styles",
+            "target": "lora",
+            "value": 1
+        },
+        {
+            "source": "actress",
+            "target": "bollywood actress",
+            "value": 4
+        },
+        {
+            "source": "bollywood actress",
+            "target": "hindi",
+            "value": 2
+        },
+        {
+            "source": "avneet kaur",
+            "target": "hindi",
+            "value": 1
+        },
+        {
+            "source": "avneet kaur",
+            "target": "bollywood actress",
+            "value": 1
+        },
+        {
+            "source": "south asia",
+            "target": "style",
+            "value": 3
+        },
+        {
+            "source": "bollywood",
+            "target": "tamanna",
+            "value": 2
+        },
+        {
+            "source": "celebrity",
+            "target": "tamanna",
+            "value": 2
+        },
+        {
+            "source": "desi",
+            "target": "tamanna",
+            "value": 2
+        },
+        {
+            "source": "character",
+            "target": "man",
+            "value": 1
+        },
+        {
+            "source": "character",
+            "target": "indian outfit",
+            "value": 1
+        },
+        {
+            "source": "indian outfit",
+            "target": "male",
+            "value": 1
+        },
+        {
+            "source": "man",
+            "target": "indian outfit",
+            "value": 1
+        },
+        {
+            "source": "mallu",
+            "target": "celeb",
+            "value": 1
+        },
+        {
+            "source": "celebrity,",
+            "target": "celeb",
+            "value": 3
+        },
+        {
+            "source": "mallu",
+            "target": "kollywood",
+            "value": 1
+        },
+        {
+            "source": "celebrity,",
+            "target": "mallu",
+            "value": 1
+        },
+        {
+            "source": "woman",
+            "target": "tamanna",
+            "value": 1
+        },
+        {
+            "source": "character",
+            "target": "indian actress",
+            "value": 2
+        },
+        {
+            "source": "character",
+            "target": "indian celebrity",
+            "value": 1
+        },
+        {
+            "source": "brown",
+            "target": "style",
+            "value": 1
+        },
+        {
+            "source": "ethnicity",
+            "target": "style",
+            "value": 1
+        },
+        {
+            "source": "ethnicity",
+            "target": "brown",
+            "value": 1
+        },
+        {
+            "source": "south asia",
+            "target": "brown",
+            "value": 1
+        },
+        {
+            "source": "south asia",
+            "target": "desi",
+            "value": 1
+        },
+        {
+            "source": "south asia",
+            "target": "ethnicity",
+            "value": 1
+        },
+        {
+            "source": "woman",
+            "target": "hindi",
+            "value": 1
+        },
+        {
+            "source": "bollywood",
+            "target": "tv",
+            "value": 4
+        },
+        {
+            "source": "indian",
+            "target": "tv",
+            "value": 15
+        },
+        {
+            "source": "actress",
+            "target": "tv",
+            "value": 2
+        },
+        {
+            "source": "tv",
+            "target": "celebrity",
+            "value": 15
+        },
+        {
+            "source": "desi",
+            "target": "tv",
+            "value": 2
+        },
+        {
+            "source": "instagram",
+            "target": "woman",
+            "value": 1
+        },
+        {
+            "source": "bollywood",
+            "target": "hottiesnhotties",
+            "value": 21
+        },
+        {
+            "source": "hottiesnhotties",
+            "target": "indian",
+            "value": 50
+        },
+        {
+            "source": "hottiesnhotties",
+            "target": "actor",
+            "value": 38
+        },
+        {
+            "source": "hottiesnhotties",
+            "target": "celebrity",
+            "value": 50
+        },
+        {
+            "source": "hottiesnhotties",
+            "target": "male",
+            "value": 37
+        },
+        {
+            "source": "tollywood",
+            "target": "women",
+            "value": 2
+        },
+        {
+            "source": "sexy",
+            "target": "sari",
+            "value": 1
+        },
+        {
+            "source": "realistic",
+            "target": "celeb",
+            "value": 2
+        },
+        {
+            "source": "character",
+            "target": "alia bhatt",
+            "value": 1
+        },
+        {
+            "source": "photorealistic",
+            "target": "alia bhatt",
+            "value": 1
+        },
+        {
+            "source": "female",
+            "target": "alia bhatt",
+            "value": 1
+        },
+        {
+            "source": "girls",
+            "target": "alia bhatt",
+            "value": 1
+        },
+        {
+            "source": "alia bhatt",
+            "target": "indian actress",
+            "value": 1
+        },
+        {
+            "source": "girls",
+            "target": "lora",
+            "value": 3
+        },
+        {
+            "source": "celebrity,",
+            "target": "telugu",
+            "value": 2
+        },
+        {
+            "source": "singer",
+            "target": "actor",
+            "value": 2
+        },
+        {
+            "source": "hottiesnhotties",
+            "target": "singer",
+            "value": 2
+        },
+        {
+            "source": "bollywood",
+            "target": "sdxl 1,0",
+            "value": 11
+        },
+        {
+            "source": "indian",
+            "target": "sdxl 1,0",
+            "value": 26
+        },
+        {
+            "source": "sdxl 1,0",
+            "target": "actor",
+            "value": 20
+        },
+        {
+            "source": "sdxl 1,0",
+            "target": "celebrity",
+            "value": 26
+        },
+        {
+            "source": "sdxl 1,0",
+            "target": "male",
+            "value": 20
+        },
+        {
+            "source": "hottiesnhotties",
+            "target": "sdxl 1,0",
+            "value": 17
+        },
+        {
+            "source": "avneet kaur",
+            "target": "model",
+            "value": 1
+        },
+        {
+            "source": "avneet kaur",
+            "target": "woman",
+            "value": 1
+        },
+        {
+            "source": "avneet kaur",
+            "target": "girls",
+            "value": 1
+        },
+        {
+            "source": "tv",
+            "target": "actor",
+            "value": 11
+        },
+        {
+            "source": "tv",
+            "target": "male",
+            "value": 9
+        },
+        {
+            "source": "hottiesnhotties",
+            "target": "tv",
+            "value": 11
+        },
+        {
+            "source": "cricketer",
+            "target": "indian",
+            "value": 4
+        },
+        {
+            "source": "sportsman",
+            "target": "indian",
+            "value": 3
+        },
+        {
+            "source": "cricketer",
+            "target": "celebrity",
+            "value": 4
+        },
+        {
+            "source": "sportsman",
+            "target": "celebrity",
+            "value": 3
+        },
+        {
+            "source": "cricketer",
+            "target": "hottiesnhotties",
+            "value": 4
+        },
+        {
+            "source": "sportsman",
+            "target": "hottiesnhotties",
+            "value": 2
+        },
+        {
+            "source": "cricketer",
+            "target": "sportsman",
+            "value": 2
+        },
+        {
+            "source": "celebrity,",
+            "target": "tamil actress",
+            "value": 1
+        },
+        {
+            "source": "model",
+            "target": "hindi",
+            "value": 1
+        },
+        {
+            "source": "star",
+            "target": "actress",
+            "value": 1
+        },
+        {
+            "source": "star",
+            "target": "celebrity",
+            "value": 1
+        },
+        {
+            "source": "star",
+            "target": "desi",
+            "value": 1
+        },
+        {
+            "source": "star",
+            "target": "bollywood actress",
+            "value": 1
+        },
+        {
+            "source": "celebrity,",
+            "target": "asian",
+            "value": 2
+        },
+        {
+            "source": "sexy",
+            "target": "lora",
+            "value": 1
+        },
+        {
+            "source": "cricketer",
+            "target": "male",
+            "value": 1
+        },
+        {
+            "source": "cricketer",
+            "target": "sdxl 1,0",
+            "value": 2
+        },
+        {
+            "source": "character",
+            "target": "girl",
+            "value": 1
+        },
+        {
+            "source": "woman",
+            "target": "girl",
+            "value": 2
+        },
+        {
+            "source": "bengali",
+            "target": "bollywood actress",
+            "value": 1
+        },
+        {
+            "source": "telugu",
+            "target": "actor",
+            "value": 3
+        },
+        {
+            "source": "telugu",
+            "target": "male",
+            "value": 3
+        },
+        {
+            "source": "man",
+            "target": "telugu",
+            "value": 1
+        },
+        {
+            "source": "celebrity,",
+            "target": "photorealistic",
+            "value": 1
+        },
+        {
+            "source": "celebrity,",
+            "target": "realistic",
+            "value": 1
+        },
+        {
+            "source": "photorealistic",
+            "target": "flux1.d",
+            "value": 1
+        },
+        {
+            "source": "flux1.d",
+            "target": "realistic",
+            "value": 1
+        },
+        {
+            "source": "character",
+            "target": "actress",
+            "value": 1
+        },
+        {
+            "source": "sdxl 1,0",
+            "target": "tv",
+            "value": 6
+        },
+        {
+            "source": "male model",
+            "target": "indian",
+            "value": 10
+        },
+        {
+            "source": "male model",
+            "target": "celebrity",
+            "value": 10
+        },
+        {
+            "source": "male model",
+            "target": "hottiesnhotties",
+            "value": 5
+        },
+        {
+            "source": "bollywood",
+            "target": "bigg boss",
+            "value": 1
+        },
+        {
+            "source": "bollywood",
+            "target": "male model",
+            "value": 6
+        },
+        {
+            "source": "bigg boss",
+            "target": "indian",
+            "value": 6
+        },
+        {
+            "source": "bigg boss",
+            "target": "celebrity",
+            "value": 6
+        },
+        {
+            "source": "male model",
+            "target": "bigg boss",
+            "value": 2
+        },
+        {
+            "source": "bigg boss",
+            "target": "sdxl 1,0",
+            "value": 3
+        },
+        {
+            "source": "male model",
+            "target": "sdxl 1,0",
+            "value": 3
+        },
+        {
+            "source": "hollywood",
+            "target": "actor",
+            "value": 2
+        },
+        {
+            "source": "hollywood",
+            "target": "male",
+            "value": 2
+        },
+        {
+            "source": "hollywood",
+            "target": "sdxl 1,0",
+            "value": 2
+        },
+        {
+            "source": "bigg boss",
+            "target": "actor",
+            "value": 4
+        },
+        {
+            "source": "bigg boss",
+            "target": "male",
+            "value": 3
+        },
+        {
+            "source": "bigg boss",
+            "target": "hottiesnhotties",
+            "value": 4
+        },
+        {
+            "source": "character",
+            "target": "mallu",
+            "value": 1
+        },
+        {
+            "source": "sexy",
+            "target": "mallu",
+            "value": 1
+        },
+        {
+            "source": "woman",
+            "target": "mallu",
+            "value": 1
+        },
+        {
+            "source": "photorealistic",
+            "target": "girl",
+            "value": 1
+        },
+        {
+            "source": "girls",
+            "target": "girl",
+            "value": 1
+        },
+        {
+            "source": "celebrity",
+            "target": "saree",
+            "value": 1
+        },
+        {
+            "source": "photorealistic",
+            "target": "beautiful",
+            "value": 1
+        },
+        {
+            "source": "sexy",
+            "target": "beautiful",
+            "value": 1
+        },
+        {
+            "source": "character",
+            "target": "actor",
+            "value": 1
+        },
+        {
+            "source": "bengali",
+            "target": "actor",
+            "value": 1
+        },
+        {
+            "source": "bengali",
+            "target": "male",
+            "value": 1
+        },
+        {
+            "source": "bengali",
+            "target": "hottiesnhotties",
+            "value": 1
+        },
+        {
+            "source": "man",
+            "target": "hottiesnhotties",
+            "value": 5
+        },
+        {
+            "source": "character",
+            "target": "saree",
+            "value": 1
+        },
+        {
+            "source": "realistic",
+            "target": "saree",
+            "value": 1
+        },
+        {
+            "source": "male model",
+            "target": "actor",
+            "value": 6
+        },
+        {
+            "source": "male model",
+            "target": "male",
+            "value": 6
+        },
+        {
+            "source": "cute",
+            "target": "actor",
+            "value": 1
+        },
+        {
+            "source": "cute",
+            "target": "male",
+            "value": 1
+        },
+        {
+            "source": "cute",
+            "target": "hottiesnhotties",
+            "value": 1
+        },
+        {
+            "source": "singer",
+            "target": "male",
+            "value": 1
+        },
+        {
+            "source": "india",
+            "target": "celebrity",
+            "value": 1
+        },
+        {
+            "source": "india",
+            "target": "cartoon",
+            "value": 1
+        },
+        {
+            "source": "cartoon",
+            "target": "desi",
+            "value": 1
+        },
+        {
+            "source": "desi",
+            "target": "girls",
+            "value": 1
+        },
+        {
+            "source": "male model",
+            "target": "tv",
+            "value": 2
+        },
+        {
+            "source": "bigg boss",
+            "target": "tv",
+            "value": 2
+        },
+        {
+            "source": "man",
+            "target": "sdxl 1,0",
+            "value": 2
+        },
+        {
+            "source": "cricketer",
+            "target": "man",
+            "value": 1
+        },
+        {
+            "source": "man",
+            "target": "tv",
+            "value": 1
+        },
+        {
+            "source": "south indian",
+            "target": "actor",
+            "value": 1
+        },
+        {
+            "source": "south indian",
+            "target": "male",
+            "value": 1
+        },
+        {
+            "source": "telugu",
+            "target": "south indian",
+            "value": 1
+        },
+        {
+            "source": "south indian",
+            "target": "sdxl 1,0",
+            "value": 1
+        },
+        {
+            "source": "telugu",
+            "target": "sdxl 1,0",
+            "value": 1
+        },
+        {
+            "source": "malayalam",
+            "target": "actor",
+            "value": 1
+        },
+        {
+            "source": "man",
+            "target": "malayalam",
+            "value": 1
+        },
+        {
+            "source": "malayalam",
+            "target": "sdxl 1,0",
+            "value": 1
+        },
+        {
+            "source": "malayalam",
+            "target": "hottiesnhotties",
+            "value": 1
+        }
+    ]
+}

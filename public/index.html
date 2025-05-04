@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <script src="https://d3js.org/d3.v7.min.js"></script>
+    <link rel="stylesheet" href="styles.css">
+    <style>
+        .node { stroke: none; }
+        text { font-family: Arial, sans-serif; fill: black; }
+        .legend rect { stroke: black; stroke-width: 0.5px; }
+    </style>
+</head>
+<body>
+  <h1>Graph Visualizations</h1>
+  <h2 class="caption">Interactive networks and tag structures derived from user-generated content on CivitAI</h2>
+  <div class="description">
+    <p>
+      These interactive visualizations are part of the study <em>"Perpetual Misogyny: How Gendered Tropes Shape Text-To-Image AI Personalization"</em>. The research explores how user-driven content and tagging behavior on the model-sharing hub <strong>CivitAI</strong> has evolved over a two-year span.
+    </p>
+    <p>
+      The first network visualizes tag co-occurrence patterns—how users promote their models by grouping descriptive tags together. The second visualization maps semantic structures in the training data of over 11,000 LoRA models, revealing latent biases and conceptual clusters.
+    </p>
+  </div>
+  
+  <div class="theme-toggle" style="text-align: center; margin-bottom: 2rem;">
+    <label>
+      <input type="checkbox" id="modeToggle"> Toggle Light Mode
+    </label>
+  </div>
+  <div class="card-grid">
+    <a class="card-link" href="figure_15.html">
+      <div class="preview-card">
+        <img src="img/booru_tags.svg" alt="Preview 1">
+        <div class="card-title">Training Tags Network</div>
+        <div class="card-footer">View Graph →</div>
+      </div>
+    </a>
+    
+    <a class="card-link" href="figure_5.html">
+      <div class="preview-card">
+        <img src="img/japan.svg" alt="Preview 3">
+        <div class="card-title">Tag Groups</div>
+        <div class="card-footer">Explore Tags →</div>
+      </div>
+    </a>
+  </div>
+  
+</div>
+  <script>
+    const toggle = document.getElementById('modeToggle');
+    const root = document.documentElement;
+  
+    // Default to dark mode
+    root.classList.remove('light-mode');
+  
+    toggle.addEventListener('change', () => {
+      root.classList.toggle('light-mode');
+    });
+  </script>
+  
+</body>
+</html>

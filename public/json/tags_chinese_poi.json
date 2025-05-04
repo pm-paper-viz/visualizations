@@ -1,0 +1,1575 @@
+{
+    "nodes": [
+        {
+            "id": "photorealistic",
+            "size": 59
+        },
+        {
+            "id": "chinese",
+            "size": 229
+        },
+        {
+            "id": "woman",
+            "size": 203
+        },
+        {
+            "id": "girls",
+            "size": 45
+        },
+        {
+            "id": "girl",
+            "size": 32
+        },
+        {
+            "id": "person",
+            "size": 11
+        },
+        {
+            "id": "celebrity",
+            "size": 236
+        },
+        {
+            "id": "realistic",
+            "size": 80
+        },
+        {
+            "id": "idol",
+            "size": 9
+        },
+        {
+            "id": "japanese",
+            "size": 2
+        },
+        {
+            "id": "korean",
+            "size": 4
+        },
+        {
+            "id": "female",
+            "size": 30
+        },
+        {
+            "id": "chinese girl",
+            "size": 20
+        },
+        {
+            "id": "model",
+            "size": 68
+        },
+        {
+            "id": "cute",
+            "size": 3
+        },
+        {
+            "id": "character",
+            "size": 18
+        },
+        {
+            "id": "celeb",
+            "size": 9
+        },
+        {
+            "id": "actress",
+            "size": 22
+        },
+        {
+            "id": "cosplayer",
+            "size": 25
+        },
+        {
+            "id": "singer",
+            "size": 14
+        },
+        {
+            "id": "chinese actress",
+            "size": 12
+        },
+        {
+            "id": "asian",
+            "size": 27
+        },
+        {
+            "id": "china",
+            "size": 3
+        },
+        {
+            "id": "douyin",
+            "size": 8
+        },
+        {
+            "id": "cosplay",
+            "size": 6
+        },
+        {
+            "id": "celebrity,",
+            "size": 4
+        },
+        {
+            "id": "twitch",
+            "size": 7
+        },
+        {
+            "id": "influencer",
+            "size": 26
+        },
+        {
+            "id": "sexy",
+            "size": 18
+        },
+        {
+            "id": "hanfu",
+            "size": 3
+        },
+        {
+            "id": "streamer",
+            "size": 8
+        },
+        {
+            "id": "asian girl",
+            "size": 2
+        },
+        {
+            "id": "kpop",
+            "size": 10
+        },
+        {
+            "id": "taiwan",
+            "size": 3
+        },
+        {
+            "id": "man",
+            "size": 7
+        },
+        {
+            "id": "league of legends",
+            "size": 4
+        },
+        {
+            "id": "chinese boy",
+            "size": 5
+        },
+        {
+            "id": "dorama",
+            "size": 4
+        },
+        {
+            "id": "concept",
+            "size": 2
+        },
+        {
+            "id": "youtuber",
+            "size": 4
+        },
+        {
+            "id": "beautiful woman",
+            "size": 3
+        }
+    ],
+    "links": [
+        {
+            "source": "photorealistic",
+            "target": "chinese",
+            "value": 55
+        },
+        {
+            "source": "woman",
+            "target": "photorealistic",
+            "value": 55
+        },
+        {
+            "source": "photorealistic",
+            "target": "girls",
+            "value": 19
+        },
+        {
+            "source": "woman",
+            "target": "chinese",
+            "value": 189
+        },
+        {
+            "source": "girls",
+            "target": "chinese",
+            "value": 42
+        },
+        {
+            "source": "woman",
+            "target": "girls",
+            "value": 43
+        },
+        {
+            "source": "girl",
+            "target": "person",
+            "value": 1
+        },
+        {
+            "source": "photorealistic",
+            "target": "girl",
+            "value": 3
+        },
+        {
+            "source": "girl",
+            "target": "chinese",
+            "value": 29
+        },
+        {
+            "source": "girl",
+            "target": "celebrity",
+            "value": 30
+        },
+        {
+            "source": "girl",
+            "target": "realistic",
+            "value": 12
+        },
+        {
+            "source": "photorealistic",
+            "target": "person",
+            "value": 8
+        },
+        {
+            "source": "person",
+            "target": "chinese",
+            "value": 11
+        },
+        {
+            "source": "celebrity",
+            "target": "person",
+            "value": 11
+        },
+        {
+            "source": "realistic",
+            "target": "person",
+            "value": 1
+        },
+        {
+            "source": "photorealistic",
+            "target": "celebrity",
+            "value": 53
+        },
+        {
+            "source": "photorealistic",
+            "target": "realistic",
+            "value": 18
+        },
+        {
+            "source": "celebrity",
+            "target": "chinese",
+            "value": 207
+        },
+        {
+            "source": "realistic",
+            "target": "chinese",
+            "value": 76
+        },
+        {
+            "source": "realistic",
+            "target": "celebrity",
+            "value": 76
+        },
+        {
+            "source": "idol",
+            "target": "chinese",
+            "value": 9
+        },
+        {
+            "source": "idol",
+            "target": "celebrity",
+            "value": 8
+        },
+        {
+            "source": "woman",
+            "target": "celebrity",
+            "value": 191
+        },
+        {
+            "source": "japanese",
+            "target": "chinese",
+            "value": 2
+        },
+        {
+            "source": "korean",
+            "target": "chinese",
+            "value": 4
+        },
+        {
+            "source": "idol",
+            "target": "japanese",
+            "value": 1
+        },
+        {
+            "source": "idol",
+            "target": "korean",
+            "value": 3
+        },
+        {
+            "source": "celebrity",
+            "target": "japanese",
+            "value": 2
+        },
+        {
+            "source": "celebrity",
+            "target": "korean",
+            "value": 4
+        },
+        {
+            "source": "korean",
+            "target": "japanese",
+            "value": 1
+        },
+        {
+            "source": "photorealistic",
+            "target": "female",
+            "value": 15
+        },
+        {
+            "source": "female",
+            "target": "chinese",
+            "value": 26
+        },
+        {
+            "source": "woman",
+            "target": "female",
+            "value": 24
+        },
+        {
+            "source": "female",
+            "target": "celebrity",
+            "value": 29
+        },
+        {
+            "source": "female",
+            "target": "realistic",
+            "value": 7
+        },
+        {
+            "source": "woman",
+            "target": "realistic",
+            "value": 74
+        },
+        {
+            "source": "chinese girl",
+            "target": "celebrity",
+            "value": 16
+        },
+        {
+            "source": "model",
+            "target": "girl",
+            "value": 11
+        },
+        {
+            "source": "woman",
+            "target": "girl",
+            "value": 29
+        },
+        {
+            "source": "cute",
+            "target": "girl",
+            "value": 1
+        },
+        {
+            "source": "photorealistic",
+            "target": "model",
+            "value": 4
+        },
+        {
+            "source": "cute",
+            "target": "photorealistic",
+            "value": 1
+        },
+        {
+            "source": "model",
+            "target": "chinese",
+            "value": 66
+        },
+        {
+            "source": "cute",
+            "target": "chinese",
+            "value": 3
+        },
+        {
+            "source": "woman",
+            "target": "model",
+            "value": 66
+        },
+        {
+            "source": "model",
+            "target": "celebrity",
+            "value": 64
+        },
+        {
+            "source": "cute",
+            "target": "model",
+            "value": 1
+        },
+        {
+            "source": "cute",
+            "target": "woman",
+            "value": 2
+        },
+        {
+            "source": "cute",
+            "target": "celebrity",
+            "value": 3
+        },
+        {
+            "source": "chinese girl",
+            "target": "girl",
+            "value": 2
+        },
+        {
+            "source": "chinese girl",
+            "target": "woman",
+            "value": 11
+        },
+        {
+            "source": "character",
+            "target": "chinese",
+            "value": 11
+        },
+        {
+            "source": "character",
+            "target": "celeb",
+            "value": 1
+        },
+        {
+            "source": "celeb",
+            "target": "chinese",
+            "value": 9
+        },
+        {
+            "source": "female",
+            "target": "actress",
+            "value": 5
+        },
+        {
+            "source": "actress",
+            "target": "chinese",
+            "value": 18
+        },
+        {
+            "source": "actress",
+            "target": "celebrity",
+            "value": 21
+        },
+        {
+            "source": "cosplayer",
+            "target": "photorealistic",
+            "value": 4
+        },
+        {
+            "source": "cosplayer",
+            "target": "female",
+            "value": 3
+        },
+        {
+            "source": "cosplayer",
+            "target": "chinese",
+            "value": 25
+        },
+        {
+            "source": "woman",
+            "target": "cosplayer",
+            "value": 24
+        },
+        {
+            "source": "cosplayer",
+            "target": "celebrity",
+            "value": 22
+        },
+        {
+            "source": "cosplayer",
+            "target": "realistic",
+            "value": 3
+        },
+        {
+            "source": "singer",
+            "target": "chinese",
+            "value": 14
+        },
+        {
+            "source": "idol",
+            "target": "singer",
+            "value": 2
+        },
+        {
+            "source": "woman",
+            "target": "singer",
+            "value": 12
+        },
+        {
+            "source": "singer",
+            "target": "celebrity",
+            "value": 13
+        },
+        {
+            "source": "idol",
+            "target": "woman",
+            "value": 2
+        },
+        {
+            "source": "female",
+            "target": "girls",
+            "value": 11
+        },
+        {
+            "source": "chinese girl",
+            "target": "female",
+            "value": 9
+        },
+        {
+            "source": "chinese girl",
+            "target": "chinese",
+            "value": 6
+        },
+        {
+            "source": "girls",
+            "target": "celebrity",
+            "value": 41
+        },
+        {
+            "source": "chinese girl",
+            "target": "girls",
+            "value": 4
+        },
+        {
+            "source": "chinese actress",
+            "target": "girl",
+            "value": 1
+        },
+        {
+            "source": "chinese actress",
+            "target": "photorealistic",
+            "value": 1
+        },
+        {
+            "source": "chinese actress",
+            "target": "woman",
+            "value": 3
+        },
+        {
+            "source": "chinese actress",
+            "target": "celebrity",
+            "value": 12
+        },
+        {
+            "source": "photorealistic",
+            "target": "asian",
+            "value": 13
+        },
+        {
+            "source": "photorealistic",
+            "target": "korean",
+            "value": 1
+        },
+        {
+            "source": "asian",
+            "target": "chinese",
+            "value": 27
+        },
+        {
+            "source": "celebrity",
+            "target": "asian",
+            "value": 23
+        },
+        {
+            "source": "asian",
+            "target": "korean",
+            "value": 1
+        },
+        {
+            "source": "realistic",
+            "target": "asian",
+            "value": 3
+        },
+        {
+            "source": "realistic",
+            "target": "korean",
+            "value": 1
+        },
+        {
+            "source": "chinese girl",
+            "target": "actress",
+            "value": 4
+        },
+        {
+            "source": "female",
+            "target": "asian",
+            "value": 2
+        },
+        {
+            "source": "woman",
+            "target": "asian",
+            "value": 21
+        },
+        {
+            "source": "china",
+            "target": "celebrity",
+            "value": 2
+        },
+        {
+            "source": "china",
+            "target": "chinese girl",
+            "value": 1
+        },
+        {
+            "source": "china",
+            "target": "chinese",
+            "value": 2
+        },
+        {
+            "source": "actress",
+            "target": "asian",
+            "value": 2
+        },
+        {
+            "source": "woman",
+            "target": "actress",
+            "value": 12
+        },
+        {
+            "source": "female",
+            "target": "douyin",
+            "value": 1
+        },
+        {
+            "source": "douyin",
+            "target": "chinese",
+            "value": 8
+        },
+        {
+            "source": "cosplayer",
+            "target": "douyin",
+            "value": 1
+        },
+        {
+            "source": "woman",
+            "target": "douyin",
+            "value": 8
+        },
+        {
+            "source": "celebrity",
+            "target": "douyin",
+            "value": 8
+        },
+        {
+            "source": "cosplay",
+            "target": "photorealistic",
+            "value": 3
+        },
+        {
+            "source": "cosplay",
+            "target": "chinese",
+            "value": 5
+        },
+        {
+            "source": "woman",
+            "target": "cosplay",
+            "value": 4
+        },
+        {
+            "source": "cosplay",
+            "target": "celebrity",
+            "value": 5
+        },
+        {
+            "source": "girls",
+            "target": "realistic",
+            "value": 13
+        },
+        {
+            "source": "photorealistic",
+            "target": "celeb",
+            "value": 5
+        },
+        {
+            "source": "female",
+            "target": "celeb",
+            "value": 6
+        },
+        {
+            "source": "woman",
+            "target": "celeb",
+            "value": 8
+        },
+        {
+            "source": "celebrity",
+            "target": "celeb",
+            "value": 8
+        },
+        {
+            "source": "girls",
+            "target": "celeb",
+            "value": 6
+        },
+        {
+            "source": "celebrity,",
+            "target": "female",
+            "value": 3
+        },
+        {
+            "source": "celebrity,",
+            "target": "actress",
+            "value": 3
+        },
+        {
+            "source": "celebrity,",
+            "target": "celebrity",
+            "value": 4
+        },
+        {
+            "source": "celebrity,",
+            "target": "chinese girl",
+            "value": 3
+        },
+        {
+            "source": "realistic",
+            "target": "celeb",
+            "value": 2
+        },
+        {
+            "source": "chinese girl",
+            "target": "celeb",
+            "value": 1
+        },
+        {
+            "source": "chinese girl",
+            "target": "realistic",
+            "value": 5
+        },
+        {
+            "source": "chinese girl",
+            "target": "photorealistic",
+            "value": 2
+        },
+        {
+            "source": "chinese girl",
+            "target": "cosplayer",
+            "value": 1
+        },
+        {
+            "source": "female",
+            "target": "singer",
+            "value": 1
+        },
+        {
+            "source": "female",
+            "target": "person",
+            "value": 2
+        },
+        {
+            "source": "twitch",
+            "target": "person",
+            "value": 1
+        },
+        {
+            "source": "twitch",
+            "target": "female",
+            "value": 1
+        },
+        {
+            "source": "twitch",
+            "target": "chinese",
+            "value": 7
+        },
+        {
+            "source": "twitch",
+            "target": "celebrity",
+            "value": 6
+        },
+        {
+            "source": "photorealistic",
+            "target": "influencer",
+            "value": 3
+        },
+        {
+            "source": "influencer",
+            "target": "chinese",
+            "value": 26
+        },
+        {
+            "source": "woman",
+            "target": "influencer",
+            "value": 25
+        },
+        {
+            "source": "celebrity",
+            "target": "influencer",
+            "value": 25
+        },
+        {
+            "source": "cosplayer",
+            "target": "cosplay",
+            "value": 1
+        },
+        {
+            "source": "sexy",
+            "target": "woman",
+            "value": 15
+        },
+        {
+            "source": "sexy",
+            "target": "celebrity",
+            "value": 14
+        },
+        {
+            "source": "sexy",
+            "target": "girls",
+            "value": 9
+        },
+        {
+            "source": "photorealistic",
+            "target": "hanfu",
+            "value": 1
+        },
+        {
+            "source": "female",
+            "target": "hanfu",
+            "value": 1
+        },
+        {
+            "source": "hanfu",
+            "target": "chinese",
+            "value": 3
+        },
+        {
+            "source": "woman",
+            "target": "hanfu",
+            "value": 2
+        },
+        {
+            "source": "girls",
+            "target": "hanfu",
+            "value": 1
+        },
+        {
+            "source": "character",
+            "target": "china",
+            "value": 1
+        },
+        {
+            "source": "sexy",
+            "target": "cosplay",
+            "value": 1
+        },
+        {
+            "source": "sexy",
+            "target": "chinese",
+            "value": 17
+        },
+        {
+            "source": "cute",
+            "target": "sexy",
+            "value": 1
+        },
+        {
+            "source": "cute",
+            "target": "cosplay",
+            "value": 1
+        },
+        {
+            "source": "cosplay",
+            "target": "girls",
+            "value": 2
+        },
+        {
+            "source": "cute",
+            "target": "girls",
+            "value": 1
+        },
+        {
+            "source": "sexy",
+            "target": "photorealistic",
+            "value": 6
+        },
+        {
+            "source": "sexy",
+            "target": "female",
+            "value": 1
+        },
+        {
+            "source": "sexy",
+            "target": "asian",
+            "value": 3
+        },
+        {
+            "source": "idol",
+            "target": "actress",
+            "value": 1
+        },
+        {
+            "source": "idol",
+            "target": "girls",
+            "value": 1
+        },
+        {
+            "source": "actress",
+            "target": "girls",
+            "value": 3
+        },
+        {
+            "source": "sexy",
+            "target": "model",
+            "value": 9
+        },
+        {
+            "source": "sexy",
+            "target": "cosplayer",
+            "value": 9
+        },
+        {
+            "source": "cosplayer",
+            "target": "model",
+            "value": 9
+        },
+        {
+            "source": "streamer",
+            "target": "chinese",
+            "value": 8
+        },
+        {
+            "source": "twitch",
+            "target": "streamer",
+            "value": 5
+        },
+        {
+            "source": "twitch",
+            "target": "woman",
+            "value": 5
+        },
+        {
+            "source": "woman",
+            "target": "streamer",
+            "value": 5
+        },
+        {
+            "source": "streamer",
+            "target": "celebrity",
+            "value": 7
+        },
+        {
+            "source": "photorealistic",
+            "target": "actress",
+            "value": 5
+        },
+        {
+            "source": "sexy",
+            "target": "actress",
+            "value": 1
+        },
+        {
+            "source": "character",
+            "target": "photorealistic",
+            "value": 2
+        },
+        {
+            "source": "character",
+            "target": "woman",
+            "value": 5
+        },
+        {
+            "source": "model",
+            "target": "realistic",
+            "value": 50
+        },
+        {
+            "source": "sexy",
+            "target": "realistic",
+            "value": 4
+        },
+        {
+            "source": "twitch",
+            "target": "asian",
+            "value": 5
+        },
+        {
+            "source": "streamer",
+            "target": "asian",
+            "value": 4
+        },
+        {
+            "source": "cosplayer",
+            "target": "girls",
+            "value": 6
+        },
+        {
+            "source": "cosplayer",
+            "target": "influencer",
+            "value": 2
+        },
+        {
+            "source": "girls",
+            "target": "influencer",
+            "value": 14
+        },
+        {
+            "source": "girls",
+            "target": "singer",
+            "value": 7
+        },
+        {
+            "source": "singer",
+            "target": "influencer",
+            "value": 9
+        },
+        {
+            "source": "asian girl",
+            "target": "chinese",
+            "value": 2
+        },
+        {
+            "source": "asian girl",
+            "target": "celebrity",
+            "value": 1
+        },
+        {
+            "source": "kpop",
+            "target": "chinese",
+            "value": 10
+        },
+        {
+            "source": "idol",
+            "target": "kpop",
+            "value": 3
+        },
+        {
+            "source": "kpop",
+            "target": "celebrity",
+            "value": 10
+        },
+        {
+            "source": "kpop",
+            "target": "korean",
+            "value": 2
+        },
+        {
+            "source": "taiwan",
+            "target": "chinese",
+            "value": 3
+        },
+        {
+            "source": "taiwan",
+            "target": "kpop",
+            "value": 1
+        },
+        {
+            "source": "idol",
+            "target": "taiwan",
+            "value": 1
+        },
+        {
+            "source": "taiwan",
+            "target": "celebrity",
+            "value": 2
+        },
+        {
+            "source": "girls",
+            "target": "asian",
+            "value": 2
+        },
+        {
+            "source": "cosplayer",
+            "target": "asian",
+            "value": 1
+        },
+        {
+            "source": "twitch",
+            "target": "cosplayer",
+            "value": 1
+        },
+        {
+            "source": "cosplayer",
+            "target": "streamer",
+            "value": 1
+        },
+        {
+            "source": "character",
+            "target": "man",
+            "value": 2
+        },
+        {
+            "source": "man",
+            "target": "chinese",
+            "value": 6
+        },
+        {
+            "source": "chinese",
+            "target": "league of legends",
+            "value": 4
+        },
+        {
+            "source": "asian",
+            "target": "league of legends",
+            "value": 1
+        },
+        {
+            "source": "twitch",
+            "target": "league of legends",
+            "value": 1
+        },
+        {
+            "source": "streamer",
+            "target": "league of legends",
+            "value": 1
+        },
+        {
+            "source": "celebrity",
+            "target": "league of legends",
+            "value": 1
+        },
+        {
+            "source": "cute",
+            "target": "asian",
+            "value": 1
+        },
+        {
+            "source": "cute",
+            "target": "twitch",
+            "value": 1
+        },
+        {
+            "source": "cute",
+            "target": "streamer",
+            "value": 1
+        },
+        {
+            "source": "cosplayer",
+            "target": "singer",
+            "value": 2
+        },
+        {
+            "source": "photorealistic",
+            "target": "kpop",
+            "value": 6
+        },
+        {
+            "source": "woman",
+            "target": "kpop",
+            "value": 6
+        },
+        {
+            "source": "realistic",
+            "target": "influencer",
+            "value": 6
+        },
+        {
+            "source": "idol",
+            "target": "photorealistic",
+            "value": 2
+        },
+        {
+            "source": "sexy",
+            "target": "league of legends",
+            "value": 3
+        },
+        {
+            "source": "model",
+            "target": "league of legends",
+            "value": 3
+        },
+        {
+            "source": "cosplayer",
+            "target": "league of legends",
+            "value": 3
+        },
+        {
+            "source": "woman",
+            "target": "league of legends",
+            "value": 2
+        },
+        {
+            "source": "cosplay",
+            "target": "realistic",
+            "value": 3
+        },
+        {
+            "source": "photorealistic",
+            "target": "singer",
+            "value": 1
+        },
+        {
+            "source": "singer",
+            "target": "asian",
+            "value": 2
+        },
+        {
+            "source": "model",
+            "target": "singer",
+            "value": 1
+        },
+        {
+            "source": "model",
+            "target": "asian",
+            "value": 2
+        },
+        {
+            "source": "idol",
+            "target": "asian",
+            "value": 1
+        },
+        {
+            "source": "idol",
+            "target": "model",
+            "value": 1
+        },
+        {
+            "source": "woman",
+            "target": "person",
+            "value": 9
+        },
+        {
+            "source": "girls",
+            "target": "person",
+            "value": 1
+        },
+        {
+            "source": "celebrity,",
+            "target": "chinese",
+            "value": 1
+        },
+        {
+            "source": "celebrity,",
+            "target": "woman",
+            "value": 1
+        },
+        {
+            "source": "celebrity,",
+            "target": "douyin",
+            "value": 1
+        },
+        {
+            "source": "cosplayer",
+            "target": "girl",
+            "value": 3
+        },
+        {
+            "source": "hanfu",
+            "target": "girl",
+            "value": 1
+        },
+        {
+            "source": "cosplayer",
+            "target": "hanfu",
+            "value": 1
+        },
+        {
+            "source": "hanfu",
+            "target": "celebrity",
+            "value": 1
+        },
+        {
+            "source": "character",
+            "target": "chinese boy",
+            "value": 5
+        },
+        {
+            "source": "character",
+            "target": "dorama",
+            "value": 4
+        },
+        {
+            "source": "dorama",
+            "target": "chinese boy",
+            "value": 4
+        },
+        {
+            "source": "kpop",
+            "target": "singer",
+            "value": 1
+        },
+        {
+            "source": "kpop",
+            "target": "asian",
+            "value": 1
+        },
+        {
+            "source": "character",
+            "target": "asian",
+            "value": 2
+        },
+        {
+            "source": "twitch",
+            "target": "realistic",
+            "value": 1
+        },
+        {
+            "source": "model",
+            "target": "girls",
+            "value": 3
+        },
+        {
+            "source": "character",
+            "target": "influencer",
+            "value": 1
+        },
+        {
+            "source": "character",
+            "target": "asian girl",
+            "value": 1
+        },
+        {
+            "source": "asian",
+            "target": "influencer",
+            "value": 1
+        },
+        {
+            "source": "asian girl",
+            "target": "asian",
+            "value": 1
+        },
+        {
+            "source": "woman",
+            "target": "asian girl",
+            "value": 1
+        },
+        {
+            "source": "asian girl",
+            "target": "influencer",
+            "value": 1
+        },
+        {
+            "source": "girl",
+            "target": "influencer",
+            "value": 4
+        },
+        {
+            "source": "girl",
+            "target": "douyin",
+            "value": 3
+        },
+        {
+            "source": "douyin",
+            "target": "influencer",
+            "value": 5
+        },
+        {
+            "source": "model",
+            "target": "influencer",
+            "value": 2
+        },
+        {
+            "source": "woman",
+            "target": "concept",
+            "value": 1
+        },
+        {
+            "source": "chinese girl",
+            "target": "concept",
+            "value": 1
+        },
+        {
+            "source": "person",
+            "target": "asian",
+            "value": 7
+        },
+        {
+            "source": "actress",
+            "target": "realistic",
+            "value": 1
+        },
+        {
+            "source": "singer",
+            "target": "douyin",
+            "value": 2
+        },
+        {
+            "source": "youtuber",
+            "target": "chinese",
+            "value": 4
+        },
+        {
+            "source": "woman",
+            "target": "youtuber",
+            "value": 2
+        },
+        {
+            "source": "youtuber",
+            "target": "celebrity",
+            "value": 3
+        },
+        {
+            "source": "girl",
+            "target": "singer",
+            "value": 2
+        },
+        {
+            "source": "realistic",
+            "target": "singer",
+            "value": 1
+        },
+        {
+            "source": "character",
+            "target": "girls",
+            "value": 1
+        },
+        {
+            "source": "character",
+            "target": "realistic",
+            "value": 3
+        },
+        {
+            "source": "girls",
+            "target": "douyin",
+            "value": 1
+        },
+        {
+            "source": "character",
+            "target": "youtuber",
+            "value": 1
+        },
+        {
+            "source": "character",
+            "target": "taiwan",
+            "value": 1
+        },
+        {
+            "source": "taiwan",
+            "target": "youtuber",
+            "value": 1
+        },
+        {
+            "source": "woman",
+            "target": "taiwan",
+            "value": 1
+        },
+        {
+            "source": "cosplay",
+            "target": "model",
+            "value": 1
+        },
+        {
+            "source": "asian",
+            "target": "japanese",
+            "value": 1
+        },
+        {
+            "source": "man",
+            "target": "asian",
+            "value": 1
+        },
+        {
+            "source": "man",
+            "target": "celebrity",
+            "value": 5
+        },
+        {
+            "source": "man",
+            "target": "japanese",
+            "value": 1
+        },
+        {
+            "source": "girl",
+            "target": "streamer",
+            "value": 1
+        },
+        {
+            "source": "streamer",
+            "target": "influencer",
+            "value": 1
+        },
+        {
+            "source": "youtuber",
+            "target": "streamer",
+            "value": 1
+        },
+        {
+            "source": "man",
+            "target": "youtuber",
+            "value": 2
+        },
+        {
+            "source": "man",
+            "target": "streamer",
+            "value": 2
+        },
+        {
+            "source": "actress",
+            "target": "person",
+            "value": 1
+        },
+        {
+            "source": "person",
+            "target": "celeb",
+            "value": 1
+        },
+        {
+            "source": "actress",
+            "target": "celeb",
+            "value": 1
+        },
+        {
+            "source": "beautiful woman",
+            "target": "celebrity",
+            "value": 3
+        },
+        {
+            "source": "beautiful woman",
+            "target": "chinese actress",
+            "value": 3
+        },
+        {
+            "source": "character",
+            "target": "cosplay",
+            "value": 1
+        },
+        {
+            "source": "character",
+            "target": "chinese girl",
+            "value": 1
+        },
+        {
+            "source": "chinese girl",
+            "target": "cosplay",
+            "value": 1
+        },
+        {
+            "source": "youtuber",
+            "target": "influencer",
+            "value": 1
+        },
+        {
+            "source": "man",
+            "target": "influencer",
+            "value": 1
+        },
+        {
+            "source": "character",
+            "target": "hanfu",
+            "value": 1
+        },
+        {
+            "source": "hanfu",
+            "target": "realistic",
+            "value": 1
+        },
+        {
+            "source": "chinese",
+            "target": "concept",
+            "value": 1
+        },
+        {
+            "source": "man",
+            "target": "chinese boy",
+            "value": 1
+        },
+        {
+            "source": "chinese girl",
+            "target": "model",
+            "value": 2
+        },
+        {
+            "source": "character",
+            "target": "actress",
+            "value": 1
+        },
+        {
+            "source": "taiwan",
+            "target": "streamer",
+            "value": 1
+        },
+        {
+            "source": "man",
+            "target": "taiwan",
+            "value": 1
+        }
+    ]
+}

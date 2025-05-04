@@ -1,0 +1,1370 @@
+{
+    "nodes": [
+        {
+            "id": "fantasy",
+            "size": 2
+        },
+        {
+            "id": "paintings",
+            "size": 3
+        },
+        {
+            "id": "ancient",
+            "size": 4
+        },
+        {
+            "id": "china",
+            "size": 105
+        },
+        {
+            "id": "anime",
+            "size": 28
+        },
+        {
+            "id": "clothing",
+            "size": 24
+        },
+        {
+            "id": "qipao",
+            "size": 7
+        },
+        {
+            "id": "cheongsam",
+            "size": 6
+        },
+        {
+            "id": "china dress",
+            "size": 12
+        },
+        {
+            "id": "blue archive",
+            "size": 2
+        },
+        {
+            "id": "chinese",
+            "size": 29
+        },
+        {
+            "id": "architecture",
+            "size": 3
+        },
+        {
+            "id": "buildings",
+            "size": 3
+        },
+        {
+            "id": "photo",
+            "size": 2
+        },
+        {
+            "id": "realistic",
+            "size": 8
+        },
+        {
+            "id": "chinese clothes",
+            "size": 6
+        },
+        {
+            "id": "sexy",
+            "size": 7
+        },
+        {
+            "id": "girls",
+            "size": 16
+        },
+        {
+            "id": "character",
+            "size": 15
+        },
+        {
+            "id": "dress",
+            "size": 4
+        },
+        {
+            "id": "traditional",
+            "size": 6
+        },
+        {
+            "id": "ink",
+            "size": 3
+        },
+        {
+            "id": "style",
+            "size": 38
+        },
+        {
+            "id": "woman",
+            "size": 16
+        },
+        {
+            "id": "styles",
+            "size": 4
+        },
+        {
+            "id": "japan",
+            "size": 5
+        },
+        {
+            "id": "female",
+            "size": 12
+        },
+        {
+            "id": "concept",
+            "size": 10
+        },
+        {
+            "id": "hanfu",
+            "size": 6
+        },
+        {
+            "id": "chinese dress",
+            "size": 2
+        },
+        {
+            "id": "photorealistic",
+            "size": 11
+        },
+        {
+            "id": "asian",
+            "size": 6
+        },
+        {
+            "id": "art style",
+            "size": 3
+        },
+        {
+            "id": "celebrity",
+            "size": 8
+        },
+        {
+            "id": "outfit",
+            "size": 2
+        },
+        {
+            "id": "warhammer",
+            "size": 2
+        },
+        {
+            "id": "objects",
+            "size": 4
+        },
+        {
+            "id": "ancient china",
+            "size": 2
+        },
+        {
+            "id": "asia",
+            "size": 2
+        },
+        {
+            "id": "artwork",
+            "size": 2
+        },
+        {
+            "id": "game",
+            "size": 3
+        }
+    ],
+    "links": [
+        {
+            "source": "paintings",
+            "target": "ancient",
+            "value": 1
+        },
+        {
+            "source": "paintings",
+            "target": "china",
+            "value": 3
+        },
+        {
+            "source": "ancient",
+            "target": "china",
+            "value": 4
+        },
+        {
+            "source": "clothing",
+            "target": "anime",
+            "value": 6
+        },
+        {
+            "source": "qipao",
+            "target": "anime",
+            "value": 4
+        },
+        {
+            "source": "anime",
+            "target": "cheongsam",
+            "value": 4
+        },
+        {
+            "source": "china dress",
+            "target": "anime",
+            "value": 5
+        },
+        {
+            "source": "qipao",
+            "target": "clothing",
+            "value": 4
+        },
+        {
+            "source": "clothing",
+            "target": "cheongsam",
+            "value": 5
+        },
+        {
+            "source": "china dress",
+            "target": "clothing",
+            "value": 10
+        },
+        {
+            "source": "qipao",
+            "target": "cheongsam",
+            "value": 4
+        },
+        {
+            "source": "qipao",
+            "target": "china dress",
+            "value": 4
+        },
+        {
+            "source": "china dress",
+            "target": "cheongsam",
+            "value": 4
+        },
+        {
+            "source": "blue archive",
+            "target": "anime",
+            "value": 1
+        },
+        {
+            "source": "blue archive",
+            "target": "clothing",
+            "value": 2
+        },
+        {
+            "source": "qipao",
+            "target": "blue archive",
+            "value": 1
+        },
+        {
+            "source": "blue archive",
+            "target": "cheongsam",
+            "value": 1
+        },
+        {
+            "source": "architecture",
+            "target": "chinese",
+            "value": 1
+        },
+        {
+            "source": "chinese",
+            "target": "buildings",
+            "value": 1
+        },
+        {
+            "source": "chinese",
+            "target": "photo",
+            "value": 2
+        },
+        {
+            "source": "realistic",
+            "target": "chinese",
+            "value": 2
+        },
+        {
+            "source": "chinese",
+            "target": "china",
+            "value": 28
+        },
+        {
+            "source": "architecture",
+            "target": "buildings",
+            "value": 2
+        },
+        {
+            "source": "architecture",
+            "target": "photo",
+            "value": 1
+        },
+        {
+            "source": "architecture",
+            "target": "realistic",
+            "value": 1
+        },
+        {
+            "source": "architecture",
+            "target": "china",
+            "value": 3
+        },
+        {
+            "source": "photo",
+            "target": "buildings",
+            "value": 1
+        },
+        {
+            "source": "realistic",
+            "target": "buildings",
+            "value": 1
+        },
+        {
+            "source": "buildings",
+            "target": "china",
+            "value": 2
+        },
+        {
+            "source": "realistic",
+            "target": "photo",
+            "value": 1
+        },
+        {
+            "source": "photo",
+            "target": "china",
+            "value": 2
+        },
+        {
+            "source": "realistic",
+            "target": "china",
+            "value": 7
+        },
+        {
+            "source": "chinese",
+            "target": "clothing",
+            "value": 7
+        },
+        {
+            "source": "chinese clothes",
+            "target": "chinese",
+            "value": 3
+        },
+        {
+            "source": "china dress",
+            "target": "chinese",
+            "value": 1
+        },
+        {
+            "source": "clothing",
+            "target": "china",
+            "value": 13
+        },
+        {
+            "source": "chinese clothes",
+            "target": "clothing",
+            "value": 6
+        },
+        {
+            "source": "chinese clothes",
+            "target": "china",
+            "value": 3
+        },
+        {
+            "source": "china dress",
+            "target": "china",
+            "value": 1
+        },
+        {
+            "source": "china dress",
+            "target": "chinese clothes",
+            "value": 4
+        },
+        {
+            "source": "sexy",
+            "target": "clothing",
+            "value": 2
+        },
+        {
+            "source": "sexy",
+            "target": "girls",
+            "value": 3
+        },
+        {
+            "source": "sexy",
+            "target": "china",
+            "value": 5
+        },
+        {
+            "source": "clothing",
+            "target": "girls",
+            "value": 3
+        },
+        {
+            "source": "china",
+            "target": "girls",
+            "value": 12
+        },
+        {
+            "source": "character",
+            "target": "anime",
+            "value": 5
+        },
+        {
+            "source": "sexy",
+            "target": "anime",
+            "value": 2
+        },
+        {
+            "source": "sexy",
+            "target": "character",
+            "value": 2
+        },
+        {
+            "source": "china dress",
+            "target": "character",
+            "value": 2
+        },
+        {
+            "source": "china dress",
+            "target": "sexy",
+            "value": 2
+        },
+        {
+            "source": "dress",
+            "target": "traditional",
+            "value": 1
+        },
+        {
+            "source": "dress",
+            "target": "clothing",
+            "value": 4
+        },
+        {
+            "source": "dress",
+            "target": "china",
+            "value": 4
+        },
+        {
+            "source": "traditional",
+            "target": "clothing",
+            "value": 1
+        },
+        {
+            "source": "traditional",
+            "target": "china",
+            "value": 6
+        },
+        {
+            "source": "ink",
+            "target": "chinese",
+            "value": 2
+        },
+        {
+            "source": "chinese",
+            "target": "style",
+            "value": 8
+        },
+        {
+            "source": "ink",
+            "target": "style",
+            "value": 3
+        },
+        {
+            "source": "ink",
+            "target": "china",
+            "value": 3
+        },
+        {
+            "source": "china",
+            "target": "style",
+            "value": 36
+        },
+        {
+            "source": "woman",
+            "target": "style",
+            "value": 1
+        },
+        {
+            "source": "style",
+            "target": "styles",
+            "value": 4
+        },
+        {
+            "source": "woman",
+            "target": "china",
+            "value": 13
+        },
+        {
+            "source": "woman",
+            "target": "styles",
+            "value": 1
+        },
+        {
+            "source": "china",
+            "target": "styles",
+            "value": 4
+        },
+        {
+            "source": "japan",
+            "target": "style",
+            "value": 3
+        },
+        {
+            "source": "japan",
+            "target": "china",
+            "value": 5
+        },
+        {
+            "source": "female",
+            "target": "anime",
+            "value": 5
+        },
+        {
+            "source": "anime",
+            "target": "girls",
+            "value": 11
+        },
+        {
+            "source": "female",
+            "target": "sexy",
+            "value": 3
+        },
+        {
+            "source": "female",
+            "target": "clothing",
+            "value": 1
+        },
+        {
+            "source": "female",
+            "target": "girls",
+            "value": 4
+        },
+        {
+            "source": "female",
+            "target": "china dress",
+            "value": 1
+        },
+        {
+            "source": "china dress",
+            "target": "girls",
+            "value": 1
+        },
+        {
+            "source": "japan",
+            "target": "concept",
+            "value": 2
+        },
+        {
+            "source": "china",
+            "target": "concept",
+            "value": 10
+        },
+        {
+            "source": "qipao",
+            "target": "chinese clothes",
+            "value": 1
+        },
+        {
+            "source": "chinese",
+            "target": "hanfu",
+            "value": 1
+        },
+        {
+            "source": "hanfu",
+            "target": "clothing",
+            "value": 1
+        },
+        {
+            "source": "hanfu",
+            "target": "china",
+            "value": 6
+        },
+        {
+            "source": "chinese",
+            "target": "chinese dress",
+            "value": 1
+        },
+        {
+            "source": "paintings",
+            "target": "chinese",
+            "value": 1
+        },
+        {
+            "source": "chinese dress",
+            "target": "style",
+            "value": 1
+        },
+        {
+            "source": "paintings",
+            "target": "chinese dress",
+            "value": 1
+        },
+        {
+            "source": "chinese dress",
+            "target": "china",
+            "value": 1
+        },
+        {
+            "source": "paintings",
+            "target": "style",
+            "value": 2
+        },
+        {
+            "source": "photorealistic",
+            "target": "chinese",
+            "value": 2
+        },
+        {
+            "source": "photorealistic",
+            "target": "china",
+            "value": 9
+        },
+        {
+            "source": "female",
+            "target": "style",
+            "value": 4
+        },
+        {
+            "source": "female",
+            "target": "china",
+            "value": 7
+        },
+        {
+            "source": "chinese",
+            "target": "asian",
+            "value": 2
+        },
+        {
+            "source": "chinese",
+            "target": "art style",
+            "value": 3
+        },
+        {
+            "source": "asian",
+            "target": "art style",
+            "value": 1
+        },
+        {
+            "source": "asian",
+            "target": "china",
+            "value": 6
+        },
+        {
+            "source": "china",
+            "target": "art style",
+            "value": 3
+        },
+        {
+            "source": "ink",
+            "target": "anime",
+            "value": 1
+        },
+        {
+            "source": "anime",
+            "target": "style",
+            "value": 9
+        },
+        {
+            "source": "anime",
+            "target": "china",
+            "value": 19
+        },
+        {
+            "source": "ink",
+            "target": "girls",
+            "value": 1
+        },
+        {
+            "source": "style",
+            "target": "girls",
+            "value": 3
+        },
+        {
+            "source": "china",
+            "target": "celebrity",
+            "value": 7
+        },
+        {
+            "source": "chinese",
+            "target": "celebrity",
+            "value": 1
+        },
+        {
+            "source": "dress",
+            "target": "outfit",
+            "value": 1
+        },
+        {
+            "source": "woman",
+            "target": "dress",
+            "value": 2
+        },
+        {
+            "source": "dress",
+            "target": "girls",
+            "value": 1
+        },
+        {
+            "source": "woman",
+            "target": "outfit",
+            "value": 1
+        },
+        {
+            "source": "clothing",
+            "target": "outfit",
+            "value": 2
+        },
+        {
+            "source": "outfit",
+            "target": "girls",
+            "value": 1
+        },
+        {
+            "source": "outfit",
+            "target": "china",
+            "value": 1
+        },
+        {
+            "source": "woman",
+            "target": "clothing",
+            "value": 2
+        },
+        {
+            "source": "woman",
+            "target": "girls",
+            "value": 6
+        },
+        {
+            "source": "chinese",
+            "target": "traditional",
+            "value": 5
+        },
+        {
+            "source": "traditional",
+            "target": "art style",
+            "value": 1
+        },
+        {
+            "source": "woman",
+            "target": "anime",
+            "value": 5
+        },
+        {
+            "source": "female",
+            "target": "character",
+            "value": 4
+        },
+        {
+            "source": "woman",
+            "target": "character",
+            "value": 7
+        },
+        {
+            "source": "character",
+            "target": "girls",
+            "value": 2
+        },
+        {
+            "source": "character",
+            "target": "china",
+            "value": 9
+        },
+        {
+            "source": "woman",
+            "target": "female",
+            "value": 6
+        },
+        {
+            "source": "anime",
+            "target": "warhammer",
+            "value": 1
+        },
+        {
+            "source": "style",
+            "target": "warhammer",
+            "value": 1
+        },
+        {
+            "source": "china",
+            "target": "warhammer",
+            "value": 1
+        },
+        {
+            "source": "chinese",
+            "target": "character",
+            "value": 6
+        },
+        {
+            "source": "traditional",
+            "target": "character",
+            "value": 2
+        },
+        {
+            "source": "photo",
+            "target": "character",
+            "value": 1
+        },
+        {
+            "source": "ancient",
+            "target": "character",
+            "value": 1
+        },
+        {
+            "source": "woman",
+            "target": "chinese",
+            "value": 4
+        },
+        {
+            "source": "ancient",
+            "target": "chinese",
+            "value": 2
+        },
+        {
+            "source": "traditional",
+            "target": "photo",
+            "value": 1
+        },
+        {
+            "source": "woman",
+            "target": "traditional",
+            "value": 2
+        },
+        {
+            "source": "ancient",
+            "target": "traditional",
+            "value": 2
+        },
+        {
+            "source": "woman",
+            "target": "photo",
+            "value": 1
+        },
+        {
+            "source": "ancient",
+            "target": "photo",
+            "value": 1
+        },
+        {
+            "source": "woman",
+            "target": "ancient",
+            "value": 1
+        },
+        {
+            "source": "objects",
+            "target": "chinese",
+            "value": 1
+        },
+        {
+            "source": "objects",
+            "target": "china",
+            "value": 3
+        },
+        {
+            "source": "photorealistic",
+            "target": "sexy",
+            "value": 3
+        },
+        {
+            "source": "photorealistic",
+            "target": "female",
+            "value": 5
+        },
+        {
+            "source": "photorealistic",
+            "target": "asian",
+            "value": 3
+        },
+        {
+            "source": "photorealistic",
+            "target": "style",
+            "value": 3
+        },
+        {
+            "source": "photorealistic",
+            "target": "hanfu",
+            "value": 2
+        },
+        {
+            "source": "sexy",
+            "target": "asian",
+            "value": 1
+        },
+        {
+            "source": "sexy",
+            "target": "style",
+            "value": 1
+        },
+        {
+            "source": "sexy",
+            "target": "hanfu",
+            "value": 1
+        },
+        {
+            "source": "female",
+            "target": "asian",
+            "value": 2
+        },
+        {
+            "source": "female",
+            "target": "hanfu",
+            "value": 2
+        },
+        {
+            "source": "asian",
+            "target": "style",
+            "value": 3
+        },
+        {
+            "source": "hanfu",
+            "target": "asian",
+            "value": 2
+        },
+        {
+            "source": "hanfu",
+            "target": "style",
+            "value": 2
+        },
+        {
+            "source": "ancient china",
+            "target": "anime",
+            "value": 1
+        },
+        {
+            "source": "ancient china",
+            "target": "style",
+            "value": 1
+        },
+        {
+            "source": "ancient china",
+            "target": "girls",
+            "value": 1
+        },
+        {
+            "source": "woman",
+            "target": "photorealistic",
+            "value": 5
+        },
+        {
+            "source": "photorealistic",
+            "target": "celebrity",
+            "value": 4
+        },
+        {
+            "source": "photorealistic",
+            "target": "girls",
+            "value": 2
+        },
+        {
+            "source": "photorealistic",
+            "target": "realistic",
+            "value": 6
+        },
+        {
+            "source": "photorealistic",
+            "target": "asia",
+            "value": 1
+        },
+        {
+            "source": "woman",
+            "target": "celebrity",
+            "value": 5
+        },
+        {
+            "source": "woman",
+            "target": "realistic",
+            "value": 5
+        },
+        {
+            "source": "woman",
+            "target": "asia",
+            "value": 1
+        },
+        {
+            "source": "celebrity",
+            "target": "girls",
+            "value": 2
+        },
+        {
+            "source": "realistic",
+            "target": "celebrity",
+            "value": 4
+        },
+        {
+            "source": "asia",
+            "target": "celebrity",
+            "value": 1
+        },
+        {
+            "source": "realistic",
+            "target": "girls",
+            "value": 2
+        },
+        {
+            "source": "asia",
+            "target": "girls",
+            "value": 1
+        },
+        {
+            "source": "realistic",
+            "target": "asia",
+            "value": 1
+        },
+        {
+            "source": "asia",
+            "target": "china",
+            "value": 2
+        },
+        {
+            "source": "female",
+            "target": "realistic",
+            "value": 2
+        },
+        {
+            "source": "realistic",
+            "target": "asian",
+            "value": 1
+        },
+        {
+            "source": "realistic",
+            "target": "style",
+            "value": 1
+        },
+        {
+            "source": "realistic",
+            "target": "hanfu",
+            "value": 1
+        },
+        {
+            "source": "chinese",
+            "target": "anime",
+            "value": 2
+        },
+        {
+            "source": "anime",
+            "target": "styles",
+            "value": 1
+        },
+        {
+            "source": "chinese",
+            "target": "styles",
+            "value": 1
+        },
+        {
+            "source": "anime",
+            "target": "concept",
+            "value": 6
+        },
+        {
+            "source": "hanfu",
+            "target": "anime",
+            "value": 3
+        },
+        {
+            "source": "hanfu",
+            "target": "concept",
+            "value": 3
+        },
+        {
+            "source": "concept",
+            "target": "girls",
+            "value": 5
+        },
+        {
+            "source": "hanfu",
+            "target": "girls",
+            "value": 3
+        },
+        {
+            "source": "traditional",
+            "target": "style",
+            "value": 2
+        },
+        {
+            "source": "ancient",
+            "target": "style",
+            "value": 1
+        },
+        {
+            "source": "qipao",
+            "target": "concept",
+            "value": 2
+        },
+        {
+            "source": "qipao",
+            "target": "hanfu",
+            "value": 1
+        },
+        {
+            "source": "qipao",
+            "target": "girls",
+            "value": 2
+        },
+        {
+            "source": "qipao",
+            "target": "china",
+            "value": 2
+        },
+        {
+            "source": "anime",
+            "target": "artwork",
+            "value": 1
+        },
+        {
+            "source": "game",
+            "target": "anime",
+            "value": 2
+        },
+        {
+            "source": "artwork",
+            "target": "style",
+            "value": 2
+        },
+        {
+            "source": "game",
+            "target": "style",
+            "value": 3
+        },
+        {
+            "source": "artwork",
+            "target": "china",
+            "value": 2
+        },
+        {
+            "source": "game",
+            "target": "china",
+            "value": 3
+        },
+        {
+            "source": "game",
+            "target": "artwork",
+            "value": 1
+        },
+        {
+            "source": "chinese",
+            "target": "sexy",
+            "value": 1
+        },
+        {
+            "source": "sexy",
+            "target": "traditional",
+            "value": 1
+        },
+        {
+            "source": "woman",
+            "target": "sexy",
+            "value": 3
+        },
+        {
+            "source": "female",
+            "target": "chinese",
+            "value": 1
+        },
+        {
+            "source": "sexy",
+            "target": "celebrity",
+            "value": 2
+        },
+        {
+            "source": "realistic",
+            "target": "sexy",
+            "value": 2
+        },
+        {
+            "source": "female",
+            "target": "celebrity",
+            "value": 2
+        },
+        {
+            "source": "chinese dress",
+            "target": "outfit",
+            "value": 1
+        },
+        {
+            "source": "blue archive",
+            "target": "outfit",
+            "value": 1
+        },
+        {
+            "source": "china dress",
+            "target": "outfit",
+            "value": 1
+        },
+        {
+            "source": "blue archive",
+            "target": "chinese dress",
+            "value": 1
+        },
+        {
+            "source": "clothing",
+            "target": "chinese dress",
+            "value": 1
+        },
+        {
+            "source": "china dress",
+            "target": "chinese dress",
+            "value": 1
+        },
+        {
+            "source": "blue archive",
+            "target": "china dress",
+            "value": 1
+        },
+        {
+            "source": "objects",
+            "target": "anime",
+            "value": 1
+        },
+        {
+            "source": "chinese clothes",
+            "target": "anime",
+            "value": 1
+        },
+        {
+            "source": "chinese clothes",
+            "target": "cheongsam",
+            "value": 1
+        },
+        {
+            "source": "qipao",
+            "target": "character",
+            "value": 1
+        },
+        {
+            "source": "character",
+            "target": "cheongsam",
+            "value": 1
+        },
+        {
+            "source": "dress",
+            "target": "anime",
+            "value": 1
+        },
+        {
+            "source": "dress",
+            "target": "chinese",
+            "value": 1
+        },
+        {
+            "source": "chinese",
+            "target": "cheongsam",
+            "value": 1
+        },
+        {
+            "source": "dress",
+            "target": "cheongsam",
+            "value": 1
+        },
+        {
+            "source": "woman",
+            "target": "cheongsam",
+            "value": 1
+        },
+        {
+            "source": "china",
+            "target": "cheongsam",
+            "value": 1
+        },
+        {
+            "source": "photorealistic",
+            "target": "concept",
+            "value": 1
+        },
+        {
+            "source": "photorealistic",
+            "target": "japan",
+            "value": 1
+        },
+        {
+            "source": "asian",
+            "target": "concept",
+            "value": 1
+        },
+        {
+            "source": "japan",
+            "target": "asian",
+            "value": 2
+        },
+        {
+            "source": "asian",
+            "target": "anime",
+            "value": 1
+        },
+        {
+            "source": "japan",
+            "target": "anime",
+            "value": 1
+        },
+        {
+            "source": "chinese",
+            "target": "artwork",
+            "value": 1
+        },
+        {
+            "source": "ink",
+            "target": "traditional",
+            "value": 1
+        },
+        {
+            "source": "ink",
+            "target": "artwork",
+            "value": 1
+        },
+        {
+            "source": "traditional",
+            "target": "artwork",
+            "value": 1
+        },
+        {
+            "source": "anime",
+            "target": "asia",
+            "value": 1
+        },
+        {
+            "source": "asia",
+            "target": "concept",
+            "value": 1
+        },
+        {
+            "source": "character",
+            "target": "warhammer",
+            "value": 1
+        },
+        {
+            "source": "fantasy",
+            "target": "character",
+            "value": 1
+        },
+        {
+            "source": "ancient china",
+            "target": "character",
+            "value": 1
+        },
+        {
+            "source": "fantasy",
+            "target": "warhammer",
+            "value": 1
+        },
+        {
+            "source": "ancient china",
+            "target": "warhammer",
+            "value": 1
+        },
+        {
+            "source": "ancient china",
+            "target": "fantasy",
+            "value": 1
+        },
+        {
+            "source": "architecture",
+            "target": "style",
+            "value": 1
+        },
+        {
+            "source": "photorealistic",
+            "target": "character",
+            "value": 1
+        },
+        {
+            "source": "realistic",
+            "target": "character",
+            "value": 1
+        },
+        {
+            "source": "photorealistic",
+            "target": "objects",
+            "value": 1
+        },
+        {
+            "source": "objects",
+            "target": "realistic",
+            "value": 1
+        }
+    ]
+}

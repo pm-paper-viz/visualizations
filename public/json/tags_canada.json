@@ -1,0 +1,108 @@
+{
+    "nodes": [
+        {
+            "id": "canada",
+            "size": 16
+        },
+        {
+            "id": "female",
+            "size": 5
+        },
+        {
+            "id": "woman",
+            "size": 6
+        },
+        {
+            "id": "celebrity",
+            "size": 7
+        },
+        {
+            "id": "lora",
+            "size": 3
+        },
+        {
+            "id": "style",
+            "size": 2
+        },
+        {
+            "id": "character",
+            "size": 5
+        },
+        {
+            "id": "canadian",
+            "size": 2
+        }
+    ],
+    "links": [
+        {
+            "source": "woman",
+            "target": "female",
+            "value": 5
+        },
+        {
+            "source": "female",
+            "target": "celebrity",
+            "value": 5
+        },
+        {
+            "source": "female",
+            "target": "canada",
+            "value": 5
+        },
+        {
+            "source": "woman",
+            "target": "celebrity",
+            "value": 6
+        },
+        {
+            "source": "woman",
+            "target": "canada",
+            "value": 6
+        },
+        {
+            "source": "canada",
+            "target": "celebrity",
+            "value": 7
+        },
+        {
+            "source": "female",
+            "target": "lora",
+            "value": 2
+        },
+        {
+            "source": "woman",
+            "target": "lora",
+            "value": 3
+        },
+        {
+            "source": "lora",
+            "target": "celebrity",
+            "value": 3
+        },
+        {
+            "source": "canada",
+            "target": "lora",
+            "value": 3
+        },
+        {
+            "source": "canada",
+            "target": "style",
+            "value": 2
+        },
+        {
+            "source": "canada",
+            "target": "canadian",
+            "value": 2
+        },
+        {
+            "source": "canada",
+            "target": "character",
+            "value": 4
+        },
+        {
+            "source": "character",
+            "target": "canadian",
+            "value": 1
+        }
+    ]
+}

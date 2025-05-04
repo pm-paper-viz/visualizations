@@ -1,0 +1,1544 @@
+{
+    "nodes": [
+        {
+            "id": "woman",
+            "size": 276
+        },
+        {
+            "id": "celebrity",
+            "size": 329
+        },
+        {
+            "id": "russian",
+            "size": 339
+        },
+        {
+            "id": "blonde",
+            "size": 8
+        },
+        {
+            "id": "american",
+            "size": 3
+        },
+        {
+            "id": "pornstar",
+            "size": 51
+        },
+        {
+            "id": "model",
+            "size": 36
+        },
+        {
+            "id": "instagram",
+            "size": 18
+        },
+        {
+            "id": "instagram model",
+            "size": 8
+        },
+        {
+            "id": "female",
+            "size": 84
+        },
+        {
+            "id": "textual inversion",
+            "size": 128
+        },
+        {
+            "id": "influencer",
+            "size": 8
+        },
+        {
+            "id": "photorealistic",
+            "size": 93
+        },
+        {
+            "id": "girls",
+            "size": 12
+        },
+        {
+            "id": "sexy",
+            "size": 23
+        },
+        {
+            "id": "russia",
+            "size": 7
+        },
+        {
+            "id": "person",
+            "size": 6
+        },
+        {
+            "id": "man",
+            "size": 8
+        },
+        {
+            "id": "old man",
+            "size": 3
+        },
+        {
+            "id": "singer",
+            "size": 12
+        },
+        {
+            "id": "actress",
+            "size": 10
+        },
+        {
+            "id": "porn",
+            "size": 3
+        },
+        {
+            "id": "lora",
+            "size": 9
+        },
+        {
+            "id": "brunette",
+            "size": 4
+        },
+        {
+            "id": "politician",
+            "size": 5
+        },
+        {
+            "id": "realistic",
+            "size": 27
+        },
+        {
+            "id": "youtuber",
+            "size": 2
+        },
+        {
+            "id": "cute",
+            "size": 7
+        },
+        {
+            "id": "tiktoker",
+            "size": 3
+        },
+        {
+            "id": "male",
+            "size": 2
+        },
+        {
+            "id": "glamour model",
+            "size": 5
+        },
+        {
+            "id": "famous",
+            "size": 3
+        },
+        {
+            "id": "adult model",
+            "size": 9
+        },
+        {
+            "id": "metart",
+            "size": 5
+        },
+        {
+            "id": "ussr",
+            "size": 4
+        },
+        {
+            "id": "punk",
+            "size": 3
+        },
+        {
+            "id": "musician",
+            "size": 2
+        },
+        {
+            "id": "character",
+            "size": 15
+        },
+        {
+            "id": "streamer",
+            "size": 4
+        },
+        {
+            "id": "men",
+            "size": 2
+        },
+        {
+            "id": "russian model",
+            "size": 6
+        },
+        {
+            "id": "activist",
+            "size": 2
+        }
+    ],
+    "links": [
+        {
+            "source": "woman",
+            "target": "celebrity",
+            "value": 272
+        },
+        {
+            "source": "russian",
+            "target": "woman",
+            "value": 272
+        },
+        {
+            "source": "russian",
+            "target": "celebrity",
+            "value": 324
+        },
+        {
+            "source": "american",
+            "target": "blonde",
+            "value": 1
+        },
+        {
+            "source": "blonde",
+            "target": "celebrity",
+            "value": 8
+        },
+        {
+            "source": "pornstar",
+            "target": "blonde",
+            "value": 5
+        },
+        {
+            "source": "russian",
+            "target": "blonde",
+            "value": 8
+        },
+        {
+            "source": "american",
+            "target": "celebrity",
+            "value": 3
+        },
+        {
+            "source": "pornstar",
+            "target": "american",
+            "value": 1
+        },
+        {
+            "source": "russian",
+            "target": "american",
+            "value": 2
+        },
+        {
+            "source": "pornstar",
+            "target": "celebrity",
+            "value": 50
+        },
+        {
+            "source": "pornstar",
+            "target": "russian",
+            "value": 51
+        },
+        {
+            "source": "instagram",
+            "target": "model",
+            "value": 6
+        },
+        {
+            "source": "woman",
+            "target": "model",
+            "value": 24
+        },
+        {
+            "source": "model",
+            "target": "celebrity",
+            "value": 36
+        },
+        {
+            "source": "model",
+            "target": "instagram model",
+            "value": 3
+        },
+        {
+            "source": "russian",
+            "target": "model",
+            "value": 36
+        },
+        {
+            "source": "instagram",
+            "target": "woman",
+            "value": 8
+        },
+        {
+            "source": "instagram",
+            "target": "celebrity",
+            "value": 18
+        },
+        {
+            "source": "instagram",
+            "target": "instagram model",
+            "value": 6
+        },
+        {
+            "source": "russian",
+            "target": "instagram",
+            "value": 16
+        },
+        {
+            "source": "woman",
+            "target": "instagram model",
+            "value": 4
+        },
+        {
+            "source": "celebrity",
+            "target": "instagram model",
+            "value": 8
+        },
+        {
+            "source": "russian",
+            "target": "instagram model",
+            "value": 8
+        },
+        {
+            "source": "female",
+            "target": "textual inversion",
+            "value": 77
+        },
+        {
+            "source": "woman",
+            "target": "female",
+            "value": 80
+        },
+        {
+            "source": "female",
+            "target": "celebrity",
+            "value": 83
+        },
+        {
+            "source": "russian",
+            "target": "female",
+            "value": 84
+        },
+        {
+            "source": "female",
+            "target": "influencer",
+            "value": 1
+        },
+        {
+            "source": "woman",
+            "target": "textual inversion",
+            "value": 126
+        },
+        {
+            "source": "textual inversion",
+            "target": "celebrity",
+            "value": 128
+        },
+        {
+            "source": "russian",
+            "target": "textual inversion",
+            "value": 128
+        },
+        {
+            "source": "textual inversion",
+            "target": "influencer",
+            "value": 1
+        },
+        {
+            "source": "woman",
+            "target": "influencer",
+            "value": 6
+        },
+        {
+            "source": "celebrity",
+            "target": "influencer",
+            "value": 8
+        },
+        {
+            "source": "russian",
+            "target": "influencer",
+            "value": 7
+        },
+        {
+            "source": "woman",
+            "target": "photorealistic",
+            "value": 89
+        },
+        {
+            "source": "photorealistic",
+            "target": "celebrity",
+            "value": 91
+        },
+        {
+            "source": "photorealistic",
+            "target": "girls",
+            "value": 11
+        },
+        {
+            "source": "russian",
+            "target": "photorealistic",
+            "value": 92
+        },
+        {
+            "source": "woman",
+            "target": "girls",
+            "value": 10
+        },
+        {
+            "source": "girls",
+            "target": "celebrity",
+            "value": 12
+        },
+        {
+            "source": "russian",
+            "target": "girls",
+            "value": 12
+        },
+        {
+            "source": "pornstar",
+            "target": "female",
+            "value": 10
+        },
+        {
+            "source": "pornstar",
+            "target": "textual inversion",
+            "value": 17
+        },
+        {
+            "source": "pornstar",
+            "target": "woman",
+            "value": 46
+        },
+        {
+            "source": "female",
+            "target": "model",
+            "value": 9
+        },
+        {
+            "source": "model",
+            "target": "textual inversion",
+            "value": 10
+        },
+        {
+            "source": "sexy",
+            "target": "female",
+            "value": 1
+        },
+        {
+            "source": "sexy",
+            "target": "textual inversion",
+            "value": 1
+        },
+        {
+            "source": "sexy",
+            "target": "woman",
+            "value": 21
+        },
+        {
+            "source": "sexy",
+            "target": "celebrity",
+            "value": 23
+        },
+        {
+            "source": "russian",
+            "target": "sexy",
+            "value": 23
+        },
+        {
+            "source": "instagram",
+            "target": "russia",
+            "value": 1
+        },
+        {
+            "source": "russia",
+            "target": "celebrity",
+            "value": 4
+        },
+        {
+            "source": "russia",
+            "target": "instagram model",
+            "value": 1
+        },
+        {
+            "source": "russian",
+            "target": "russia",
+            "value": 7
+        },
+        {
+            "source": "female",
+            "target": "person",
+            "value": 2
+        },
+        {
+            "source": "textual inversion",
+            "target": "person",
+            "value": 2
+        },
+        {
+            "source": "model",
+            "target": "person",
+            "value": 1
+        },
+        {
+            "source": "celebrity",
+            "target": "person",
+            "value": 6
+        },
+        {
+            "source": "russian",
+            "target": "person",
+            "value": 6
+        },
+        {
+            "source": "man",
+            "target": "celebrity",
+            "value": 6
+        },
+        {
+            "source": "celebrity",
+            "target": "old man",
+            "value": 3
+        },
+        {
+            "source": "russian",
+            "target": "man",
+            "value": 8
+        },
+        {
+            "source": "man",
+            "target": "old man",
+            "value": 1
+        },
+        {
+            "source": "russian",
+            "target": "old man",
+            "value": 3
+        },
+        {
+            "source": "woman",
+            "target": "singer",
+            "value": 6
+        },
+        {
+            "source": "singer",
+            "target": "celebrity",
+            "value": 12
+        },
+        {
+            "source": "russian",
+            "target": "singer",
+            "value": 12
+        },
+        {
+            "source": "female",
+            "target": "actress",
+            "value": 3
+        },
+        {
+            "source": "actress",
+            "target": "textual inversion",
+            "value": 2
+        },
+        {
+            "source": "woman",
+            "target": "actress",
+            "value": 7
+        },
+        {
+            "source": "actress",
+            "target": "celebrity",
+            "value": 10
+        },
+        {
+            "source": "russian",
+            "target": "actress",
+            "value": 10
+        },
+        {
+            "source": "porn",
+            "target": "model",
+            "value": 1
+        },
+        {
+            "source": "porn",
+            "target": "celebrity",
+            "value": 3
+        },
+        {
+            "source": "russian",
+            "target": "porn",
+            "value": 3
+        },
+        {
+            "source": "porn",
+            "target": "lora",
+            "value": 1
+        },
+        {
+            "source": "model",
+            "target": "lora",
+            "value": 1
+        },
+        {
+            "source": "celebrity",
+            "target": "lora",
+            "value": 9
+        },
+        {
+            "source": "russian",
+            "target": "lora",
+            "value": 8
+        },
+        {
+            "source": "model",
+            "target": "actress",
+            "value": 1
+        },
+        {
+            "source": "sexy",
+            "target": "photorealistic",
+            "value": 19
+        },
+        {
+            "source": "photorealistic",
+            "target": "instagram model",
+            "value": 1
+        },
+        {
+            "source": "sexy",
+            "target": "instagram model",
+            "value": 1
+        },
+        {
+            "source": "model",
+            "target": "influencer",
+            "value": 2
+        },
+        {
+            "source": "instagram",
+            "target": "influencer",
+            "value": 2
+        },
+        {
+            "source": "pornstar",
+            "target": "photorealistic",
+            "value": 16
+        },
+        {
+            "source": "brunette",
+            "target": "photorealistic",
+            "value": 3
+        },
+        {
+            "source": "brunette",
+            "target": "woman",
+            "value": 4
+        },
+        {
+            "source": "brunette",
+            "target": "celebrity",
+            "value": 4
+        },
+        {
+            "source": "pornstar",
+            "target": "brunette",
+            "value": 2
+        },
+        {
+            "source": "russian",
+            "target": "brunette",
+            "value": 4
+        },
+        {
+            "source": "politician",
+            "target": "celebrity",
+            "value": 5
+        },
+        {
+            "source": "politician",
+            "target": "russian",
+            "value": 5
+        },
+        {
+            "source": "porn",
+            "target": "person",
+            "value": 1
+        },
+        {
+            "source": "female",
+            "target": "porn",
+            "value": 1
+        },
+        {
+            "source": "porn",
+            "target": "textual inversion",
+            "value": 1
+        },
+        {
+            "source": "woman",
+            "target": "blonde",
+            "value": 7
+        },
+        {
+            "source": "blonde",
+            "target": "realistic",
+            "value": 4
+        },
+        {
+            "source": "woman",
+            "target": "realistic",
+            "value": 27
+        },
+        {
+            "source": "realistic",
+            "target": "celebrity",
+            "value": 26
+        },
+        {
+            "source": "pornstar",
+            "target": "realistic",
+            "value": 8
+        },
+        {
+            "source": "russian",
+            "target": "realistic",
+            "value": 27
+        },
+        {
+            "source": "instagram",
+            "target": "youtuber",
+            "value": 1
+        },
+        {
+            "source": "youtuber",
+            "target": "celebrity",
+            "value": 1
+        },
+        {
+            "source": "cute",
+            "target": "youtuber",
+            "value": 1
+        },
+        {
+            "source": "russian",
+            "target": "youtuber",
+            "value": 2
+        },
+        {
+            "source": "tiktoker",
+            "target": "youtuber",
+            "value": 1
+        },
+        {
+            "source": "cute",
+            "target": "instagram",
+            "value": 1
+        },
+        {
+            "source": "tiktoker",
+            "target": "instagram",
+            "value": 2
+        },
+        {
+            "source": "cute",
+            "target": "celebrity",
+            "value": 7
+        },
+        {
+            "source": "tiktoker",
+            "target": "celebrity",
+            "value": 2
+        },
+        {
+            "source": "cute",
+            "target": "russian",
+            "value": 7
+        },
+        {
+            "source": "cute",
+            "target": "tiktoker",
+            "value": 1
+        },
+        {
+            "source": "russian",
+            "target": "tiktoker",
+            "value": 3
+        },
+        {
+            "source": "photorealistic",
+            "target": "model",
+            "value": 7
+        },
+        {
+            "source": "celebrity",
+            "target": "male",
+            "value": 2
+        },
+        {
+            "source": "man",
+            "target": "male",
+            "value": 1
+        },
+        {
+            "source": "russian",
+            "target": "male",
+            "value": 2
+        },
+        {
+            "source": "photorealistic",
+            "target": "realistic",
+            "value": 17
+        },
+        {
+            "source": "sexy",
+            "target": "girls",
+            "value": 9
+        },
+        {
+            "source": "sexy",
+            "target": "realistic",
+            "value": 8
+        },
+        {
+            "source": "girls",
+            "target": "realistic",
+            "value": 8
+        },
+        {
+            "source": "instagram",
+            "target": "photorealistic",
+            "value": 3
+        },
+        {
+            "source": "sexy",
+            "target": "instagram",
+            "value": 3
+        },
+        {
+            "source": "woman",
+            "target": "glamour model",
+            "value": 4
+        },
+        {
+            "source": "glamour model",
+            "target": "celebrity",
+            "value": 5
+        },
+        {
+            "source": "russian",
+            "target": "glamour model",
+            "value": 5
+        },
+        {
+            "source": "russia",
+            "target": "singer",
+            "value": 1
+        },
+        {
+            "source": "famous",
+            "target": "singer",
+            "value": 3
+        },
+        {
+            "source": "singer",
+            "target": "influencer",
+            "value": 1
+        },
+        {
+            "source": "famous",
+            "target": "russia",
+            "value": 1
+        },
+        {
+            "source": "russia",
+            "target": "influencer",
+            "value": 1
+        },
+        {
+            "source": "famous",
+            "target": "celebrity",
+            "value": 3
+        },
+        {
+            "source": "russian",
+            "target": "famous",
+            "value": 3
+        },
+        {
+            "source": "famous",
+            "target": "influencer",
+            "value": 1
+        },
+        {
+            "source": "adult model",
+            "target": "female",
+            "value": 1
+        },
+        {
+            "source": "female",
+            "target": "metart",
+            "value": 1
+        },
+        {
+            "source": "adult model",
+            "target": "woman",
+            "value": 7
+        },
+        {
+            "source": "woman",
+            "target": "metart",
+            "value": 3
+        },
+        {
+            "source": "adult model",
+            "target": "celebrity",
+            "value": 9
+        },
+        {
+            "source": "celebrity",
+            "target": "metart",
+            "value": 5
+        },
+        {
+            "source": "russian",
+            "target": "adult model",
+            "value": 9
+        },
+        {
+            "source": "russian",
+            "target": "metart",
+            "value": 5
+        },
+        {
+            "source": "adult model",
+            "target": "metart",
+            "value": 4
+        },
+        {
+            "source": "politician",
+            "target": "ussr",
+            "value": 1
+        },
+        {
+            "source": "ussr",
+            "target": "celebrity",
+            "value": 4
+        },
+        {
+            "source": "man",
+            "target": "ussr",
+            "value": 1
+        },
+        {
+            "source": "russian",
+            "target": "ussr",
+            "value": 4
+        },
+        {
+            "source": "politician",
+            "target": "man",
+            "value": 1
+        },
+        {
+            "source": "singer",
+            "target": "punk",
+            "value": 2
+        },
+        {
+            "source": "ussr",
+            "target": "singer",
+            "value": 2
+        },
+        {
+            "source": "musician",
+            "target": "singer",
+            "value": 1
+        },
+        {
+            "source": "ussr",
+            "target": "punk",
+            "value": 1
+        },
+        {
+            "source": "musician",
+            "target": "punk",
+            "value": 2
+        },
+        {
+            "source": "celebrity",
+            "target": "punk",
+            "value": 2
+        },
+        {
+            "source": "russian",
+            "target": "punk",
+            "value": 3
+        },
+        {
+            "source": "famous",
+            "target": "punk",
+            "value": 2
+        },
+        {
+            "source": "musician",
+            "target": "ussr",
+            "value": 1
+        },
+        {
+            "source": "ussr",
+            "target": "famous",
+            "value": 1
+        },
+        {
+            "source": "musician",
+            "target": "celebrity",
+            "value": 1
+        },
+        {
+            "source": "musician",
+            "target": "russian",
+            "value": 2
+        },
+        {
+            "source": "musician",
+            "target": "famous",
+            "value": 1
+        },
+        {
+            "source": "sexy",
+            "target": "model",
+            "value": 2
+        },
+        {
+            "source": "pornstar",
+            "target": "sexy",
+            "value": 10
+        },
+        {
+            "source": "model",
+            "target": "girls",
+            "value": 3
+        },
+        {
+            "source": "pornstar",
+            "target": "model",
+            "value": 3
+        },
+        {
+            "source": "pornstar",
+            "target": "girls",
+            "value": 1
+        },
+        {
+            "source": "ussr",
+            "target": "person",
+            "value": 1
+        },
+        {
+            "source": "old man",
+            "target": "person",
+            "value": 1
+        },
+        {
+            "source": "ussr",
+            "target": "old man",
+            "value": 1
+        },
+        {
+            "source": "character",
+            "target": "photorealistic",
+            "value": 2
+        },
+        {
+            "source": "character",
+            "target": "female",
+            "value": 1
+        },
+        {
+            "source": "character",
+            "target": "russian",
+            "value": 13
+        },
+        {
+            "source": "character",
+            "target": "tiktoker",
+            "value": 1
+        },
+        {
+            "source": "photorealistic",
+            "target": "female",
+            "value": 2
+        },
+        {
+            "source": "tiktoker",
+            "target": "photorealistic",
+            "value": 1
+        },
+        {
+            "source": "tiktoker",
+            "target": "female",
+            "value": 1
+        },
+        {
+            "source": "singer",
+            "target": "person",
+            "value": 1
+        },
+        {
+            "source": "politician",
+            "target": "woman",
+            "value": 2
+        },
+        {
+            "source": "model",
+            "target": "realistic",
+            "value": 4
+        },
+        {
+            "source": "female",
+            "target": "realistic",
+            "value": 1
+        },
+        {
+            "source": "adult model",
+            "target": "photorealistic",
+            "value": 2
+        },
+        {
+            "source": "adult model",
+            "target": "realistic",
+            "value": 2
+        },
+        {
+            "source": "photorealistic",
+            "target": "blonde",
+            "value": 3
+        },
+        {
+            "source": "photorealistic",
+            "target": "influencer",
+            "value": 3
+        },
+        {
+            "source": "blonde",
+            "target": "influencer",
+            "value": 1
+        },
+        {
+            "source": "cute",
+            "target": "female",
+            "value": 1
+        },
+        {
+            "source": "cute",
+            "target": "woman",
+            "value": 3
+        },
+        {
+            "source": "pornstar",
+            "target": "cute",
+            "value": 1
+        },
+        {
+            "source": "brunette",
+            "target": "influencer",
+            "value": 1
+        },
+        {
+            "source": "russia",
+            "target": "person",
+            "value": 1
+        },
+        {
+            "source": "woman",
+            "target": "person",
+            "value": 2
+        },
+        {
+            "source": "realistic",
+            "target": "person",
+            "value": 2
+        },
+        {
+            "source": "woman",
+            "target": "russia",
+            "value": 1
+        },
+        {
+            "source": "realistic",
+            "target": "russia",
+            "value": 1
+        },
+        {
+            "source": "adult model",
+            "target": "sexy",
+            "value": 1
+        },
+        {
+            "source": "pornstar",
+            "target": "adult model",
+            "value": 1
+        },
+        {
+            "source": "brunette",
+            "target": "realistic",
+            "value": 1
+        },
+        {
+            "source": "glamour model",
+            "target": "realistic",
+            "value": 1
+        },
+        {
+            "source": "brunette",
+            "target": "glamour model",
+            "value": 1
+        },
+        {
+            "source": "cute",
+            "target": "model",
+            "value": 1
+        },
+        {
+            "source": "adult model",
+            "target": "model",
+            "value": 1
+        },
+        {
+            "source": "cute",
+            "target": "adult model",
+            "value": 3
+        },
+        {
+            "source": "tiktoker",
+            "target": "woman",
+            "value": 1
+        },
+        {
+            "source": "pornstar",
+            "target": "actress",
+            "value": 2
+        },
+        {
+            "source": "pornstar",
+            "target": "instagram",
+            "value": 1
+        },
+        {
+            "source": "singer",
+            "target": "streamer",
+            "value": 1
+        },
+        {
+            "source": "singer",
+            "target": "male",
+            "value": 1
+        },
+        {
+            "source": "singer",
+            "target": "men",
+            "value": 1
+        },
+        {
+            "source": "streamer",
+            "target": "celebrity",
+            "value": 4
+        },
+        {
+            "source": "streamer",
+            "target": "male",
+            "value": 1
+        },
+        {
+            "source": "streamer",
+            "target": "men",
+            "value": 1
+        },
+        {
+            "source": "russian",
+            "target": "streamer",
+            "value": 4
+        },
+        {
+            "source": "celebrity",
+            "target": "men",
+            "value": 1
+        },
+        {
+            "source": "men",
+            "target": "male",
+            "value": 1
+        },
+        {
+            "source": "russian",
+            "target": "men",
+            "value": 2
+        },
+        {
+            "source": "cute",
+            "target": "metart",
+            "value": 2
+        },
+        {
+            "source": "woman",
+            "target": "porn",
+            "value": 1
+        },
+        {
+            "source": "pornstar",
+            "target": "porn",
+            "value": 1
+        },
+        {
+            "source": "russian model",
+            "target": "porn",
+            "value": 1
+        },
+        {
+            "source": "russian model",
+            "target": "woman",
+            "value": 5
+        },
+        {
+            "source": "russian model",
+            "target": "celebrity",
+            "value": 5
+        },
+        {
+            "source": "pornstar",
+            "target": "russian model",
+            "value": 1
+        },
+        {
+            "source": "russian",
+            "target": "russian model",
+            "value": 1
+        },
+        {
+            "source": "instagram",
+            "target": "glamour model",
+            "value": 1
+        },
+        {
+            "source": "realistic",
+            "target": "influencer",
+            "value": 1
+        },
+        {
+            "source": "woman",
+            "target": "american",
+            "value": 2
+        },
+        {
+            "source": "actress",
+            "target": "american",
+            "value": 1
+        },
+        {
+            "source": "photorealistic",
+            "target": "lora",
+            "value": 7
+        },
+        {
+            "source": "sexy",
+            "target": "lora",
+            "value": 6
+        },
+        {
+            "source": "woman",
+            "target": "lora",
+            "value": 8
+        },
+        {
+            "source": "pornstar",
+            "target": "lora",
+            "value": 6
+        },
+        {
+            "source": "singer",
+            "target": "activist",
+            "value": 1
+        },
+        {
+            "source": "punk",
+            "target": "activist",
+            "value": 1
+        },
+        {
+            "source": "celebrity",
+            "target": "activist",
+            "value": 2
+        },
+        {
+            "source": "russian",
+            "target": "activist",
+            "value": 2
+        },
+        {
+            "source": "famous",
+            "target": "activist",
+            "value": 1
+        },
+        {
+            "source": "politician",
+            "target": "russia",
+            "value": 1
+        },
+        {
+            "source": "photorealistic",
+            "target": "actress",
+            "value": 2
+        },
+        {
+            "source": "actress",
+            "target": "realistic",
+            "value": 1
+        },
+        {
+            "source": "character",
+            "target": "man",
+            "value": 2
+        },
+        {
+            "source": "adult model",
+            "target": "glamour model",
+            "value": 1
+        },
+        {
+            "source": "russia",
+            "target": "men",
+            "value": 1
+        },
+        {
+            "source": "character",
+            "target": "russia",
+            "value": 2
+        },
+        {
+            "source": "instagram",
+            "target": "russian model",
+            "value": 2
+        },
+        {
+            "source": "russian model",
+            "target": "influencer",
+            "value": 1
+        },
+        {
+            "source": "photorealistic",
+            "target": "glamour model",
+            "value": 1
+        },
+        {
+            "source": "glamour model",
+            "target": "blonde",
+            "value": 1
+        },
+        {
+            "source": "person",
+            "target": "activist",
+            "value": 1
+        },
+        {
+            "source": "woman",
+            "target": "activist",
+            "value": 1
+        },
+        {
+            "source": "realistic",
+            "target": "activist",
+            "value": 1
+        },
+        {
+            "source": "realistic",
+            "target": "lora",
+            "value": 1
+        },
+        {
+            "source": "instagram",
+            "target": "lora",
+            "value": 1
+        },
+        {
+            "source": "russian model",
+            "target": "lora",
+            "value": 1
+        },
+        {
+            "source": "character",
+            "target": "woman",
+            "value": 3
+        },
+        {
+            "source": "character",
+            "target": "realistic",
+            "value": 1
+        },
+        {
+            "source": "character",
+            "target": "russian model",
+            "value": 1
+        },
+        {
+            "source": "model",
+            "target": "metart",
+            "value": 1
+        },
+        {
+            "source": "photorealistic",
+            "target": "american",
+            "value": 1
+        },
+        {
+            "source": "russian model",
+            "target": "photorealistic",
+            "value": 1
+        },
+        {
+            "source": "russian model",
+            "target": "american",
+            "value": 1
+        },
+        {
+            "source": "actress",
+            "target": "singer",
+            "value": 1
+        },
+        {
+            "source": "character",
+            "target": "punk",
+            "value": 1
+        },
+        {
+            "source": "character",
+            "target": "youtuber",
+            "value": 1
+        },
+        {
+            "source": "character",
+            "target": "musician",
+            "value": 1
+        },
+        {
+            "source": "youtuber",
+            "target": "punk",
+            "value": 1
+        },
+        {
+            "source": "russia",
+            "target": "punk",
+            "value": 1
+        },
+        {
+            "source": "youtuber",
+            "target": "russia",
+            "value": 1
+        },
+        {
+            "source": "musician",
+            "target": "youtuber",
+            "value": 1
+        },
+        {
+            "source": "musician",
+            "target": "russia",
+            "value": 1
+        },
+        {
+            "source": "man",
+            "target": "streamer",
+            "value": 1
+        }
+    ]
+}

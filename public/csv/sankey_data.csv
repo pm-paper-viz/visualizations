@@ -1,0 +1,22 @@
+source,target,value
+Total,Checkpoint,4520
+Total,TextualInversion,1590
+Total,LoRA,30687
+Total,Other,1327
+Total,LOCON,1876
+LoRA,Adapters,30687
+LOCON,Adapters,1876
+TextualInversion,Adapters,1590
+Adapters,has_no_tags,23002
+Adapters,has_tags,11151
+has_tags,has_tags + POI True,2327
+has_tags + POI True,has_tags + POI True + explicit,238
+has_tags + POI True,has_tags + POI True + non-explicit,2089
+has_tags,has_tags + POI False,8824
+has_tags + POI False,has_tags + POI False + explicit,4732
+has_tags + POI False,has_tags + POI False + non-explicit,4092
+has_tags,All Adapters has_tags + explicit,4970
+has_tags,All Adapters has_tags + non-explicit,6181
+explicit,has_tag_rape,189
+explicit,has_tag_loli,558
+explicit,has_tag_shota,69

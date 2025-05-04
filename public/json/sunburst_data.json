@@ -1,0 +1,673 @@
+{
+  "name": "root",
+  "children": [
+    {
+      "name": "Australia",
+      "children": [
+        {
+          "name": "Actor",
+          "value": 106
+        },
+        {
+          "name": "Adult Performer",
+          "value": 7
+        },
+        {
+          "name": "Model",
+          "value": 44
+        },
+        {
+          "name": "Online Personality",
+          "value": 13
+        },
+        {
+          "name": "Public Figure",
+          "value": 12
+        },
+        {
+          "name": "Singer, Musician",
+          "value": 19
+        },
+        {
+          "name": "Sports Professional",
+          "value": 17
+        },
+        {
+          "name": "TV Personality",
+          "value": 10
+        },
+        {
+          "name": "Other",
+          "value": 1
+        }
+      ]
+    },
+    {
+      "name": "Brazil",
+      "children": [
+        {
+          "name": "Actor",
+          "value": 120
+        },
+        {
+          "name": "Adult Performer",
+          "value": 39
+        },
+        {
+          "name": "Model",
+          "value": 81
+        },
+        {
+          "name": "Online Personality",
+          "value": 39
+        },
+        {
+          "name": "Public Figure",
+          "value": 19
+        },
+        {
+          "name": "Singer, Musician",
+          "value": 41
+        },
+        {
+          "name": "Sports Professional",
+          "value": 24
+        },
+        {
+          "name": "TV Personality",
+          "value": 20
+        },
+        {
+          "name": "Voice Actor",
+          "value": 2
+        }
+      ]
+    },
+    {
+      "name": "Canada",
+      "children": [
+        {
+          "name": "Actor",
+          "value": 195
+        },
+        {
+          "name": "Adult Performer",
+          "value": 32
+        },
+        {
+          "name": "Model",
+          "value": 28
+        },
+        {
+          "name": "Online Personality",
+          "value": 32
+        },
+        {
+          "name": "Public Figure",
+          "value": 21
+        },
+        {
+          "name": "Singer, Musician",
+          "value": 43
+        },
+        {
+          "name": "Sports Professional",
+          "value": 16
+        },
+        {
+          "name": "TV Personality",
+          "value": 7
+        },
+        {
+          "name": "Voice Actor",
+          "value": 4
+        }
+      ]
+    },
+    {
+      "name": "China",
+      "children": [
+        {
+          "name": "Actor",
+          "value": 284
+        },
+        {
+          "name": "Adult Performer",
+          "value": 7
+        },
+        {
+          "name": "Model",
+          "value": 24
+        },
+        {
+          "name": "Online Personality",
+          "value": 28
+        },
+        {
+          "name": "Public Figure",
+          "value": 17
+        },
+        {
+          "name": "Singer, Musician",
+          "value": 51
+        },
+        {
+          "name": "Sports Professional",
+          "value": 4
+        },
+        {
+          "name": "TV Personality",
+          "value": 5
+        },
+        {
+          "name": "Voice Actor",
+          "value": 3
+        }
+      ]
+    },
+    {
+      "name": "France",
+      "children": [
+        {
+          "name": "Actor",
+          "value": 156
+        },
+        {
+          "name": "Adult Performer",
+          "value": 46
+        },
+        {
+          "name": "Model",
+          "value": 34
+        },
+        {
+          "name": "Online Personality",
+          "value": 14
+        },
+        {
+          "name": "Public Figure",
+          "value": 56
+        },
+        {
+          "name": "Singer, Musician",
+          "value": 45
+        },
+        {
+          "name": "Sports Professional",
+          "value": 24
+        },
+        {
+          "name": "TV Personality",
+          "value": 22
+        },
+        {
+          "name": "Voice Actor",
+          "value": 1
+        },
+        {
+          "name": "Other",
+          "value": 2
+        }
+      ]
+    },
+    {
+      "name": "Germany",
+      "children": [
+        {
+          "name": "Actor",
+          "value": 80
+        },
+        {
+          "name": "Adult Performer",
+          "value": 49
+        },
+        {
+          "name": "Model",
+          "value": 51
+        },
+        {
+          "name": "Online Personality",
+          "value": 39
+        },
+        {
+          "name": "Public Figure",
+          "value": 45
+        },
+        {
+          "name": "Singer, Musician",
+          "value": 44
+        },
+        {
+          "name": "Sports Professional",
+          "value": 14
+        },
+        {
+          "name": "TV Personality",
+          "value": 26
+        },
+        {
+          "name": "Other",
+          "value": 1
+        }
+      ]
+    },
+    {
+      "name": "India",
+      "children": [
+        {
+          "name": "Actor",
+          "value": 404
+        },
+        {
+          "name": "Adult Performer",
+          "value": 5
+        },
+        {
+          "name": "Model",
+          "value": 25
+        },
+        {
+          "name": "Online Personality",
+          "value": 9
+        },
+        {
+          "name": "Public Figure",
+          "value": 14
+        },
+        {
+          "name": "Singer, Musician",
+          "value": 15
+        },
+        {
+          "name": "Sports Professional",
+          "value": 9
+        },
+        {
+          "name": "TV Personality",
+          "value": 2
+        },
+        {
+          "name": "Other",
+          "value": 1
+        }
+      ]
+    },
+    {
+      "name": "Indonesia",
+      "children": [
+        {
+          "name": "Actor",
+          "value": 50
+        },
+        {
+          "name": "Adult Performer",
+          "value": 6
+        },
+        {
+          "name": "Model",
+          "value": 22
+        },
+        {
+          "name": "Online Personality",
+          "value": 30
+        },
+        {
+          "name": "Public Figure",
+          "value": 5
+        },
+        {
+          "name": "Singer, Musician",
+          "value": 38
+        },
+        {
+          "name": "Sports Professional",
+          "value": 1
+        },
+        {
+          "name": "TV Personality",
+          "value": 4
+        },
+        {
+          "name": "Other",
+          "value": 1
+        }
+      ]
+    },
+    {
+      "name": "Italy",
+      "children": [
+        {
+          "name": "Actor",
+          "value": 84
+        },
+        {
+          "name": "Adult Performer",
+          "value": 38
+        },
+        {
+          "name": "Model",
+          "value": 34
+        },
+        {
+          "name": "Online Personality",
+          "value": 27
+        },
+        {
+          "name": "Public Figure",
+          "value": 24
+        },
+        {
+          "name": "Singer, Musician",
+          "value": 36
+        },
+        {
+          "name": "Sports Professional",
+          "value": 11
+        },
+        {
+          "name": "TV Personality",
+          "value": 17
+        },
+        {
+          "name": "Voice Actor",
+          "value": 3
+        }
+      ]
+    },
+    {
+      "name": "Japan",
+      "children": [
+        {
+          "name": "Actor",
+          "value": 264
+        },
+        {
+          "name": "Adult Performer",
+          "value": 561
+        },
+        {
+          "name": "Model",
+          "value": 98
+        },
+        {
+          "name": "Online Personality",
+          "value": 18
+        },
+        {
+          "name": "Public Figure",
+          "value": 30
+        },
+        {
+          "name": "Singer, Musician",
+          "value": 615
+        },
+        {
+          "name": "Sports Professional",
+          "value": 35
+        },
+        {
+          "name": "TV Personality",
+          "value": 27
+        },
+        {
+          "name": "Voice Actor",
+          "value": 549
+        },
+        {
+          "name": "Other",
+          "value": 6
+        }
+      ]
+    },
+    {
+      "name": "Other",
+      "children": [
+        {
+          "name": "Actor",
+          "value": 764
+        },
+        {
+          "name": "Adult Performer",
+          "value": 254
+        },
+        {
+          "name": "Model",
+          "value": 315
+        },
+        {
+          "name": "Online Personality",
+          "value": 177
+        },
+        {
+          "name": "Public Figure",
+          "value": 241
+        },
+        {
+          "name": "Singer, Musician",
+          "value": 342
+        },
+        {
+          "name": "Sports Professional",
+          "value": 107
+        },
+        {
+          "name": "TV Personality",
+          "value": 77
+        },
+        {
+          "name": "Voice Actor",
+          "value": 2
+        },
+        {
+          "name": "Other",
+          "value": 9
+        }
+      ]
+    },
+    {
+      "name": "Spain",
+      "children": [
+        {
+          "name": "Actor",
+          "value": 80
+        },
+        {
+          "name": "Adult Performer",
+          "value": 29
+        },
+        {
+          "name": "Model",
+          "value": 18
+        },
+        {
+          "name": "Online Personality",
+          "value": 27
+        },
+        {
+          "name": "Public Figure",
+          "value": 22
+        },
+        {
+          "name": "Singer, Musician",
+          "value": 18
+        },
+        {
+          "name": "Sports Professional",
+          "value": 12
+        },
+        {
+          "name": "TV Personality",
+          "value": 23
+        },
+        {
+          "name": "Voice Actor",
+          "value": 1
+        }
+      ]
+    },
+    {
+      "name": "Türkiye",
+      "children": [
+        {
+          "name": "Actor",
+          "value": 114
+        },
+        {
+          "name": "Model",
+          "value": 16
+        },
+        {
+          "name": "Online Personality",
+          "value": 10
+        },
+        {
+          "name": "Public Figure",
+          "value": 6
+        },
+        {
+          "name": "Singer, Musician",
+          "value": 12
+        },
+        {
+          "name": "Sports Professional",
+          "value": 5
+        },
+        {
+          "name": "TV Personality",
+          "value": 9
+        }
+      ]
+    },
+    {
+      "name": "UK",
+      "children": [
+        {
+          "name": "Actor",
+          "value": 623
+        },
+        {
+          "name": "Adult Performer",
+          "value": 48
+        },
+        {
+          "name": "Model",
+          "value": 79
+        },
+        {
+          "name": "Online Personality",
+          "value": 59
+        },
+        {
+          "name": "Public Figure",
+          "value": 79
+        },
+        {
+          "name": "Singer, Musician",
+          "value": 139
+        },
+        {
+          "name": "Sports Professional",
+          "value": 30
+        },
+        {
+          "name": "TV Personality",
+          "value": 80
+        },
+        {
+          "name": "Voice Actor",
+          "value": 5
+        },
+        {
+          "name": "Other",
+          "value": 10
+        }
+      ]
+    },
+    {
+      "name": "US",
+      "children": [
+        {
+          "name": "Actor",
+          "value": 2245
+        },
+        {
+          "name": "Adult Performer",
+          "value": 2291
+        },
+        {
+          "name": "Model",
+          "value": 424
+        },
+        {
+          "name": "Online Personality",
+          "value": 590
+        },
+        {
+          "name": "Public Figure",
+          "value": 289
+        },
+        {
+          "name": "Singer, Musician",
+          "value": 477
+        },
+        {
+          "name": "Sports Professional",
+          "value": 227
+        },
+        {
+          "name": "TV Personality",
+          "value": 183
+        },
+        {
+          "name": "Voice Actor",
+          "value": 76
+        },
+        {
+          "name": "Other",
+          "value": 27
+        }
+      ]
+    },
+    {
+      "name": "Ukraine",
+      "children": [
+        {
+          "name": "Actor",
+          "value": 27
+        },
+        {
+          "name": "Adult Performer",
+          "value": 48
+        },
+        {
+          "name": "Model",
+          "value": 50
+        },
+        {
+          "name": "Online Personality",
+          "value": 13
+        },
+        {
+          "name": "Public Figure",
+          "value": 11
+        },
+        {
+          "name": "Singer, Musician",
+          "value": 26
+        },
+        {
+          "name": "Sports Professional",
+          "value": 5
+        },
+        {
+          "name": "TV Personality",
+          "value": 3
+        },
+        {
+          "name": "Other",
+          "value": 1
+        }
+      ]
+    }
+  ]
+}

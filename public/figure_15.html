@@ -1,0 +1,322 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <script src="https://d3js.org/d3.v7.min.js"></script>
+  <link rel="stylesheet" href="styles.css">
+
+</head>
+<body>
+  <!-- Header Overlay -->
+  <div class="header-overlay">
+    <div class="visualization-container">
+      <h1>Semantic Network of Textual Training Data</h1>
+      <h2 class="caption">Co-occurence of textual captions (tags) extracted from model adapters downloaded from CivitAI</h2>
+    
+      <div class="nav-buttons">
+        
+        
+           
+         
+     
+
+      </div>
+      <button class="nav-button" onclick="location.href='index.html'">Home</button>
+      <button class="nav-button" onclick="location.href='figure_5.html'">Next: Promotional Tags</button>
+
+      
+      <div class="theme-toggle">
+        <label><input type="checkbox" id="modeToggle"> Toggle Light Mode</label>
+
+
+  <div class="controls">
+    <label>Number of tags shown:
+      <input type="range" id="tagSlider" min="0" max="2000" value="100" step="10" />
+      <output id="tagCount">500</output>
+    </label><br/>
+    
+    <button id="resetBtn">Reset</button>
+    <button id="downloadBtn">Download SVG</button>
+  </div>
+      </div>
+
+      
+      
+      </div>
+
+    </div>
+    
+  </div>
+
+  <!-- Visualization SVG -->
+  <svg viewBox="0 0 1600 1200" preserveAspectRatio="xMidYMid meet"></svg>
+
+  <script>
+    const width = 1600, height = 1200;
+    let fullGraph = null;
+    let currentTransform = d3.zoomIdentity;
+
+    const categoryColors = {
+      visual_characteristics: "#708090",
+      attire_and_body_accessories: "#DC143C",
+      body: "#FF7F50",
+      more: "#BC8F8F",
+      subject: "black",
+      sex: "#8A2BE2",
+      default: "#C0C0C0"
+    };
+
+    const categoryLabels = {
+      visual_characteristics: "Image Characteristics",
+      attire_and_body_accessories: "Attire & Accessories",
+      body: "Body & Face",
+      more: "Actions & Probs",
+      subject: "Subjects",
+      sex: "Adult Content",
+      default: "Other"
+    };
+
+    const categoryPositions = {};
+    const categories = Object.keys(categoryColors);
+    categories.forEach((cat, i) => {
+      const angle = (i / categories.length) * 2 * Math.PI;
+      categoryPositions[cat] = {
+        x: width / 2 + 400 * Math.cos(angle),
+        y: height / 2 + 100 * Math.sin(angle)
+      };
+    });
+
+    const svg = d3.select("svg");
+    const zoomLayer = svg.append("g").attr("class", "zoom-layer");
+
+    // Create legend outside zoom layer
+    const legendWrapper = svg.append("g")
+      .attr("class", "legend-wrapper")
+      .attr("transform", "translate(10, 400)");
+    const legendItemHeight = 24;
+
+    // Initialize zoom behavior
+    const zoom = d3.zoom()
+      .scaleExtent([0.01, 8])
+      .on("zoom", (event) => {
+        currentTransform = event.transform;
+        zoomLayer.attr("transform", currentTransform);
+      });
+
+    svg.call(zoom);
+
+    const simulation = d3.forceSimulation()
+      .force("link", d3.forceLink().id(d => d.id).distance(500))
+      .force("charge", d3.forceManyBody().strength(-185))
+      .force("center", d3.forceCenter(width / 2, (height / 1.5) + 70))
+      .force("collide", d3.forceCollide().radius(d => Math.sqrt(d.size) * 0.111))
+      .force("category", forceCluster(0.5))
+      .alphaDecay(0.15);
+
+    function forceCluster(strength = 89.05) {
+      function force(alpha) {
+        for (const d of simulation.nodes()) {
+          const centroid = categoryPositions[d.category] || categoryPositions.default;
+          d.vx += (centroid.x - d.x) * strength * alpha;
+          d.vy += (centroid.y - d.y) * strength * alpha;
+        }
+      }
+      force.initialize = () => {};
+      return force;
+    }
+
+    d3.json("json/co_occurrence_network.json").then(graph => {
+      fullGraph = graph;
+      render(+document.getElementById("tagSlider").value);
+    });
+
+    function initializeZoom() {
+      const bounds = zoomLayer.node().getBBox();
+      const contentWidth = bounds.width;
+      const contentHeight = bounds.height;
+      
+      // Calculate scale to fit content with some padding
+      const scale = 0.9 / Math.max(
+        contentWidth / width,
+        contentHeight / height
+      );
+      
+      // Calculate translation to center content
+      const translateX = (width - contentWidth * scale) / 2 - bounds.x * scale;
+      const translateY = (height - contentHeight * scale) / 2 - bounds.y * scale;
+      
+      // Apply the transform smoothly
+      svg.transition()
+        .duration(1000)
+        .call(
+          zoom.transform,
+          d3.zoomIdentity
+            .translate(translateX, translateY)
+            .scale(scale)
+        );
+    }
+
+    function render(nodeCount) {
+      zoomLayer.selectAll("*").remove();
+
+      zoomLayer.append("rect")
+        .attr("width", width)
+        .attr("height", height)
+        .attr("fill", getComputedStyle(document.documentElement).getPropertyValue('--svg-fill') || "#fff");
+
+      const topNodes = fullGraph.nodes.sort((a, b) => b.size - a.size).slice(0, nodeCount);
+      const nodeIds = new Set(topNodes.map(d => d.id));
+      const nodesWithPos = topNodes.map(d => {
+        const centroid = categoryPositions[d.category] || categoryPositions.default;
+        return { ...d, x: centroid.x + Math.random() * 100 - 50, y: centroid.y + Math.random() * 100 - 50 };
+      });
+
+      const nodeLookup = new Map(nodesWithPos.map(n => [n.id, n]));
+
+      const filteredLinks = fullGraph.links
+        .filter(l => nodeIds.has(l.source) && nodeIds.has(l.target))
+        .map(l => {
+          const source = nodeLookup.get(l.source);
+          const target = nodeLookup.get(l.target);
+          return {
+            ...l,
+            source,
+            target,
+            dominant: source.size >= target.size ? source : target
+          };
+        });
+
+      const linkValueExtent = d3.extent(filteredLinks, d => d.value);
+      const linkStrokeScale = d3.scaleLinear().domain(linkValueExtent).range([0.5, 6]);
+
+      const link = zoomLayer.append("g").selectAll("line")
+        .data(filteredLinks)
+        .enter().append("line")
+        .attr("stroke", d => categoryColors[d.dominant.category] || categoryColors.default)
+        .attr("stroke-width", d => linkStrokeScale(d.value))
+        .attr("stroke-opacity", d => Math.min(0.4, d.value / 100));
+
+      const node = zoomLayer.append("g").selectAll("circle.main")
+        .data(nodesWithPos)
+        .enter().append("circle")
+        .attr("class", "node main")
+        .attr("r", d => Math.max(1, Math.sqrt(d.size) * 0.04))
+        .attr("fill", d => categoryColors[d.category] || categoryColors.default)
+        .attr("fill-opacity", d => Math.max(0.2, Math.min(1, d.size / 200)))
+        .call(d3.drag().on("start", dragstarted).on("drag", dragged).on("end", dragended));
+
+      const labelGroup = zoomLayer.append("g").selectAll("g.label")
+        .data(nodesWithPos)
+        .enter().append("g")
+        .attr("class", "label");
+
+      labelGroup.append("text")
+        .attr("text-anchor", "start")
+        .attr("dy", "0.35em")
+        .attr("fill", "black")
+        .attr("fill-opacity", 0.7)
+        .style("font-size", d => `${Math.max(11, Math.sqrt(d.size) * 0.04)}px`)
+        .text(d => d.id);
+
+      labelGroup.insert("rect", "text")
+        .attr("rx", 4)
+        .attr("ry", 4)
+        .attr("fill", "white")
+        .attr("fill-opacity", 0.7);
+
+      // Update legend
+      legendWrapper.selectAll("*").remove();
+      
+      const legend = legendWrapper.selectAll(".legend")
+        .data(Object.keys(categoryColors))
+        .enter().append("g")
+        .attr("class", "legend")
+        .attr("transform", (d, i) => `translate(10,${i * legendItemHeight + 10})`);
+
+      legend.append("rect")
+        .attr("width", 12)
+        .attr("height", 12)
+        .attr("fill", d => categoryColors[d]);
+
+      legend.append("text")
+        .attr("x", 18)
+        .attr("y", 6)
+        .attr("dy", "0.35em")
+        .style("font-size", "14px")
+        .attr("fill", "black")
+        .text(d => categoryLabels[d] || d);
+
+      simulation.nodes(nodesWithPos).on("tick", () => {
+        link.attr("x1", d => d.source.x).attr("y1", d => d.source.y)
+            .attr("x2", d => d.target.x).attr("y2", d => d.target.y);
+
+        node.attr("cx", d => d.x).attr("cy", d => d.y);
+
+        labelGroup.each(function(d) {
+          const text = d3.select(this).select("text");
+          const rect = d3.select(this).select("rect");
+          const bbox = text.node().getBBox();
+          const padding = 2;
+          const offset = Math.max(2, Math.sqrt(d.size) * 0.045 + padding);
+
+          d3.select(this).attr("transform", `translate(${d.x + offset},${d.y})`);
+          rect
+            .attr("x", bbox.x - padding)
+            .attr("y", bbox.y - padding)
+            .attr("width", bbox.width + padding * 2)
+            .attr("height", bbox.height + padding * 2);
+        });
+      });
+
+      simulation.force("link").links(filteredLinks);
+      simulation.alpha(1).restart();
+      
+      // Initialize zoom after simulation stabilizes
+      simulation.on("end", initializeZoom);
+    }
+
+    function dragstarted(event, d) {
+      if (!event.active) simulation.alphaTarget(0.3).restart();
+      d.fx = d.x;
+      d.fy = d.y;
+    }
+
+    function dragged(event, d) {
+      d.fx = event.x;
+      d.fy = event.y;
+    }
+
+    function dragended(event, d) {
+      if (!event.active) simulation.alphaTarget(0);
+      d.fx = null;
+      d.fy = null;
+    }
+
+    function saveSvg() {
+      const svgNode = document.querySelector("svg");
+      const serializer = new XMLSerializer();
+      const source = serializer.serializeToString(svgNode);
+      const blob = new Blob([source], { type: "image/svg+xml;charset=utf-8" });
+      const url = URL.createObjectURL(blob);
+      const a = document.createElement("a");
+      a.href = url;
+      a.download = "graph.svg";
+      document.body.appendChild(a);
+      a.click();
+      document.body.removeChild(a);
+      URL.revokeObjectURL(url);
+    }
+
+    document.getElementById("tagSlider").addEventListener("input", function () {
+      const value = +this.value;
+      document.getElementById("tagCount").textContent = value;
+      render(value);
+    });
+
+    document.getElementById("modeToggle").addEventListener("change", function () {
+      document.documentElement.classList.toggle("light-mode");
+      render(+document.getElementById("tagSlider").value);
+    });
+  </script>
+</body>
+</html>

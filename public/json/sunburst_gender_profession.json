@@ -1,0 +1,136 @@
+{
+  "name": "root",
+  "children": [
+    {
+      "name": "Female",
+      "children": [
+        {
+          "name": "Actor",
+          "value": 4147
+        },
+        {
+          "name": "Adult Performer",
+          "value": 3104
+        },
+        {
+          "name": "Model",
+          "value": 1263
+        },
+        {
+          "name": "Online Personality",
+          "value": 940
+        },
+        {
+          "name": "Public Figure",
+          "value": 379
+        },
+        {
+          "name": "Singer, Musician",
+          "value": 1584
+        },
+        {
+          "name": "Sports Professional",
+          "value": 247
+        },
+        {
+          "name": "TV Personality",
+          "value": 399
+        },
+        {
+          "name": "Voice Actor",
+          "value": 596
+        },
+        {
+          "name": "Other",
+          "value": 28
+        }
+      ]
+    },
+    {
+      "name": "Male",
+      "children": [
+        {
+          "name": "Actor",
+          "value": 1431
+        },
+        {
+          "name": "Adult Performer",
+          "value": 353
+        },
+        {
+          "name": "Model",
+          "value": 65
+        },
+        {
+          "name": "Online Personality",
+          "value": 168
+        },
+        {
+          "name": "Public Figure",
+          "value": 507
+        },
+        {
+          "name": "Singer, Musician",
+          "value": 373
+        },
+        {
+          "name": "Sports Professional",
+          "value": 293
+        },
+        {
+          "name": "TV Personality",
+          "value": 116
+        },
+        {
+          "name": "Voice Actor",
+          "value": 45
+        },
+        {
+          "name": "Other",
+          "value": 29
+        }
+      ]
+    },
+    {
+      "name": "Other",
+      "children": [
+        {
+          "name": "Actor",
+          "value": 18
+        },
+        {
+          "name": "Adult Performer",
+          "value": 3
+        },
+        {
+          "name": "Model",
+          "value": 15
+        },
+        {
+          "name": "Online Personality",
+          "value": 17
+        },
+        {
+          "name": "Public Figure",
+          "value": 5
+        },
+        {
+          "name": "Singer, Musician",
+          "value": 4
+        },
+        {
+          "name": "Sports Professional",
+          "value": 1
+        },
+        {
+          "name": "Voice Actor",
+          "value": 5
+        },
+        {
+          "name": "Other",
+          "value": 2
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,52 @@
+{
+    "nodes": [
+        {
+            "id": "woman",
+            "size": 8
+        },
+        {
+            "id": "celebrity",
+            "size": 12
+        },
+        {
+            "id": "uk",
+            "size": 13
+        },
+        {
+            "id": "british",
+            "size": 4
+        }
+    ],
+    "links": [
+        {
+            "source": "woman",
+            "target": "celebrity",
+            "value": 8
+        },
+        {
+            "source": "woman",
+            "target": "uk",
+            "value": 8
+        },
+        {
+            "source": "uk",
+            "target": "celebrity",
+            "value": 11
+        },
+        {
+            "source": "woman",
+            "target": "british",
+            "value": 3
+        },
+        {
+            "source": "british",
+            "target": "celebrity",
+            "value": 4
+        },
+        {
+            "source": "british",
+            "target": "uk",
+            "value": 4
+        }
+    ]
+}

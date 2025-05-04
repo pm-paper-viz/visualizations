@@ -1,0 +1,100 @@
+{
+    "nodes": [
+        {
+            "id": "celebrity",
+            "size": 6
+        },
+        {
+            "id": "india",
+            "size": 8
+        },
+        {
+            "id": "desi",
+            "size": 3
+        },
+        {
+            "id": "woman",
+            "size": 2
+        },
+        {
+            "id": "indian",
+            "size": 6
+        },
+        {
+            "id": "style",
+            "size": 4
+        }
+    ],
+    "links": [
+        {
+            "source": "india",
+            "target": "celebrity",
+            "value": 3
+        },
+        {
+            "source": "desi",
+            "target": "celebrity",
+            "value": 1
+        },
+        {
+            "source": "india",
+            "target": "desi",
+            "value": 3
+        },
+        {
+            "source": "woman",
+            "target": "celebrity",
+            "value": 1
+        },
+        {
+            "source": "indian",
+            "target": "style",
+            "value": 3
+        },
+        {
+            "source": "woman",
+            "target": "indian",
+            "value": 1
+        },
+        {
+            "source": "indian",
+            "target": "india",
+            "value": 5
+        },
+        {
+            "source": "indian",
+            "target": "desi",
+            "value": 2
+        },
+        {
+            "source": "woman",
+            "target": "style",
+            "value": 1
+        },
+        {
+            "source": "india",
+            "target": "style",
+            "value": 3
+        },
+        {
+            "source": "desi",
+            "target": "style",
+            "value": 1
+        },
+        {
+            "source": "woman",
+            "target": "india",
+            "value": 1
+        },
+        {
+            "source": "woman",
+            "target": "desi",
+            "value": 1
+        },
+        {
+            "source": "indian",
+            "target": "celebrity",
+            "value": 1
+        }
+    ]
+}

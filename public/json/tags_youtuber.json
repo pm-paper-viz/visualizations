@@ -1,0 +1,5622 @@
+{
+    "nodes": [
+        {
+            "id": "anime",
+            "size": 376
+        },
+        {
+            "id": "character",
+            "size": 646
+        },
+        {
+            "id": "vtuber",
+            "size": 396
+        },
+        {
+            "id": "hololive",
+            "size": 144
+        },
+        {
+            "id": "virtual youtuber",
+            "size": 525
+        },
+        {
+            "id": "girls",
+            "size": 141
+        },
+        {
+            "id": "girl",
+            "size": 25
+        },
+        {
+            "id": "photorealistic",
+            "size": 90
+        },
+        {
+            "id": "sexy",
+            "size": 87
+        },
+        {
+            "id": "female",
+            "size": 119
+        },
+        {
+            "id": "youtuber",
+            "size": 501
+        },
+        {
+            "id": "twitch",
+            "size": 61
+        },
+        {
+            "id": "woman",
+            "size": 447
+        },
+        {
+            "id": "lora",
+            "size": 36
+        },
+        {
+            "id": "girlpack",
+            "size": 11
+        },
+        {
+            "id": "asian",
+            "size": 12
+        },
+        {
+            "id": "celebrity",
+            "size": 346
+        },
+        {
+            "id": "cute",
+            "size": 5
+        },
+        {
+            "id": "person",
+            "size": 41
+        },
+        {
+            "id": "textual inversion",
+            "size": 10
+        },
+        {
+            "id": "streamer",
+            "size": 91
+        },
+        {
+            "id": "model",
+            "size": 19
+        },
+        {
+            "id": "video game",
+            "size": 4
+        },
+        {
+            "id": "influencer",
+            "size": 37
+        },
+        {
+            "id": "nijisanji",
+            "size": 89
+        },
+        {
+            "id": "nijisanji jp",
+            "size": 37
+        },
+        {
+            "id": "kpop",
+            "size": 3
+        },
+        {
+            "id": "hololive id",
+            "size": 8
+        },
+        {
+            "id": "instagram",
+            "size": 31
+        },
+        {
+            "id": "vspo!",
+            "size": 27
+        },
+        {
+            "id": "indonesia",
+            "size": 2
+        },
+        {
+            "id": "cosplayer",
+            "size": 8
+        },
+        {
+            "id": "tsunomaki watame",
+            "size": 2
+        },
+        {
+            "id": "idol",
+            "size": 3
+        },
+        {
+            "id": "vitrual youtuber",
+            "size": 3
+        },
+        {
+            "id": "famous",
+            "size": 10
+        },
+        {
+            "id": "celebridad",
+            "size": 6
+        },
+        {
+            "id": "actress",
+            "size": 20
+        },
+        {
+            "id": "style",
+            "size": 14
+        },
+        {
+            "id": "youtube",
+            "size": 57
+        },
+        {
+            "id": "tiktok",
+            "size": 9
+        },
+        {
+            "id": "tiktoker",
+            "size": 5
+        },
+        {
+            "id": "celeb",
+            "size": 16
+        },
+        {
+            "id": "asmr",
+            "size": 24
+        },
+        {
+            "id": "vlogger",
+            "size": 5
+        },
+        {
+            "id": "animation",
+            "size": 5
+        },
+        {
+            "id": "realism",
+            "size": 5
+        },
+        {
+            "id": "german",
+            "size": 9
+        },
+        {
+            "id": "korean",
+            "size": 4
+        },
+        {
+            "id": "vshojo",
+            "size": 8
+        },
+        {
+            "id": "game character",
+            "size": 4
+        },
+        {
+            "id": "singer",
+            "size": 20
+        },
+        {
+            "id": "instagram model",
+            "size": 5
+        },
+        {
+            "id": "comedian",
+            "size": 6
+        },
+        {
+            "id": "spanish",
+            "size": 8
+        },
+        {
+            "id": "realistic",
+            "size": 49
+        },
+        {
+            "id": "japanese",
+            "size": 5
+        },
+        {
+            "id": "horns",
+            "size": 2
+        },
+        {
+            "id": "youtube influencer",
+            "size": 3
+        },
+        {
+            "id": "real person",
+            "size": 9
+        },
+        {
+            "id": "markiplier",
+            "size": 4
+        },
+        {
+            "id": "dancer",
+            "size": 3
+        },
+        {
+            "id": "vtuber character",
+            "size": 13
+        },
+        {
+            "id": "taiwan",
+            "size": 6
+        },
+        {
+            "id": "russian",
+            "size": 3
+        },
+        {
+            "id": "bimbo",
+            "size": 4
+        },
+        {
+            "id": "male",
+            "size": 47
+        },
+        {
+            "id": "musician",
+            "size": 10
+        },
+        {
+            "id": "celebrity,",
+            "size": 18
+        },
+        {
+            "id": "russian virtual youtuber",
+            "size": 4
+        },
+        {
+            "id": "ru vtuber",
+            "size": 4
+        },
+        {
+            "id": "twintails",
+            "size": 4
+        },
+        {
+            "id": "indie vtuber",
+            "size": 16
+        },
+        {
+            "id": "american",
+            "size": 12
+        },
+        {
+            "id": "meme",
+            "size": 5
+        },
+        {
+            "id": "gamer",
+            "size": 9
+        },
+        {
+            "id": "british",
+            "size": 6
+        },
+        {
+            "id": "taiwanese",
+            "size": 4
+        },
+        {
+            "id": "glasses",
+            "size": 4
+        },
+        {
+            "id": "boys",
+            "size": 13
+        },
+        {
+            "id": "cartoon",
+            "size": 9
+        },
+        {
+            "id": "minecraft",
+            "size": 5
+        },
+        {
+            "id": "host",
+            "size": 3
+        },
+        {
+            "id": "blonde",
+            "size": 2
+        },
+        {
+            "id": "french",
+            "size": 10
+        },
+        {
+            "id": "indie virtual youtuber",
+            "size": 4
+        },
+        {
+            "id": "avatar",
+            "size": 2
+        },
+        {
+            "id": "man",
+            "size": 36
+        },
+        {
+            "id": "muscle",
+            "size": 4
+        },
+        {
+            "id": "photorealism",
+            "size": 14
+        },
+        {
+            "id": "guy",
+            "size": 4
+        },
+        {
+            "id": "handsome",
+            "size": 2
+        },
+        {
+            "id": "wolfychu",
+            "size": 3
+        },
+        {
+            "id": "music",
+            "size": 4
+        },
+        {
+            "id": "male focus",
+            "size": 3
+        },
+        {
+            "id": "sdxl 1,0",
+            "size": 2
+        },
+        {
+            "id": "furry",
+            "size": 18
+        },
+        {
+            "id": "goat",
+            "size": 3
+        },
+        {
+            "id": "chinese",
+            "size": 4
+        },
+        {
+            "id": "australian",
+            "size": 3
+        },
+        {
+            "id": "fashion",
+            "size": 2
+        },
+        {
+            "id": "muscles",
+            "size": 3
+        },
+        {
+            "id": "twitch streamer",
+            "size": 5
+        },
+        {
+            "id": "hasan piker",
+            "size": 2
+        },
+        {
+            "id": "supermariologan",
+            "size": 11
+        },
+        {
+            "id": "artist",
+            "size": 4
+        },
+        {
+            "id": "men",
+            "size": 17
+        },
+        {
+            "id": "young man",
+            "size": 3
+        },
+        {
+            "id": "turkish",
+            "size": 3
+        }
+    ],
+    "links": [
+        {
+            "source": "character",
+            "target": "anime",
+            "value": 360
+        },
+        {
+            "source": "vtuber",
+            "target": "anime",
+            "value": 281
+        },
+        {
+            "source": "hololive",
+            "target": "anime",
+            "value": 124
+        },
+        {
+            "source": "virtual youtuber",
+            "target": "anime",
+            "value": 347
+        },
+        {
+            "source": "character",
+            "target": "vtuber",
+            "value": 386
+        },
+        {
+            "source": "character",
+            "target": "hololive",
+            "value": 143
+        },
+        {
+            "source": "virtual youtuber",
+            "target": "character",
+            "value": 514
+        },
+        {
+            "source": "vtuber",
+            "target": "hololive",
+            "value": 118
+        },
+        {
+            "source": "virtual youtuber",
+            "target": "vtuber",
+            "value": 380
+        },
+        {
+            "source": "virtual youtuber",
+            "target": "hololive",
+            "value": 142
+        },
+        {
+            "source": "girls",
+            "target": "anime",
+            "value": 85
+        },
+        {
+            "source": "girls",
+            "target": "virtual youtuber",
+            "value": 91
+        },
+        {
+            "source": "photorealistic",
+            "target": "girl",
+            "value": 4
+        },
+        {
+            "source": "sexy",
+            "target": "girl",
+            "value": 5
+        },
+        {
+            "source": "girl",
+            "target": "female",
+            "value": 8
+        },
+        {
+            "source": "youtuber",
+            "target": "girl",
+            "value": 11
+        },
+        {
+            "source": "twitch",
+            "target": "girl",
+            "value": 3
+        },
+        {
+            "source": "girl",
+            "target": "woman",
+            "value": 7
+        },
+        {
+            "source": "photorealistic",
+            "target": "sexy",
+            "value": 32
+        },
+        {
+            "source": "photorealistic",
+            "target": "female",
+            "value": 16
+        },
+        {
+            "source": "youtuber",
+            "target": "photorealistic",
+            "value": 90
+        },
+        {
+            "source": "twitch",
+            "target": "photorealistic",
+            "value": 13
+        },
+        {
+            "source": "photorealistic",
+            "target": "woman",
+            "value": 62
+        },
+        {
+            "source": "sexy",
+            "target": "female",
+            "value": 12
+        },
+        {
+            "source": "youtuber",
+            "target": "sexy",
+            "value": 70
+        },
+        {
+            "source": "twitch",
+            "target": "sexy",
+            "value": 6
+        },
+        {
+            "source": "sexy",
+            "target": "woman",
+            "value": 55
+        },
+        {
+            "source": "youtuber",
+            "target": "female",
+            "value": 56
+        },
+        {
+            "source": "twitch",
+            "target": "female",
+            "value": 11
+        },
+        {
+            "source": "female",
+            "target": "woman",
+            "value": 97
+        },
+        {
+            "source": "twitch",
+            "target": "youtuber",
+            "value": 61
+        },
+        {
+            "source": "youtuber",
+            "target": "woman",
+            "value": 248
+        },
+        {
+            "source": "twitch",
+            "target": "woman",
+            "value": 32
+        },
+        {
+            "source": "lora",
+            "target": "anime",
+            "value": 15
+        },
+        {
+            "source": "character",
+            "target": "lora",
+            "value": 33
+        },
+        {
+            "source": "lora",
+            "target": "vtuber",
+            "value": 16
+        },
+        {
+            "source": "lora",
+            "target": "hololive",
+            "value": 4
+        },
+        {
+            "source": "virtual youtuber",
+            "target": "lora",
+            "value": 16
+        },
+        {
+            "source": "sexy",
+            "target": "anime",
+            "value": 24
+        },
+        {
+            "source": "anime",
+            "target": "girlpack",
+            "value": 9
+        },
+        {
+            "source": "character",
+            "target": "sexy",
+            "value": 46
+        },
+        {
+            "source": "character",
+            "target": "girlpack",
+            "value": 11
+        },
+        {
+            "source": "vtuber",
+            "target": "sexy",
+            "value": 16
+        },
+        {
+            "source": "hololive",
+            "target": "sexy",
+            "value": 5
+        },
+        {
+            "source": "virtual youtuber",
+            "target": "sexy",
+            "value": 17
+        },
+        {
+            "source": "sexy",
+            "target": "girlpack",
+            "value": 1
+        },
+        {
+            "source": "vtuber",
+            "target": "girlpack",
+            "value": 11
+        },
+        {
+            "source": "hololive",
+            "target": "girlpack",
+            "value": 11
+        },
+        {
+            "source": "virtual youtuber",
+            "target": "girlpack",
+            "value": 11
+        },
+        {
+            "source": "anime",
+            "target": "woman",
+            "value": 203
+        },
+        {
+            "source": "character",
+            "target": "woman",
+            "value": 231
+        },
+        {
+            "source": "vtuber",
+            "target": "woman",
+            "value": 182
+        },
+        {
+            "source": "hololive",
+            "target": "woman",
+            "value": 80
+        },
+        {
+            "source": "virtual youtuber",
+            "target": "woman",
+            "value": 197
+        },
+        {
+            "source": "anime",
+            "target": "female",
+            "value": 65
+        },
+        {
+            "source": "character",
+            "target": "female",
+            "value": 73
+        },
+        {
+            "source": "vtuber",
+            "target": "female",
+            "value": 54
+        },
+        {
+            "source": "hololive",
+            "target": "female",
+            "value": 23
+        },
+        {
+            "source": "virtual youtuber",
+            "target": "female",
+            "value": 63
+        },
+        {
+            "source": "photorealistic",
+            "target": "asian",
+            "value": 5
+        },
+        {
+            "source": "celebrity",
+            "target": "photorealistic",
+            "value": 76
+        },
+        {
+            "source": "cute",
+            "target": "photorealistic",
+            "value": 1
+        },
+        {
+            "source": "asian",
+            "target": "sexy",
+            "value": 2
+        },
+        {
+            "source": "celebrity",
+            "target": "sexy",
+            "value": 34
+        },
+        {
+            "source": "cute",
+            "target": "sexy",
+            "value": 2
+        },
+        {
+            "source": "youtuber",
+            "target": "asian",
+            "value": 12
+        },
+        {
+            "source": "celebrity",
+            "target": "youtuber",
+            "value": 344
+        },
+        {
+            "source": "cute",
+            "target": "youtuber",
+            "value": 5
+        },
+        {
+            "source": "asian",
+            "target": "woman",
+            "value": 6
+        },
+        {
+            "source": "celebrity",
+            "target": "asian",
+            "value": 5
+        },
+        {
+            "source": "cute",
+            "target": "asian",
+            "value": 1
+        },
+        {
+            "source": "celebrity",
+            "target": "woman",
+            "value": 201
+        },
+        {
+            "source": "cute",
+            "target": "woman",
+            "value": 3
+        },
+        {
+            "source": "celebrity",
+            "target": "cute",
+            "value": 4
+        },
+        {
+            "source": "celebrity",
+            "target": "female",
+            "value": 30
+        },
+        {
+            "source": "girl",
+            "target": "person",
+            "value": 4
+        },
+        {
+            "source": "textual inversion",
+            "target": "girl",
+            "value": 3
+        },
+        {
+            "source": "girl",
+            "target": "streamer",
+            "value": 4
+        },
+        {
+            "source": "girl",
+            "target": "model",
+            "value": 1
+        },
+        {
+            "source": "female",
+            "target": "person",
+            "value": 12
+        },
+        {
+            "source": "textual inversion",
+            "target": "person",
+            "value": 7
+        },
+        {
+            "source": "youtuber",
+            "target": "person",
+            "value": 41
+        },
+        {
+            "source": "streamer",
+            "target": "person",
+            "value": 18
+        },
+        {
+            "source": "model",
+            "target": "person",
+            "value": 2
+        },
+        {
+            "source": "textual inversion",
+            "target": "female",
+            "value": 6
+        },
+        {
+            "source": "streamer",
+            "target": "female",
+            "value": 13
+        },
+        {
+            "source": "model",
+            "target": "female",
+            "value": 2
+        },
+        {
+            "source": "textual inversion",
+            "target": "youtuber",
+            "value": 10
+        },
+        {
+            "source": "textual inversion",
+            "target": "streamer",
+            "value": 2
+        },
+        {
+            "source": "textual inversion",
+            "target": "model",
+            "value": 2
+        },
+        {
+            "source": "youtuber",
+            "target": "streamer",
+            "value": 88
+        },
+        {
+            "source": "youtuber",
+            "target": "model",
+            "value": 18
+        },
+        {
+            "source": "streamer",
+            "target": "model",
+            "value": 4
+        },
+        {
+            "source": "video game",
+            "target": "female",
+            "value": 1
+        },
+        {
+            "source": "influencer",
+            "target": "female",
+            "value": 2
+        },
+        {
+            "source": "video game",
+            "target": "youtuber",
+            "value": 3
+        },
+        {
+            "source": "youtuber",
+            "target": "influencer",
+            "value": 37
+        },
+        {
+            "source": "video game",
+            "target": "woman",
+            "value": 1
+        },
+        {
+            "source": "influencer",
+            "target": "woman",
+            "value": 22
+        },
+        {
+            "source": "celebrity",
+            "target": "video game",
+            "value": 1
+        },
+        {
+            "source": "celebrity",
+            "target": "influencer",
+            "value": 35
+        },
+        {
+            "source": "video game",
+            "target": "influencer",
+            "value": 1
+        },
+        {
+            "source": "girlpack",
+            "target": "woman",
+            "value": 5
+        },
+        {
+            "source": "girl",
+            "target": "anime",
+            "value": 10
+        },
+        {
+            "source": "anime",
+            "target": "streamer",
+            "value": 9
+        },
+        {
+            "source": "video game",
+            "target": "anime",
+            "value": 1
+        },
+        {
+            "source": "character",
+            "target": "girl",
+            "value": 15
+        },
+        {
+            "source": "character",
+            "target": "streamer",
+            "value": 11
+        },
+        {
+            "source": "character",
+            "target": "video game",
+            "value": 3
+        },
+        {
+            "source": "vtuber",
+            "target": "girl",
+            "value": 8
+        },
+        {
+            "source": "video game",
+            "target": "girl",
+            "value": 1
+        },
+        {
+            "source": "virtual youtuber",
+            "target": "girl",
+            "value": 12
+        },
+        {
+            "source": "vtuber",
+            "target": "streamer",
+            "value": 8
+        },
+        {
+            "source": "video game",
+            "target": "vtuber",
+            "value": 1
+        },
+        {
+            "source": "video game",
+            "target": "streamer",
+            "value": 1
+        },
+        {
+            "source": "virtual youtuber",
+            "target": "streamer",
+            "value": 3
+        },
+        {
+            "source": "virtual youtuber",
+            "target": "video game",
+            "value": 1
+        },
+        {
+            "source": "nijisanji",
+            "target": "character",
+            "value": 89
+        },
+        {
+            "source": "nijisanji jp",
+            "target": "character",
+            "value": 37
+        },
+        {
+            "source": "nijisanji",
+            "target": "vtuber",
+            "value": 66
+        },
+        {
+            "source": "nijisanji jp",
+            "target": "vtuber",
+            "value": 34
+        },
+        {
+            "source": "nijisanji",
+            "target": "virtual youtuber",
+            "value": 88
+        },
+        {
+            "source": "nijisanji",
+            "target": "nijisanji jp",
+            "value": 36
+        },
+        {
+            "source": "virtual youtuber",
+            "target": "nijisanji jp",
+            "value": 37
+        },
+        {
+            "source": "nijisanji",
+            "target": "anime",
+            "value": 21
+        },
+        {
+            "source": "nijisanji",
+            "target": "girl",
+            "value": 3
+        },
+        {
+            "source": "photorealistic",
+            "target": "kpop",
+            "value": 2
+        },
+        {
+            "source": "lora",
+            "target": "photorealistic",
+            "value": 2
+        },
+        {
+            "source": "kpop",
+            "target": "sexy",
+            "value": 1
+        },
+        {
+            "source": "lora",
+            "target": "sexy",
+            "value": 18
+        },
+        {
+            "source": "youtuber",
+            "target": "kpop",
+            "value": 3
+        },
+        {
+            "source": "lora",
+            "target": "youtuber",
+            "value": 20
+        },
+        {
+            "source": "kpop",
+            "target": "woman",
+            "value": 3
+        },
+        {
+            "source": "celebrity",
+            "target": "kpop",
+            "value": 3
+        },
+        {
+            "source": "lora",
+            "target": "kpop",
+            "value": 1
+        },
+        {
+            "source": "lora",
+            "target": "woman",
+            "value": 18
+        },
+        {
+            "source": "celebrity",
+            "target": "lora",
+            "value": 2
+        },
+        {
+            "source": "hololive id",
+            "target": "character",
+            "value": 8
+        },
+        {
+            "source": "hololive id",
+            "target": "hololive",
+            "value": 8
+        },
+        {
+            "source": "virtual youtuber",
+            "target": "hololive id",
+            "value": 8
+        },
+        {
+            "source": "youtuber",
+            "target": "instagram",
+            "value": 31
+        },
+        {
+            "source": "streamer",
+            "target": "instagram",
+            "value": 10
+        },
+        {
+            "source": "celebrity",
+            "target": "streamer",
+            "value": 68
+        },
+        {
+            "source": "celebrity",
+            "target": "instagram",
+            "value": 23
+        },
+        {
+            "source": "hololive id",
+            "target": "anime",
+            "value": 6
+        },
+        {
+            "source": "hololive id",
+            "target": "sexy",
+            "value": 1
+        },
+        {
+            "source": "hololive id",
+            "target": "vtuber",
+            "value": 5
+        },
+        {
+            "source": "character",
+            "target": "vspo!",
+            "value": 27
+        },
+        {
+            "source": "virtual youtuber",
+            "target": "vspo!",
+            "value": 27
+        },
+        {
+            "source": "twitch",
+            "target": "asian",
+            "value": 3
+        },
+        {
+            "source": "twitch",
+            "target": "celebrity",
+            "value": 48
+        },
+        {
+            "source": "indonesia",
+            "target": "anime",
+            "value": 1
+        },
+        {
+            "source": "character",
+            "target": "indonesia",
+            "value": 1
+        },
+        {
+            "source": "vtuber",
+            "target": "indonesia",
+            "value": 1
+        },
+        {
+            "source": "hololive",
+            "target": "indonesia",
+            "value": 1
+        },
+        {
+            "source": "virtual youtuber",
+            "target": "indonesia",
+            "value": 1
+        },
+        {
+            "source": "hololive id",
+            "target": "indonesia",
+            "value": 1
+        },
+        {
+            "source": "photorealistic",
+            "target": "streamer",
+            "value": 8
+        },
+        {
+            "source": "twitch",
+            "target": "streamer",
+            "value": 39
+        },
+        {
+            "source": "streamer",
+            "target": "woman",
+            "value": 44
+        },
+        {
+            "source": "textual inversion",
+            "target": "twitch",
+            "value": 3
+        },
+        {
+            "source": "textual inversion",
+            "target": "cosplayer",
+            "value": 2
+        },
+        {
+            "source": "textual inversion",
+            "target": "woman",
+            "value": 3
+        },
+        {
+            "source": "textual inversion",
+            "target": "celebrity",
+            "value": 6
+        },
+        {
+            "source": "cosplayer",
+            "target": "youtuber",
+            "value": 8
+        },
+        {
+            "source": "twitch",
+            "target": "cosplayer",
+            "value": 3
+        },
+        {
+            "source": "cosplayer",
+            "target": "woman",
+            "value": 4
+        },
+        {
+            "source": "cosplayer",
+            "target": "celebrity",
+            "value": 7
+        },
+        {
+            "source": "asian",
+            "target": "girl",
+            "value": 1
+        },
+        {
+            "source": "photorealistic",
+            "target": "person",
+            "value": 5
+        },
+        {
+            "source": "sexy",
+            "target": "person",
+            "value": 3
+        },
+        {
+            "source": "asian",
+            "target": "person",
+            "value": 3
+        },
+        {
+            "source": "asian",
+            "target": "female",
+            "value": 4
+        },
+        {
+            "source": "girls",
+            "target": "character",
+            "value": 102
+        },
+        {
+            "source": "girls",
+            "target": "vtuber",
+            "value": 68
+        },
+        {
+            "source": "girls",
+            "target": "hololive",
+            "value": 20
+        },
+        {
+            "source": "girls",
+            "target": "woman",
+            "value": 100
+        },
+        {
+            "source": "anime",
+            "target": "tsunomaki watame",
+            "value": 2
+        },
+        {
+            "source": "character",
+            "target": "tsunomaki watame",
+            "value": 1
+        },
+        {
+            "source": "tsunomaki watame",
+            "target": "female",
+            "value": 1
+        },
+        {
+            "source": "hololive",
+            "target": "tsunomaki watame",
+            "value": 1
+        },
+        {
+            "source": "tsunomaki watame",
+            "target": "woman",
+            "value": 1
+        },
+        {
+            "source": "virtual youtuber",
+            "target": "tsunomaki watame",
+            "value": 2
+        },
+        {
+            "source": "nijisanji",
+            "target": "girls",
+            "value": 6
+        },
+        {
+            "source": "character",
+            "target": "idol",
+            "value": 2
+        },
+        {
+            "source": "character",
+            "target": "vitrual youtuber",
+            "value": 3
+        },
+        {
+            "source": "girl",
+            "target": "idol",
+            "value": 1
+        },
+        {
+            "source": "vitrual youtuber",
+            "target": "girl",
+            "value": 2
+        },
+        {
+            "source": "vitrual youtuber",
+            "target": "idol",
+            "value": 1
+        },
+        {
+            "source": "youtuber",
+            "target": "famous",
+            "value": 10
+        },
+        {
+            "source": "youtuber",
+            "target": "celebridad",
+            "value": 6
+        },
+        {
+            "source": "celebrity",
+            "target": "famous",
+            "value": 10
+        },
+        {
+            "source": "celebrity",
+            "target": "celebridad",
+            "value": 6
+        },
+        {
+            "source": "influencer",
+            "target": "famous",
+            "value": 3
+        },
+        {
+            "source": "famous",
+            "target": "celebridad",
+            "value": 5
+        },
+        {
+            "source": "influencer",
+            "target": "celebridad",
+            "value": 1
+        },
+        {
+            "source": "youtuber",
+            "target": "actress",
+            "value": 20
+        },
+        {
+            "source": "actress",
+            "target": "woman",
+            "value": 15
+        },
+        {
+            "source": "celebrity",
+            "target": "actress",
+            "value": 18
+        },
+        {
+            "source": "youtuber",
+            "target": "anime",
+            "value": 26
+        },
+        {
+            "source": "style",
+            "target": "anime",
+            "value": 7
+        },
+        {
+            "source": "style",
+            "target": "female",
+            "value": 1
+        },
+        {
+            "source": "style",
+            "target": "youtuber",
+            "value": 9
+        },
+        {
+            "source": "style",
+            "target": "woman",
+            "value": 1
+        },
+        {
+            "source": "youtuber",
+            "target": "youtube",
+            "value": 57
+        },
+        {
+            "source": "celebrity",
+            "target": "youtube",
+            "value": 15
+        },
+        {
+            "source": "twitch",
+            "target": "instagram",
+            "value": 11
+        },
+        {
+            "source": "instagram",
+            "target": "woman",
+            "value": 18
+        },
+        {
+            "source": "youtuber",
+            "target": "tiktok",
+            "value": 9
+        },
+        {
+            "source": "youtuber",
+            "target": "tiktoker",
+            "value": 5
+        },
+        {
+            "source": "tiktok",
+            "target": "woman",
+            "value": 5
+        },
+        {
+            "source": "tiktoker",
+            "target": "woman",
+            "value": 2
+        },
+        {
+            "source": "celebrity",
+            "target": "tiktok",
+            "value": 9
+        },
+        {
+            "source": "celebrity",
+            "target": "tiktoker",
+            "value": 4
+        },
+        {
+            "source": "tiktok",
+            "target": "tiktoker",
+            "value": 1
+        },
+        {
+            "source": "nijisanji",
+            "target": "female",
+            "value": 1
+        },
+        {
+            "source": "nijisanji",
+            "target": "woman",
+            "value": 7
+        },
+        {
+            "source": "anime",
+            "target": "vspo!",
+            "value": 13
+        },
+        {
+            "source": "vtuber",
+            "target": "vspo!",
+            "value": 19
+        },
+        {
+            "source": "vspo!",
+            "target": "woman",
+            "value": 11
+        },
+        {
+            "source": "photorealistic",
+            "target": "model",
+            "value": 2
+        },
+        {
+            "source": "photorealistic",
+            "target": "influencer",
+            "value": 4
+        },
+        {
+            "source": "sexy",
+            "target": "model",
+            "value": 2
+        },
+        {
+            "source": "sexy",
+            "target": "influencer",
+            "value": 1
+        },
+        {
+            "source": "celebrity",
+            "target": "model",
+            "value": 14
+        },
+        {
+            "source": "influencer",
+            "target": "model",
+            "value": 5
+        },
+        {
+            "source": "twitch",
+            "target": "tiktok",
+            "value": 2
+        },
+        {
+            "source": "tiktok",
+            "target": "streamer",
+            "value": 2
+        },
+        {
+            "source": "tiktok",
+            "target": "instagram",
+            "value": 4
+        },
+        {
+            "source": "youtuber",
+            "target": "celeb",
+            "value": 16
+        },
+        {
+            "source": "youtuber",
+            "target": "asmr",
+            "value": 24
+        },
+        {
+            "source": "vlogger",
+            "target": "youtuber",
+            "value": 5
+        },
+        {
+            "source": "celebrity",
+            "target": "celeb",
+            "value": 15
+        },
+        {
+            "source": "asmr",
+            "target": "celeb",
+            "value": 1
+        },
+        {
+            "source": "vlogger",
+            "target": "celeb",
+            "value": 1
+        },
+        {
+            "source": "celebrity",
+            "target": "asmr",
+            "value": 20
+        },
+        {
+            "source": "celebrity",
+            "target": "vlogger",
+            "value": 4
+        },
+        {
+            "source": "vlogger",
+            "target": "asmr",
+            "value": 1
+        },
+        {
+            "source": "character",
+            "target": "animation",
+            "value": 4
+        },
+        {
+            "source": "character",
+            "target": "youtuber",
+            "value": 126
+        },
+        {
+            "source": "character",
+            "target": "youtube",
+            "value": 38
+        },
+        {
+            "source": "youtuber",
+            "target": "animation",
+            "value": 5
+        },
+        {
+            "source": "youtube",
+            "target": "animation",
+            "value": 3
+        },
+        {
+            "source": "instagram",
+            "target": "person",
+            "value": 7
+        },
+        {
+            "source": "textual inversion",
+            "target": "sexy",
+            "value": 2
+        },
+        {
+            "source": "sexy",
+            "target": "instagram",
+            "value": 4
+        },
+        {
+            "source": "instagram",
+            "target": "female",
+            "value": 8
+        },
+        {
+            "source": "textual inversion",
+            "target": "instagram",
+            "value": 4
+        },
+        {
+            "source": "instagram",
+            "target": "model",
+            "value": 5
+        },
+        {
+            "source": "realism",
+            "target": "person",
+            "value": 1
+        },
+        {
+            "source": "woman",
+            "target": "person",
+            "value": 19
+        },
+        {
+            "source": "celebrity",
+            "target": "person",
+            "value": 28
+        },
+        {
+            "source": "photorealistic",
+            "target": "realism",
+            "value": 4
+        },
+        {
+            "source": "youtuber",
+            "target": "realism",
+            "value": 5
+        },
+        {
+            "source": "realism",
+            "target": "woman",
+            "value": 4
+        },
+        {
+            "source": "celebrity",
+            "target": "realism",
+            "value": 5
+        },
+        {
+            "source": "asian",
+            "target": "streamer",
+            "value": 2
+        },
+        {
+            "source": "celebrity",
+            "target": "girl",
+            "value": 3
+        },
+        {
+            "source": "girl",
+            "target": "german",
+            "value": 1
+        },
+        {
+            "source": "youtuber",
+            "target": "german",
+            "value": 8
+        },
+        {
+            "source": "celebrity",
+            "target": "german",
+            "value": 7
+        },
+        {
+            "source": "kpop",
+            "target": "female",
+            "value": 2
+        },
+        {
+            "source": "girls",
+            "target": "female",
+            "value": 24
+        },
+        {
+            "source": "korean",
+            "target": "female",
+            "value": 2
+        },
+        {
+            "source": "girls",
+            "target": "youtuber",
+            "value": 50
+        },
+        {
+            "source": "youtuber",
+            "target": "korean",
+            "value": 3
+        },
+        {
+            "source": "girls",
+            "target": "kpop",
+            "value": 1
+        },
+        {
+            "source": "kpop",
+            "target": "korean",
+            "value": 1
+        },
+        {
+            "source": "korean",
+            "target": "woman",
+            "value": 2
+        },
+        {
+            "source": "girls",
+            "target": "celebrity",
+            "value": 38
+        },
+        {
+            "source": "celebrity",
+            "target": "korean",
+            "value": 3
+        },
+        {
+            "source": "girls",
+            "target": "korean",
+            "value": 2
+        },
+        {
+            "source": "style",
+            "target": "youtube",
+            "value": 4
+        },
+        {
+            "source": "lora",
+            "target": "style",
+            "value": 1
+        },
+        {
+            "source": "lora",
+            "target": "youtube",
+            "value": 4
+        },
+        {
+            "source": "photorealistic",
+            "target": "actress",
+            "value": 4
+        },
+        {
+            "source": "vshojo",
+            "target": "character",
+            "value": 8
+        },
+        {
+            "source": "vshojo",
+            "target": "vtuber",
+            "value": 7
+        },
+        {
+            "source": "vshojo",
+            "target": "virtual youtuber",
+            "value": 7
+        },
+        {
+            "source": "girls",
+            "target": "vspo!",
+            "value": 1
+        },
+        {
+            "source": "celeb",
+            "target": "woman",
+            "value": 15
+        },
+        {
+            "source": "girl",
+            "target": "instagram",
+            "value": 1
+        },
+        {
+            "source": "girls",
+            "target": "sexy",
+            "value": 33
+        },
+        {
+            "source": "girls",
+            "target": "twitch",
+            "value": 2
+        },
+        {
+            "source": "girls",
+            "target": "instagram",
+            "value": 6
+        },
+        {
+            "source": "game character",
+            "target": "anime",
+            "value": 4
+        },
+        {
+            "source": "game character",
+            "target": "character",
+            "value": 3
+        },
+        {
+            "source": "game character",
+            "target": "sexy",
+            "value": 2
+        },
+        {
+            "source": "virtual youtuber",
+            "target": "game character",
+            "value": 3
+        },
+        {
+            "source": "style",
+            "target": "hololive",
+            "value": 1
+        },
+        {
+            "source": "virtual youtuber",
+            "target": "style",
+            "value": 5
+        },
+        {
+            "source": "twitch",
+            "target": "person",
+            "value": 14
+        },
+        {
+            "source": "singer",
+            "target": "female",
+            "value": 2
+        },
+        {
+            "source": "youtuber",
+            "target": "singer",
+            "value": 20
+        },
+        {
+            "source": "twitch",
+            "target": "singer",
+            "value": 1
+        },
+        {
+            "source": "singer",
+            "target": "streamer",
+            "value": 1
+        },
+        {
+            "source": "celebrity",
+            "target": "singer",
+            "value": 19
+        },
+        {
+            "source": "vitrual youtuber",
+            "target": "anime",
+            "value": 2
+        },
+        {
+            "source": "vitrual youtuber",
+            "target": "vtuber",
+            "value": 1
+        },
+        {
+            "source": "nijisanji",
+            "target": "vitrual youtuber",
+            "value": 1
+        },
+        {
+            "source": "youtuber",
+            "target": "instagram model",
+            "value": 5
+        },
+        {
+            "source": "model",
+            "target": "woman",
+            "value": 9
+        },
+        {
+            "source": "model",
+            "target": "instagram model",
+            "value": 4
+        },
+        {
+            "source": "instagram",
+            "target": "instagram model",
+            "value": 3
+        },
+        {
+            "source": "instagram model",
+            "target": "woman",
+            "value": 5
+        },
+        {
+            "source": "celebrity",
+            "target": "instagram model",
+            "value": 5
+        },
+        {
+            "source": "youtuber",
+            "target": "comedian",
+            "value": 6
+        },
+        {
+            "source": "comedian",
+            "target": "model",
+            "value": 1
+        },
+        {
+            "source": "comedian",
+            "target": "woman",
+            "value": 4
+        },
+        {
+            "source": "celebrity",
+            "target": "comedian",
+            "value": 4
+        },
+        {
+            "source": "spanish",
+            "target": "girl",
+            "value": 1
+        },
+        {
+            "source": "spanish",
+            "target": "person",
+            "value": 7
+        },
+        {
+            "source": "spanish",
+            "target": "sexy",
+            "value": 1
+        },
+        {
+            "source": "spanish",
+            "target": "female",
+            "value": 1
+        },
+        {
+            "source": "spanish",
+            "target": "textual inversion",
+            "value": 1
+        },
+        {
+            "source": "spanish",
+            "target": "youtuber",
+            "value": 8
+        },
+        {
+            "source": "twitch",
+            "target": "model",
+            "value": 1
+        },
+        {
+            "source": "cosplayer",
+            "target": "streamer",
+            "value": 4
+        },
+        {
+            "source": "cosplayer",
+            "target": "model",
+            "value": 3
+        },
+        {
+            "source": "cosplayer",
+            "target": "instagram",
+            "value": 3
+        },
+        {
+            "source": "hololive id",
+            "target": "female",
+            "value": 1
+        },
+        {
+            "source": "realistic",
+            "target": "female",
+            "value": 4
+        },
+        {
+            "source": "female",
+            "target": "german",
+            "value": 2
+        },
+        {
+            "source": "realistic",
+            "target": "youtuber",
+            "value": 49
+        },
+        {
+            "source": "realistic",
+            "target": "woman",
+            "value": 42
+        },
+        {
+            "source": "german",
+            "target": "woman",
+            "value": 5
+        },
+        {
+            "source": "realistic",
+            "target": "celebrity",
+            "value": 44
+        },
+        {
+            "source": "realistic",
+            "target": "german",
+            "value": 2
+        },
+        {
+            "source": "actress",
+            "target": "female",
+            "value": 2
+        },
+        {
+            "source": "japanese",
+            "target": "female",
+            "value": 1
+        },
+        {
+            "source": "youtuber",
+            "target": "japanese",
+            "value": 4
+        },
+        {
+            "source": "japanese",
+            "target": "woman",
+            "value": 5
+        },
+        {
+            "source": "actress",
+            "target": "japanese",
+            "value": 1
+        },
+        {
+            "source": "celebrity",
+            "target": "japanese",
+            "value": 3
+        },
+        {
+            "source": "vshojo",
+            "target": "anime",
+            "value": 6
+        },
+        {
+            "source": "vshojo",
+            "target": "female",
+            "value": 3
+        },
+        {
+            "source": "vshojo",
+            "target": "woman",
+            "value": 6
+        },
+        {
+            "source": "cosplayer",
+            "target": "tiktok",
+            "value": 1
+        },
+        {
+            "source": "instagram",
+            "target": "german",
+            "value": 1
+        },
+        {
+            "source": "german",
+            "target": "instagram model",
+            "value": 1
+        },
+        {
+            "source": "anime",
+            "target": "horns",
+            "value": 2
+        },
+        {
+            "source": "horns",
+            "target": "tsunomaki watame",
+            "value": 1
+        },
+        {
+            "source": "game character",
+            "target": "horns",
+            "value": 1
+        },
+        {
+            "source": "virtual youtuber",
+            "target": "horns",
+            "value": 2
+        },
+        {
+            "source": "game character",
+            "target": "tsunomaki watame",
+            "value": 1
+        },
+        {
+            "source": "anime",
+            "target": "korean",
+            "value": 1
+        },
+        {
+            "source": "character",
+            "target": "korean",
+            "value": 1
+        },
+        {
+            "source": "vtuber",
+            "target": "korean",
+            "value": 1
+        },
+        {
+            "source": "virtual youtuber",
+            "target": "korean",
+            "value": 1
+        },
+        {
+            "source": "singer",
+            "target": "famous",
+            "value": 1
+        },
+        {
+            "source": "youtube influencer",
+            "target": "model",
+            "value": 1
+        },
+        {
+            "source": "celebrity",
+            "target": "youtube influencer",
+            "value": 2
+        },
+        {
+            "source": "girls",
+            "target": "photorealistic",
+            "value": 24
+        },
+        {
+            "source": "photorealistic",
+            "target": "real person",
+            "value": 2
+        },
+        {
+            "source": "real person",
+            "target": "female",
+            "value": 4
+        },
+        {
+            "source": "youtuber",
+            "target": "real person",
+            "value": 9
+        },
+        {
+            "source": "celebrity",
+            "target": "real person",
+            "value": 7
+        },
+        {
+            "source": "girls",
+            "target": "real person",
+            "value": 1
+        },
+        {
+            "source": "photorealistic",
+            "target": "markiplier",
+            "value": 1
+        },
+        {
+            "source": "youtuber",
+            "target": "markiplier",
+            "value": 4
+        },
+        {
+            "source": "celebrity",
+            "target": "markiplier",
+            "value": 1
+        },
+        {
+            "source": "style",
+            "target": "vtuber",
+            "value": 3
+        },
+        {
+            "source": "dancer",
+            "target": "person",
+            "value": 1
+        },
+        {
+            "source": "photorealistic",
+            "target": "dancer",
+            "value": 1
+        },
+        {
+            "source": "female",
+            "target": "dancer",
+            "value": 1
+        },
+        {
+            "source": "youtuber",
+            "target": "dancer",
+            "value": 3
+        },
+        {
+            "source": "asian",
+            "target": "dancer",
+            "value": 2
+        },
+        {
+            "source": "woman",
+            "target": "dancer",
+            "value": 1
+        },
+        {
+            "source": "anime",
+            "target": "vtuber character",
+            "value": 5
+        },
+        {
+            "source": "character",
+            "target": "vtuber character",
+            "value": 11
+        },
+        {
+            "source": "vtuber",
+            "target": "vtuber character",
+            "value": 11
+        },
+        {
+            "source": "vtuber character",
+            "target": "woman",
+            "value": 6
+        },
+        {
+            "source": "virtual youtuber",
+            "target": "vtuber character",
+            "value": 11
+        },
+        {
+            "source": "lora",
+            "target": "vtuber character",
+            "value": 1
+        },
+        {
+            "source": "youtuber",
+            "target": "vtuber",
+            "value": 12
+        },
+        {
+            "source": "youtuber",
+            "target": "hololive",
+            "value": 2
+        },
+        {
+            "source": "taiwan",
+            "target": "female",
+            "value": 4
+        },
+        {
+            "source": "taiwan",
+            "target": "youtuber",
+            "value": 6
+        },
+        {
+            "source": "taiwan",
+            "target": "woman",
+            "value": 6
+        },
+        {
+            "source": "taiwan",
+            "target": "celebrity",
+            "value": 5
+        },
+        {
+            "source": "russian",
+            "target": "youtuber",
+            "value": 3
+        },
+        {
+            "source": "cute",
+            "target": "instagram",
+            "value": 1
+        },
+        {
+            "source": "russian",
+            "target": "instagram",
+            "value": 1
+        },
+        {
+            "source": "instagram",
+            "target": "tiktoker",
+            "value": 1
+        },
+        {
+            "source": "celebrity",
+            "target": "russian",
+            "value": 1
+        },
+        {
+            "source": "cute",
+            "target": "russian",
+            "value": 1
+        },
+        {
+            "source": "cute",
+            "target": "tiktoker",
+            "value": 1
+        },
+        {
+            "source": "russian",
+            "target": "tiktoker",
+            "value": 1
+        },
+        {
+            "source": "youtuber",
+            "target": "indonesia",
+            "value": 1
+        },
+        {
+            "source": "korean",
+            "target": "instagram",
+            "value": 1
+        },
+        {
+            "source": "indonesia",
+            "target": "instagram",
+            "value": 1
+        },
+        {
+            "source": "celebrity",
+            "target": "indonesia",
+            "value": 1
+        },
+        {
+            "source": "girls",
+            "target": "indonesia",
+            "value": 1
+        },
+        {
+            "source": "indonesia",
+            "target": "korean",
+            "value": 1
+        },
+        {
+            "source": "game character",
+            "target": "female",
+            "value": 1
+        },
+        {
+            "source": "game character",
+            "target": "youtuber",
+            "value": 1
+        },
+        {
+            "source": "game character",
+            "target": "woman",
+            "value": 1
+        },
+        {
+            "source": "vtuber character",
+            "target": "female",
+            "value": 2
+        },
+        {
+            "source": "textual inversion",
+            "target": "bimbo",
+            "value": 1
+        },
+        {
+            "source": "youtuber",
+            "target": "bimbo",
+            "value": 4
+        },
+        {
+            "source": "twitch",
+            "target": "bimbo",
+            "value": 1
+        },
+        {
+            "source": "celebrity",
+            "target": "bimbo",
+            "value": 3
+        },
+        {
+            "source": "youtuber",
+            "target": "male",
+            "value": 38
+        },
+        {
+            "source": "celebrity",
+            "target": "male",
+            "value": 24
+        },
+        {
+            "source": "youtuber",
+            "target": "musician",
+            "value": 10
+        },
+        {
+            "source": "youtuber",
+            "target": "celebrity,",
+            "value": 18
+        },
+        {
+            "source": "comedian",
+            "target": "musician",
+            "value": 1
+        },
+        {
+            "source": "comedian",
+            "target": "actress",
+            "value": 3
+        },
+        {
+            "source": "comedian",
+            "target": "celebrity,",
+            "value": 1
+        },
+        {
+            "source": "actress",
+            "target": "musician",
+            "value": 2
+        },
+        {
+            "source": "celebrity",
+            "target": "musician",
+            "value": 9
+        },
+        {
+            "source": "celebrity,",
+            "target": "musician",
+            "value": 1
+        },
+        {
+            "source": "actress",
+            "target": "celebrity,",
+            "value": 1
+        },
+        {
+            "source": "celebrity",
+            "target": "celebrity,",
+            "value": 16
+        },
+        {
+            "source": "hololive id",
+            "target": "woman",
+            "value": 1
+        },
+        {
+            "source": "model",
+            "target": "actress",
+            "value": 1
+        },
+        {
+            "source": "instagram",
+            "target": "actress",
+            "value": 1
+        },
+        {
+            "source": "actress",
+            "target": "instagram model",
+            "value": 1
+        },
+        {
+            "source": "anime",
+            "target": "idol",
+            "value": 1
+        },
+        {
+            "source": "vtuber",
+            "target": "idol",
+            "value": 1
+        },
+        {
+            "source": "hololive",
+            "target": "idol",
+            "value": 1
+        },
+        {
+            "source": "virtual youtuber",
+            "target": "idol",
+            "value": 1
+        },
+        {
+            "source": "character",
+            "target": "russian virtual youtuber",
+            "value": 1
+        },
+        {
+            "source": "character",
+            "target": "ru vtuber",
+            "value": 1
+        },
+        {
+            "source": "russian virtual youtuber",
+            "target": "vtuber",
+            "value": 4
+        },
+        {
+            "source": "vtuber",
+            "target": "ru vtuber",
+            "value": 4
+        },
+        {
+            "source": "virtual youtuber",
+            "target": "russian virtual youtuber",
+            "value": 4
+        },
+        {
+            "source": "virtual youtuber",
+            "target": "ru vtuber",
+            "value": 4
+        },
+        {
+            "source": "russian virtual youtuber",
+            "target": "ru vtuber",
+            "value": 4
+        },
+        {
+            "source": "russian virtual youtuber",
+            "target": "vtuber character",
+            "value": 3
+        },
+        {
+            "source": "ru vtuber",
+            "target": "vtuber character",
+            "value": 3
+        },
+        {
+            "source": "cosplayer",
+            "target": "female",
+            "value": 2
+        },
+        {
+            "source": "youtube",
+            "target": "female",
+            "value": 5
+        },
+        {
+            "source": "twitch",
+            "target": "real person",
+            "value": 3
+        },
+        {
+            "source": "twitch",
+            "target": "youtube",
+            "value": 6
+        },
+        {
+            "source": "cosplayer",
+            "target": "real person",
+            "value": 1
+        },
+        {
+            "source": "cosplayer",
+            "target": "youtube",
+            "value": 1
+        },
+        {
+            "source": "youtube",
+            "target": "real person",
+            "value": 2
+        },
+        {
+            "source": "twintails",
+            "target": "photorealistic",
+            "value": 1
+        },
+        {
+            "source": "twintails",
+            "target": "sexy",
+            "value": 1
+        },
+        {
+            "source": "twintails",
+            "target": "youtuber",
+            "value": 1
+        },
+        {
+            "source": "twintails",
+            "target": "woman",
+            "value": 2
+        },
+        {
+            "source": "celebrity",
+            "target": "twintails",
+            "value": 1
+        },
+        {
+            "source": "indie vtuber",
+            "target": "anime",
+            "value": 16
+        },
+        {
+            "source": "character",
+            "target": "indie vtuber",
+            "value": 16
+        },
+        {
+            "source": "indie vtuber",
+            "target": "female",
+            "value": 1
+        },
+        {
+            "source": "indie vtuber",
+            "target": "vtuber",
+            "value": 15
+        },
+        {
+            "source": "indie vtuber",
+            "target": "woman",
+            "value": 11
+        },
+        {
+            "source": "virtual youtuber",
+            "target": "indie vtuber",
+            "value": 15
+        },
+        {
+            "source": "american",
+            "target": "person",
+            "value": 9
+        },
+        {
+            "source": "american",
+            "target": "female",
+            "value": 1
+        },
+        {
+            "source": "textual inversion",
+            "target": "american",
+            "value": 1
+        },
+        {
+            "source": "youtuber",
+            "target": "american",
+            "value": 12
+        },
+        {
+            "source": "american",
+            "target": "instagram",
+            "value": 1
+        },
+        {
+            "source": "celebrity",
+            "target": "american",
+            "value": 11
+        },
+        {
+            "source": "meme",
+            "target": "person",
+            "value": 1
+        },
+        {
+            "source": "meme",
+            "target": "photorealistic",
+            "value": 3
+        },
+        {
+            "source": "meme",
+            "target": "youtuber",
+            "value": 5
+        },
+        {
+            "source": "meme",
+            "target": "twitch",
+            "value": 2
+        },
+        {
+            "source": "meme",
+            "target": "streamer",
+            "value": 2
+        },
+        {
+            "source": "meme",
+            "target": "celebrity",
+            "value": 2
+        },
+        {
+            "source": "cosplayer",
+            "target": "person",
+            "value": 1
+        },
+        {
+            "source": "photorealistic",
+            "target": "celeb",
+            "value": 4
+        },
+        {
+            "source": "celeb",
+            "target": "sexy",
+            "value": 1
+        },
+        {
+            "source": "celeb",
+            "target": "female",
+            "value": 2
+        },
+        {
+            "source": "photorealistic",
+            "target": "asmr",
+            "value": 6
+        },
+        {
+            "source": "asmr",
+            "target": "woman",
+            "value": 16
+        },
+        {
+            "source": "taiwan",
+            "target": "streamer",
+            "value": 2
+        },
+        {
+            "source": "streamer",
+            "target": "japanese",
+            "value": 1
+        },
+        {
+            "source": "singer",
+            "target": "actress",
+            "value": 3
+        },
+        {
+            "source": "singer",
+            "target": "german",
+            "value": 1
+        },
+        {
+            "source": "singer",
+            "target": "influencer",
+            "value": 9
+        },
+        {
+            "source": "actress",
+            "target": "german",
+            "value": 1
+        },
+        {
+            "source": "influencer",
+            "target": "actress",
+            "value": 1
+        },
+        {
+            "source": "influencer",
+            "target": "german",
+            "value": 3
+        },
+        {
+            "source": "youtube",
+            "target": "singer",
+            "value": 1
+        },
+        {
+            "source": "real person",
+            "target": "woman",
+            "value": 2
+        },
+        {
+            "source": "streamer",
+            "target": "influencer",
+            "value": 6
+        },
+        {
+            "source": "celebrity,",
+            "target": "woman",
+            "value": 4
+        },
+        {
+            "source": "gamer",
+            "target": "female",
+            "value": 1
+        },
+        {
+            "source": "youtuber",
+            "target": "gamer",
+            "value": 9
+        },
+        {
+            "source": "gamer",
+            "target": "woman",
+            "value": 3
+        },
+        {
+            "source": "celebrity",
+            "target": "gamer",
+            "value": 4
+        },
+        {
+            "source": "realistic",
+            "target": "gamer",
+            "value": 3
+        },
+        {
+            "source": "youtuber",
+            "target": "british",
+            "value": 6
+        },
+        {
+            "source": "twitch",
+            "target": "british",
+            "value": 1
+        },
+        {
+            "source": "british",
+            "target": "woman",
+            "value": 6
+        },
+        {
+            "source": "celebrity",
+            "target": "british",
+            "value": 6
+        },
+        {
+            "source": "influencer",
+            "target": "celebrity,",
+            "value": 4
+        },
+        {
+            "source": "hololive",
+            "target": "streamer",
+            "value": 2
+        },
+        {
+            "source": "taiwanese",
+            "target": "female",
+            "value": 1
+        },
+        {
+            "source": "youtuber",
+            "target": "taiwanese",
+            "value": 2
+        },
+        {
+            "source": "taiwanese",
+            "target": "streamer",
+            "value": 1
+        },
+        {
+            "source": "taiwanese",
+            "target": "woman",
+            "value": 1
+        },
+        {
+            "source": "celebrity",
+            "target": "taiwanese",
+            "value": 2
+        },
+        {
+            "source": "taiwan",
+            "target": "taiwanese",
+            "value": 1
+        },
+        {
+            "source": "asian",
+            "target": "instagram",
+            "value": 1
+        },
+        {
+            "source": "photorealistic",
+            "target": "glasses",
+            "value": 1
+        },
+        {
+            "source": "sexy",
+            "target": "glasses",
+            "value": 2
+        },
+        {
+            "source": "youtuber",
+            "target": "glasses",
+            "value": 4
+        },
+        {
+            "source": "woman",
+            "target": "glasses",
+            "value": 2
+        },
+        {
+            "source": "celebrity",
+            "target": "glasses",
+            "value": 1
+        },
+        {
+            "source": "girls",
+            "target": "glasses",
+            "value": 1
+        },
+        {
+            "source": "realistic",
+            "target": "twitch",
+            "value": 2
+        },
+        {
+            "source": "girls",
+            "target": "realistic",
+            "value": 23
+        },
+        {
+            "source": "real person",
+            "target": "person",
+            "value": 4
+        },
+        {
+            "source": "real person",
+            "target": "streamer",
+            "value": 3
+        },
+        {
+            "source": "character",
+            "target": "real person",
+            "value": 1
+        },
+        {
+            "source": "twitch",
+            "target": "famous",
+            "value": 3
+        },
+        {
+            "source": "twitch",
+            "target": "celebrity,",
+            "value": 3
+        },
+        {
+            "source": "streamer",
+            "target": "famous",
+            "value": 7
+        },
+        {
+            "source": "streamer",
+            "target": "celebrity,",
+            "value": 7
+        },
+        {
+            "source": "famous",
+            "target": "celebrity,",
+            "value": 8
+        },
+        {
+            "source": "character",
+            "target": "boys",
+            "value": 12
+        },
+        {
+            "source": "nijisanji",
+            "target": "boys",
+            "value": 1
+        },
+        {
+            "source": "virtual youtuber",
+            "target": "boys",
+            "value": 1
+        },
+        {
+            "source": "character",
+            "target": "japanese",
+            "value": 2
+        },
+        {
+            "source": "virtual youtuber",
+            "target": "japanese",
+            "value": 1
+        },
+        {
+            "source": "girls",
+            "target": "streamer",
+            "value": 3
+        },
+        {
+            "source": "realistic",
+            "target": "photorealistic",
+            "value": 22
+        },
+        {
+            "source": "realistic",
+            "target": "sexy",
+            "value": 17
+        },
+        {
+            "source": "vlogger",
+            "target": "famous",
+            "value": 1
+        },
+        {
+            "source": "vlogger",
+            "target": "influencer",
+            "value": 1
+        },
+        {
+            "source": "vlogger",
+            "target": "celebrity,",
+            "value": 1
+        },
+        {
+            "source": "model",
+            "target": "realism",
+            "value": 1
+        },
+        {
+            "source": "girls",
+            "target": "realism",
+            "value": 1
+        },
+        {
+            "source": "realistic",
+            "target": "realism",
+            "value": 1
+        },
+        {
+            "source": "girls",
+            "target": "model",
+            "value": 1
+        },
+        {
+            "source": "realistic",
+            "target": "model",
+            "value": 1
+        },
+        {
+            "source": "character",
+            "target": "cartoon",
+            "value": 7
+        },
+        {
+            "source": "cartoon",
+            "target": "youtuber",
+            "value": 9
+        },
+        {
+            "source": "cartoon",
+            "target": "woman",
+            "value": 2
+        },
+        {
+            "source": "youtube",
+            "target": "woman",
+            "value": 11
+        },
+        {
+            "source": "minecraft",
+            "target": "character",
+            "value": 4
+        },
+        {
+            "source": "minecraft",
+            "target": "female",
+            "value": 1
+        },
+        {
+            "source": "minecraft",
+            "target": "youtuber",
+            "value": 5
+        },
+        {
+            "source": "minecraft",
+            "target": "woman",
+            "value": 1
+        },
+        {
+            "source": "minecraft",
+            "target": "youtube",
+            "value": 3
+        },
+        {
+            "source": "host",
+            "target": "youtuber",
+            "value": 3
+        },
+        {
+            "source": "host",
+            "target": "cosplayer",
+            "value": 1
+        },
+        {
+            "source": "host",
+            "target": "actress",
+            "value": 1
+        },
+        {
+            "source": "host",
+            "target": "celebrity",
+            "value": 2
+        },
+        {
+            "source": "cosplayer",
+            "target": "actress",
+            "value": 1
+        },
+        {
+            "source": "nijisanji jp",
+            "target": "anime",
+            "value": 1
+        },
+        {
+            "source": "photorealistic",
+            "target": "blonde",
+            "value": 1
+        },
+        {
+            "source": "photorealistic",
+            "target": "tiktoker",
+            "value": 1
+        },
+        {
+            "source": "youtuber",
+            "target": "blonde",
+            "value": 2
+        },
+        {
+            "source": "blonde",
+            "target": "woman",
+            "value": 1
+        },
+        {
+            "source": "celebrity",
+            "target": "blonde",
+            "value": 1
+        },
+        {
+            "source": "blonde",
+            "target": "tiktoker",
+            "value": 1
+        },
+        {
+            "source": "indie vtuber",
+            "target": "lora",
+            "value": 1
+        },
+        {
+            "source": "photorealistic",
+            "target": "instagram",
+            "value": 5
+        },
+        {
+            "source": "twitch",
+            "target": "kpop",
+            "value": 1
+        },
+        {
+            "source": "male",
+            "target": "anime",
+            "value": 6
+        },
+        {
+            "source": "character",
+            "target": "male",
+            "value": 22
+        },
+        {
+            "source": "vtuber",
+            "target": "male",
+            "value": 6
+        },
+        {
+            "source": "hololive",
+            "target": "male",
+            "value": 3
+        },
+        {
+            "source": "virtual youtuber",
+            "target": "male",
+            "value": 9
+        },
+        {
+            "source": "twitch",
+            "target": "influencer",
+            "value": 2
+        },
+        {
+            "source": "girls",
+            "target": "lora",
+            "value": 10
+        },
+        {
+            "source": "french",
+            "target": "youtuber",
+            "value": 10
+        },
+        {
+            "source": "french",
+            "target": "celebrity",
+            "value": 8
+        },
+        {
+            "source": "singer",
+            "target": "instagram",
+            "value": 1
+        },
+        {
+            "source": "singer",
+            "target": "woman",
+            "value": 10
+        },
+        {
+            "source": "character",
+            "target": "indie virtual youtuber",
+            "value": 4
+        },
+        {
+            "source": "vtuber",
+            "target": "indie virtual youtuber",
+            "value": 3
+        },
+        {
+            "source": "vshojo",
+            "target": "vtuber character",
+            "value": 1
+        },
+        {
+            "source": "vshojo",
+            "target": "indie virtual youtuber",
+            "value": 1
+        },
+        {
+            "source": "indie virtual youtuber",
+            "target": "woman",
+            "value": 2
+        },
+        {
+            "source": "vtuber character",
+            "target": "indie virtual youtuber",
+            "value": 1
+        },
+        {
+            "source": "character",
+            "target": "photorealistic",
+            "value": 4
+        },
+        {
+            "source": "character",
+            "target": "asmr",
+            "value": 4
+        },
+        {
+            "source": "comedian",
+            "target": "person",
+            "value": 2
+        },
+        {
+            "source": "actress",
+            "target": "person",
+            "value": 3
+        },
+        {
+            "source": "celeb",
+            "target": "person",
+            "value": 6
+        },
+        {
+            "source": "comedian",
+            "target": "female",
+            "value": 1
+        },
+        {
+            "source": "comedian",
+            "target": "celeb",
+            "value": 1
+        },
+        {
+            "source": "celeb",
+            "target": "actress",
+            "value": 3
+        },
+        {
+            "source": "textual inversion",
+            "target": "youtube",
+            "value": 1
+        },
+        {
+            "source": "textual inversion",
+            "target": "asmr",
+            "value": 1
+        },
+        {
+            "source": "twitch",
+            "target": "asmr",
+            "value": 4
+        },
+        {
+            "source": "asmr",
+            "target": "youtube",
+            "value": 1
+        },
+        {
+            "source": "photorealistic",
+            "target": "anime",
+            "value": 4
+        },
+        {
+            "source": "american",
+            "target": "anime",
+            "value": 1
+        },
+        {
+            "source": "twitch",
+            "target": "anime",
+            "value": 3
+        },
+        {
+            "source": "celebrity",
+            "target": "anime",
+            "value": 5
+        },
+        {
+            "source": "photorealistic",
+            "target": "american",
+            "value": 2
+        },
+        {
+            "source": "twitch",
+            "target": "american",
+            "value": 2
+        },
+        {
+            "source": "american",
+            "target": "woman",
+            "value": 10
+        },
+        {
+            "source": "nijisanji",
+            "target": "male",
+            "value": 3
+        },
+        {
+            "source": "nijisanji jp",
+            "target": "male",
+            "value": 3
+        },
+        {
+            "source": "anime",
+            "target": "animation",
+            "value": 2
+        },
+        {
+            "source": "sexy",
+            "target": "animation",
+            "value": 1
+        },
+        {
+            "source": "animation",
+            "target": "female",
+            "value": 1
+        },
+        {
+            "source": "animation",
+            "target": "woman",
+            "value": 3
+        },
+        {
+            "source": "hololive",
+            "target": "vtuber character",
+            "value": 3
+        },
+        {
+            "source": "photorealistic",
+            "target": "singer",
+            "value": 2
+        },
+        {
+            "source": "sexy",
+            "target": "singer",
+            "value": 2
+        },
+        {
+            "source": "sexy",
+            "target": "actress",
+            "value": 2
+        },
+        {
+            "source": "musician",
+            "target": "woman",
+            "value": 5
+        },
+        {
+            "source": "male",
+            "target": "person",
+            "value": 1
+        },
+        {
+            "source": "twitch",
+            "target": "male",
+            "value": 1
+        },
+        {
+            "source": "male",
+            "target": "streamer",
+            "value": 3
+        },
+        {
+            "source": "real person",
+            "target": "male",
+            "value": 1
+        },
+        {
+            "source": "anime",
+            "target": "avatar",
+            "value": 1
+        },
+        {
+            "source": "character",
+            "target": "avatar",
+            "value": 2
+        },
+        {
+            "source": "sexy",
+            "target": "avatar",
+            "value": 1
+        },
+        {
+            "source": "female",
+            "target": "avatar",
+            "value": 1
+        },
+        {
+            "source": "youtuber",
+            "target": "avatar",
+            "value": 2
+        },
+        {
+            "source": "woman",
+            "target": "avatar",
+            "value": 1
+        },
+        {
+            "source": "youtuber",
+            "target": "man",
+            "value": 35
+        },
+        {
+            "source": "celebrity",
+            "target": "man",
+            "value": 28
+        },
+        {
+            "source": "man",
+            "target": "german",
+            "value": 1
+        },
+        {
+            "source": "character",
+            "target": "markiplier",
+            "value": 3
+        },
+        {
+            "source": "muscle",
+            "target": "character",
+            "value": 2
+        },
+        {
+            "source": "sexy",
+            "target": "markiplier",
+            "value": 1
+        },
+        {
+            "source": "male",
+            "target": "sexy",
+            "value": 3
+        },
+        {
+            "source": "muscle",
+            "target": "sexy",
+            "value": 1
+        },
+        {
+            "source": "muscle",
+            "target": "youtuber",
+            "value": 4
+        },
+        {
+            "source": "male",
+            "target": "markiplier",
+            "value": 2
+        },
+        {
+            "source": "muscle",
+            "target": "markiplier",
+            "value": 1
+        },
+        {
+            "source": "muscle",
+            "target": "male",
+            "value": 3
+        },
+        {
+            "source": "photorealistic",
+            "target": "idol",
+            "value": 1
+        },
+        {
+            "source": "youtuber",
+            "target": "idol",
+            "value": 1
+        },
+        {
+            "source": "asian",
+            "target": "idol",
+            "value": 1
+        },
+        {
+            "source": "woman",
+            "target": "idol",
+            "value": 1
+        },
+        {
+            "source": "female",
+            "target": "bimbo",
+            "value": 1
+        },
+        {
+            "source": "woman",
+            "target": "bimbo",
+            "value": 3
+        },
+        {
+            "source": "german",
+            "target": "bimbo",
+            "value": 1
+        },
+        {
+            "source": "influencer",
+            "target": "bimbo",
+            "value": 1
+        },
+        {
+            "source": "girls",
+            "target": "indie vtuber",
+            "value": 4
+        },
+        {
+            "source": "girls",
+            "target": "american",
+            "value": 1
+        },
+        {
+            "source": "realistic",
+            "target": "american",
+            "value": 5
+        },
+        {
+            "source": "sexy",
+            "target": "streamer",
+            "value": 3
+        },
+        {
+            "source": "twitch",
+            "target": "cute",
+            "value": 1
+        },
+        {
+            "source": "cute",
+            "target": "streamer",
+            "value": 1
+        },
+        {
+            "source": "celebrity",
+            "target": "dancer",
+            "value": 2
+        },
+        {
+            "source": "cosplayer",
+            "target": "influencer",
+            "value": 2
+        },
+        {
+            "source": "youtuber",
+            "target": "photorealism",
+            "value": 14
+        },
+        {
+            "source": "photorealism",
+            "target": "woman",
+            "value": 13
+        },
+        {
+            "source": "celebrity",
+            "target": "photorealism",
+            "value": 14
+        },
+        {
+            "source": "anime",
+            "target": "indie virtual youtuber",
+            "value": 3
+        },
+        {
+            "source": "indie vtuber",
+            "target": "indie virtual youtuber",
+            "value": 3
+        },
+        {
+            "source": "photorealistic",
+            "target": "british",
+            "value": 2
+        },
+        {
+            "source": "celeb",
+            "target": "realism",
+            "value": 2
+        },
+        {
+            "source": "realism",
+            "target": "british",
+            "value": 2
+        },
+        {
+            "source": "celeb",
+            "target": "british",
+            "value": 5
+        },
+        {
+            "source": "photorealistic",
+            "target": "vtuber",
+            "value": 2
+        },
+        {
+            "source": "twitch",
+            "target": "vtuber",
+            "value": 3
+        },
+        {
+            "source": "anime",
+            "target": "musician",
+            "value": 1
+        },
+        {
+            "source": "male",
+            "target": "musician",
+            "value": 3
+        },
+        {
+            "source": "french",
+            "target": "streamer",
+            "value": 2
+        },
+        {
+            "source": "handsome",
+            "target": "guy",
+            "value": 1
+        },
+        {
+            "source": "youtuber",
+            "target": "guy",
+            "value": 4
+        },
+        {
+            "source": "celebrity",
+            "target": "guy",
+            "value": 4
+        },
+        {
+            "source": "youtuber",
+            "target": "handsome",
+            "value": 2
+        },
+        {
+            "source": "celebrity",
+            "target": "handsome",
+            "value": 2
+        },
+        {
+            "source": "realistic",
+            "target": "lora",
+            "value": 2
+        },
+        {
+            "source": "style",
+            "target": "animation",
+            "value": 1
+        },
+        {
+            "source": "photorealism",
+            "target": "person",
+            "value": 7
+        },
+        {
+            "source": "realistic",
+            "target": "person",
+            "value": 7
+        },
+        {
+            "source": "celeb",
+            "target": "photorealism",
+            "value": 3
+        },
+        {
+            "source": "realistic",
+            "target": "celeb",
+            "value": 2
+        },
+        {
+            "source": "realistic",
+            "target": "photorealism",
+            "value": 9
+        },
+        {
+            "source": "photorealistic",
+            "target": "tiktok",
+            "value": 2
+        },
+        {
+            "source": "photorealistic",
+            "target": "youtube",
+            "value": 3
+        },
+        {
+            "source": "youtube",
+            "target": "instagram",
+            "value": 4
+        },
+        {
+            "source": "youtube",
+            "target": "tiktok",
+            "value": 1
+        },
+        {
+            "source": "cartoon",
+            "target": "animation",
+            "value": 1
+        },
+        {
+            "source": "cartoon",
+            "target": "youtube",
+            "value": 3
+        },
+        {
+            "source": "photorealism",
+            "target": "british",
+            "value": 2
+        },
+        {
+            "source": "realistic",
+            "target": "british",
+            "value": 1
+        },
+        {
+            "source": "french",
+            "target": "photorealistic",
+            "value": 2
+        },
+        {
+            "source": "french",
+            "target": "woman",
+            "value": 3
+        },
+        {
+            "source": "french",
+            "target": "influencer",
+            "value": 1
+        },
+        {
+            "source": "realistic",
+            "target": "character",
+            "value": 5
+        },
+        {
+            "source": "realistic",
+            "target": "asmr",
+            "value": 1
+        },
+        {
+            "source": "asmr",
+            "target": "streamer",
+            "value": 7
+        },
+        {
+            "source": "youtube",
+            "target": "actress",
+            "value": 1
+        },
+        {
+            "source": "cartoon",
+            "target": "style",
+            "value": 2
+        },
+        {
+            "source": "wolfychu",
+            "target": "anime",
+            "value": 2
+        },
+        {
+            "source": "character",
+            "target": "wolfychu",
+            "value": 3
+        },
+        {
+            "source": "wolfychu",
+            "target": "sexy",
+            "value": 1
+        },
+        {
+            "source": "youtuber",
+            "target": "wolfychu",
+            "value": 3
+        },
+        {
+            "source": "wolfychu",
+            "target": "woman",
+            "value": 2
+        },
+        {
+            "source": "girls",
+            "target": "wolfychu",
+            "value": 2
+        },
+        {
+            "source": "gamer",
+            "target": "man",
+            "value": 1
+        },
+        {
+            "source": "spanish",
+            "target": "singer",
+            "value": 1
+        },
+        {
+            "source": "spanish",
+            "target": "celebrity",
+            "value": 7
+        },
+        {
+            "source": "streamer",
+            "target": "photorealism",
+            "value": 2
+        },
+        {
+            "source": "realistic",
+            "target": "musician",
+            "value": 1
+        },
+        {
+            "source": "game character",
+            "target": "vtuber",
+            "value": 1
+        },
+        {
+            "source": "youtuber",
+            "target": "music",
+            "value": 4
+        },
+        {
+            "source": "celebrity",
+            "target": "music",
+            "value": 2
+        },
+        {
+            "source": "male",
+            "target": "music",
+            "value": 1
+        },
+        {
+            "source": "man",
+            "target": "music",
+            "value": 1
+        },
+        {
+            "source": "youtube",
+            "target": "music",
+            "value": 1
+        },
+        {
+            "source": "man",
+            "target": "male",
+            "value": 23
+        },
+        {
+            "source": "youtube",
+            "target": "male",
+            "value": 6
+        },
+        {
+            "source": "youtube",
+            "target": "man",
+            "value": 2
+        },
+        {
+            "source": "male focus",
+            "target": "anime",
+            "value": 1
+        },
+        {
+            "source": "character",
+            "target": "male focus",
+            "value": 2
+        },
+        {
+            "source": "hololive",
+            "target": "male focus",
+            "value": 1
+        },
+        {
+            "source": "male focus",
+            "target": "male",
+            "value": 1
+        },
+        {
+            "source": "virtual youtuber",
+            "target": "male focus",
+            "value": 1
+        },
+        {
+            "source": "girls",
+            "target": "youtube",
+            "value": 2
+        },
+        {
+            "source": "photorealistic",
+            "target": "celebrity,",
+            "value": 1
+        },
+        {
+            "source": "tiktok",
+            "target": "influencer",
+            "value": 1
+        },
+        {
+            "source": "tiktok",
+            "target": "celebrity,",
+            "value": 1
+        },
+        {
+            "source": "twintails",
+            "target": "character",
+            "value": 3
+        },
+        {
+            "source": "twintails",
+            "target": "vtuber",
+            "value": 3
+        },
+        {
+            "source": "virtual youtuber",
+            "target": "twintails",
+            "value": 3
+        },
+        {
+            "source": "twitch",
+            "target": "photorealism",
+            "value": 1
+        },
+        {
+            "source": "celebrity",
+            "target": "vtuber",
+            "value": 2
+        },
+        {
+            "source": "girls",
+            "target": "asian",
+            "value": 1
+        },
+        {
+            "source": "host",
+            "target": "person",
+            "value": 2
+        },
+        {
+            "source": "british",
+            "target": "person",
+            "value": 1
+        },
+        {
+            "source": "host",
+            "target": "woman",
+            "value": 2
+        },
+        {
+            "source": "host",
+            "target": "celeb",
+            "value": 1
+        },
+        {
+            "source": "host",
+            "target": "british",
+            "value": 1
+        },
+        {
+            "source": "sdxl 1,0",
+            "target": "character",
+            "value": 1
+        },
+        {
+            "source": "sdxl 1,0",
+            "target": "vtuber",
+            "value": 1
+        },
+        {
+            "source": "virtual youtuber",
+            "target": "sdxl 1,0",
+            "value": 1
+        },
+        {
+            "source": "host",
+            "target": "american",
+            "value": 1
+        },
+        {
+            "source": "host",
+            "target": "streamer",
+            "value": 1
+        },
+        {
+            "source": "american",
+            "target": "streamer",
+            "value": 3
+        },
+        {
+            "source": "twintails",
+            "target": "anime",
+            "value": 1
+        },
+        {
+            "source": "character",
+            "target": "glasses",
+            "value": 3
+        },
+        {
+            "source": "youtube",
+            "target": "sexy",
+            "value": 5
+        },
+        {
+            "source": "youtube",
+            "target": "glasses",
+            "value": 2
+        },
+        {
+            "source": "cartoon",
+            "target": "vtuber",
+            "value": 1
+        },
+        {
+            "source": "style",
+            "target": "streamer",
+            "value": 1
+        },
+        {
+            "source": "cartoon",
+            "target": "streamer",
+            "value": 1
+        },
+        {
+            "source": "realistic",
+            "target": "vtuber",
+            "value": 1
+        },
+        {
+            "source": "furry",
+            "target": "character",
+            "value": 18
+        },
+        {
+            "source": "furry",
+            "target": "youtuber",
+            "value": 18
+        },
+        {
+            "source": "furry",
+            "target": "vtuber",
+            "value": 1
+        },
+        {
+            "source": "vtuber",
+            "target": "wolfychu",
+            "value": 2
+        },
+        {
+            "source": "vtuber",
+            "target": "youtube",
+            "value": 2
+        },
+        {
+            "source": "furry",
+            "target": "streamer",
+            "value": 2
+        },
+        {
+            "source": "wolfychu",
+            "target": "streamer",
+            "value": 1
+        },
+        {
+            "source": "youtube",
+            "target": "streamer",
+            "value": 2
+        },
+        {
+            "source": "furry",
+            "target": "wolfychu",
+            "value": 1
+        },
+        {
+            "source": "furry",
+            "target": "youtube",
+            "value": 15
+        },
+        {
+            "source": "wolfychu",
+            "target": "youtube",
+            "value": 1
+        },
+        {
+            "source": "girls",
+            "target": "indie virtual youtuber",
+            "value": 1
+        },
+        {
+            "source": "virtual youtuber",
+            "target": "indie virtual youtuber",
+            "value": 2
+        },
+        {
+            "source": "girls",
+            "target": "taiwan",
+            "value": 1
+        },
+        {
+            "source": "photorealism",
+            "target": "german",
+            "value": 1
+        },
+        {
+            "source": "influencer",
+            "target": "photorealism",
+            "value": 1
+        },
+        {
+            "source": "realistic",
+            "target": "influencer",
+            "value": 2
+        },
+        {
+            "source": "indie vtuber",
+            "target": "sexy",
+            "value": 1
+        },
+        {
+            "source": "anime",
+            "target": "goat",
+            "value": 1
+        },
+        {
+            "source": "character",
+            "target": "horns",
+            "value": 1
+        },
+        {
+            "source": "character",
+            "target": "goat",
+            "value": 3
+        },
+        {
+            "source": "vtuber",
+            "target": "horns",
+            "value": 1
+        },
+        {
+            "source": "vtuber",
+            "target": "goat",
+            "value": 1
+        },
+        {
+            "source": "goat",
+            "target": "horns",
+            "value": 1
+        },
+        {
+            "source": "virtual youtuber",
+            "target": "goat",
+            "value": 1
+        },
+        {
+            "source": "gamer",
+            "target": "streamer",
+            "value": 2
+        },
+        {
+            "source": "minecraft",
+            "target": "sexy",
+            "value": 1
+        },
+        {
+            "source": "girls",
+            "target": "minecraft",
+            "value": 1
+        },
+        {
+            "source": "youtuber",
+            "target": "chinese",
+            "value": 4
+        },
+        {
+            "source": "woman",
+            "target": "chinese",
+            "value": 2
+        },
+        {
+            "source": "celebrity",
+            "target": "chinese",
+            "value": 3
+        },
+        {
+            "source": "tiktok",
+            "target": "chinese",
+            "value": 1
+        },
+        {
+            "source": "australian",
+            "target": "youtuber",
+            "value": 3
+        },
+        {
+            "source": "tiktok",
+            "target": "dancer",
+            "value": 1
+        },
+        {
+            "source": "australian",
+            "target": "dancer",
+            "value": 1
+        },
+        {
+            "source": "celebrity",
+            "target": "australian",
+            "value": 2
+        },
+        {
+            "source": "australian",
+            "target": "tiktok",
+            "value": 1
+        },
+        {
+            "source": "photorealistic",
+            "target": "fashion",
+            "value": 1
+        },
+        {
+            "source": "french",
+            "target": "fashion",
+            "value": 1
+        },
+        {
+            "source": "french",
+            "target": "model",
+            "value": 1
+        },
+        {
+            "source": "french",
+            "target": "instagram",
+            "value": 1
+        },
+        {
+            "source": "youtuber",
+            "target": "fashion",
+            "value": 2
+        },
+        {
+            "source": "model",
+            "target": "fashion",
+            "value": 2
+        },
+        {
+            "source": "instagram",
+            "target": "fashion",
+            "value": 1
+        },
+        {
+            "source": "fashion",
+            "target": "woman",
+            "value": 1
+        },
+        {
+            "source": "muscles",
+            "target": "handsome",
+            "value": 1
+        },
+        {
+            "source": "muscles",
+            "target": "youtuber",
+            "value": 3
+        },
+        {
+            "source": "muscles",
+            "target": "celebrity",
+            "value": 3
+        },
+        {
+            "source": "muscles",
+            "target": "male",
+            "value": 2
+        },
+        {
+            "source": "muscles",
+            "target": "man",
+            "value": 2
+        },
+        {
+            "source": "handsome",
+            "target": "male",
+            "value": 1
+        },
+        {
+            "source": "handsome",
+            "target": "man",
+            "value": 1
+        },
+        {
+            "source": "streamer",
+            "target": "celebridad",
+            "value": 4
+        },
+        {
+            "source": "celebridad",
+            "target": "celebrity,",
+            "value": 4
+        },
+        {
+            "source": "twitch",
+            "target": "character",
+            "value": 3
+        },
+        {
+            "source": "character",
+            "target": "instagram",
+            "value": 1
+        },
+        {
+            "source": "character",
+            "target": "australian",
+            "value": 1
+        },
+        {
+            "source": "twitch",
+            "target": "australian",
+            "value": 1
+        },
+        {
+            "source": "australian",
+            "target": "instagram",
+            "value": 1
+        },
+        {
+            "source": "australian",
+            "target": "youtube",
+            "value": 1
+        },
+        {
+            "source": "twitch streamer",
+            "target": "youtuber",
+            "value": 5
+        },
+        {
+            "source": "twitch streamer",
+            "target": "woman",
+            "value": 5
+        },
+        {
+            "source": "celebrity",
+            "target": "twitch streamer",
+            "value": 4
+        },
+        {
+            "source": "american",
+            "target": "actress",
+            "value": 2
+        },
+        {
+            "source": "celeb",
+            "target": "american",
+            "value": 2
+        },
+        {
+            "source": "twitch",
+            "target": "japanese",
+            "value": 1
+        },
+        {
+            "source": "realistic",
+            "target": "japanese",
+            "value": 1
+        },
+        {
+            "source": "american",
+            "target": "photorealism",
+            "value": 4
+        },
+        {
+            "source": "australian",
+            "target": "streamer",
+            "value": 1
+        },
+        {
+            "source": "australian",
+            "target": "woman",
+            "value": 1
+        },
+        {
+            "source": "australian",
+            "target": "influencer",
+            "value": 1
+        },
+        {
+            "source": "youtuber",
+            "target": "boys",
+            "value": 12
+        },
+        {
+            "source": "man",
+            "target": "streamer",
+            "value": 3
+        },
+        {
+            "source": "streamer",
+            "target": "boys",
+            "value": 1
+        },
+        {
+            "source": "celebrity",
+            "target": "boys",
+            "value": 1
+        },
+        {
+            "source": "man",
+            "target": "boys",
+            "value": 1
+        },
+        {
+            "source": "character",
+            "target": "asian",
+            "value": 2
+        },
+        {
+            "source": "character",
+            "target": "comedian",
+            "value": 1
+        },
+        {
+            "source": "comedian",
+            "target": "asian",
+            "value": 1
+        },
+        {
+            "source": "youtube",
+            "target": "asian",
+            "value": 1
+        },
+        {
+            "source": "comedian",
+            "target": "youtube",
+            "value": 1
+        },
+        {
+            "source": "sexy",
+            "target": "bimbo",
+            "value": 2
+        },
+        {
+            "source": "male",
+            "target": "celebrity,",
+            "value": 4
+        },
+        {
+            "source": "man",
+            "target": "celebrity,",
+            "value": 4
+        },
+        {
+            "source": "character",
+            "target": "man",
+            "value": 8
+        },
+        {
+            "source": "character",
+            "target": "celebrity,",
+            "value": 2
+        },
+        {
+            "source": "man",
+            "target": "markiplier",
+            "value": 1
+        },
+        {
+            "source": "celebrity,",
+            "target": "markiplier",
+            "value": 1
+        },
+        {
+            "source": "style",
+            "target": "german",
+            "value": 1
+        },
+        {
+            "source": "meme",
+            "target": "woman",
+            "value": 1
+        },
+        {
+            "source": "meme",
+            "target": "anime",
+            "value": 2
+        },
+        {
+            "source": "meme",
+            "target": "character",
+            "value": 3
+        },
+        {
+            "source": "hasan piker",
+            "target": "muscles",
+            "value": 1
+        },
+        {
+            "source": "hasan piker",
+            "target": "american",
+            "value": 1
+        },
+        {
+            "source": "hasan piker",
+            "target": "youtuber",
+            "value": 2
+        },
+        {
+            "source": "hasan piker",
+            "target": "streamer",
+            "value": 1
+        },
+        {
+            "source": "hasan piker",
+            "target": "celebrity",
+            "value": 1
+        },
+        {
+            "source": "hasan piker",
+            "target": "male",
+            "value": 2
+        },
+        {
+            "source": "muscles",
+            "target": "american",
+            "value": 1
+        },
+        {
+            "source": "muscles",
+            "target": "streamer",
+            "value": 1
+        },
+        {
+            "source": "male",
+            "target": "american",
+            "value": 1
+        },
+        {
+            "source": "comedian",
+            "target": "photorealism",
+            "value": 1
+        },
+        {
+            "source": "realistic",
+            "target": "comedian",
+            "value": 1
+        },
+        {
+            "source": "girls",
+            "target": "vtuber character",
+            "value": 1
+        },
+        {
+            "source": "cute",
+            "target": "youtube",
+            "value": 1
+        },
+        {
+            "source": "cute",
+            "target": "gamer",
+            "value": 1
+        },
+        {
+            "source": "gamer",
+            "target": "youtube",
+            "value": 1
+        },
+        {
+            "source": "character",
+            "target": "chinese",
+            "value": 1
+        },
+        {
+            "source": "taiwan",
+            "target": "character",
+            "value": 1
+        },
+        {
+            "source": "taiwan",
+            "target": "chinese",
+            "value": 1
+        },
+        {
+            "source": "male",
+            "target": "guy",
+            "value": 2
+        },
+        {
+            "source": "man",
+            "target": "guy",
+            "value": 3
+        },
+        {
+            "source": "realistic",
+            "target": "guy",
+            "value": 2
+        },
+        {
+            "source": "muscle",
+            "target": "guy",
+            "value": 2
+        },
+        {
+            "source": "muscle",
+            "target": "celebrity",
+            "value": 2
+        },
+        {
+            "source": "realistic",
+            "target": "male",
+            "value": 3
+        },
+        {
+            "source": "realistic",
+            "target": "man",
+            "value": 3
+        },
+        {
+            "source": "muscle",
+            "target": "man",
+            "value": 2
+        },
+        {
+            "source": "realistic",
+            "target": "muscle",
+            "value": 2
+        },
+        {
+            "source": "character",
+            "target": "supermariologan",
+            "value": 11
+        },
+        {
+            "source": "supermariologan",
+            "target": "sexy",
+            "value": 11
+        },
+        {
+            "source": "supermariologan",
+            "target": "youtuber",
+            "value": 11
+        },
+        {
+            "source": "supermariologan",
+            "target": "woman",
+            "value": 3
+        },
+        {
+            "source": "girls",
+            "target": "supermariologan",
+            "value": 1
+        },
+        {
+            "source": "male",
+            "target": "glasses",
+            "value": 1
+        },
+        {
+            "source": "male",
+            "target": "model",
+            "value": 1
+        },
+        {
+            "source": "man",
+            "target": "model",
+            "value": 2
+        },
+        {
+            "source": "character",
+            "target": "blonde",
+            "value": 1
+        },
+        {
+            "source": "character",
+            "target": "artist",
+            "value": 3
+        },
+        {
+            "source": "meme",
+            "target": "blonde",
+            "value": 1
+        },
+        {
+            "source": "meme",
+            "target": "avatar",
+            "value": 1
+        },
+        {
+            "source": "meme",
+            "target": "artist",
+            "value": 1
+        },
+        {
+            "source": "blonde",
+            "target": "avatar",
+            "value": 1
+        },
+        {
+            "source": "artist",
+            "target": "blonde",
+            "value": 1
+        },
+        {
+            "source": "artist",
+            "target": "avatar",
+            "value": 1
+        },
+        {
+            "source": "youtuber",
+            "target": "artist",
+            "value": 4
+        },
+        {
+            "source": "character",
+            "target": "youtube influencer",
+            "value": 1
+        },
+        {
+            "source": "youtuber",
+            "target": "youtube influencer",
+            "value": 2
+        },
+        {
+            "source": "youtube influencer",
+            "target": "streamer",
+            "value": 1
+        },
+        {
+            "source": "french",
+            "target": "singer",
+            "value": 2
+        },
+        {
+            "source": "singer",
+            "target": "musician",
+            "value": 2
+        },
+        {
+            "source": "male",
+            "target": "singer",
+            "value": 3
+        },
+        {
+            "source": "man",
+            "target": "singer",
+            "value": 3
+        },
+        {
+            "source": "french",
+            "target": "musician",
+            "value": 2
+        },
+        {
+            "source": "french",
+            "target": "male",
+            "value": 3
+        },
+        {
+            "source": "french",
+            "target": "man",
+            "value": 3
+        },
+        {
+            "source": "man",
+            "target": "musician",
+            "value": 2
+        },
+        {
+            "source": "singer",
+            "target": "fashion",
+            "value": 1
+        },
+        {
+            "source": "singer",
+            "target": "model",
+            "value": 1
+        },
+        {
+            "source": "celebrity",
+            "target": "fashion",
+            "value": 1
+        },
+        {
+            "source": "influencer",
+            "target": "fashion",
+            "value": 1
+        },
+        {
+            "source": "french",
+            "target": "youtube",
+            "value": 1
+        },
+        {
+            "source": "realistic",
+            "target": "twitch streamer",
+            "value": 1
+        },
+        {
+            "source": "twitch",
+            "target": "guy",
+            "value": 1
+        },
+        {
+            "source": "youtube",
+            "target": "guy",
+            "value": 1
+        },
+        {
+            "source": "twitch",
+            "target": "man",
+            "value": 1
+        },
+        {
+            "source": "anime",
+            "target": "artist",
+            "value": 1
+        },
+        {
+            "source": "youtube",
+            "target": "anime",
+            "value": 1
+        },
+        {
+            "source": "artist",
+            "target": "female",
+            "value": 1
+        },
+        {
+            "source": "youtube",
+            "target": "artist",
+            "value": 1
+        },
+        {
+            "source": "anime",
+            "target": "men",
+            "value": 1
+        },
+        {
+            "source": "character",
+            "target": "men",
+            "value": 17
+        },
+        {
+            "source": "virtual youtuber",
+            "target": "men",
+            "value": 1
+        },
+        {
+            "source": "cartoon",
+            "target": "male",
+            "value": 5
+        },
+        {
+            "source": "youtuber",
+            "target": "young man",
+            "value": 3
+        },
+        {
+            "source": "celebrity",
+            "target": "young man",
+            "value": 2
+        },
+        {
+            "source": "male",
+            "target": "young man",
+            "value": 1
+        },
+        {
+            "source": "man",
+            "target": "young man",
+            "value": 3
+        },
+        {
+            "source": "french",
+            "target": "character",
+            "value": 1
+        },
+        {
+            "source": "french",
+            "target": "cartoon",
+            "value": 1
+        },
+        {
+            "source": "cartoon",
+            "target": "man",
+            "value": 1
+        },
+        {
+            "source": "celebridad",
+            "target": "woman",
+            "value": 1
+        },
+        {
+            "source": "girls",
+            "target": "celebridad",
+            "value": 1
+        },
+        {
+            "source": "furry",
+            "target": "woman",
+            "value": 1
+        },
+        {
+            "source": "music",
+            "target": "person",
+            "value": 1
+        },
+        {
+            "source": "musician",
+            "target": "person",
+            "value": 1
+        },
+        {
+            "source": "musician",
+            "target": "music",
+            "value": 2
+        },
+        {
+            "source": "woman",
+            "target": "music",
+            "value": 2
+        },
+        {
+            "source": "celeb",
+            "target": "music",
+            "value": 1
+        },
+        {
+            "source": "celeb",
+            "target": "musician",
+            "value": 1
+        },
+        {
+            "source": "sdxl 1,0",
+            "target": "youtuber",
+            "value": 1
+        },
+        {
+            "source": "sdxl 1,0",
+            "target": "celebrity",
+            "value": 1
+        },
+        {
+            "source": "vlogger",
+            "target": "male",
+            "value": 1
+        },
+        {
+            "source": "sdxl 1,0",
+            "target": "male",
+            "value": 1
+        },
+        {
+            "source": "sdxl 1,0",
+            "target": "vlogger",
+            "value": 1
+        },
+        {
+            "source": "spanish",
+            "target": "twitch",
+            "value": 6
+        },
+        {
+            "source": "spanish",
+            "target": "streamer",
+            "value": 6
+        },
+        {
+            "source": "character",
+            "target": "model",
+            "value": 2
+        },
+        {
+            "source": "character",
+            "target": "influencer",
+            "value": 2
+        },
+        {
+            "source": "minecraft",
+            "target": "furry",
+            "value": 1
+        },
+        {
+            "source": "twitch streamer",
+            "target": "photorealistic",
+            "value": 1
+        },
+        {
+            "source": "twitch streamer",
+            "target": "celeb",
+            "value": 1
+        },
+        {
+            "source": "streamer",
+            "target": "chinese",
+            "value": 1
+        },
+        {
+            "source": "man",
+            "target": "chinese",
+            "value": 2
+        },
+        {
+            "source": "girls",
+            "target": "actress",
+            "value": 1
+        },
+        {
+            "source": "muscles",
+            "target": "model",
+            "value": 1
+        },
+        {
+            "source": "muscles",
+            "target": "young man",
+            "value": 1
+        },
+        {
+            "source": "young man",
+            "target": "model",
+            "value": 1
+        },
+        {
+            "source": "anime",
+            "target": "german",
+            "value": 1
+        },
+        {
+            "source": "character",
+            "target": "german",
+            "value": 1
+        },
+        {
+            "source": "virtual youtuber",
+            "target": "german",
+            "value": 1
+        },
+        {
+            "source": "photorealistic",
+            "target": "male",
+            "value": 2
+        },
+        {
+            "source": "photorealistic",
+            "target": "man",
+            "value": 1
+        },
+        {
+            "source": "man",
+            "target": "sexy",
+            "value": 1
+        },
+        {
+            "source": "taiwanese",
+            "target": "anime",
+            "value": 2
+        },
+        {
+            "source": "character",
+            "target": "taiwanese",
+            "value": 2
+        },
+        {
+            "source": "virtual youtuber",
+            "target": "taiwanese",
+            "value": 2
+        },
+        {
+            "source": "streamer",
+            "target": "actress",
+            "value": 1
+        },
+        {
+            "source": "sexy",
+            "target": "men",
+            "value": 16
+        },
+        {
+            "source": "sexy",
+            "target": "boys",
+            "value": 11
+        },
+        {
+            "source": "youtuber",
+            "target": "men",
+            "value": 16
+        },
+        {
+            "source": "boys",
+            "target": "men",
+            "value": 11
+        },
+        {
+            "source": "supermariologan",
+            "target": "men",
+            "value": 8
+        },
+        {
+            "source": "supermariologan",
+            "target": "boys",
+            "value": 8
+        },
+        {
+            "source": "youtuber",
+            "target": "vtuber character",
+            "value": 1
+        },
+        {
+            "source": "twitch",
+            "target": "vtuber character",
+            "value": 1
+        },
+        {
+            "source": "youtube",
+            "target": "vtuber character",
+            "value": 1
+        },
+        {
+            "source": "man",
+            "target": "anime",
+            "value": 1
+        },
+        {
+            "source": "virtual youtuber",
+            "target": "man",
+            "value": 1
+        },
+        {
+            "source": "character",
+            "target": "tiktoker",
+            "value": 1
+        },
+        {
+            "source": "character",
+            "target": "gamer",
+            "value": 5
+        },
+        {
+            "source": "streamer",
+            "target": "artist",
+            "value": 1
+        },
+        {
+            "source": "streamer",
+            "target": "tiktoker",
+            "value": 1
+        },
+        {
+            "source": "artist",
+            "target": "tiktoker",
+            "value": 1
+        },
+        {
+            "source": "gamer",
+            "target": "artist",
+            "value": 1
+        },
+        {
+            "source": "gamer",
+            "target": "tiktoker",
+            "value": 1
+        },
+        {
+            "source": "photorealistic",
+            "target": "music",
+            "value": 1
+        },
+        {
+            "source": "sexy",
+            "target": "music",
+            "value": 1
+        },
+        {
+            "source": "twitch",
+            "target": "music",
+            "value": 1
+        },
+        {
+            "source": "streamer",
+            "target": "music",
+            "value": 1
+        },
+        {
+            "source": "gamer",
+            "target": "markiplier",
+            "value": 1
+        },
+        {
+            "source": "man",
+            "target": "person",
+            "value": 1
+        },
+        {
+            "source": "real person",
+            "target": "man",
+            "value": 1
+        },
+        {
+            "source": "singer",
+            "target": "artist",
+            "value": 1
+        },
+        {
+            "source": "artist",
+            "target": "woman",
+            "value": 1
+        },
+        {
+            "source": "celebrity",
+            "target": "artist",
+            "value": 1
+        },
+        {
+            "source": "influencer",
+            "target": "artist",
+            "value": 1
+        },
+        {
+            "source": "character",
+            "target": "russian",
+            "value": 2
+        },
+        {
+            "source": "furry",
+            "target": "russian",
+            "value": 1
+        },
+        {
+            "source": "sexy",
+            "target": "musician",
+            "value": 1
+        },
+        {
+            "source": "instagram",
+            "target": "musician",
+            "value": 1
+        },
+        {
+            "source": "girls",
+            "target": "musician",
+            "value": 1
+        },
+        {
+            "source": "influencer",
+            "target": "chinese",
+            "value": 1
+        },
+        {
+            "source": "man",
+            "target": "influencer",
+            "value": 1
+        },
+        {
+            "source": "hasan piker",
+            "target": "character",
+            "value": 1
+        },
+        {
+            "source": "hasan piker",
+            "target": "man",
+            "value": 1
+        },
+        {
+            "source": "hasan piker",
+            "target": "celebrity,",
+            "value": 1
+        },
+        {
+            "source": "character",
+            "target": "bimbo",
+            "value": 1
+        },
+        {
+            "source": "french",
+            "target": "twitch",
+            "value": 1
+        },
+        {
+            "source": "youtuber",
+            "target": "male focus",
+            "value": 2
+        },
+        {
+            "source": "male focus",
+            "target": "influencer",
+            "value": 1
+        },
+        {
+            "source": "character",
+            "target": "vlogger",
+            "value": 1
+        },
+        {
+            "source": "girls",
+            "target": "gamer",
+            "value": 1
+        },
+        {
+            "source": "lora",
+            "target": "gamer",
+            "value": 1
+        },
+        {
+            "source": "minecraft",
+            "target": "photorealistic",
+            "value": 1
+        },
+        {
+            "source": "minecraft",
+            "target": "realism",
+            "value": 1
+        },
+        {
+            "source": "male",
+            "target": "realism",
+            "value": 1
+        },
+        {
+            "source": "minecraft",
+            "target": "celebrity",
+            "value": 1
+        },
+        {
+            "source": "minecraft",
+            "target": "male",
+            "value": 1
+        },
+        {
+            "source": "youtuber",
+            "target": "goat",
+            "value": 2
+        },
+        {
+            "source": "furry",
+            "target": "cartoon",
+            "value": 3
+        },
+        {
+            "source": "furry",
+            "target": "male",
+            "value": 3
+        },
+        {
+            "source": "furry",
+            "target": "goat",
+            "value": 2
+        },
+        {
+            "source": "cartoon",
+            "target": "goat",
+            "value": 2
+        },
+        {
+            "source": "male",
+            "target": "goat",
+            "value": 2
+        },
+        {
+            "source": "youtube",
+            "target": "goat",
+            "value": 2
+        },
+        {
+            "source": "lora",
+            "target": "girl",
+            "value": 2
+        },
+        {
+            "source": "supermariologan",
+            "target": "girl",
+            "value": 2
+        },
+        {
+            "source": "supermariologan",
+            "target": "lora",
+            "value": 8
+        },
+        {
+            "source": "character",
+            "target": "music",
+            "value": 1
+        },
+        {
+            "source": "character",
+            "target": "musician",
+            "value": 1
+        },
+        {
+            "source": "russian",
+            "target": "music",
+            "value": 1
+        },
+        {
+            "source": "russian",
+            "target": "musician",
+            "value": 1
+        },
+        {
+            "source": "character",
+            "target": "young man",
+            "value": 1
+        },
+        {
+            "source": "asian",
+            "target": "young man",
+            "value": 1
+        },
+        {
+            "source": "man",
+            "target": "asian",
+            "value": 1
+        },
+        {
+            "source": "character",
+            "target": "twitch streamer",
+            "value": 1
+        },
+        {
+            "source": "character",
+            "target": "singer",
+            "value": 1
+        },
+        {
+            "source": "character",
+            "target": "actress",
+            "value": 1
+        },
+        {
+            "source": "character",
+            "target": "turkish",
+            "value": 2
+        },
+        {
+            "source": "photorealistic",
+            "target": "turkish",
+            "value": 2
+        },
+        {
+            "source": "photorealistic",
+            "target": "gamer",
+            "value": 1
+        },
+        {
+            "source": "youtuber",
+            "target": "turkish",
+            "value": 3
+        },
+        {
+            "source": "realistic",
+            "target": "turkish",
+            "value": 2
+        },
+        {
+            "source": "gamer",
+            "target": "turkish",
+            "value": 1
+        },
+        {
+            "source": "youtube",
+            "target": "men",
+            "value": 3
+        },
+        {
+            "source": "lora",
+            "target": "men",
+            "value": 14
+        },
+        {
+            "source": "youtube",
+            "target": "boys",
+            "value": 1
+        },
+        {
+            "source": "lora",
+            "target": "boys",
+            "value": 9
+        },
+        {
+            "source": "cute",
+            "target": "anime",
+            "value": 1
+        },
+        {
+            "source": "cute",
+            "target": "character",
+            "value": 1
+        },
+        {
+            "source": "girls",
+            "target": "cute",
+            "value": 1
+        },
+        {
+            "source": "character",
+            "target": "person",
+            "value": 1
+        },
+        {
+            "source": "video game",
+            "target": "sexy",
+            "value": 1
+        },
+        {
+            "source": "video game",
+            "target": "men",
+            "value": 1
+        },
+        {
+            "source": "video game",
+            "target": "lora",
+            "value": 1
+        },
+        {
+            "source": "male focus",
+            "target": "sexy",
+            "value": 1
+        },
+        {
+            "source": "celebrity",
+            "target": "male focus",
+            "value": 1
+        },
+        {
+            "source": "celebrity",
+            "target": "turkish",
+            "value": 1
+        },
+        {
+            "source": "photorealistic",
+            "target": "youtube influencer",
+            "value": 1
+        },
+        {
+            "source": "video game",
+            "target": "male",
+            "value": 1
+        },
+        {
+            "source": "video game",
+            "target": "youtube",
+            "value": 1
+        }
+    ]
+}

@@ -1,0 +1,1660 @@
+{
+  "name": "root",
+  "children": [
+    {
+      "name": "attire_and_body_accessories",
+      "children": [
+        {
+          "name": "attire",
+          "children": [
+            {
+              "name": "attire_general",
+              "children": [],
+              "tags": [
+                "balaclava",
+                "coif",
+                "crown"
+              ]
+            },
+            {
+              "name": "dress",
+              "children": [],
+              "tags": [
+                "Dress",
+                "dress flip",
+                "dress grab"
+              ]
+            },
+            {
+              "name": "handwear",
+              "children": [],
+              "tags": [
+                "Elbow gloves",
+                "Fingerless gloves",
+                "Partially fingerless gloves"
+              ]
+            },
+            {
+              "name": "headwear",
+              "children": [],
+              "tags": [
+                "crown",
+                "hat",
+                "helmet"
+              ]
+            },
+            {
+              "name": "legwear",
+              "children": [],
+              "tags": [
+                "socks",
+                "kneehighs",
+                "over-kneehighs"
+              ]
+            },
+            {
+              "name": "mask",
+              "children": [],
+              "tags": [
+                "covered face",
+                "paper on head",
+                "mouth mask"
+              ]
+            },
+            {
+              "name": "neck_and_neckwear",
+              "children": [],
+              "tags": [
+                "Collarbone",
+                "Nape",
+                "Neck"
+              ]
+            },
+            {
+              "name": "sexual_attire",
+              "children": [
+                {
+                  "name": "sexual_attire_general",
+                  "children": [],
+                  "tags": [
+                    "lingerie",
+                    "babydoll",
+                    "bodystocking"
+                  ]
+                },
+                {
+                  "name": "bra",
+                  "children": [],
+                  "tags": [
+                    "bra",
+                    "aqua bra",
+                    "black bra"
+                  ]
+                },
+                {
+                  "name": "panties",
+                  "children": [],
+                  "tags": [
+                    "panties",
+                    "multiple panties",
+                    "no panties"
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "sleeves",
+              "children": [],
+              "tags": [
+                "See-through sleeves",
+                "Gradient sleeves",
+                "Two-tone sleeves"
+              ]
+            },
+            {
+              "name": "swimsuit",
+              "children": [],
+              "tags": [
+                "bathing",
+                "beach",
+                "one-piece_swimsuit"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "embellishment",
+          "children": [],
+          "tags": [
+            "gem-studded",
+            "glitter",
+            "lace"
+          ]
+        },
+        {
+          "name": "eyewear",
+          "children": [],
+          "tags": [
+            "glasses",
+            "goggles",
+            "monocle"
+          ]
+        },
+        {
+          "name": "fashion_style",
+          "children": [],
+          "tags": [
+            "1980s fashion",
+            "1990s fashion",
+            "Aristocratic clothes"
+          ]
+        },
+        {
+          "name": "nudity",
+          "children": [],
+          "tags": [
+            "completely nude",
+            "nude",
+            "clothed female nude female"
+          ]
+        },
+        {
+          "name": "body",
+          "children": [
+            {
+              "name": "body_general",
+              "children": [],
+              "tags": [
+                "alpaca ears",
+                "anchor hair ornament",
+                "animal ear fluff"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "body",
+      "children": [
+        {
+          "name": "body_parts",
+          "children": [
+            {
+              "name": "body_parts_general",
+              "children": [],
+              "tags": [
+                "ear focus",
+                "tag group:ears tags",
+                "tag group:eyes tags"
+              ]
+            },
+            {
+              "name": "ass",
+              "children": [],
+              "tags": [
+                "ass",
+                "ass expansion",
+                "bad ass"
+              ]
+            },
+            {
+              "name": "breasts_tags",
+              "children": [],
+              "tags": [
+                "breasts",
+                "flat chest",
+                "small breasts"
+              ]
+            },
+            {
+              "name": "ears_tags",
+              "children": [],
+              "tags": [
+                "animal ears",
+                "bat ears",
+                "bear ears"
+              ]
+            },
+            {
+              "name": "face_tags",
+              "children": [
+                {
+                  "name": "face_tags_general",
+                  "children": [],
+                  "tags": [
+                    "multiple expressions",
+                    "expression chart",
+                    "angry"
+                  ]
+                },
+                {
+                  "name": "eyes_tags",
+                  "children": [],
+                  "tags": [
+                    "aqua eyes",
+                    "black eyes",
+                    "blue eyes"
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "hair",
+              "children": [
+                {
+                  "name": "hair_general",
+                  "children": [],
+                  "tags": [
+                    "tag group:hair color",
+                    "tag group:hair styles",
+                    "biting hair"
+                  ]
+                },
+                {
+                  "name": "hair_color",
+                  "children": [],
+                  "tags": [
+                    "tag group:hair styles",
+                    "aqua hair",
+                    "black hair"
+                  ]
+                },
+                {
+                  "name": "hair_styles",
+                  "children": [],
+                  "tags": [
+                    "very short hair",
+                    "short hair",
+                    "medium hair"
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "hands",
+              "children": [
+                {
+                  "name": "hands_general",
+                  "children": [],
+                  "tags": [
+                    "Adjusting eyewear",
+                    "Hand on own ear",
+                    "Hand on own head"
+                  ]
+                },
+                {
+                  "name": "gestures",
+                  "children": [],
+                  "tags": [
+                    "air quotes",
+                    "carry me",
+                    "clenched hands"
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "neck_and_neckwear",
+              "children": [],
+              "tags": [
+                "Collarbone",
+                "Nape",
+                "Neck"
+              ]
+            },
+            {
+              "name": "penis",
+              "children": [],
+              "tags": [
+                "penis",
+                "foreskin",
+                "phimosis"
+              ]
+            },
+            {
+              "name": "posture",
+              "children": [],
+              "tags": [
+                "Kneeling",
+                "On one knee",
+                "Lying"
+              ]
+            },
+            {
+              "name": "pussy",
+              "children": [],
+              "tags": [
+                "Clitoris",
+                "Erect clitoris",
+                "Cleft of venus"
+              ]
+            },
+            {
+              "name": "shoulders",
+              "children": [],
+              "tags": [
+                "Nape",
+                "Shoulder blades",
+                "Epaulettes"
+              ]
+            },
+            {
+              "name": "skin_color",
+              "children": [],
+              "tags": [
+                "Dark skin",
+                "dark-skinned female",
+                "dark-skinned male"
+              ]
+            },
+            {
+              "name": "tail",
+              "children": [],
+              "tags": [
+                "Tail",
+                "Multiple tails",
+                "No tail"
+              ]
+            },
+            {
+              "name": "wings",
+              "children": [],
+              "tags": [
+                "Wings",
+                "Alternate wings",
+                "Alternate wing color"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "injury",
+          "children": [],
+          "tags": [
+            "gun",
+            "clenched hand",
+            "battle"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "characters",
+      "children": [
+        {
+          "name": "ace_attorney",
+          "children": [],
+          "tags": [
+            "Ace Attorney",
+            "Phoenix Wright: Ace Attorney",
+            "Phoenix Wright"
+          ]
+        },
+        {
+          "name": "arknights",
+          "children": [],
+          "tags": [
+            "Arknights",
+            "Bagpipe (arknights)",
+            "Beanstalk (arknights)"
+          ]
+        },
+        {
+          "name": "atelier",
+          "children": [],
+          "tags": [
+            "Gust",
+            "Atelier (series)",
+            "Atelier Marie"
+          ]
+        },
+        {
+          "name": "azur_lane",
+          "children": [],
+          "tags": [
+            "Azur Lane",
+            "commander_(azur_lane)",
+            "Little Boy Commander_(azur_lane)"
+          ]
+        },
+        {
+          "name": "bleach",
+          "children": [],
+          "tags": [
+            "Bleach",
+            "Kurosaki Ichigo",
+            "Inoue Orihime"
+          ]
+        },
+        {
+          "name": "bokujou_monogatari",
+          "children": [],
+          "tags": [
+            "Bokujou Monogatari",
+            "Claire (Bokujou Monogatari)",
+            "Pete (Bokujou Monogatari)"
+          ]
+        },
+        {
+          "name": "brave_girl_ravens",
+          "children": [],
+          "tags": [
+            "DMM",
+            "Brave Girl Ravens",
+            "Alette Skraud"
+          ]
+        },
+        {
+          "name": "cardcaptor_sakura",
+          "children": [],
+          "tags": [
+            "Clamp (circle)",
+            "Cardcaptor Sakura",
+            "Cardcaptor Sakura Clear Card Arc"
+          ]
+        },
+        {
+          "name": "danganronpa",
+          "children": [],
+          "tags": [
+            "Danganronpa (series)",
+            "Danganronpa: Trigger Happy Havoc",
+            "Asahina Aoi"
+          ]
+        },
+        {
+          "name": "digimon",
+          "children": [
+            {
+              "name": "digimon_general",
+              "children": [],
+              "tags": [
+                "Digimon",
+                "Digimon (creature)",
+                "Appmon"
+              ]
+            },
+            {
+              "name": "digimon_characters",
+              "children": [],
+              "tags": [
+                "Digimon",
+                "List of Digimon",
+                "Digimon Adventure"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "dragon_ball",
+          "children": [],
+          "tags": [
+            "Dragon Ball",
+            "Son Goku",
+            "Bulma"
+          ]
+        },
+        {
+          "name": "dragon_quest",
+          "children": [],
+          "tags": [
+            "Square Enix",
+            "Dragon Quest",
+            "Dragon Quest I"
+          ]
+        },
+        {
+          "name": "fate_series",
+          "children": [],
+          "tags": [
+            "fate (series)",
+            "Alter Servant",
+            "Are You My Master"
+          ]
+        },
+        {
+          "name": "final_fantasy",
+          "children": [],
+          "tags": [
+            "Final Fantasy",
+            "FINAL FANTASY I",
+            "Warrior of Light (ff1)"
+          ]
+        },
+        {
+          "name": "fire_emblem",
+          "children": [],
+          "tags": [
+            "Fire Emblem",
+            "Nintendo",
+            "Fire Emblem: Shadow Dragon and the Blade of Light"
+          ]
+        },
+        {
+          "name": "flower_knight_girl",
+          "children": [],
+          "tags": [
+            "DMM",
+            "Flower Knight Girl",
+            "personification"
+          ]
+        },
+        {
+          "name": "genderswap",
+          "children": [],
+          "tags": [
+            "Genderswap",
+            "Alpha-01",
+            "Ragna the Bloodedge"
+          ]
+        },
+        {
+          "name": "gensou_suikoden",
+          "children": [],
+          "tags": [
+            "Gensou Suikoden",
+            "Gensou Suikoden I",
+            "Ain Gide"
+          ]
+        },
+        {
+          "name": "girls_und_panzer",
+          "children": [],
+          "tags": [
+            "Girls und Panzer",
+            "Ooarai (emblem)",
+            "Ooarai school uniform"
+          ]
+        },
+        {
+          "name": "gundam_mechas",
+          "children": [],
+          "tags": [
+            "Zaku II F/J",
+            "Zaku II F Dozle Zabi Custom",
+            "Zaku II F2"
+          ]
+        },
+        {
+          "name": "hunter_x_hunter",
+          "children": [],
+          "tags": [
+            "Hunter x Hunter",
+            "Gon Freecss",
+            "Killua Zoldyck"
+          ]
+        },
+        {
+          "name": "jojo_no_kimyou_na_bouken",
+          "children": [],
+          "tags": [
+            "JoJo no Kimyou na Bouken",
+            "Phantom Blood",
+            "Jonathan Joestar"
+          ]
+        },
+        {
+          "name": "kamen_rider",
+          "children": [],
+          "tags": [
+            "Kamen Rider (1st Series)",
+            "Kamen Rider 1",
+            "Kamen Rider 2"
+          ]
+        },
+        {
+          "name": "kantai_collection",
+          "children": [],
+          "tags": [
+            "Kantai Collection",
+            "Shimushu (kancolle)",
+            "Kunashiri (kancolle)"
+          ]
+        },
+        {
+          "name": "kingdom_hearts",
+          "children": [],
+          "tags": [
+            "Kingdom Hearts",
+            "Square Enix",
+            "Disney"
+          ]
+        },
+        {
+          "name": "mahou_sensei_negima",
+          "children": [],
+          "tags": [
+            "Mahou Sensei Negima!",
+            "Negi Springfield",
+            "Aisaka Sayo"
+          ]
+        },
+        {
+          "name": "meitantei_conan",
+          "children": [],
+          "tags": [
+            "Meitantei Conan",
+            "Magic Kaito",
+            "Meitantei Conan"
+          ]
+        },
+        {
+          "name": "minecraft",
+          "children": [],
+          "tags": [
+            "Minecraft",
+            "Alex (Minecraft)",
+            "Tennis Alex (Minecraft)"
+          ]
+        },
+        {
+          "name": "naruto",
+          "children": [],
+          "tags": [
+            "Naruto",
+            "Uzumaki Naruto",
+            "Naruko (naruto)"
+          ]
+        },
+        {
+          "name": "nippon_ichi",
+          "children": [],
+          "tags": [
+            "nippon ichi",
+            "Disgaea",
+            "Marl Kingdom"
+          ]
+        },
+        {
+          "name": "official_mascots",
+          "children": [],
+          "tags": [
+            "mascot",
+            "Kyoto Animation",
+            "Baja Mouse"
+          ]
+        },
+        {
+          "name": "one_piece",
+          "children": [],
+          "tags": [
+            "Oda Eiichirou",
+            "One Piece",
+            "Monkey D. Luffy"
+          ]
+        },
+        {
+          "name": "oshiro_project",
+          "children": [],
+          "tags": [
+            "Oshiro Project:re",
+            "personification",
+            "lord (oshiro project)"
+          ]
+        },
+        {
+          "name": "pokemon",
+          "children": [
+            {
+              "name": "pokemon_general",
+              "children": [],
+              "tags": [
+                "pokemon",
+                "Pika (pokemon)",
+                "Chuchu (pokemon)"
+              ]
+            },
+            {
+              "name": "elite_four_members",
+              "children": [],
+              "tags": [
+                "pokemon",
+                "Pokemon RGBY",
+                "pokemon FRLG"
+              ]
+            },
+            {
+              "name": "families_of_pokemon_main_characters",
+              "children": [],
+              "tags": [
+                "list_of_pokemon_characters",
+                "pokemon",
+                "Kanto Mother (rgby/frlg)"
+              ]
+            },
+            {
+              "name": "gym_leaders",
+              "children": [],
+              "tags": [
+                "list_of_pokemon_characters",
+                "pokemon",
+                "pokemon_rgby"
+              ]
+            },
+            {
+              "name": "pokemon_ranger_characters",
+              "children": [],
+              "tags": [
+                "list_of_pokemon_characters",
+                "pokemon_ranger",
+                "pokemon ranger 1"
+              ]
+            },
+            {
+              "name": "pokemon_trainer_classes",
+              "children": [],
+              "tags": [
+                "list_of_pokemon_characters",
+                "pokemon",
+                "ace_trainer_(pokemon)"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "pretty_cure",
+          "children": [],
+          "tags": [
+            "precure",
+            "Precure All Stars",
+            "Panther Pink (precure)"
+          ]
+        },
+        {
+          "name": "ragnarok_online",
+          "children": [],
+          "tags": [
+            "Ragnarok Online",
+            "Sampaguita (ragnarok online)",
+            "Aile (ragnarok online)"
+          ]
+        },
+        {
+          "name": "real_life_racehorses",
+          "children": [],
+          "tags": [
+            "real life",
+            "Midori no Makibaoo",
+            "horse"
+          ]
+        },
+        {
+          "name": "rosenkreuzstilette",
+          "children": [],
+          "tags": [
+            "Rosenkreuzstilette",
+            "Spiritia Rosenberg",
+            "Freudia Neuwahl"
+          ]
+        },
+        {
+          "name": "sailor_moon",
+          "children": [],
+          "tags": [
+            "Bishoujo Senshi Sailor Moon",
+            "Sailor Senshi",
+            "Inner Senshi"
+          ]
+        },
+        {
+          "name": "street_fighter",
+          "children": [],
+          "tags": [
+            "Street Fighter",
+            "Adon (street fighter)",
+            "Birdie (street fighter)"
+          ]
+        },
+        {
+          "name": "toaru_majutsu_no_index",
+          "children": [],
+          "tags": [
+            "Toaru Majutsu no Index",
+            "Toaru Kagaku no Railgun",
+            "Accelerator (toaru majutsu no index)"
+          ]
+        },
+        {
+          "name": "touhou",
+          "children": [],
+          "tags": [
+            "Touhou",
+            "List of Touhou Fanwork Tags",
+            "Hakurei Reimu"
+          ]
+        },
+        {
+          "name": "touken_ranbu",
+          "children": [],
+          "tags": [
+            "Mikazuki Munechika",
+            "Kogitsunemaru",
+            "Ishikirimaru"
+          ]
+        },
+        {
+          "name": "ultra_series",
+          "children": [],
+          "tags": [
+            "Ultra Series",
+            "Ultraman (1st series)",
+            "Ultraman"
+          ]
+        },
+        {
+          "name": "umamusume",
+          "children": [],
+          "tags": [
+            "Umamusume",
+            "Daiwa Scarlet (umamusume)",
+            "Gold Ship (umamusume)"
+          ]
+        },
+        {
+          "name": "vocaloid",
+          "children": [],
+          "tags": [
+            "VOCALOID",
+            "List of VOCALOID derivatives",
+            "tag groups"
+          ]
+        },
+        {
+          "name": "world_witches_series",
+          "children": [],
+          "tags": [
+            "World Witches Series",
+            "Strike Witches",
+            "Brave Witches"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "copyrights_artists_projects_and_media",
+      "children": [
+        {
+          "name": "genres_of_video_games",
+          "children": [
+            {
+              "name": "fighting_games",
+              "children": [],
+              "tags": [
+                "tag groups",
+                "fighting game",
+                "Akatsuki Blitzkampf"
+              ]
+            },
+            {
+              "name": "platform_games",
+              "children": [],
+              "tags": [
+                "tag groups",
+                "Banjo-Kazooie",
+                "Castlevania (series)"
+              ]
+            },
+            {
+              "name": "role-playing_games",
+              "children": [],
+              "tags": [
+                "Dungeons & Dragons",
+                "Lancer RPG",
+                "Meikyuu Kingdom"
+              ]
+            },
+            {
+              "name": "shooter_games",
+              "children": [],
+              "tags": [
+                "Apex Legends",
+                "Battlefield (series)",
+                "Bioshock (series)"
+              ]
+            },
+            {
+              "name": "visual_novel_games",
+              "children": [],
+              "tags": [
+                "tag groups",
+                "visual novel",
+                "428: fuusa sareta shibuya de"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "creatures",
+      "children": [
+        {
+          "name": "animals",
+          "children": [
+            {
+              "name": "animals_general",
+              "children": [],
+              "tags": [
+                "animal",
+                "Bird",
+                "Bug"
+              ]
+            },
+            {
+              "name": "birds",
+              "children": [],
+              "tags": [
+                "tag groups",
+                "bird",
+                "Albatross"
+              ]
+            },
+            {
+              "name": "cats",
+              "children": [],
+              "tags": [
+                "tag groups",
+                "cat",
+                "cathead"
+              ]
+            },
+            {
+              "name": "dogs",
+              "children": [],
+              "tags": [
+                "tag groups",
+                "dog",
+                "animal"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "legendary_creatures",
+          "children": [],
+          "tags": [
+            "tag groups",
+            "Angel",
+            "Archangel"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "drawing_software",
+      "children": [],
+      "tags": [
+        "adobe illustrator (medium)",
+        "artweaver (medium)",
+        "azpainter (medium)"
+      ]
+    },
+    {
+      "name": "games",
+      "children": [
+        {
+          "name": "board_games",
+          "children": [],
+          "tags": [
+            "tag groups",
+            "board game",
+            "chess"
+          ]
+        },
+        {
+          "name": "fighting_games",
+          "children": [],
+          "tags": [
+            "tag groups",
+            "fighting game",
+            "Akatsuki Blitzkampf"
+          ]
+        },
+        {
+          "name": "game_activities",
+          "children": [],
+          "tags": [
+            "cat's cradle",
+            "forehead flick",
+            "rock paper scissors"
+          ]
+        },
+        {
+          "name": "sports",
+          "children": [],
+          "tags": [
+            "Playing sports",
+            "American football",
+            "Badminton"
+          ]
+        },
+        {
+          "name": "video_game",
+          "children": [],
+          "tags": [
+            "Tag Groups",
+            "Video game",
+            "Playing games"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "metatags",
+      "children": [],
+      "tags": [
+        "help:metatags",
+        "tagme",
+        "translation request"
+      ]
+    },
+    {
+      "name": "more",
+      "children": [
+        {
+          "name": "dances",
+          "children": [],
+          "tags": [
+            "tag groups",
+            "Arabesque (pose)",
+            "Body Roll"
+          ]
+        },
+        {
+          "name": "family_relationships",
+          "children": [],
+          "tags": [
+            "tag groups",
+            "Family",
+            "father and son"
+          ]
+        },
+        {
+          "name": "fire",
+          "children": [],
+          "tags": [
+            "tag groups",
+            "fire",
+            "campfire"
+          ]
+        },
+        {
+          "name": "food_tags",
+          "children": [],
+          "tags": [
+            "tag groups",
+            "food",
+            "bad food"
+          ]
+        },
+        {
+          "name": "groups",
+          "children": [],
+          "tags": [
+            "tag groups",
+            "dual persona",
+            "multiple persona"
+          ]
+        },
+        {
+          "name": "phrases",
+          "children": [],
+          "tags": [
+            "Akeome",
+            "Kotoyoro",
+            "Congratulations"
+          ]
+        },
+        {
+          "name": "scan",
+          "children": [],
+          "tags": [
+            "scan",
+            "binding discoloration",
+            "bleed through"
+          ]
+        },
+        {
+          "name": "subjective",
+          "children": [],
+          "tags": [
+            "tag groups",
+            "Attractive",
+            "Awesome"
+          ]
+        },
+        {
+          "name": "technology",
+          "children": [],
+          "tags": [
+            "Science fiction",
+            "Cyberpunk",
+            "Steampunk"
+          ]
+        },
+        {
+          "name": "verbs_and_gerunds",
+          "children": [],
+          "tags": [
+            "aiming",
+            "aiming at viewer",
+            "animal milking"
+          ]
+        },
+        {
+          "name": "water",
+          "children": [],
+          "tags": [
+            "tag groups",
+            "Water",
+            "Underwater"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "objects",
+      "children": [
+        {
+          "name": "airplanes",
+          "children": [],
+          "tags": [
+            "airplane",
+            "Chengdu J-7",
+            "Shenyang J-8"
+          ]
+        },
+        {
+          "name": "armor",
+          "children": [],
+          "tags": [
+            "armored twintails",
+            "faceplate",
+            "forehead protector"
+          ]
+        },
+        {
+          "name": "audio_tags",
+          "children": [],
+          "tags": [
+            "cd player",
+            "digital media player",
+            "ipod"
+          ]
+        },
+        {
+          "name": "cards",
+          "children": [
+            {
+              "name": "cards_general",
+              "children": [],
+              "tags": [
+                "card",
+                "card game",
+                "playing games"
+              ]
+            },
+            {
+              "name": "playing_card_faces",
+              "children": [],
+              "tags": [
+                "playing card",
+                "club (shape)",
+                "diamond (shape)"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "computer",
+          "children": [],
+          "tags": [
+            "drawing (action)",
+            "playing games",
+            "internet"
+          ]
+        },
+        {
+          "name": "eyewear",
+          "children": [],
+          "tags": [
+            "glasses",
+            "goggles",
+            "monocle"
+          ]
+        },
+        {
+          "name": "ground_vehicles",
+          "children": [],
+          "tags": [
+            "ground vehicle",
+            "military vehicle",
+            "Type 59 (tank)"
+          ]
+        },
+        {
+          "name": "helicopters",
+          "children": [],
+          "tags": [
+            "helicopter",
+            "Kamov Ka-27",
+            "Kamov Ka-50"
+          ]
+        },
+        {
+          "name": "piercings",
+          "children": [],
+          "tags": [
+            "Piercing",
+            "Piercing through clothes",
+            "Ear piercing"
+          ]
+        },
+        {
+          "name": "pokemon_objects",
+          "children": [],
+          "tags": [
+            "pokemon",
+            "Fame Checker",
+            "pokedex"
+          ]
+        },
+        {
+          "name": "sex_objects",
+          "children": [],
+          "tags": [
+            "anal beads",
+            "anal tail",
+            "artificial vagina"
+          ]
+        },
+        {
+          "name": "ships",
+          "children": [],
+          "tags": [
+            "ship",
+            "Aircraft carrier",
+            "Battleship"
+          ]
+        },
+        {
+          "name": "weapons",
+          "children": [],
+          "tags": [
+            "weapon",
+            "Artillery",
+            "anti-aircraft gun"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "plant",
+      "children": [
+        {
+          "name": "flowers",
+          "children": [],
+          "tags": [
+            "Anthurium",
+            "Spathiphyllum",
+            "Calla lily"
+          ]
+        },
+        {
+          "name": "plant",
+          "children": [],
+          "tags": [
+            "bush",
+            "rose bush",
+            "carnivorous plant"
+          ]
+        },
+        {
+          "name": "tree",
+          "children": [],
+          "tags": [
+            "plant",
+            "bush",
+            "branch"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "real_world",
+      "children": [
+        {
+          "name": "companies_and_brand_names",
+          "children": [],
+          "tags": [
+            "Adidas",
+            "ASICS",
+            "chanel"
+          ]
+        },
+        {
+          "name": "holidays_and_celebrations",
+          "children": [],
+          "tags": [
+            "tag groups",
+            "New Year",
+            "Nanakusa-no-Sekku"
+          ]
+        },
+        {
+          "name": "jobs",
+          "children": [],
+          "tags": [
+            "tag groups",
+            "actor",
+            "actress"
+          ]
+        },
+        {
+          "name": "locations",
+          "children": [],
+          "tags": [
+            "tag groups",
+            "Indoors",
+            "ballroom"
+          ]
+        },
+        {
+          "name": "people",
+          "children": [],
+          "tags": [
+            "tag groups",
+            "Voice Actor",
+            "Aimee-Ffion Edwards"
+          ]
+        },
+        {
+          "name": "real_world_locations",
+          "children": [],
+          "tags": [
+            "real world location",
+            "Afghanistan",
+            "Algeria"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "sex",
+      "children": [
+        {
+          "name": "sex_acts",
+          "children": [
+            {
+              "name": "sex_acts_general",
+              "children": [],
+              "tags": [
+                "sex",
+                "presenting",
+                "take your pick"
+              ]
+            },
+            {
+              "name": "simulated_sex_acts",
+              "children": [],
+              "tags": [
+                "Sexually suggestive",
+                "phallic symbol",
+                "yonic symbol"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "sexual_positions",
+          "children": [],
+          "tags": [
+            "69",
+            "doggystyle",
+            "bent over"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "visual_characteristics",
+      "children": [
+        {
+          "name": "image_composition_and_style",
+          "children": [
+            {
+              "name": "artistic_license",
+              "children": [],
+              "tags": [
+                "Alternate species",
+                "Animalization",
+                "Foodification"
+              ]
+            },
+            {
+              "name": "image_composition",
+              "children": [
+                {
+                  "name": "image_composition_general",
+                  "children": [],
+                  "tags": [
+                    "From above",
+                    "From behind",
+                    "From below"
+                  ]
+                },
+                {
+                  "name": "backgrounds",
+                  "children": [],
+                  "tags": [
+                    "aqua background",
+                    "beige background",
+                    "black background"
+                  ]
+                },
+                {
+                  "name": "censorship",
+                  "children": [],
+                  "tags": [
+                    "censored",
+                    "censored background",
+                    "censored anus"
+                  ]
+                },
+                {
+                  "name": "colors",
+                  "children": [],
+                  "tags": [
+                    "monochrome",
+                    "greyscale",
+                    "aqua theme"
+                  ]
+                },
+                {
+                  "name": "focus_tags",
+                  "children": [],
+                  "tags": [
+                    "solo focus",
+                    "solo",
+                    "male focus"
+                  ]
+                },
+                {
+                  "name": "lighting",
+                  "children": [],
+                  "tags": [
+                    "sidelighting",
+                    "underlighting",
+                    "bloom"
+                  ]
+                },
+                {
+                  "name": "prints",
+                  "children": [],
+                  "tags": [
+                    "Argyle",
+                    "Asa No Ha (pattern)",
+                    "Camouflage"
+                  ]
+                },
+                {
+                  "name": "style_parodies",
+                  "children": [],
+                  "tags": [
+                    "tag groups",
+                    "style parody",
+                    "retro artstyle"
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "patterns",
+              "children": [],
+              "tags": [
+                "asa no ha (pattern)",
+                "egasumi",
+                "genjiguruma"
+              ]
+            },
+            {
+              "name": "symbols",
+              "children": [],
+              "tags": [
+                "Circle",
+                "Crescent",
+                "Arrow (symbol)"
+              ]
+            },
+            {
+              "name": "text",
+              "children": [],
+              "tags": [
+                "Artist name",
+                "Character name",
+                "Circle name"
+              ]
+            },
+            {
+              "name": "year_tags",
+              "children": [],
+              "tags": [
+                "dated",
+                "2030",
+                "2029"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "subject",
+      "children": [
+        {
+          "name": "female",
+          "children": [
+            {
+              "name": "female_general",
+              "children": [],
+              "tags": [
+                "woman",
+                "girl",
+                "1girl"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "male",
+          "children": [
+            {
+              "name": "male_general",
+              "children": [],
+              "tags": [
+                "man",
+                "boy",
+                "1boy"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "koma",
+          "children": [
+            {
+              "name": "koma_general",
+              "children": [],
+              "tags": [
+                "1koma",
+                "2koma"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "anthro",
+          "children": [
+            {
+              "name": "anthro_general",
+              "children": [],
+              "tags": [
+                "cat girl",
+                "fox girl",
+                "dog girl"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "uncategorized",
+      "children": [],
+      "tags": [
+        "1other",
+        "39",
+        ":x"
+      ]
+    },
+    {
+      "name": "actions_and_expressions",
+      "children": [
+        {
+          "name": "actions",
+          "children": [
+            {
+              "name": "actions_general",
+              "children": [],
+              "tags": [
+                "acrylic paint (medium)",
+                "after kiss",
+                "animal hug"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "objects_and_backgrounds",
+      "children": [
+        {
+          "name": "objects",
+          "children": [
+            {
+              "name": "objects_general",
+              "children": [],
+              "tags": [
+                "alarm clock",
+                "analog clock",
+                "animal bag"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

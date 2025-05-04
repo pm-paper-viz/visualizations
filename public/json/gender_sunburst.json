@@ -1,0 +1,21 @@
+{
+  "name": "root",
+  "children": [
+    {
+      "name": "Female",
+      "value": 4503
+    },
+    {
+      "name": "Male",
+      "value": 432
+    },
+    {
+      "name": "Unknown",
+      "value": 49
+    },
+    {
+      "name": "Non-binary",
+      "value": 3
+    }
+  ]
+}

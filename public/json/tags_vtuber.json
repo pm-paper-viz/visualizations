@@ -1,0 +1,3717 @@
+{
+    "nodes": [
+        {
+            "id": "anime",
+            "size": 923
+        },
+        {
+            "id": "character",
+            "size": 1393
+        },
+        {
+            "id": "vtuber",
+            "size": 1418
+        },
+        {
+            "id": "hololive",
+            "size": 344
+        },
+        {
+            "id": "virtual youtuber",
+            "size": 384
+        },
+        {
+            "id": "gawr gura",
+            "size": 6
+        },
+        {
+            "id": "base model",
+            "size": 6
+        },
+        {
+            "id": "girl",
+            "size": 62
+        },
+        {
+            "id": "lora",
+            "size": 203
+        },
+        {
+            "id": "vtuber character",
+            "size": 236
+        },
+        {
+            "id": "characters",
+            "size": 10
+        },
+        {
+            "id": "styles",
+            "size": 4
+        },
+        {
+            "id": "nijisanji",
+            "size": 216
+        },
+        {
+            "id": "shishiro botan",
+            "size": 3
+        },
+        {
+            "id": "sexy",
+            "size": 101
+        },
+        {
+            "id": "girls",
+            "size": 252
+        },
+        {
+            "id": "nakiri ayame",
+            "size": 6
+        },
+        {
+            "id": "girlpack",
+            "size": 12
+        },
+        {
+            "id": "outfit",
+            "size": 3
+        },
+        {
+            "id": "woman",
+            "size": 560
+        },
+        {
+            "id": "female",
+            "size": 226
+        },
+        {
+            "id": "shigure ui",
+            "size": 5
+        },
+        {
+            "id": "idol",
+            "size": 4
+        },
+        {
+            "id": "cute",
+            "size": 29
+        },
+        {
+            "id": "video game",
+            "size": 4
+        },
+        {
+            "id": "korone",
+            "size": 3
+        },
+        {
+            "id": "twitch",
+            "size": 11
+        },
+        {
+            "id": "streamer",
+            "size": 27
+        },
+        {
+            "id": "monster girl",
+            "size": 8
+        },
+        {
+            "id": "vspo",
+            "size": 28
+        },
+        {
+            "id": "vspo!",
+            "size": 40
+        },
+        {
+            "id": "photorealistic",
+            "size": 6
+        },
+        {
+            "id": "nijisanji jp",
+            "size": 39
+        },
+        {
+            "id": "usada pekora",
+            "size": 4
+        },
+        {
+            "id": "kawaii",
+            "size": 3
+        },
+        {
+            "id": "style",
+            "size": 20
+        },
+        {
+            "id": "hololive id",
+            "size": 11
+        },
+        {
+            "id": "chibi",
+            "size": 5
+        },
+        {
+            "id": "virtuareal",
+            "size": 15
+        },
+        {
+            "id": "774 inc.",
+            "size": 2
+        },
+        {
+            "id": "anime girl",
+            "size": 2
+        },
+        {
+            "id": "3d",
+            "size": 4
+        },
+        {
+            "id": "manga",
+            "size": 9
+        },
+        {
+            "id": "original character",
+            "size": 4
+        },
+        {
+            "id": "game character",
+            "size": 8
+        },
+        {
+            "id": "vshojo",
+            "size": 24
+        },
+        {
+            "id": "independent vtuber",
+            "size": 14
+        },
+        {
+            "id": "vup",
+            "size": 18
+        },
+        {
+            "id": "bilibili",
+            "size": 12
+        },
+        {
+            "id": "2d",
+            "size": 5
+        },
+        {
+            "id": "nijisanji en",
+            "size": 25
+        },
+        {
+            "id": "twitch vtuber",
+            "size": 4
+        },
+        {
+            "id": "game",
+            "size": 4
+        },
+        {
+            "id": "hololive myth",
+            "size": 3
+        },
+        {
+            "id": "gamer",
+            "size": 2
+        },
+        {
+            "id": "furry",
+            "size": 14
+        },
+        {
+            "id": "wolf girl",
+            "size": 4
+        },
+        {
+            "id": "neo-porte",
+            "size": 8
+        },
+        {
+            "id": "phase-connect",
+            "size": 16
+        },
+        {
+            "id": "illustration",
+            "size": 4
+        },
+        {
+            "id": "phase connect",
+            "size": 17
+        },
+        {
+            "id": "youtuber",
+            "size": 12
+        },
+        {
+            "id": "indie vtuber",
+            "size": 21
+        },
+        {
+            "id": "male",
+            "size": 39
+        },
+        {
+            "id": "man",
+            "size": 6
+        },
+        {
+            "id": "tomboy",
+            "size": 6
+        },
+        {
+            "id": "russian virtual youtuber",
+            "size": 4
+        },
+        {
+            "id": "ru vtuber",
+            "size": 4
+        },
+        {
+            "id": "white hair",
+            "size": 3
+        },
+        {
+            "id": "celebrity",
+            "size": 4
+        },
+        {
+            "id": "realistic",
+            "size": 3
+        },
+        {
+            "id": "psplive",
+            "size": 5
+        },
+        {
+            "id": "nsfw",
+            "size": 11
+        },
+        {
+            "id": "vrchat",
+            "size": 4
+        },
+        {
+            "id": "catgirl",
+            "size": 4
+        },
+        {
+            "id": "mana renewal",
+            "size": 2
+        },
+        {
+            "id": "asbestos",
+            "size": 3
+        },
+        {
+            "id": "indie virtual youtuber",
+            "size": 4
+        },
+        {
+            "id": "youtube",
+            "size": 5
+        },
+        {
+            "id": "russian",
+            "size": 5
+        },
+        {
+            "id": "femboy",
+            "size": 4
+        },
+        {
+            "id": "mana",
+            "size": 2
+        },
+        {
+            "id": "p-sp",
+            "size": 3
+        },
+        {
+            "id": "twintails",
+            "size": 3
+        }
+    ],
+    "links": [
+        {
+            "source": "character",
+            "target": "anime",
+            "value": 879
+        },
+        {
+            "source": "vtuber",
+            "target": "anime",
+            "value": 896
+        },
+        {
+            "source": "hololive",
+            "target": "anime",
+            "value": 268
+        },
+        {
+            "source": "virtual youtuber",
+            "target": "anime",
+            "value": 276
+        },
+        {
+            "source": "anime",
+            "target": "gawr gura",
+            "value": 6
+        },
+        {
+            "source": "character",
+            "target": "vtuber",
+            "value": 1355
+        },
+        {
+            "source": "character",
+            "target": "hololive",
+            "value": 339
+        },
+        {
+            "source": "virtual youtuber",
+            "target": "character",
+            "value": 379
+        },
+        {
+            "source": "character",
+            "target": "gawr gura",
+            "value": 6
+        },
+        {
+            "source": "vtuber",
+            "target": "hololive",
+            "value": 340
+        },
+        {
+            "source": "virtual youtuber",
+            "target": "vtuber",
+            "value": 380
+        },
+        {
+            "source": "vtuber",
+            "target": "gawr gura",
+            "value": 6
+        },
+        {
+            "source": "virtual youtuber",
+            "target": "hololive",
+            "value": 118
+        },
+        {
+            "source": "hololive",
+            "target": "gawr gura",
+            "value": 5
+        },
+        {
+            "source": "virtual youtuber",
+            "target": "gawr gura",
+            "value": 1
+        },
+        {
+            "source": "base model",
+            "target": "anime",
+            "value": 5
+        },
+        {
+            "source": "base model",
+            "target": "vtuber",
+            "value": 6
+        },
+        {
+            "source": "base model",
+            "target": "hololive",
+            "value": 1
+        },
+        {
+            "source": "girl",
+            "target": "anime",
+            "value": 57
+        },
+        {
+            "source": "character",
+            "target": "girl",
+            "value": 50
+        },
+        {
+            "source": "vtuber",
+            "target": "girl",
+            "value": 62
+        },
+        {
+            "source": "hololive",
+            "target": "girl",
+            "value": 17
+        },
+        {
+            "source": "character",
+            "target": "lora",
+            "value": 196
+        },
+        {
+            "source": "character",
+            "target": "vtuber character",
+            "value": 232
+        },
+        {
+            "source": "lora",
+            "target": "vtuber",
+            "value": 203
+        },
+        {
+            "source": "vtuber",
+            "target": "vtuber character",
+            "value": 215
+        },
+        {
+            "source": "lora",
+            "target": "hololive",
+            "value": 51
+        },
+        {
+            "source": "hololive",
+            "target": "vtuber character",
+            "value": 52
+        },
+        {
+            "source": "lora",
+            "target": "vtuber character",
+            "value": 134
+        },
+        {
+            "source": "vtuber",
+            "target": "characters",
+            "value": 10
+        },
+        {
+            "source": "styles",
+            "target": "vtuber",
+            "value": 4
+        },
+        {
+            "source": "styles",
+            "target": "characters",
+            "value": 2
+        },
+        {
+            "source": "nijisanji",
+            "target": "character",
+            "value": 213
+        },
+        {
+            "source": "nijisanji",
+            "target": "vtuber",
+            "value": 215
+        },
+        {
+            "source": "nijisanji",
+            "target": "lora",
+            "value": 72
+        },
+        {
+            "source": "nijisanji",
+            "target": "vtuber character",
+            "value": 58
+        },
+        {
+            "source": "anime",
+            "target": "shishiro botan",
+            "value": 2
+        },
+        {
+            "source": "character",
+            "target": "shishiro botan",
+            "value": 3
+        },
+        {
+            "source": "girl",
+            "target": "shishiro botan",
+            "value": 1
+        },
+        {
+            "source": "vtuber",
+            "target": "shishiro botan",
+            "value": 3
+        },
+        {
+            "source": "hololive",
+            "target": "shishiro botan",
+            "value": 3
+        },
+        {
+            "source": "lora",
+            "target": "anime",
+            "value": 75
+        },
+        {
+            "source": "virtual youtuber",
+            "target": "lora",
+            "value": 16
+        },
+        {
+            "source": "sexy",
+            "target": "anime",
+            "value": 88
+        },
+        {
+            "source": "character",
+            "target": "sexy",
+            "value": 98
+        },
+        {
+            "source": "vtuber",
+            "target": "sexy",
+            "value": 101
+        },
+        {
+            "source": "hololive",
+            "target": "sexy",
+            "value": 8
+        },
+        {
+            "source": "girls",
+            "target": "anime",
+            "value": 228
+        },
+        {
+            "source": "girls",
+            "target": "character",
+            "value": 242
+        },
+        {
+            "source": "girls",
+            "target": "vtuber",
+            "value": 237
+        },
+        {
+            "source": "girls",
+            "target": "hololive",
+            "value": 33
+        },
+        {
+            "source": "anime",
+            "target": "nakiri ayame",
+            "value": 6
+        },
+        {
+            "source": "character",
+            "target": "nakiri ayame",
+            "value": 6
+        },
+        {
+            "source": "girl",
+            "target": "nakiri ayame",
+            "value": 1
+        },
+        {
+            "source": "vtuber",
+            "target": "nakiri ayame",
+            "value": 6
+        },
+        {
+            "source": "hololive",
+            "target": "nakiri ayame",
+            "value": 6
+        },
+        {
+            "source": "anime",
+            "target": "girlpack",
+            "value": 10
+        },
+        {
+            "source": "character",
+            "target": "girlpack",
+            "value": 12
+        },
+        {
+            "source": "virtual youtuber",
+            "target": "sexy",
+            "value": 15
+        },
+        {
+            "source": "sexy",
+            "target": "girlpack",
+            "value": 1
+        },
+        {
+            "source": "vtuber",
+            "target": "girlpack",
+            "value": 12
+        },
+        {
+            "source": "hololive",
+            "target": "girlpack",
+            "value": 12
+        },
+        {
+            "source": "virtual youtuber",
+            "target": "girlpack",
+            "value": 11
+        },
+        {
+            "source": "anime",
+            "target": "outfit",
+            "value": 2
+        },
+        {
+            "source": "character",
+            "target": "outfit",
+            "value": 1
+        },
+        {
+            "source": "vtuber",
+            "target": "outfit",
+            "value": 3
+        },
+        {
+            "source": "hololive",
+            "target": "outfit",
+            "value": 2
+        },
+        {
+            "source": "outfit",
+            "target": "girlpack",
+            "value": 1
+        },
+        {
+            "source": "anime",
+            "target": "woman",
+            "value": 505
+        },
+        {
+            "source": "character",
+            "target": "woman",
+            "value": 535
+        },
+        {
+            "source": "vtuber",
+            "target": "woman",
+            "value": 555
+        },
+        {
+            "source": "hololive",
+            "target": "woman",
+            "value": 171
+        },
+        {
+            "source": "virtual youtuber",
+            "target": "woman",
+            "value": 174
+        },
+        {
+            "source": "anime",
+            "target": "female",
+            "value": 212
+        },
+        {
+            "source": "character",
+            "target": "female",
+            "value": 217
+        },
+        {
+            "source": "vtuber",
+            "target": "female",
+            "value": 224
+        },
+        {
+            "source": "hololive",
+            "target": "female",
+            "value": 51
+        },
+        {
+            "source": "female",
+            "target": "woman",
+            "value": 166
+        },
+        {
+            "source": "virtual youtuber",
+            "target": "female",
+            "value": 53
+        },
+        {
+            "source": "character",
+            "target": "shigure ui",
+            "value": 5
+        },
+        {
+            "source": "vtuber",
+            "target": "shigure ui",
+            "value": 5
+        },
+        {
+            "source": "shigure ui",
+            "target": "woman",
+            "value": 2
+        },
+        {
+            "source": "vtuber character",
+            "target": "woman",
+            "value": 44
+        },
+        {
+            "source": "vtuber character",
+            "target": "shigure ui",
+            "value": 2
+        },
+        {
+            "source": "anime",
+            "target": "idol",
+            "value": 3
+        },
+        {
+            "source": "cute",
+            "target": "anime",
+            "value": 27
+        },
+        {
+            "source": "video game",
+            "target": "anime",
+            "value": 4
+        },
+        {
+            "source": "character",
+            "target": "idol",
+            "value": 4
+        },
+        {
+            "source": "cute",
+            "target": "character",
+            "value": 24
+        },
+        {
+            "source": "character",
+            "target": "video game",
+            "value": 4
+        },
+        {
+            "source": "girl",
+            "target": "idol",
+            "value": 1
+        },
+        {
+            "source": "cute",
+            "target": "girl",
+            "value": 4
+        },
+        {
+            "source": "video game",
+            "target": "girl",
+            "value": 2
+        },
+        {
+            "source": "vtuber",
+            "target": "idol",
+            "value": 4
+        },
+        {
+            "source": "cute",
+            "target": "vtuber",
+            "value": 28
+        },
+        {
+            "source": "video game",
+            "target": "vtuber",
+            "value": 4
+        },
+        {
+            "source": "cute",
+            "target": "idol",
+            "value": 1
+        },
+        {
+            "source": "video game",
+            "target": "idol",
+            "value": 1
+        },
+        {
+            "source": "cute",
+            "target": "video game",
+            "value": 1
+        },
+        {
+            "source": "anime",
+            "target": "korone",
+            "value": 2
+        },
+        {
+            "source": "character",
+            "target": "korone",
+            "value": 3
+        },
+        {
+            "source": "girl",
+            "target": "korone",
+            "value": 1
+        },
+        {
+            "source": "vtuber",
+            "target": "korone",
+            "value": 3
+        },
+        {
+            "source": "hololive",
+            "target": "korone",
+            "value": 3
+        },
+        {
+            "source": "anime",
+            "target": "vtuber character",
+            "value": 63
+        },
+        {
+            "source": "twitch",
+            "target": "character",
+            "value": 9
+        },
+        {
+            "source": "character",
+            "target": "streamer",
+            "value": 24
+        },
+        {
+            "source": "character",
+            "target": "monster girl",
+            "value": 8
+        },
+        {
+            "source": "twitch",
+            "target": "vtuber",
+            "value": 11
+        },
+        {
+            "source": "vtuber",
+            "target": "streamer",
+            "value": 26
+        },
+        {
+            "source": "vtuber",
+            "target": "monster girl",
+            "value": 8
+        },
+        {
+            "source": "twitch",
+            "target": "streamer",
+            "value": 7
+        },
+        {
+            "source": "twitch",
+            "target": "monster girl",
+            "value": 1
+        },
+        {
+            "source": "twitch",
+            "target": "vtuber character",
+            "value": 4
+        },
+        {
+            "source": "streamer",
+            "target": "monster girl",
+            "value": 1
+        },
+        {
+            "source": "streamer",
+            "target": "vtuber character",
+            "value": 3
+        },
+        {
+            "source": "vtuber character",
+            "target": "monster girl",
+            "value": 1
+        },
+        {
+            "source": "girls",
+            "target": "female",
+            "value": 63
+        },
+        {
+            "source": "shigure ui",
+            "target": "female",
+            "value": 2
+        },
+        {
+            "source": "girls",
+            "target": "shigure ui",
+            "value": 2
+        },
+        {
+            "source": "girlpack",
+            "target": "woman",
+            "value": 5
+        },
+        {
+            "source": "girl",
+            "target": "woman",
+            "value": 13
+        },
+        {
+            "source": "vspo",
+            "target": "character",
+            "value": 28
+        },
+        {
+            "source": "character",
+            "target": "vspo!",
+            "value": 39
+        },
+        {
+            "source": "vspo",
+            "target": "vtuber",
+            "value": 28
+        },
+        {
+            "source": "vtuber",
+            "target": "vspo!",
+            "value": 40
+        },
+        {
+            "source": "vspo",
+            "target": "lora",
+            "value": 14
+        },
+        {
+            "source": "lora",
+            "target": "vspo!",
+            "value": 14
+        },
+        {
+            "source": "vspo",
+            "target": "vtuber character",
+            "value": 13
+        },
+        {
+            "source": "vtuber character",
+            "target": "vspo!",
+            "value": 18
+        },
+        {
+            "source": "vspo",
+            "target": "vspo!",
+            "value": 24
+        },
+        {
+            "source": "girls",
+            "target": "girl",
+            "value": 1
+        },
+        {
+            "source": "anime",
+            "target": "shigure ui",
+            "value": 1
+        },
+        {
+            "source": "photorealistic",
+            "target": "anime",
+            "value": 2
+        },
+        {
+            "source": "photorealistic",
+            "target": "sexy",
+            "value": 3
+        },
+        {
+            "source": "base model",
+            "target": "photorealistic",
+            "value": 1
+        },
+        {
+            "source": "photorealistic",
+            "target": "vtuber",
+            "value": 6
+        },
+        {
+            "source": "photorealistic",
+            "target": "woman",
+            "value": 5
+        },
+        {
+            "source": "base model",
+            "target": "sexy",
+            "value": 1
+        },
+        {
+            "source": "sexy",
+            "target": "woman",
+            "value": 81
+        },
+        {
+            "source": "base model",
+            "target": "woman",
+            "value": 2
+        },
+        {
+            "source": "anime",
+            "target": "streamer",
+            "value": 13
+        },
+        {
+            "source": "girl",
+            "target": "streamer",
+            "value": 1
+        },
+        {
+            "source": "virtual youtuber",
+            "target": "girl",
+            "value": 8
+        },
+        {
+            "source": "video game",
+            "target": "streamer",
+            "value": 1
+        },
+        {
+            "source": "virtual youtuber",
+            "target": "streamer",
+            "value": 3
+        },
+        {
+            "source": "virtual youtuber",
+            "target": "video game",
+            "value": 1
+        },
+        {
+            "source": "nijisanji jp",
+            "target": "character",
+            "value": 39
+        },
+        {
+            "source": "nijisanji jp",
+            "target": "vtuber",
+            "value": 39
+        },
+        {
+            "source": "nijisanji",
+            "target": "virtual youtuber",
+            "value": 65
+        },
+        {
+            "source": "nijisanji",
+            "target": "nijisanji jp",
+            "value": 39
+        },
+        {
+            "source": "virtual youtuber",
+            "target": "nijisanji jp",
+            "value": 34
+        },
+        {
+            "source": "usada pekora",
+            "target": "anime",
+            "value": 2
+        },
+        {
+            "source": "usada pekora",
+            "target": "character",
+            "value": 4
+        },
+        {
+            "source": "usada pekora",
+            "target": "vtuber",
+            "value": 4
+        },
+        {
+            "source": "usada pekora",
+            "target": "hololive",
+            "value": 3
+        },
+        {
+            "source": "usada pekora",
+            "target": "woman",
+            "value": 1
+        },
+        {
+            "source": "virtual youtuber",
+            "target": "usada pekora",
+            "value": 1
+        },
+        {
+            "source": "girl",
+            "target": "gawr gura",
+            "value": 1
+        },
+        {
+            "source": "cute",
+            "target": "woman",
+            "value": 12
+        },
+        {
+            "source": "gawr gura",
+            "target": "woman",
+            "value": 5
+        },
+        {
+            "source": "cute",
+            "target": "gawr gura",
+            "value": 1
+        },
+        {
+            "source": "nijisanji",
+            "target": "anime",
+            "value": 78
+        },
+        {
+            "source": "nijisanji",
+            "target": "girl",
+            "value": 5
+        },
+        {
+            "source": "korone",
+            "target": "woman",
+            "value": 1
+        },
+        {
+            "source": "virtual youtuber",
+            "target": "korone",
+            "value": 2
+        },
+        {
+            "source": "girls",
+            "target": "woman",
+            "value": 160
+        },
+        {
+            "source": "kawaii",
+            "target": "anime",
+            "value": 3
+        },
+        {
+            "source": "style",
+            "target": "anime",
+            "value": 15
+        },
+        {
+            "source": "kawaii",
+            "target": "vtuber",
+            "value": 3
+        },
+        {
+            "source": "style",
+            "target": "vtuber",
+            "value": 19
+        },
+        {
+            "source": "style",
+            "target": "kawaii",
+            "value": 1
+        },
+        {
+            "source": "cute",
+            "target": "kawaii",
+            "value": 1
+        },
+        {
+            "source": "cute",
+            "target": "style",
+            "value": 5
+        },
+        {
+            "source": "hololive id",
+            "target": "anime",
+            "value": 11
+        },
+        {
+            "source": "hololive id",
+            "target": "character",
+            "value": 11
+        },
+        {
+            "source": "hololive id",
+            "target": "sexy",
+            "value": 1
+        },
+        {
+            "source": "hololive id",
+            "target": "vtuber",
+            "value": 11
+        },
+        {
+            "source": "hololive id",
+            "target": "hololive",
+            "value": 11
+        },
+        {
+            "source": "virtual youtuber",
+            "target": "hololive id",
+            "value": 5
+        },
+        {
+            "source": "shishiro botan",
+            "target": "female",
+            "value": 1
+        },
+        {
+            "source": "shishiro botan",
+            "target": "woman",
+            "value": 1
+        },
+        {
+            "source": "character",
+            "target": "chibi",
+            "value": 3
+        },
+        {
+            "source": "chibi",
+            "target": "female",
+            "value": 2
+        },
+        {
+            "source": "vtuber",
+            "target": "chibi",
+            "value": 5
+        },
+        {
+            "source": "girls",
+            "target": "chibi",
+            "value": 2
+        },
+        {
+            "source": "chibi",
+            "target": "shigure ui",
+            "value": 1
+        },
+        {
+            "source": "nakiri ayame",
+            "target": "woman",
+            "value": 4
+        },
+        {
+            "source": "girls",
+            "target": "virtual youtuber",
+            "value": 65
+        },
+        {
+            "source": "style",
+            "target": "hololive",
+            "value": 1
+        },
+        {
+            "source": "virtuareal",
+            "target": "anime",
+            "value": 13
+        },
+        {
+            "source": "virtuareal",
+            "target": "character",
+            "value": 15
+        },
+        {
+            "source": "virtuareal",
+            "target": "vtuber",
+            "value": 14
+        },
+        {
+            "source": "virtual youtuber",
+            "target": "virtuareal",
+            "value": 2
+        },
+        {
+            "source": "usada pekora",
+            "target": "lora",
+            "value": 1
+        },
+        {
+            "source": "usada pekora",
+            "target": "vtuber character",
+            "value": 1
+        },
+        {
+            "source": "nijisanji",
+            "target": "woman",
+            "value": 42
+        },
+        {
+            "source": "lora",
+            "target": "woman",
+            "value": 41
+        },
+        {
+            "source": "sexy",
+            "target": "female",
+            "value": 50
+        },
+        {
+            "source": "nijisanji",
+            "target": "sexy",
+            "value": 12
+        },
+        {
+            "source": "nijisanji",
+            "target": "female",
+            "value": 31
+        },
+        {
+            "source": "style",
+            "target": "girl",
+            "value": 2
+        },
+        {
+            "source": "character",
+            "target": "774 inc.",
+            "value": 2
+        },
+        {
+            "source": "vtuber",
+            "target": "774 inc.",
+            "value": 2
+        },
+        {
+            "source": "lora",
+            "target": "774 inc.",
+            "value": 1
+        },
+        {
+            "source": "774 inc.",
+            "target": "vtuber character",
+            "value": 1
+        },
+        {
+            "source": "character",
+            "target": "anime girl",
+            "value": 1
+        },
+        {
+            "source": "vtuber",
+            "target": "anime girl",
+            "value": 2
+        },
+        {
+            "source": "hololive",
+            "target": "anime girl",
+            "value": 1
+        },
+        {
+            "source": "virtual youtuber",
+            "target": "anime girl",
+            "value": 1
+        },
+        {
+            "source": "korone",
+            "target": "anime girl",
+            "value": 1
+        },
+        {
+            "source": "anime girl",
+            "target": "girlpack",
+            "value": 1
+        },
+        {
+            "source": "korone",
+            "target": "girlpack",
+            "value": 1
+        },
+        {
+            "source": "streamer",
+            "target": "woman",
+            "value": 9
+        },
+        {
+            "source": "girls",
+            "target": "streamer",
+            "value": 4
+        },
+        {
+            "source": "lora",
+            "target": "streamer",
+            "value": 3
+        },
+        {
+            "source": "girls",
+            "target": "lora",
+            "value": 19
+        },
+        {
+            "source": "vspo",
+            "target": "anime",
+            "value": 15
+        },
+        {
+            "source": "lora",
+            "target": "sexy",
+            "value": 16
+        },
+        {
+            "source": "vspo",
+            "target": "sexy",
+            "value": 3
+        },
+        {
+            "source": "lora",
+            "target": "female",
+            "value": 17
+        },
+        {
+            "source": "vspo",
+            "target": "female",
+            "value": 3
+        },
+        {
+            "source": "3d",
+            "target": "anime",
+            "value": 4
+        },
+        {
+            "source": "character",
+            "target": "3d",
+            "value": 3
+        },
+        {
+            "source": "3d",
+            "target": "vtuber",
+            "value": 4
+        },
+        {
+            "source": "manga",
+            "target": "anime",
+            "value": 9
+        },
+        {
+            "source": "manga",
+            "target": "character",
+            "value": 7
+        },
+        {
+            "source": "manga",
+            "target": "female",
+            "value": 6
+        },
+        {
+            "source": "streamer",
+            "target": "female",
+            "value": 3
+        },
+        {
+            "source": "manga",
+            "target": "vtuber",
+            "value": 8
+        },
+        {
+            "source": "manga",
+            "target": "streamer",
+            "value": 1
+        },
+        {
+            "source": "manga",
+            "target": "hololive",
+            "value": 2
+        },
+        {
+            "source": "hololive",
+            "target": "streamer",
+            "value": 4
+        },
+        {
+            "source": "anime",
+            "target": "vspo!",
+            "value": 14
+        },
+        {
+            "source": "vspo",
+            "target": "woman",
+            "value": 12
+        },
+        {
+            "source": "vspo!",
+            "target": "woman",
+            "value": 12
+        },
+        {
+            "source": "virtual youtuber",
+            "target": "vspo",
+            "value": 12
+        },
+        {
+            "source": "virtual youtuber",
+            "target": "vspo!",
+            "value": 19
+        },
+        {
+            "source": "3d",
+            "target": "female",
+            "value": 2
+        },
+        {
+            "source": "original character",
+            "target": "anime",
+            "value": 1
+        },
+        {
+            "source": "original character",
+            "target": "vtuber",
+            "value": 4
+        },
+        {
+            "source": "game character",
+            "target": "anime",
+            "value": 8
+        },
+        {
+            "source": "game character",
+            "target": "character",
+            "value": 8
+        },
+        {
+            "source": "game character",
+            "target": "female",
+            "value": 3
+        },
+        {
+            "source": "game character",
+            "target": "vtuber",
+            "value": 7
+        },
+        {
+            "source": "vtuber character",
+            "target": "female",
+            "value": 11
+        },
+        {
+            "source": "virtuareal",
+            "target": "girl",
+            "value": 5
+        },
+        {
+            "source": "vshojo",
+            "target": "anime",
+            "value": 15
+        },
+        {
+            "source": "vshojo",
+            "target": "character",
+            "value": 24
+        },
+        {
+            "source": "vshojo",
+            "target": "female",
+            "value": 7
+        },
+        {
+            "source": "vshojo",
+            "target": "vtuber",
+            "value": 24
+        },
+        {
+            "source": "character",
+            "target": "photorealistic",
+            "value": 2
+        },
+        {
+            "source": "photorealistic",
+            "target": "female",
+            "value": 2
+        },
+        {
+            "source": "girls",
+            "target": "photorealistic",
+            "value": 2
+        },
+        {
+            "source": "girls",
+            "target": "sexy",
+            "value": 36
+        },
+        {
+            "source": "style",
+            "target": "vtuber character",
+            "value": 1
+        },
+        {
+            "source": "girls",
+            "target": "nakiri ayame",
+            "value": 3
+        },
+        {
+            "source": "nijisanji",
+            "target": "girls",
+            "value": 15
+        },
+        {
+            "source": "hololive id",
+            "target": "female",
+            "value": 2
+        },
+        {
+            "source": "hololive id",
+            "target": "woman",
+            "value": 5
+        },
+        {
+            "source": "vshojo",
+            "target": "virtual youtuber",
+            "value": 6
+        },
+        {
+            "source": "independent vtuber",
+            "target": "anime",
+            "value": 12
+        },
+        {
+            "source": "character",
+            "target": "independent vtuber",
+            "value": 14
+        },
+        {
+            "source": "independent vtuber",
+            "target": "vtuber",
+            "value": 13
+        },
+        {
+            "source": "independent vtuber",
+            "target": "woman",
+            "value": 12
+        },
+        {
+            "source": "virtual youtuber",
+            "target": "independent vtuber",
+            "value": 6
+        },
+        {
+            "source": "anime",
+            "target": "vup",
+            "value": 17
+        },
+        {
+            "source": "bilibili",
+            "target": "anime",
+            "value": 12
+        },
+        {
+            "source": "girl",
+            "target": "female",
+            "value": 7
+        },
+        {
+            "source": "girl",
+            "target": "vup",
+            "value": 11
+        },
+        {
+            "source": "bilibili",
+            "target": "girl",
+            "value": 8
+        },
+        {
+            "source": "lora",
+            "target": "girl",
+            "value": 6
+        },
+        {
+            "source": "female",
+            "target": "vup",
+            "value": 2
+        },
+        {
+            "source": "bilibili",
+            "target": "female",
+            "value": 2
+        },
+        {
+            "source": "vtuber",
+            "target": "vup",
+            "value": 17
+        },
+        {
+            "source": "bilibili",
+            "target": "vtuber",
+            "value": 12
+        },
+        {
+            "source": "bilibili",
+            "target": "vup",
+            "value": 11
+        },
+        {
+            "source": "lora",
+            "target": "vup",
+            "value": 7
+        },
+        {
+            "source": "bilibili",
+            "target": "lora",
+            "value": 6
+        },
+        {
+            "source": "character",
+            "target": "vup",
+            "value": 5
+        },
+        {
+            "source": "virtual youtuber",
+            "target": "vup",
+            "value": 1
+        },
+        {
+            "source": "2d",
+            "target": "anime",
+            "value": 4
+        },
+        {
+            "source": "character",
+            "target": "kawaii",
+            "value": 2
+        },
+        {
+            "source": "2d",
+            "target": "character",
+            "value": 3
+        },
+        {
+            "source": "kawaii",
+            "target": "girl",
+            "value": 1
+        },
+        {
+            "source": "2d",
+            "target": "girl",
+            "value": 2
+        },
+        {
+            "source": "2d",
+            "target": "vtuber",
+            "value": 5
+        },
+        {
+            "source": "2d",
+            "target": "kawaii",
+            "value": 1
+        },
+        {
+            "source": "anime",
+            "target": "nijisanji en",
+            "value": 21
+        },
+        {
+            "source": "character",
+            "target": "nijisanji en",
+            "value": 25
+        },
+        {
+            "source": "female",
+            "target": "nijisanji en",
+            "value": 5
+        },
+        {
+            "source": "vtuber",
+            "target": "nijisanji en",
+            "value": 25
+        },
+        {
+            "source": "nijisanji",
+            "target": "nijisanji en",
+            "value": 20
+        },
+        {
+            "source": "lora",
+            "target": "nijisanji en",
+            "value": 5
+        },
+        {
+            "source": "character",
+            "target": "twitch vtuber",
+            "value": 3
+        },
+        {
+            "source": "twitch vtuber",
+            "target": "vtuber",
+            "value": 3
+        },
+        {
+            "source": "lora",
+            "target": "shishiro botan",
+            "value": 1
+        },
+        {
+            "source": "vtuber character",
+            "target": "shishiro botan",
+            "value": 1
+        },
+        {
+            "source": "game",
+            "target": "anime",
+            "value": 4
+        },
+        {
+            "source": "character",
+            "target": "game",
+            "value": 4
+        },
+        {
+            "source": "game",
+            "target": "vtuber",
+            "value": 4
+        },
+        {
+            "source": "nijisanji",
+            "target": "game",
+            "value": 1
+        },
+        {
+            "source": "game",
+            "target": "lora",
+            "value": 4
+        },
+        {
+            "source": "hololive myth",
+            "target": "anime",
+            "value": 1
+        },
+        {
+            "source": "character",
+            "target": "hololive myth",
+            "value": 3
+        },
+        {
+            "source": "vtuber",
+            "target": "hololive myth",
+            "value": 3
+        },
+        {
+            "source": "hololive",
+            "target": "hololive myth",
+            "value": 3
+        },
+        {
+            "source": "hololive myth",
+            "target": "woman",
+            "value": 1
+        },
+        {
+            "source": "girls",
+            "target": "hololive myth",
+            "value": 1
+        },
+        {
+            "source": "gamer",
+            "target": "anime",
+            "value": 1
+        },
+        {
+            "source": "character",
+            "target": "gamer",
+            "value": 2
+        },
+        {
+            "source": "vtuber",
+            "target": "gamer",
+            "value": 2
+        },
+        {
+            "source": "gamer",
+            "target": "woman",
+            "value": 1
+        },
+        {
+            "source": "vup",
+            "target": "woman",
+            "value": 10
+        },
+        {
+            "source": "bilibili",
+            "target": "woman",
+            "value": 9
+        },
+        {
+            "source": "nijisanji",
+            "target": "vup",
+            "value": 2
+        },
+        {
+            "source": "nijisanji",
+            "target": "bilibili",
+            "value": 1
+        },
+        {
+            "source": "girls",
+            "target": "vup",
+            "value": 3
+        },
+        {
+            "source": "girls",
+            "target": "bilibili",
+            "value": 3
+        },
+        {
+            "source": "furry",
+            "target": "vtuber",
+            "value": 14
+        },
+        {
+            "source": "wolf girl",
+            "target": "vtuber",
+            "value": 4
+        },
+        {
+            "source": "furry",
+            "target": "style",
+            "value": 1
+        },
+        {
+            "source": "wolf girl",
+            "target": "style",
+            "value": 1
+        },
+        {
+            "source": "furry",
+            "target": "wolf girl",
+            "value": 1
+        },
+        {
+            "source": "vshojo",
+            "target": "woman",
+            "value": 12
+        },
+        {
+            "source": "vshojo",
+            "target": "vtuber character",
+            "value": 4
+        },
+        {
+            "source": "neo-porte",
+            "target": "character",
+            "value": 8
+        },
+        {
+            "source": "neo-porte",
+            "target": "vtuber",
+            "value": 8
+        },
+        {
+            "source": "neo-porte",
+            "target": "lora",
+            "value": 2
+        },
+        {
+            "source": "neo-porte",
+            "target": "vtuber character",
+            "value": 2
+        },
+        {
+            "source": "phase-connect",
+            "target": "anime",
+            "value": 13
+        },
+        {
+            "source": "phase-connect",
+            "target": "character",
+            "value": 16
+        },
+        {
+            "source": "phase-connect",
+            "target": "female",
+            "value": 5
+        },
+        {
+            "source": "phase-connect",
+            "target": "vtuber",
+            "value": 16
+        },
+        {
+            "source": "phase-connect",
+            "target": "woman",
+            "value": 7
+        },
+        {
+            "source": "virtual youtuber",
+            "target": "phase-connect",
+            "value": 4
+        },
+        {
+            "source": "style",
+            "target": "woman",
+            "value": 5
+        },
+        {
+            "source": "2d",
+            "target": "style",
+            "value": 1
+        },
+        {
+            "source": "2d",
+            "target": "woman",
+            "value": 2
+        },
+        {
+            "source": "2d",
+            "target": "cute",
+            "value": 1
+        },
+        {
+            "source": "manga",
+            "target": "woman",
+            "value": 4
+        },
+        {
+            "source": "manga",
+            "target": "game character",
+            "value": 2
+        },
+        {
+            "source": "game character",
+            "target": "woman",
+            "value": 4
+        },
+        {
+            "source": "nijisanji jp",
+            "target": "anime",
+            "value": 4
+        },
+        {
+            "source": "nijisanji jp",
+            "target": "female",
+            "value": 1
+        },
+        {
+            "source": "nijisanji jp",
+            "target": "lora",
+            "value": 1
+        },
+        {
+            "source": "phase-connect",
+            "target": "idol",
+            "value": 1
+        },
+        {
+            "source": "anime",
+            "target": "illustration",
+            "value": 4
+        },
+        {
+            "source": "character",
+            "target": "illustration",
+            "value": 4
+        },
+        {
+            "source": "girl",
+            "target": "illustration",
+            "value": 2
+        },
+        {
+            "source": "vtuber",
+            "target": "illustration",
+            "value": 4
+        },
+        {
+            "source": "girls",
+            "target": "vtuber character",
+            "value": 12
+        },
+        {
+            "source": "wolf girl",
+            "target": "character",
+            "value": 3
+        },
+        {
+            "source": "vshojo",
+            "target": "wolf girl",
+            "value": 1
+        },
+        {
+            "source": "anime",
+            "target": "phase connect",
+            "value": 8
+        },
+        {
+            "source": "character",
+            "target": "phase connect",
+            "value": 17
+        },
+        {
+            "source": "vtuber",
+            "target": "phase connect",
+            "value": 17
+        },
+        {
+            "source": "phase connect",
+            "target": "woman",
+            "value": 2
+        },
+        {
+            "source": "phase-connect",
+            "target": "phase connect",
+            "value": 6
+        },
+        {
+            "source": "furry",
+            "target": "character",
+            "value": 13
+        },
+        {
+            "source": "furry",
+            "target": "streamer",
+            "value": 4
+        },
+        {
+            "source": "furry",
+            "target": "vtuber character",
+            "value": 4
+        },
+        {
+            "source": "chibi",
+            "target": "anime",
+            "value": 4
+        },
+        {
+            "source": "style",
+            "target": "chibi",
+            "value": 2
+        },
+        {
+            "source": "virtual youtuber",
+            "target": "style",
+            "value": 2
+        },
+        {
+            "source": "virtual youtuber",
+            "target": "chibi",
+            "value": 2
+        },
+        {
+            "source": "original character",
+            "target": "character",
+            "value": 3
+        },
+        {
+            "source": "virtual youtuber",
+            "target": "original character",
+            "value": 2
+        },
+        {
+            "source": "virtual youtuber",
+            "target": "vtuber character",
+            "value": 11
+        },
+        {
+            "source": "youtuber",
+            "target": "anime",
+            "value": 5
+        },
+        {
+            "source": "character",
+            "target": "youtuber",
+            "value": 8
+        },
+        {
+            "source": "youtuber",
+            "target": "female",
+            "value": 1
+        },
+        {
+            "source": "youtuber",
+            "target": "vtuber",
+            "value": 12
+        },
+        {
+            "source": "youtuber",
+            "target": "hololive",
+            "value": 2
+        },
+        {
+            "source": "youtuber",
+            "target": "woman",
+            "value": 6
+        },
+        {
+            "source": "vshojo",
+            "target": "3d",
+            "value": 2
+        },
+        {
+            "source": "indie vtuber",
+            "target": "anime",
+            "value": 19
+        },
+        {
+            "source": "character",
+            "target": "indie vtuber",
+            "value": 21
+        },
+        {
+            "source": "indie vtuber",
+            "target": "vtuber",
+            "value": 20
+        },
+        {
+            "source": "indie vtuber",
+            "target": "woman",
+            "value": 14
+        },
+        {
+            "source": "indie vtuber",
+            "target": "independent vtuber",
+            "value": 5
+        },
+        {
+            "source": "virtuareal",
+            "target": "vup",
+            "value": 3
+        },
+        {
+            "source": "male",
+            "target": "anime",
+            "value": 10
+        },
+        {
+            "source": "man",
+            "target": "anime",
+            "value": 4
+        },
+        {
+            "source": "character",
+            "target": "male",
+            "value": 39
+        },
+        {
+            "source": "character",
+            "target": "man",
+            "value": 6
+        },
+        {
+            "source": "vtuber",
+            "target": "male",
+            "value": 38
+        },
+        {
+            "source": "vtuber",
+            "target": "man",
+            "value": 6
+        },
+        {
+            "source": "nijisanji",
+            "target": "male",
+            "value": 27
+        },
+        {
+            "source": "nijisanji",
+            "target": "man",
+            "value": 3
+        },
+        {
+            "source": "man",
+            "target": "male",
+            "value": 3
+        },
+        {
+            "source": "lora",
+            "target": "male",
+            "value": 1
+        },
+        {
+            "source": "lora",
+            "target": "man",
+            "value": 1
+        },
+        {
+            "source": "nijisanji jp",
+            "target": "woman",
+            "value": 1
+        },
+        {
+            "source": "nijisanji jp",
+            "target": "vtuber character",
+            "value": 1
+        },
+        {
+            "source": "style",
+            "target": "vspo!",
+            "value": 1
+        },
+        {
+            "source": "style",
+            "target": "female",
+            "value": 3
+        },
+        {
+            "source": "tomboy",
+            "target": "anime",
+            "value": 2
+        },
+        {
+            "source": "tomboy",
+            "target": "character",
+            "value": 6
+        },
+        {
+            "source": "tomboy",
+            "target": "vtuber",
+            "value": 6
+        },
+        {
+            "source": "hololive",
+            "target": "idol",
+            "value": 2
+        },
+        {
+            "source": "tomboy",
+            "target": "hololive",
+            "value": 2
+        },
+        {
+            "source": "virtual youtuber",
+            "target": "idol",
+            "value": 1
+        },
+        {
+            "source": "tomboy",
+            "target": "idol",
+            "value": 1
+        },
+        {
+            "source": "virtual youtuber",
+            "target": "tomboy",
+            "value": 2
+        },
+        {
+            "source": "video game",
+            "target": "sexy",
+            "value": 2
+        },
+        {
+            "source": "video game",
+            "target": "woman",
+            "value": 2
+        },
+        {
+            "source": "girls",
+            "target": "video game",
+            "value": 1
+        },
+        {
+            "source": "character",
+            "target": "russian virtual youtuber",
+            "value": 1
+        },
+        {
+            "source": "character",
+            "target": "ru vtuber",
+            "value": 1
+        },
+        {
+            "source": "russian virtual youtuber",
+            "target": "vtuber",
+            "value": 4
+        },
+        {
+            "source": "vtuber",
+            "target": "ru vtuber",
+            "value": 4
+        },
+        {
+            "source": "virtual youtuber",
+            "target": "russian virtual youtuber",
+            "value": 4
+        },
+        {
+            "source": "virtual youtuber",
+            "target": "ru vtuber",
+            "value": 4
+        },
+        {
+            "source": "russian virtual youtuber",
+            "target": "ru vtuber",
+            "value": 4
+        },
+        {
+            "source": "russian virtual youtuber",
+            "target": "vtuber character",
+            "value": 3
+        },
+        {
+            "source": "ru vtuber",
+            "target": "vtuber character",
+            "value": 3
+        },
+        {
+            "source": "girls",
+            "target": "gawr gura",
+            "value": 4
+        },
+        {
+            "source": "indie vtuber",
+            "target": "female",
+            "value": 1
+        },
+        {
+            "source": "virtual youtuber",
+            "target": "indie vtuber",
+            "value": 15
+        },
+        {
+            "source": "game",
+            "target": "hololive",
+            "value": 1
+        },
+        {
+            "source": "manga",
+            "target": "nijisanji",
+            "value": 1
+        },
+        {
+            "source": "manga",
+            "target": "virtual youtuber",
+            "value": 1
+        },
+        {
+            "source": "independent vtuber",
+            "target": "vtuber character",
+            "value": 4
+        },
+        {
+            "source": "character",
+            "target": "white hair",
+            "value": 3
+        },
+        {
+            "source": "white hair",
+            "target": "vtuber",
+            "value": 3
+        },
+        {
+            "source": "girls",
+            "target": "style",
+            "value": 4
+        },
+        {
+            "source": "girls",
+            "target": "cute",
+            "value": 7
+        },
+        {
+            "source": "nijisanji en",
+            "target": "woman",
+            "value": 11
+        },
+        {
+            "source": "celebrity",
+            "target": "photorealistic",
+            "value": 2
+        },
+        {
+            "source": "realistic",
+            "target": "photorealistic",
+            "value": 1
+        },
+        {
+            "source": "celebrity",
+            "target": "female",
+            "value": 1
+        },
+        {
+            "source": "realistic",
+            "target": "female",
+            "value": 1
+        },
+        {
+            "source": "celebrity",
+            "target": "vtuber",
+            "value": 3
+        },
+        {
+            "source": "realistic",
+            "target": "vtuber",
+            "value": 3
+        },
+        {
+            "source": "celebrity",
+            "target": "woman",
+            "value": 4
+        },
+        {
+            "source": "realistic",
+            "target": "woman",
+            "value": 3
+        },
+        {
+            "source": "girls",
+            "target": "celebrity",
+            "value": 2
+        },
+        {
+            "source": "realistic",
+            "target": "celebrity",
+            "value": 2
+        },
+        {
+            "source": "girls",
+            "target": "realistic",
+            "value": 3
+        },
+        {
+            "source": "bilibili",
+            "target": "character",
+            "value": 1
+        },
+        {
+            "source": "sexy",
+            "target": "illustration",
+            "value": 1
+        },
+        {
+            "source": "female",
+            "target": "illustration",
+            "value": 1
+        },
+        {
+            "source": "illustration",
+            "target": "woman",
+            "value": 2
+        },
+        {
+            "source": "virtuareal",
+            "target": "vtuber character",
+            "value": 1
+        },
+        {
+            "source": "vtuber character",
+            "target": "vup",
+            "value": 1
+        },
+        {
+            "source": "vtuber",
+            "target": "psplive",
+            "value": 5
+        },
+        {
+            "source": "character",
+            "target": "psplive",
+            "value": 4
+        },
+        {
+            "source": "psplive",
+            "target": "girl",
+            "value": 1
+        },
+        {
+            "source": "psplive",
+            "target": "vup",
+            "value": 1
+        },
+        {
+            "source": "characters",
+            "target": "anime",
+            "value": 7
+        },
+        {
+            "source": "styles",
+            "target": "anime",
+            "value": 1
+        },
+        {
+            "source": "style",
+            "target": "characters",
+            "value": 2
+        },
+        {
+            "source": "styles",
+            "target": "style",
+            "value": 3
+        },
+        {
+            "source": "girls",
+            "target": "characters",
+            "value": 2
+        },
+        {
+            "source": "girls",
+            "target": "styles",
+            "value": 1
+        },
+        {
+            "source": "anime",
+            "target": "nsfw",
+            "value": 4
+        },
+        {
+            "source": "base model",
+            "target": "nsfw",
+            "value": 1
+        },
+        {
+            "source": "vtuber",
+            "target": "nsfw",
+            "value": 11
+        },
+        {
+            "source": "manga",
+            "target": "vtuber character",
+            "value": 2
+        },
+        {
+            "source": "manga",
+            "target": "style",
+            "value": 2
+        },
+        {
+            "source": "anime",
+            "target": "anime girl",
+            "value": 1
+        },
+        {
+            "source": "girl",
+            "target": "anime girl",
+            "value": 1
+        },
+        {
+            "source": "anime girl",
+            "target": "vup",
+            "value": 1
+        },
+        {
+            "source": "bilibili",
+            "target": "anime girl",
+            "value": 1
+        },
+        {
+            "source": "lora",
+            "target": "anime girl",
+            "value": 1
+        },
+        {
+            "source": "2d",
+            "target": "streamer",
+            "value": 1
+        },
+        {
+            "source": "2d",
+            "target": "hololive",
+            "value": 1
+        },
+        {
+            "source": "2d",
+            "target": "virtual youtuber",
+            "value": 1
+        },
+        {
+            "source": "sexy",
+            "target": "vtuber character",
+            "value": 4
+        },
+        {
+            "source": "anime",
+            "target": "vrchat",
+            "value": 3
+        },
+        {
+            "source": "anime",
+            "target": "catgirl",
+            "value": 2
+        },
+        {
+            "source": "character",
+            "target": "vrchat",
+            "value": 2
+        },
+        {
+            "source": "character",
+            "target": "catgirl",
+            "value": 4
+        },
+        {
+            "source": "vtuber",
+            "target": "vrchat",
+            "value": 4
+        },
+        {
+            "source": "vtuber",
+            "target": "catgirl",
+            "value": 4
+        },
+        {
+            "source": "vrchat",
+            "target": "catgirl",
+            "value": 1
+        },
+        {
+            "source": "character",
+            "target": "nsfw",
+            "value": 10
+        },
+        {
+            "source": "sexy",
+            "target": "nsfw",
+            "value": 10
+        },
+        {
+            "source": "nsfw",
+            "target": "woman",
+            "value": 10
+        },
+        {
+            "source": "character",
+            "target": "characters",
+            "value": 7
+        },
+        {
+            "source": "characters",
+            "target": "sexy",
+            "value": 1
+        },
+        {
+            "source": "characters",
+            "target": "female",
+            "value": 1
+        },
+        {
+            "source": "characters",
+            "target": "woman",
+            "value": 2
+        },
+        {
+            "source": "characters",
+            "target": "vtuber character",
+            "value": 4
+        },
+        {
+            "source": "mana renewal",
+            "target": "anime",
+            "value": 1
+        },
+        {
+            "source": "mana renewal",
+            "target": "character",
+            "value": 1
+        },
+        {
+            "source": "mana renewal",
+            "target": "sexy",
+            "value": 1
+        },
+        {
+            "source": "mana renewal",
+            "target": "vtuber",
+            "value": 2
+        },
+        {
+            "source": "mana renewal",
+            "target": "woman",
+            "value": 1
+        },
+        {
+            "source": "twitch",
+            "target": "anime",
+            "value": 3
+        },
+        {
+            "source": "virtual youtuber",
+            "target": "hololive myth",
+            "value": 2
+        },
+        {
+            "source": "774 inc.",
+            "target": "anime",
+            "value": 1
+        },
+        {
+            "source": "virtual youtuber",
+            "target": "774 inc.",
+            "value": 1
+        },
+        {
+            "source": "game character",
+            "target": "sexy",
+            "value": 1
+        },
+        {
+            "source": "game character",
+            "target": "video game",
+            "value": 1
+        },
+        {
+            "source": "girls",
+            "target": "nijisanji en",
+            "value": 1
+        },
+        {
+            "source": "realistic",
+            "target": "anime",
+            "value": 1
+        },
+        {
+            "source": "realistic",
+            "target": "character",
+            "value": 1
+        },
+        {
+            "source": "realistic",
+            "target": "vtuber character",
+            "value": 1
+        },
+        {
+            "source": "streamer",
+            "target": "illustration",
+            "value": 1
+        },
+        {
+            "source": "hololive",
+            "target": "illustration",
+            "value": 1
+        },
+        {
+            "source": "hololive id",
+            "target": "vtuber character",
+            "value": 1
+        },
+        {
+            "source": "indie vtuber",
+            "target": "lora",
+            "value": 1
+        },
+        {
+            "source": "furry",
+            "target": "anime",
+            "value": 4
+        },
+        {
+            "source": "nijisanji",
+            "target": "furry",
+            "value": 2
+        },
+        {
+            "source": "nijisanji jp",
+            "target": "furry",
+            "value": 2
+        },
+        {
+            "source": "nijisanji",
+            "target": "virtuareal",
+            "value": 3
+        },
+        {
+            "source": "asbestos",
+            "target": "anime",
+            "value": 1
+        },
+        {
+            "source": "character",
+            "target": "asbestos",
+            "value": 3
+        },
+        {
+            "source": "asbestos",
+            "target": "vtuber",
+            "value": 3
+        },
+        {
+            "source": "asbestos",
+            "target": "streamer",
+            "value": 1
+        },
+        {
+            "source": "asbestos",
+            "target": "lora",
+            "value": 1
+        },
+        {
+            "source": "youtuber",
+            "target": "streamer",
+            "value": 5
+        },
+        {
+            "source": "vtuber character",
+            "target": "phase connect",
+            "value": 1
+        },
+        {
+            "source": "hololive",
+            "target": "male",
+            "value": 2
+        },
+        {
+            "source": "virtual youtuber",
+            "target": "male",
+            "value": 6
+        },
+        {
+            "source": "cute",
+            "target": "female",
+            "value": 3
+        },
+        {
+            "source": "manga",
+            "target": "sexy",
+            "value": 1
+        },
+        {
+            "source": "style",
+            "target": "sexy",
+            "value": 1
+        },
+        {
+            "source": "character",
+            "target": "indie virtual youtuber",
+            "value": 4
+        },
+        {
+            "source": "vtuber",
+            "target": "indie virtual youtuber",
+            "value": 3
+        },
+        {
+            "source": "vshojo",
+            "target": "indie virtual youtuber",
+            "value": 1
+        },
+        {
+            "source": "indie virtual youtuber",
+            "target": "woman",
+            "value": 2
+        },
+        {
+            "source": "vtuber character",
+            "target": "indie virtual youtuber",
+            "value": 1
+        },
+        {
+            "source": "cute",
+            "target": "vtuber character",
+            "value": 1
+        },
+        {
+            "source": "phase connect",
+            "target": "female",
+            "value": 1
+        },
+        {
+            "source": "phase-connect",
+            "target": "cute",
+            "value": 2
+        },
+        {
+            "source": "cute",
+            "target": "phase connect",
+            "value": 1
+        },
+        {
+            "source": "nijisanji jp",
+            "target": "male",
+            "value": 4
+        },
+        {
+            "source": "twitch",
+            "target": "female",
+            "value": 1
+        },
+        {
+            "source": "girls",
+            "target": "indie vtuber",
+            "value": 5
+        },
+        {
+            "source": "indie vtuber",
+            "target": "vtuber character",
+            "value": 1
+        },
+        {
+            "source": "youtube",
+            "target": "anime",
+            "value": 2
+        },
+        {
+            "source": "character",
+            "target": "youtube",
+            "value": 5
+        },
+        {
+            "source": "youtube",
+            "target": "female",
+            "value": 1
+        },
+        {
+            "source": "vtuber",
+            "target": "youtube",
+            "value": 5
+        },
+        {
+            "source": "youtube",
+            "target": "woman",
+            "value": 2
+        },
+        {
+            "source": "girls",
+            "target": "youtube",
+            "value": 1
+        },
+        {
+            "source": "anime",
+            "target": "monster girl",
+            "value": 5
+        },
+        {
+            "source": "girls",
+            "target": "vspo",
+            "value": 1
+        },
+        {
+            "source": "cute",
+            "target": "chibi",
+            "value": 1
+        },
+        {
+            "source": "original character",
+            "target": "vtuber character",
+            "value": 1
+        },
+        {
+            "source": "furry",
+            "target": "male",
+            "value": 1
+        },
+        {
+            "source": "base model",
+            "target": "female",
+            "value": 1
+        },
+        {
+            "source": "2d",
+            "target": "female",
+            "value": 1
+        },
+        {
+            "source": "base model",
+            "target": "2d",
+            "value": 1
+        },
+        {
+            "source": "girls",
+            "target": "youtuber",
+            "value": 3
+        },
+        {
+            "source": "girls",
+            "target": "game character",
+            "value": 3
+        },
+        {
+            "source": "virtual youtuber",
+            "target": "nakiri ayame",
+            "value": 1
+        },
+        {
+            "source": "white hair",
+            "target": "anime",
+            "value": 2
+        },
+        {
+            "source": "anime",
+            "target": "indie virtual youtuber",
+            "value": 3
+        },
+        {
+            "source": "white hair",
+            "target": "woman",
+            "value": 2
+        },
+        {
+            "source": "white hair",
+            "target": "indie vtuber",
+            "value": 1
+        },
+        {
+            "source": "white hair",
+            "target": "indie virtual youtuber",
+            "value": 1
+        },
+        {
+            "source": "indie vtuber",
+            "target": "indie virtual youtuber",
+            "value": 3
+        },
+        {
+            "source": "youtuber",
+            "target": "photorealistic",
+            "value": 2
+        },
+        {
+            "source": "twitch",
+            "target": "photorealistic",
+            "value": 2
+        },
+        {
+            "source": "youtuber",
+            "target": "sexy",
+            "value": 1
+        },
+        {
+            "source": "twitch",
+            "target": "sexy",
+            "value": 1
+        },
+        {
+            "source": "twitch",
+            "target": "youtuber",
+            "value": 3
+        },
+        {
+            "source": "twitch",
+            "target": "woman",
+            "value": 2
+        },
+        {
+            "source": "vshojo",
+            "target": "characters",
+            "value": 1
+        },
+        {
+            "source": "character",
+            "target": "russian",
+            "value": 5
+        },
+        {
+            "source": "russian",
+            "target": "vtuber",
+            "value": 5
+        },
+        {
+            "source": "femboy",
+            "target": "character",
+            "value": 4
+        },
+        {
+            "source": "femboy",
+            "target": "vtuber",
+            "value": 4
+        },
+        {
+            "source": "cute",
+            "target": "femboy",
+            "value": 1
+        },
+        {
+            "source": "vtuber",
+            "target": "mana",
+            "value": 2
+        },
+        {
+            "source": "virtual youtuber",
+            "target": "mana",
+            "value": 1
+        },
+        {
+            "source": "virtual youtuber",
+            "target": "mana renewal",
+            "value": 1
+        },
+        {
+            "source": "mana renewal",
+            "target": "mana",
+            "value": 1
+        },
+        {
+            "source": "russian virtual youtuber",
+            "target": "mana",
+            "value": 1
+        },
+        {
+            "source": "mana",
+            "target": "ru vtuber",
+            "value": 1
+        },
+        {
+            "source": "mana",
+            "target": "vtuber character",
+            "value": 1
+        },
+        {
+            "source": "mana renewal",
+            "target": "russian virtual youtuber",
+            "value": 1
+        },
+        {
+            "source": "mana renewal",
+            "target": "ru vtuber",
+            "value": 1
+        },
+        {
+            "source": "mana renewal",
+            "target": "vtuber character",
+            "value": 1
+        },
+        {
+            "source": "virtual youtuber",
+            "target": "nijisanji en",
+            "value": 1
+        },
+        {
+            "source": "furry",
+            "target": "gamer",
+            "value": 1
+        },
+        {
+            "source": "furry",
+            "target": "twitch vtuber",
+            "value": 1
+        },
+        {
+            "source": "gamer",
+            "target": "vtuber character",
+            "value": 1
+        },
+        {
+            "source": "twitch vtuber",
+            "target": "vtuber character",
+            "value": 2
+        },
+        {
+            "source": "twitch vtuber",
+            "target": "gamer",
+            "value": 1
+        },
+        {
+            "source": "character",
+            "target": "p-sp",
+            "value": 3
+        },
+        {
+            "source": "vtuber",
+            "target": "p-sp",
+            "value": 3
+        },
+        {
+            "source": "p-sp",
+            "target": "psplive",
+            "value": 3
+        },
+        {
+            "source": "virtual youtuber",
+            "target": "game character",
+            "value": 1
+        },
+        {
+            "source": "vshojo",
+            "target": "girls",
+            "value": 2
+        },
+        {
+            "source": "girls",
+            "target": "phase-connect",
+            "value": 2
+        },
+        {
+            "source": "girls",
+            "target": "phase connect",
+            "value": 2
+        },
+        {
+            "source": "femboy",
+            "target": "anime",
+            "value": 3
+        },
+        {
+            "source": "characters",
+            "target": "phase connect",
+            "value": 1
+        },
+        {
+            "source": "neo-porte",
+            "target": "anime",
+            "value": 4
+        },
+        {
+            "source": "neo-porte",
+            "target": "woman",
+            "value": 4
+        },
+        {
+            "source": "girls",
+            "target": "neo-porte",
+            "value": 4
+        },
+        {
+            "source": "virtual youtuber",
+            "target": "neo-porte",
+            "value": 4
+        },
+        {
+            "source": "twintails",
+            "target": "character",
+            "value": 3
+        },
+        {
+            "source": "twintails",
+            "target": "vtuber",
+            "value": 3
+        },
+        {
+            "source": "virtual youtuber",
+            "target": "twintails",
+            "value": 3
+        },
+        {
+            "source": "furry",
+            "target": "hololive",
+            "value": 1
+        },
+        {
+            "source": "furry",
+            "target": "woman",
+            "value": 4
+        },
+        {
+            "source": "photorealistic",
+            "target": "streamer",
+            "value": 1
+        },
+        {
+            "source": "celebrity",
+            "target": "youtuber",
+            "value": 2
+        },
+        {
+            "source": "twitch",
+            "target": "celebrity",
+            "value": 1
+        },
+        {
+            "source": "celebrity",
+            "target": "streamer",
+            "value": 2
+        },
+        {
+            "source": "cute",
+            "target": "lora",
+            "value": 1
+        },
+        {
+            "source": "virtual youtuber",
+            "target": "vrchat",
+            "value": 1
+        },
+        {
+            "source": "furry",
+            "target": "sexy",
+            "value": 1
+        },
+        {
+            "source": "furry",
+            "target": "female",
+            "value": 2
+        },
+        {
+            "source": "girls",
+            "target": "kawaii",
+            "value": 1
+        },
+        {
+            "source": "girls",
+            "target": "virtuareal",
+            "value": 1
+        },
+        {
+            "source": "twintails",
+            "target": "anime",
+            "value": 1
+        },
+        {
+            "source": "twintails",
+            "target": "woman",
+            "value": 1
+        },
+        {
+            "source": "style",
+            "target": "youtuber",
+            "value": 1
+        },
+        {
+            "source": "styles",
+            "target": "youtuber",
+            "value": 1
+        },
+        {
+            "source": "style",
+            "target": "streamer",
+            "value": 1
+        },
+        {
+            "source": "styles",
+            "target": "streamer",
+            "value": 1
+        },
+        {
+            "source": "realistic",
+            "target": "youtuber",
+            "value": 1
+        },
+        {
+            "source": "furry",
+            "target": "youtuber",
+            "value": 1
+        },
+        {
+            "source": "youtuber",
+            "target": "youtube",
+            "value": 2
+        },
+        {
+            "source": "youtube",
+            "target": "streamer",
+            "value": 2
+        },
+        {
+            "source": "furry",
+            "target": "youtube",
+            "value": 1
+        },
+        {
+            "source": "girls",
+            "target": "indie virtual youtuber",
+            "value": 1
+        },
+        {
+            "source": "virtual youtuber",
+            "target": "indie virtual youtuber",
+            "value": 2
+        },
+        {
+            "source": "tomboy",
+            "target": "woman",
+            "value": 3
+        },
+        {
+            "source": "asbestos",
+            "target": "woman",
+            "value": 2
+        },
+        {
+            "source": "tomboy",
+            "target": "asbestos",
+            "value": 2
+        },
+        {
+            "source": "streamer",
+            "target": "phase connect",
+            "value": 1
+        },
+        {
+            "source": "virtual youtuber",
+            "target": "phase connect",
+            "value": 2
+        },
+        {
+            "source": "style",
+            "target": "vrchat",
+            "value": 2
+        },
+        {
+            "source": "vrchat",
+            "target": "woman",
+            "value": 2
+        },
+        {
+            "source": "cute",
+            "target": "vrchat",
+            "value": 2
+        },
+        {
+            "source": "girls",
+            "target": "vrchat",
+            "value": 2
+        },
+        {
+            "source": "indie vtuber",
+            "target": "sexy",
+            "value": 1
+        },
+        {
+            "source": "russian",
+            "target": "woman",
+            "value": 2
+        },
+        {
+            "source": "catgirl",
+            "target": "woman",
+            "value": 2
+        },
+        {
+            "source": "russian",
+            "target": "catgirl",
+            "value": 2
+        },
+        {
+            "source": "game character",
+            "target": "vtuber character",
+            "value": 2
+        },
+        {
+            "source": "man",
+            "target": "nijisanji en",
+            "value": 2
+        },
+        {
+            "source": "girls",
+            "target": "furry",
+            "value": 1
+        },
+        {
+            "source": "indie vtuber",
+            "target": "streamer",
+            "value": 1
+        },
+        {
+            "source": "twitch vtuber",
+            "target": "streamer",
+            "value": 1
+        },
+        {
+            "source": "twitch vtuber",
+            "target": "woman",
+            "value": 1
+        },
+        {
+            "source": "celebrity",
+            "target": "twitch vtuber",
+            "value": 1
+        },
+        {
+            "source": "anime",
+            "target": "mana",
+            "value": 1
+        },
+        {
+            "source": "character",
+            "target": "mana",
+            "value": 1
+        },
+        {
+            "source": "mana",
+            "target": "woman",
+            "value": 1
+        },
+        {
+            "source": "girls",
+            "target": "mana",
+            "value": 1
+        },
+        {
+            "source": "wolf girl",
+            "target": "anime",
+            "value": 1
+        },
+        {
+            "source": "wolf girl",
+            "target": "sexy",
+            "value": 1
+        },
+        {
+            "source": "wolf girl",
+            "target": "woman",
+            "value": 1
+        },
+        {
+            "source": "girls",
+            "target": "white hair",
+            "value": 1
+        },
+        {
+            "source": "male",
+            "target": "nijisanji en",
+            "value": 1
+        },
+        {
+            "source": "monster girl",
+            "target": "woman",
+            "value": 1
+        },
+        {
+            "source": "cute",
+            "target": "monster girl",
+            "value": 2
+        },
+        {
+            "source": "game character",
+            "target": "characters",
+            "value": 1
+        },
+        {
+            "source": "girls",
+            "target": "independent vtuber",
+            "value": 1
+        },
+        {
+            "source": "femboy",
+            "target": "male",
+            "value": 1
+        },
+        {
+            "source": "femboy",
+            "target": "man",
+            "value": 1
+        },
+        {
+            "source": "male",
+            "target": "sexy",
+            "value": 1
+        },
+        {
+            "source": "femboy",
+            "target": "woman",
+            "value": 1
+        },
+        {
+            "source": "virtual youtuber",
+            "target": "catgirl",
+            "value": 1
+        },
+        {
+            "source": "youtuber",
+            "target": "vtuber character",
+            "value": 1
+        },
+        {
+            "source": "twitch vtuber",
+            "target": "youtuber",
+            "value": 1
+        },
+        {
+            "source": "twitch",
+            "target": "youtube",
+            "value": 2
+        },
+        {
+            "source": "twitch",
+            "target": "twitch vtuber",
+            "value": 1
+        },
+        {
+            "source": "youtube",
+            "target": "vtuber character",
+            "value": 1
+        },
+        {
+            "source": "twitch vtuber",
+            "target": "youtube",
+            "value": 1
+        },
+        {
+            "source": "male",
+            "target": "vtuber character",
+            "value": 1
+        },
+        {
+            "source": "virtuareal",
+            "target": "male",
+            "value": 1
+        },
+        {
+            "source": "base model",
+            "target": "vtuber character",
+            "value": 1
+        },
+        {
+            "source": "russian",
+            "target": "anime",
+            "value": 2
+        },
+        {
+            "source": "russian",
+            "target": "characters",
+            "value": 2
+        },
+        {
+            "source": "russian",
+            "target": "vtuber character",
+            "value": 1
+        }
+    ]
+}

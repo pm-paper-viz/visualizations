@@ -1,0 +1,3702 @@
+{
+    "nodes": [
+        {
+            "id": "photorealistic",
+            "size": 227
+        },
+        {
+            "id": "asian",
+            "size": 117
+        },
+        {
+            "id": "style",
+            "size": 36
+        },
+        {
+            "id": "korean",
+            "size": 510
+        },
+        {
+            "id": "women",
+            "size": 6
+        },
+        {
+            "id": "base model",
+            "size": 9
+        },
+        {
+            "id": "model",
+            "size": 19
+        },
+        {
+            "id": "girl",
+            "size": 27
+        },
+        {
+            "id": "female",
+            "size": 44
+        },
+        {
+            "id": "woman",
+            "size": 324
+        },
+        {
+            "id": "celebrity",
+            "size": 471
+        },
+        {
+            "id": "anime",
+            "size": 22
+        },
+        {
+            "id": "realistic",
+            "size": 53
+        },
+        {
+            "id": "beautiful",
+            "size": 9
+        },
+        {
+            "id": "kpop",
+            "size": 281
+        },
+        {
+            "id": "aespa",
+            "size": 8
+        },
+        {
+            "id": "korean girl",
+            "size": 28
+        },
+        {
+            "id": "2.5d",
+            "size": 3
+        },
+        {
+            "id": "kpop idol",
+            "size": 153
+        },
+        {
+            "id": "character",
+            "size": 50
+        },
+        {
+            "id": "korean woman",
+            "size": 11
+        },
+        {
+            "id": "girls",
+            "size": 49
+        },
+        {
+            "id": "basemodel",
+            "size": 4
+        },
+        {
+            "id": "sexy",
+            "size": 20
+        },
+        {
+            "id": "man",
+            "size": 19
+        },
+        {
+            "id": "hello",
+            "size": 2
+        },
+        {
+            "id": "singer",
+            "size": 40
+        },
+        {
+            "id": "twice",
+            "size": 11
+        },
+        {
+            "id": "korean actress",
+            "size": 43
+        },
+        {
+            "id": "real person",
+            "size": 4
+        },
+        {
+            "id": "manhwa",
+            "size": 12
+        },
+        {
+            "id": "traditional",
+            "size": 5
+        },
+        {
+            "id": "japanese",
+            "size": 6
+        },
+        {
+            "id": "lora",
+            "size": 12
+        },
+        {
+            "id": "fantasy",
+            "size": 2
+        },
+        {
+            "id": "painting",
+            "size": 2
+        },
+        {
+            "id": "chinese",
+            "size": 6
+        },
+        {
+            "id": "idol",
+            "size": 33
+        },
+        {
+            "id": "cosplay",
+            "size": 4
+        },
+        {
+            "id": "cute",
+            "size": 7
+        },
+        {
+            "id": "male",
+            "size": 11
+        },
+        {
+            "id": "clothing",
+            "size": 16
+        },
+        {
+            "id": "traditionalart",
+            "size": 2
+        },
+        {
+            "id": "korea",
+            "size": 13
+        },
+        {
+            "id": "joseon",
+            "size": 4
+        },
+        {
+            "id": "realism",
+            "size": 4
+        },
+        {
+            "id": "hanbok",
+            "size": 11
+        },
+        {
+            "id": "instagram",
+            "size": 12
+        },
+        {
+            "id": "koreangirl",
+            "size": 8
+        },
+        {
+            "id": "actress",
+            "size": 73
+        },
+        {
+            "id": "korean clothes",
+            "size": 6
+        },
+        {
+            "id": "youtuber",
+            "size": 4
+        },
+        {
+            "id": "k-pop idol",
+            "size": 4
+        },
+        {
+            "id": "celeb",
+            "size": 40
+        },
+        {
+            "id": "youtube",
+            "size": 4
+        },
+        {
+            "id": "fashion",
+            "size": 4
+        },
+        {
+            "id": "athlete",
+            "size": 2
+        },
+        {
+            "id": "clothing lora",
+            "size": 3
+        },
+        {
+            "id": "streamer",
+            "size": 10
+        },
+        {
+            "id": "twitch",
+            "size": 7
+        },
+        {
+            "id": "dancer",
+            "size": 5
+        },
+        {
+            "id": "uniform",
+            "size": 2
+        },
+        {
+            "id": "celebrity,",
+            "size": 25
+        },
+        {
+            "id": "animation",
+            "size": 2
+        },
+        {
+            "id": "gidle",
+            "size": 5
+        },
+        {
+            "id": "webtoon",
+            "size": 6
+        },
+        {
+            "id": "itzy",
+            "size": 7
+        },
+        {
+            "id": "ive",
+            "size": 2
+        },
+        {
+            "id": "actor",
+            "size": 7
+        },
+        {
+            "id": "blackpink",
+            "size": 3
+        },
+        {
+            "id": "momoland",
+            "size": 3
+        },
+        {
+            "id": "photography",
+            "size": 6
+        },
+        {
+            "id": "kdrama",
+            "size": 5
+        },
+        {
+            "id": "korean artist",
+            "size": 2
+        }
+    ],
+    "links": [
+        {
+            "source": "photorealistic",
+            "target": "asian",
+            "value": 30
+        },
+        {
+            "source": "photorealistic",
+            "target": "style",
+            "value": 9
+        },
+        {
+            "source": "photorealistic",
+            "target": "korean",
+            "value": 223
+        },
+        {
+            "source": "photorealistic",
+            "target": "women",
+            "value": 1
+        },
+        {
+            "source": "asian",
+            "target": "style",
+            "value": 6
+        },
+        {
+            "source": "asian",
+            "target": "korean",
+            "value": 113
+        },
+        {
+            "source": "women",
+            "target": "asian",
+            "value": 3
+        },
+        {
+            "source": "korean",
+            "target": "style",
+            "value": 32
+        },
+        {
+            "source": "women",
+            "target": "style",
+            "value": 1
+        },
+        {
+            "source": "women",
+            "target": "korean",
+            "value": 6
+        },
+        {
+            "source": "base model",
+            "target": "model",
+            "value": 1
+        },
+        {
+            "source": "base model",
+            "target": "korean",
+            "value": 6
+        },
+        {
+            "source": "model",
+            "target": "korean",
+            "value": 13
+        },
+        {
+            "source": "photorealistic",
+            "target": "girl",
+            "value": 9
+        },
+        {
+            "source": "female",
+            "target": "girl",
+            "value": 2
+        },
+        {
+            "source": "girl",
+            "target": "asian",
+            "value": 16
+        },
+        {
+            "source": "woman",
+            "target": "girl",
+            "value": 21
+        },
+        {
+            "source": "girl",
+            "target": "celebrity",
+            "value": 16
+        },
+        {
+            "source": "girl",
+            "target": "korean",
+            "value": 23
+        },
+        {
+            "source": "photorealistic",
+            "target": "female",
+            "value": 26
+        },
+        {
+            "source": "woman",
+            "target": "photorealistic",
+            "value": 209
+        },
+        {
+            "source": "photorealistic",
+            "target": "celebrity",
+            "value": 210
+        },
+        {
+            "source": "female",
+            "target": "asian",
+            "value": 12
+        },
+        {
+            "source": "woman",
+            "target": "female",
+            "value": 36
+        },
+        {
+            "source": "female",
+            "target": "celebrity",
+            "value": 36
+        },
+        {
+            "source": "female",
+            "target": "korean",
+            "value": 42
+        },
+        {
+            "source": "woman",
+            "target": "asian",
+            "value": 54
+        },
+        {
+            "source": "celebrity",
+            "target": "asian",
+            "value": 93
+        },
+        {
+            "source": "woman",
+            "target": "celebrity",
+            "value": 280
+        },
+        {
+            "source": "woman",
+            "target": "korean",
+            "value": 307
+        },
+        {
+            "source": "celebrity",
+            "target": "korean",
+            "value": 407
+        },
+        {
+            "source": "anime",
+            "target": "korean",
+            "value": 17
+        },
+        {
+            "source": "anime",
+            "target": "realistic",
+            "value": 2
+        },
+        {
+            "source": "realistic",
+            "target": "korean",
+            "value": 48
+        },
+        {
+            "source": "girl",
+            "target": "beautiful",
+            "value": 1
+        },
+        {
+            "source": "photorealistic",
+            "target": "beautiful",
+            "value": 1
+        },
+        {
+            "source": "beautiful",
+            "target": "asian",
+            "value": 3
+        },
+        {
+            "source": "woman",
+            "target": "beautiful",
+            "value": 3
+        },
+        {
+            "source": "celebrity",
+            "target": "beautiful",
+            "value": 6
+        },
+        {
+            "source": "beautiful",
+            "target": "korean",
+            "value": 7
+        },
+        {
+            "source": "woman",
+            "target": "kpop",
+            "value": 185
+        },
+        {
+            "source": "kpop",
+            "target": "celebrity",
+            "value": 269
+        },
+        {
+            "source": "kpop",
+            "target": "korean",
+            "value": 271
+        },
+        {
+            "source": "aespa",
+            "target": "kpop",
+            "value": 8
+        },
+        {
+            "source": "aespa",
+            "target": "woman",
+            "value": 3
+        },
+        {
+            "source": "aespa",
+            "target": "celebrity",
+            "value": 7
+        },
+        {
+            "source": "aespa",
+            "target": "korean",
+            "value": 8
+        },
+        {
+            "source": "base model",
+            "target": "realistic",
+            "value": 5
+        },
+        {
+            "source": "base model",
+            "target": "korean girl",
+            "value": 3
+        },
+        {
+            "source": "base model",
+            "target": "2.5d",
+            "value": 2
+        },
+        {
+            "source": "korean girl",
+            "target": "realistic",
+            "value": 2
+        },
+        {
+            "source": "realistic",
+            "target": "2.5d",
+            "value": 1
+        },
+        {
+            "source": "korean girl",
+            "target": "2.5d",
+            "value": 3
+        },
+        {
+            "source": "girl",
+            "target": "realistic",
+            "value": 3
+        },
+        {
+            "source": "photorealistic",
+            "target": "realistic",
+            "value": 32
+        },
+        {
+            "source": "realistic",
+            "target": "asian",
+            "value": 16
+        },
+        {
+            "source": "woman",
+            "target": "realistic",
+            "value": 36
+        },
+        {
+            "source": "realistic",
+            "target": "celebrity",
+            "value": 37
+        },
+        {
+            "source": "female",
+            "target": "kpop idol",
+            "value": 2
+        },
+        {
+            "source": "woman",
+            "target": "kpop idol",
+            "value": 139
+        },
+        {
+            "source": "celebrity",
+            "target": "kpop idol",
+            "value": 150
+        },
+        {
+            "source": "kpop idol",
+            "target": "korean",
+            "value": 151
+        },
+        {
+            "source": "character",
+            "target": "girl",
+            "value": 6
+        },
+        {
+            "source": "character",
+            "target": "photorealistic",
+            "value": 5
+        },
+        {
+            "source": "character",
+            "target": "korean",
+            "value": 42
+        },
+        {
+            "source": "character",
+            "target": "korean woman",
+            "value": 1
+        },
+        {
+            "source": "character",
+            "target": "korean girl",
+            "value": 4
+        },
+        {
+            "source": "character",
+            "target": "2.5d",
+            "value": 1
+        },
+        {
+            "source": "girl",
+            "target": "korean woman",
+            "value": 4
+        },
+        {
+            "source": "korean girl",
+            "target": "girl",
+            "value": 1
+        },
+        {
+            "source": "girl",
+            "target": "2.5d",
+            "value": 1
+        },
+        {
+            "source": "korean girl",
+            "target": "korean woman",
+            "value": 2
+        },
+        {
+            "source": "korean woman",
+            "target": "2.5d",
+            "value": 1
+        },
+        {
+            "source": "base model",
+            "target": "woman",
+            "value": 4
+        },
+        {
+            "source": "base model",
+            "target": "girls",
+            "value": 1
+        },
+        {
+            "source": "base model",
+            "target": "basemodel",
+            "value": 3
+        },
+        {
+            "source": "woman",
+            "target": "girls",
+            "value": 38
+        },
+        {
+            "source": "woman",
+            "target": "korean girl",
+            "value": 8
+        },
+        {
+            "source": "woman",
+            "target": "2.5d",
+            "value": 1
+        },
+        {
+            "source": "basemodel",
+            "target": "woman",
+            "value": 3
+        },
+        {
+            "source": "korean girl",
+            "target": "girls",
+            "value": 2
+        },
+        {
+            "source": "girls",
+            "target": "2.5d",
+            "value": 1
+        },
+        {
+            "source": "basemodel",
+            "target": "girls",
+            "value": 1
+        },
+        {
+            "source": "basemodel",
+            "target": "korean girl",
+            "value": 1
+        },
+        {
+            "source": "basemodel",
+            "target": "2.5d",
+            "value": 1
+        },
+        {
+            "source": "sexy",
+            "target": "photorealistic",
+            "value": 9
+        },
+        {
+            "source": "photorealistic",
+            "target": "korean woman",
+            "value": 1
+        },
+        {
+            "source": "sexy",
+            "target": "asian",
+            "value": 9
+        },
+        {
+            "source": "sexy",
+            "target": "korean woman",
+            "value": 2
+        },
+        {
+            "source": "sexy",
+            "target": "style",
+            "value": 5
+        },
+        {
+            "source": "korean woman",
+            "target": "asian",
+            "value": 4
+        },
+        {
+            "source": "korean woman",
+            "target": "style",
+            "value": 1
+        },
+        {
+            "source": "base model",
+            "target": "asian",
+            "value": 4
+        },
+        {
+            "source": "base model",
+            "target": "man",
+            "value": 1
+        },
+        {
+            "source": "base model",
+            "target": "hello",
+            "value": 1
+        },
+        {
+            "source": "man",
+            "target": "asian",
+            "value": 2
+        },
+        {
+            "source": "asian",
+            "target": "hello",
+            "value": 1
+        },
+        {
+            "source": "man",
+            "target": "woman",
+            "value": 1
+        },
+        {
+            "source": "woman",
+            "target": "hello",
+            "value": 1
+        },
+        {
+            "source": "man",
+            "target": "korean",
+            "value": 18
+        },
+        {
+            "source": "hello",
+            "target": "korean",
+            "value": 2
+        },
+        {
+            "source": "man",
+            "target": "realistic",
+            "value": 4
+        },
+        {
+            "source": "man",
+            "target": "hello",
+            "value": 1
+        },
+        {
+            "source": "realistic",
+            "target": "hello",
+            "value": 1
+        },
+        {
+            "source": "singer",
+            "target": "asian",
+            "value": 22
+        },
+        {
+            "source": "kpop",
+            "target": "singer",
+            "value": 38
+        },
+        {
+            "source": "model",
+            "target": "singer",
+            "value": 2
+        },
+        {
+            "source": "korean woman",
+            "target": "singer",
+            "value": 1
+        },
+        {
+            "source": "singer",
+            "target": "beautiful",
+            "value": 1
+        },
+        {
+            "source": "kpop",
+            "target": "asian",
+            "value": 58
+        },
+        {
+            "source": "model",
+            "target": "asian",
+            "value": 5
+        },
+        {
+            "source": "model",
+            "target": "kpop",
+            "value": 2
+        },
+        {
+            "source": "kpop",
+            "target": "korean woman",
+            "value": 3
+        },
+        {
+            "source": "kpop",
+            "target": "beautiful",
+            "value": 1
+        },
+        {
+            "source": "model",
+            "target": "korean woman",
+            "value": 1
+        },
+        {
+            "source": "model",
+            "target": "beautiful",
+            "value": 1
+        },
+        {
+            "source": "korean woman",
+            "target": "beautiful",
+            "value": 1
+        },
+        {
+            "source": "kpop",
+            "target": "girl",
+            "value": 6
+        },
+        {
+            "source": "photorealistic",
+            "target": "kpop",
+            "value": 154
+        },
+        {
+            "source": "female",
+            "target": "kpop",
+            "value": 5
+        },
+        {
+            "source": "twice",
+            "target": "kpop",
+            "value": 10
+        },
+        {
+            "source": "kpop",
+            "target": "kpop idol",
+            "value": 148
+        },
+        {
+            "source": "korean girl",
+            "target": "kpop",
+            "value": 3
+        },
+        {
+            "source": "twice",
+            "target": "celebrity",
+            "value": 10
+        },
+        {
+            "source": "twice",
+            "target": "kpop idol",
+            "value": 2
+        },
+        {
+            "source": "twice",
+            "target": "korean girl",
+            "value": 1
+        },
+        {
+            "source": "korean girl",
+            "target": "celebrity",
+            "value": 15
+        },
+        {
+            "source": "korean girl",
+            "target": "kpop idol",
+            "value": 3
+        },
+        {
+            "source": "celebrity",
+            "target": "korean actress",
+            "value": 43
+        },
+        {
+            "source": "real person",
+            "target": "girl",
+            "value": 1
+        },
+        {
+            "source": "real person",
+            "target": "photorealistic",
+            "value": 1
+        },
+        {
+            "source": "real person",
+            "target": "asian",
+            "value": 2
+        },
+        {
+            "source": "real person",
+            "target": "celebrity",
+            "value": 4
+        },
+        {
+            "source": "real person",
+            "target": "korean",
+            "value": 4
+        },
+        {
+            "source": "real person",
+            "target": "realistic",
+            "value": 3
+        },
+        {
+            "source": "photorealistic",
+            "target": "girls",
+            "value": 24
+        },
+        {
+            "source": "sexy",
+            "target": "woman",
+            "value": 15
+        },
+        {
+            "source": "sexy",
+            "target": "girls",
+            "value": 9
+        },
+        {
+            "source": "sexy",
+            "target": "korean",
+            "value": 18
+        },
+        {
+            "source": "girls",
+            "target": "asian",
+            "value": 8
+        },
+        {
+            "source": "woman",
+            "target": "style",
+            "value": 9
+        },
+        {
+            "source": "girls",
+            "target": "style",
+            "value": 8
+        },
+        {
+            "source": "girls",
+            "target": "korean",
+            "value": 46
+        },
+        {
+            "source": "korean girl",
+            "target": "style",
+            "value": 3
+        },
+        {
+            "source": "sexy",
+            "target": "girl",
+            "value": 3
+        },
+        {
+            "source": "sexy",
+            "target": "celebrity",
+            "value": 9
+        },
+        {
+            "source": "anime",
+            "target": "sexy",
+            "value": 4
+        },
+        {
+            "source": "anime",
+            "target": "style",
+            "value": 9
+        },
+        {
+            "source": "anime",
+            "target": "girls",
+            "value": 5
+        },
+        {
+            "source": "anime",
+            "target": "hello",
+            "value": 1
+        },
+        {
+            "source": "sexy",
+            "target": "hello",
+            "value": 1
+        },
+        {
+            "source": "hello",
+            "target": "style",
+            "value": 1
+        },
+        {
+            "source": "girls",
+            "target": "hello",
+            "value": 1
+        },
+        {
+            "source": "anime",
+            "target": "manhwa",
+            "value": 6
+        },
+        {
+            "source": "style",
+            "target": "manhwa",
+            "value": 8
+        },
+        {
+            "source": "korean",
+            "target": "manhwa",
+            "value": 10
+        },
+        {
+            "source": "photorealistic",
+            "target": "traditional",
+            "value": 1
+        },
+        {
+            "source": "photorealistic",
+            "target": "japanese",
+            "value": 1
+        },
+        {
+            "source": "traditional",
+            "target": "asian",
+            "value": 1
+        },
+        {
+            "source": "asian",
+            "target": "japanese",
+            "value": 3
+        },
+        {
+            "source": "traditional",
+            "target": "style",
+            "value": 2
+        },
+        {
+            "source": "woman",
+            "target": "traditional",
+            "value": 2
+        },
+        {
+            "source": "traditional",
+            "target": "japanese",
+            "value": 1
+        },
+        {
+            "source": "traditional",
+            "target": "korean",
+            "value": 5
+        },
+        {
+            "source": "japanese",
+            "target": "style",
+            "value": 1
+        },
+        {
+            "source": "woman",
+            "target": "japanese",
+            "value": 1
+        },
+        {
+            "source": "korean",
+            "target": "japanese",
+            "value": 6
+        },
+        {
+            "source": "twice",
+            "target": "female",
+            "value": 1
+        },
+        {
+            "source": "female",
+            "target": "korean woman",
+            "value": 2
+        },
+        {
+            "source": "twice",
+            "target": "korean woman",
+            "value": 1
+        },
+        {
+            "source": "korean woman",
+            "target": "celebrity",
+            "value": 2
+        },
+        {
+            "source": "korean woman",
+            "target": "kpop idol",
+            "value": 2
+        },
+        {
+            "source": "kpop",
+            "target": "lora",
+            "value": 11
+        },
+        {
+            "source": "woman",
+            "target": "lora",
+            "value": 4
+        },
+        {
+            "source": "korean girl",
+            "target": "korean",
+            "value": 11
+        },
+        {
+            "source": "lora",
+            "target": "korean",
+            "value": 12
+        },
+        {
+            "source": "lora",
+            "target": "kpop idol",
+            "value": 1
+        },
+        {
+            "source": "korean girl",
+            "target": "lora",
+            "value": 1
+        },
+        {
+            "source": "photorealistic",
+            "target": "kpop idol",
+            "value": 137
+        },
+        {
+            "source": "kpop idol",
+            "target": "asian",
+            "value": 3
+        },
+        {
+            "source": "realistic",
+            "target": "kpop idol",
+            "value": 6
+        },
+        {
+            "source": "character",
+            "target": "fantasy",
+            "value": 1
+        },
+        {
+            "source": "character",
+            "target": "painting",
+            "value": 1
+        },
+        {
+            "source": "korean girl",
+            "target": "fantasy",
+            "value": 1
+        },
+        {
+            "source": "painting",
+            "target": "fantasy",
+            "value": 1
+        },
+        {
+            "source": "korean girl",
+            "target": "painting",
+            "value": 1
+        },
+        {
+            "source": "twice",
+            "target": "chinese",
+            "value": 1
+        },
+        {
+            "source": "idol",
+            "target": "chinese",
+            "value": 3
+        },
+        {
+            "source": "celebrity",
+            "target": "chinese",
+            "value": 4
+        },
+        {
+            "source": "japanese",
+            "target": "chinese",
+            "value": 3
+        },
+        {
+            "source": "korean",
+            "target": "chinese",
+            "value": 6
+        },
+        {
+            "source": "twice",
+            "target": "idol",
+            "value": 2
+        },
+        {
+            "source": "twice",
+            "target": "japanese",
+            "value": 1
+        },
+        {
+            "source": "twice",
+            "target": "korean",
+            "value": 9
+        },
+        {
+            "source": "idol",
+            "target": "celebrity",
+            "value": 32
+        },
+        {
+            "source": "idol",
+            "target": "japanese",
+            "value": 1
+        },
+        {
+            "source": "idol",
+            "target": "korean",
+            "value": 33
+        },
+        {
+            "source": "celebrity",
+            "target": "japanese",
+            "value": 2
+        },
+        {
+            "source": "cosplay",
+            "target": "celebrity",
+            "value": 3
+        },
+        {
+            "source": "cosplay",
+            "target": "realistic",
+            "value": 1
+        },
+        {
+            "source": "cosplay",
+            "target": "korean girl",
+            "value": 1
+        },
+        {
+            "source": "anime",
+            "target": "base model",
+            "value": 1
+        },
+        {
+            "source": "anime",
+            "target": "woman",
+            "value": 10
+        },
+        {
+            "source": "anime",
+            "target": "basemodel",
+            "value": 1
+        },
+        {
+            "source": "basemodel",
+            "target": "korean",
+            "value": 3
+        },
+        {
+            "source": "cute",
+            "target": "woman",
+            "value": 5
+        },
+        {
+            "source": "cute",
+            "target": "celebrity",
+            "value": 5
+        },
+        {
+            "source": "cute",
+            "target": "korean",
+            "value": 7
+        },
+        {
+            "source": "photorealistic",
+            "target": "korean girl",
+            "value": 2
+        },
+        {
+            "source": "korean girl",
+            "target": "asian",
+            "value": 3
+        },
+        {
+            "source": "male",
+            "target": "style",
+            "value": 2
+        },
+        {
+            "source": "man",
+            "target": "style",
+            "value": 2
+        },
+        {
+            "source": "realistic",
+            "target": "style",
+            "value": 2
+        },
+        {
+            "source": "male",
+            "target": "korean",
+            "value": 11
+        },
+        {
+            "source": "man",
+            "target": "male",
+            "value": 5
+        },
+        {
+            "source": "realistic",
+            "target": "male",
+            "value": 1
+        },
+        {
+            "source": "cosplay",
+            "target": "asian",
+            "value": 1
+        },
+        {
+            "source": "cosplay",
+            "target": "korean woman",
+            "value": 1
+        },
+        {
+            "source": "clothing",
+            "target": "cosplay",
+            "value": 1
+        },
+        {
+            "source": "clothing",
+            "target": "asian",
+            "value": 2
+        },
+        {
+            "source": "clothing",
+            "target": "korean woman",
+            "value": 1
+        },
+        {
+            "source": "character",
+            "target": "sexy",
+            "value": 4
+        },
+        {
+            "source": "character",
+            "target": "asian",
+            "value": 10
+        },
+        {
+            "source": "character",
+            "target": "cute",
+            "value": 1
+        },
+        {
+            "source": "character",
+            "target": "male",
+            "value": 6
+        },
+        {
+            "source": "character",
+            "target": "man",
+            "value": 2
+        },
+        {
+            "source": "cute",
+            "target": "sexy",
+            "value": 4
+        },
+        {
+            "source": "sexy",
+            "target": "male",
+            "value": 2
+        },
+        {
+            "source": "sexy",
+            "target": "man",
+            "value": 1
+        },
+        {
+            "source": "cute",
+            "target": "asian",
+            "value": 4
+        },
+        {
+            "source": "asian",
+            "target": "male",
+            "value": 2
+        },
+        {
+            "source": "cute",
+            "target": "male",
+            "value": 2
+        },
+        {
+            "source": "cute",
+            "target": "man",
+            "value": 1
+        },
+        {
+            "source": "singer",
+            "target": "celebrity",
+            "value": 39
+        },
+        {
+            "source": "girls",
+            "target": "singer",
+            "value": 1
+        },
+        {
+            "source": "singer",
+            "target": "korean",
+            "value": 38
+        },
+        {
+            "source": "girls",
+            "target": "kpop",
+            "value": 6
+        },
+        {
+            "source": "girls",
+            "target": "celebrity",
+            "value": 30
+        },
+        {
+            "source": "traditionalart",
+            "target": "traditional",
+            "value": 1
+        },
+        {
+            "source": "traditionalart",
+            "target": "style",
+            "value": 2
+        },
+        {
+            "source": "traditionalart",
+            "target": "korean",
+            "value": 2
+        },
+        {
+            "source": "traditionalart",
+            "target": "korea",
+            "value": 1
+        },
+        {
+            "source": "korea",
+            "target": "traditional",
+            "value": 1
+        },
+        {
+            "source": "korea",
+            "target": "style",
+            "value": 2
+        },
+        {
+            "source": "korea",
+            "target": "korean",
+            "value": 12
+        },
+        {
+            "source": "joseon",
+            "target": "style",
+            "value": 3
+        },
+        {
+            "source": "joseon",
+            "target": "korean",
+            "value": 4
+        },
+        {
+            "source": "female",
+            "target": "girls",
+            "value": 14
+        },
+        {
+            "source": "korean woman",
+            "target": "korean",
+            "value": 3
+        },
+        {
+            "source": "female",
+            "target": "style",
+            "value": 1
+        },
+        {
+            "source": "sexy",
+            "target": "realism",
+            "value": 1
+        },
+        {
+            "source": "sexy",
+            "target": "base model",
+            "value": 1
+        },
+        {
+            "source": "sexy",
+            "target": "realistic",
+            "value": 4
+        },
+        {
+            "source": "realism",
+            "target": "base model",
+            "value": 2
+        },
+        {
+            "source": "realism",
+            "target": "asian",
+            "value": 2
+        },
+        {
+            "source": "realism",
+            "target": "korean woman",
+            "value": 1
+        },
+        {
+            "source": "realism",
+            "target": "korean",
+            "value": 4
+        },
+        {
+            "source": "realism",
+            "target": "realistic",
+            "value": 2
+        },
+        {
+            "source": "base model",
+            "target": "korean woman",
+            "value": 1
+        },
+        {
+            "source": "realistic",
+            "target": "korean woman",
+            "value": 1
+        },
+        {
+            "source": "clothing",
+            "target": "korean",
+            "value": 13
+        },
+        {
+            "source": "joseon",
+            "target": "clothing",
+            "value": 1
+        },
+        {
+            "source": "clothing",
+            "target": "hanbok",
+            "value": 8
+        },
+        {
+            "source": "hanbok",
+            "target": "korean",
+            "value": 6
+        },
+        {
+            "source": "joseon",
+            "target": "hanbok",
+            "value": 1
+        },
+        {
+            "source": "instagram",
+            "target": "style",
+            "value": 1
+        },
+        {
+            "source": "basemodel",
+            "target": "style",
+            "value": 1
+        },
+        {
+            "source": "instagram",
+            "target": "korean",
+            "value": 12
+        },
+        {
+            "source": "instagram",
+            "target": "realistic",
+            "value": 1
+        },
+        {
+            "source": "instagram",
+            "target": "basemodel",
+            "value": 1
+        },
+        {
+            "source": "basemodel",
+            "target": "realistic",
+            "value": 2
+        },
+        {
+            "source": "celebrity",
+            "target": "koreangirl",
+            "value": 3
+        },
+        {
+            "source": "koreangirl",
+            "target": "korean",
+            "value": 7
+        },
+        {
+            "source": "korean girl",
+            "target": "koreangirl",
+            "value": 2
+        },
+        {
+            "source": "beautiful",
+            "target": "style",
+            "value": 1
+        },
+        {
+            "source": "girls",
+            "target": "beautiful",
+            "value": 1
+        },
+        {
+            "source": "korean girl",
+            "target": "beautiful",
+            "value": 1
+        },
+        {
+            "source": "photorealistic",
+            "target": "koreangirl",
+            "value": 3
+        },
+        {
+            "source": "koreangirl",
+            "target": "style",
+            "value": 2
+        },
+        {
+            "source": "woman",
+            "target": "koreangirl",
+            "value": 2
+        },
+        {
+            "source": "girls",
+            "target": "koreangirl",
+            "value": 2
+        },
+        {
+            "source": "actress",
+            "target": "singer",
+            "value": 12
+        },
+        {
+            "source": "actress",
+            "target": "celebrity",
+            "value": 73
+        },
+        {
+            "source": "actress",
+            "target": "korean",
+            "value": 66
+        },
+        {
+            "source": "female",
+            "target": "realistic",
+            "value": 10
+        },
+        {
+            "source": "girls",
+            "target": "realistic",
+            "value": 15
+        },
+        {
+            "source": "actress",
+            "target": "beautiful",
+            "value": 3
+        },
+        {
+            "source": "base model",
+            "target": "female",
+            "value": 2
+        },
+        {
+            "source": "basemodel",
+            "target": "female",
+            "value": 1
+        },
+        {
+            "source": "basemodel",
+            "target": "asian",
+            "value": 1
+        },
+        {
+            "source": "korean clothes",
+            "target": "hanbok",
+            "value": 5
+        },
+        {
+            "source": "character",
+            "target": "realistic",
+            "value": 7
+        },
+        {
+            "source": "photorealistic",
+            "target": "chinese",
+            "value": 1
+        },
+        {
+            "source": "asian",
+            "target": "chinese",
+            "value": 3
+        },
+        {
+            "source": "realistic",
+            "target": "chinese",
+            "value": 1
+        },
+        {
+            "source": "kpop idol",
+            "target": "chinese",
+            "value": 1
+        },
+        {
+            "source": "female",
+            "target": "youtuber",
+            "value": 1
+        },
+        {
+            "source": "kpop",
+            "target": "youtuber",
+            "value": 1
+        },
+        {
+            "source": "woman",
+            "target": "youtuber",
+            "value": 1
+        },
+        {
+            "source": "youtuber",
+            "target": "celebrity",
+            "value": 4
+        },
+        {
+            "source": "girls",
+            "target": "youtuber",
+            "value": 2
+        },
+        {
+            "source": "youtuber",
+            "target": "korean",
+            "value": 3
+        },
+        {
+            "source": "female",
+            "target": "actress",
+            "value": 12
+        },
+        {
+            "source": "photorealistic",
+            "target": "actress",
+            "value": 20
+        },
+        {
+            "source": "actress",
+            "target": "asian",
+            "value": 24
+        },
+        {
+            "source": "woman",
+            "target": "actress",
+            "value": 36
+        },
+        {
+            "source": "korean clothes",
+            "target": "clothing",
+            "value": 2
+        },
+        {
+            "source": "korean clothes",
+            "target": "korean",
+            "value": 1
+        },
+        {
+            "source": "character",
+            "target": "chinese",
+            "value": 2
+        },
+        {
+            "source": "character",
+            "target": "japanese",
+            "value": 2
+        },
+        {
+            "source": "character",
+            "target": "women",
+            "value": 2
+        },
+        {
+            "source": "girl",
+            "target": "chinese",
+            "value": 1
+        },
+        {
+            "source": "girl",
+            "target": "japanese",
+            "value": 1
+        },
+        {
+            "source": "women",
+            "target": "girl",
+            "value": 1
+        },
+        {
+            "source": "women",
+            "target": "chinese",
+            "value": 1
+        },
+        {
+            "source": "women",
+            "target": "japanese",
+            "value": 1
+        },
+        {
+            "source": "k-pop idol",
+            "target": "singer",
+            "value": 1
+        },
+        {
+            "source": "k-pop idol",
+            "target": "actress",
+            "value": 1
+        },
+        {
+            "source": "k-pop idol",
+            "target": "celebrity",
+            "value": 4
+        },
+        {
+            "source": "k-pop idol",
+            "target": "korean",
+            "value": 4
+        },
+        {
+            "source": "character",
+            "target": "female",
+            "value": 4
+        },
+        {
+            "source": "character",
+            "target": "model",
+            "value": 1
+        },
+        {
+            "source": "female",
+            "target": "model",
+            "value": 2
+        },
+        {
+            "source": "singer",
+            "target": "celeb",
+            "value": 16
+        },
+        {
+            "source": "asian",
+            "target": "celeb",
+            "value": 27
+        },
+        {
+            "source": "kpop",
+            "target": "celeb",
+            "value": 36
+        },
+        {
+            "source": "celebrity",
+            "target": "celeb",
+            "value": 40
+        },
+        {
+            "source": "celeb",
+            "target": "korean",
+            "value": 40
+        },
+        {
+            "source": "photorealistic",
+            "target": "model",
+            "value": 3
+        },
+        {
+            "source": "instagram",
+            "target": "photorealistic",
+            "value": 3
+        },
+        {
+            "source": "photorealistic",
+            "target": "youtube",
+            "value": 1
+        },
+        {
+            "source": "instagram",
+            "target": "model",
+            "value": 4
+        },
+        {
+            "source": "woman",
+            "target": "model",
+            "value": 10
+        },
+        {
+            "source": "model",
+            "target": "celebrity",
+            "value": 16
+        },
+        {
+            "source": "model",
+            "target": "youtube",
+            "value": 1
+        },
+        {
+            "source": "instagram",
+            "target": "woman",
+            "value": 7
+        },
+        {
+            "source": "instagram",
+            "target": "celebrity",
+            "value": 11
+        },
+        {
+            "source": "instagram",
+            "target": "youtube",
+            "value": 2
+        },
+        {
+            "source": "woman",
+            "target": "youtube",
+            "value": 4
+        },
+        {
+            "source": "celebrity",
+            "target": "youtube",
+            "value": 3
+        },
+        {
+            "source": "youtube",
+            "target": "korean",
+            "value": 4
+        },
+        {
+            "source": "character",
+            "target": "woman",
+            "value": 19
+        },
+        {
+            "source": "girl",
+            "target": "celeb",
+            "value": 1
+        },
+        {
+            "source": "actress",
+            "target": "realistic",
+            "value": 4
+        },
+        {
+            "source": "fashion",
+            "target": "traditional",
+            "value": 2
+        },
+        {
+            "source": "woman",
+            "target": "fashion",
+            "value": 2
+        },
+        {
+            "source": "clothing",
+            "target": "fashion",
+            "value": 3
+        },
+        {
+            "source": "fashion",
+            "target": "korean",
+            "value": 4
+        },
+        {
+            "source": "fashion",
+            "target": "hanbok",
+            "value": 1
+        },
+        {
+            "source": "clothing",
+            "target": "traditional",
+            "value": 2
+        },
+        {
+            "source": "hanbok",
+            "target": "traditional",
+            "value": 1
+        },
+        {
+            "source": "clothing",
+            "target": "woman",
+            "value": 5
+        },
+        {
+            "source": "woman",
+            "target": "hanbok",
+            "value": 4
+        },
+        {
+            "source": "idol",
+            "target": "kpop",
+            "value": 28
+        },
+        {
+            "source": "idol",
+            "target": "woman",
+            "value": 13
+        },
+        {
+            "source": "female",
+            "target": "beautiful",
+            "value": 1
+        },
+        {
+            "source": "aespa",
+            "target": "girl",
+            "value": 1
+        },
+        {
+            "source": "character",
+            "target": "anime",
+            "value": 7
+        },
+        {
+            "source": "anime",
+            "target": "female",
+            "value": 1
+        },
+        {
+            "source": "cute",
+            "target": "girl",
+            "value": 1
+        },
+        {
+            "source": "athlete",
+            "target": "photorealistic",
+            "value": 1
+        },
+        {
+            "source": "athlete",
+            "target": "female",
+            "value": 1
+        },
+        {
+            "source": "athlete",
+            "target": "woman",
+            "value": 1
+        },
+        {
+            "source": "athlete",
+            "target": "celebrity",
+            "value": 2
+        },
+        {
+            "source": "athlete",
+            "target": "korean",
+            "value": 2
+        },
+        {
+            "source": "athlete",
+            "target": "realistic",
+            "value": 1
+        },
+        {
+            "source": "man",
+            "target": "kpop",
+            "value": 6
+        },
+        {
+            "source": "kpop",
+            "target": "realistic",
+            "value": 14
+        },
+        {
+            "source": "man",
+            "target": "celebrity",
+            "value": 13
+        },
+        {
+            "source": "man",
+            "target": "kpop idol",
+            "value": 1
+        },
+        {
+            "source": "anime",
+            "target": "male",
+            "value": 3
+        },
+        {
+            "source": "character",
+            "target": "manhwa",
+            "value": 4
+        },
+        {
+            "source": "male",
+            "target": "manhwa",
+            "value": 2
+        },
+        {
+            "source": "realism",
+            "target": "photorealistic",
+            "value": 1
+        },
+        {
+            "source": "base model",
+            "target": "photorealistic",
+            "value": 1
+        },
+        {
+            "source": "realism",
+            "target": "female",
+            "value": 1
+        },
+        {
+            "source": "kpop",
+            "target": "korean actress",
+            "value": 3
+        },
+        {
+            "source": "idol",
+            "target": "photorealistic",
+            "value": 4
+        },
+        {
+            "source": "man",
+            "target": "photorealistic",
+            "value": 2
+        },
+        {
+            "source": "idol",
+            "target": "man",
+            "value": 1
+        },
+        {
+            "source": "idol",
+            "target": "realistic",
+            "value": 4
+        },
+        {
+            "source": "instagram",
+            "target": "youtuber",
+            "value": 1
+        },
+        {
+            "source": "instagram",
+            "target": "girls",
+            "value": 2
+        },
+        {
+            "source": "fashion",
+            "target": "women",
+            "value": 1
+        },
+        {
+            "source": "clothing lora",
+            "target": "fashion",
+            "value": 1
+        },
+        {
+            "source": "women",
+            "target": "traditional",
+            "value": 1
+        },
+        {
+            "source": "clothing lora",
+            "target": "traditional",
+            "value": 1
+        },
+        {
+            "source": "clothing",
+            "target": "women",
+            "value": 1
+        },
+        {
+            "source": "clothing lora",
+            "target": "clothing",
+            "value": 3
+        },
+        {
+            "source": "clothing lora",
+            "target": "korean",
+            "value": 3
+        },
+        {
+            "source": "clothing lora",
+            "target": "women",
+            "value": 1
+        },
+        {
+            "source": "woman",
+            "target": "streamer",
+            "value": 8
+        },
+        {
+            "source": "streamer",
+            "target": "celebrity",
+            "value": 9
+        },
+        {
+            "source": "girls",
+            "target": "streamer",
+            "value": 2
+        },
+        {
+            "source": "streamer",
+            "target": "korean",
+            "value": 10
+        },
+        {
+            "source": "idol",
+            "target": "twitch",
+            "value": 1
+        },
+        {
+            "source": "twitch",
+            "target": "woman",
+            "value": 5
+        },
+        {
+            "source": "twitch",
+            "target": "celebrity",
+            "value": 6
+        },
+        {
+            "source": "twitch",
+            "target": "korean",
+            "value": 7
+        },
+        {
+            "source": "idol",
+            "target": "lora",
+            "value": 6
+        },
+        {
+            "source": "celebrity",
+            "target": "lora",
+            "value": 10
+        },
+        {
+            "source": "instagram",
+            "target": "asian",
+            "value": 6
+        },
+        {
+            "source": "actress",
+            "target": "kpop",
+            "value": 36
+        },
+        {
+            "source": "dancer",
+            "target": "asian",
+            "value": 2
+        },
+        {
+            "source": "dancer",
+            "target": "kpop",
+            "value": 4
+        },
+        {
+            "source": "dancer",
+            "target": "woman",
+            "value": 4
+        },
+        {
+            "source": "dancer",
+            "target": "celebrity",
+            "value": 5
+        },
+        {
+            "source": "dancer",
+            "target": "korean",
+            "value": 4
+        },
+        {
+            "source": "dancer",
+            "target": "realistic",
+            "value": 1
+        },
+        {
+            "source": "aespa",
+            "target": "singer",
+            "value": 1
+        },
+        {
+            "source": "aespa",
+            "target": "asian",
+            "value": 1
+        },
+        {
+            "source": "female",
+            "target": "lora",
+            "value": 1
+        },
+        {
+            "source": "model",
+            "target": "lora",
+            "value": 1
+        },
+        {
+            "source": "woman",
+            "target": "korean woman",
+            "value": 4
+        },
+        {
+            "source": "actress",
+            "target": "korean woman",
+            "value": 1
+        },
+        {
+            "source": "clothing",
+            "target": "uniform",
+            "value": 1
+        },
+        {
+            "source": "uniform",
+            "target": "korean",
+            "value": 2
+        },
+        {
+            "source": "hanbok",
+            "target": "uniform",
+            "value": 1
+        },
+        {
+            "source": "clothing lora",
+            "target": "uniform",
+            "value": 1
+        },
+        {
+            "source": "clothing lora",
+            "target": "hanbok",
+            "value": 1
+        },
+        {
+            "source": "cute",
+            "target": "beautiful",
+            "value": 1
+        },
+        {
+            "source": "celebrity,",
+            "target": "kpop",
+            "value": 17
+        },
+        {
+            "source": "actress",
+            "target": "celeb",
+            "value": 18
+        },
+        {
+            "source": "celebrity,",
+            "target": "actress",
+            "value": 10
+        },
+        {
+            "source": "celebrity,",
+            "target": "celeb",
+            "value": 11
+        },
+        {
+            "source": "celebrity,",
+            "target": "celebrity",
+            "value": 24
+        },
+        {
+            "source": "celebrity,",
+            "target": "korean",
+            "value": 23
+        },
+        {
+            "source": "model",
+            "target": "streamer",
+            "value": 1
+        },
+        {
+            "source": "idol",
+            "target": "kpop idol",
+            "value": 2
+        },
+        {
+            "source": "cute",
+            "target": "anime",
+            "value": 1
+        },
+        {
+            "source": "cute",
+            "target": "style",
+            "value": 1
+        },
+        {
+            "source": "woman",
+            "target": "male",
+            "value": 1
+        },
+        {
+            "source": "anime",
+            "target": "girl",
+            "value": 1
+        },
+        {
+            "source": "animation",
+            "target": "anime",
+            "value": 1
+        },
+        {
+            "source": "anime",
+            "target": "korean woman",
+            "value": 1
+        },
+        {
+            "source": "animation",
+            "target": "girl",
+            "value": 1
+        },
+        {
+            "source": "animation",
+            "target": "korean woman",
+            "value": 1
+        },
+        {
+            "source": "animation",
+            "target": "woman",
+            "value": 2
+        },
+        {
+            "source": "photorealistic",
+            "target": "streamer",
+            "value": 3
+        },
+        {
+            "source": "korea",
+            "target": "singer",
+            "value": 4
+        },
+        {
+            "source": "korea",
+            "target": "asian",
+            "value": 6
+        },
+        {
+            "source": "korea",
+            "target": "kpop",
+            "value": 8
+        },
+        {
+            "source": "korea",
+            "target": "celeb",
+            "value": 7
+        },
+        {
+            "source": "korea",
+            "target": "celebrity",
+            "value": 8
+        },
+        {
+            "source": "female",
+            "target": "koreangirl",
+            "value": 1
+        },
+        {
+            "source": "realistic",
+            "target": "koreangirl",
+            "value": 1
+        },
+        {
+            "source": "actress",
+            "target": "girls",
+            "value": 2
+        },
+        {
+            "source": "twitch",
+            "target": "instagram",
+            "value": 2
+        },
+        {
+            "source": "character",
+            "target": "girls",
+            "value": 9
+        },
+        {
+            "source": "character",
+            "target": "koreangirl",
+            "value": 3
+        },
+        {
+            "source": "aespa",
+            "target": "kpop idol",
+            "value": 1
+        },
+        {
+            "source": "woman",
+            "target": "singer",
+            "value": 8
+        },
+        {
+            "source": "realistic",
+            "target": "singer",
+            "value": 1
+        },
+        {
+            "source": "real person",
+            "target": "singer",
+            "value": 2
+        },
+        {
+            "source": "real person",
+            "target": "kpop",
+            "value": 3
+        },
+        {
+            "source": "real person",
+            "target": "woman",
+            "value": 1
+        },
+        {
+            "source": "dancer",
+            "target": "singer",
+            "value": 3
+        },
+        {
+            "source": "gidle",
+            "target": "singer",
+            "value": 2
+        },
+        {
+            "source": "kpop",
+            "target": "gidle",
+            "value": 5
+        },
+        {
+            "source": "dancer",
+            "target": "gidle",
+            "value": 2
+        },
+        {
+            "source": "woman",
+            "target": "gidle",
+            "value": 2
+        },
+        {
+            "source": "gidle",
+            "target": "celebrity",
+            "value": 5
+        },
+        {
+            "source": "gidle",
+            "target": "korean",
+            "value": 5
+        },
+        {
+            "source": "actress",
+            "target": "korean girl",
+            "value": 3
+        },
+        {
+            "source": "celebrity,",
+            "target": "korean girl",
+            "value": 2
+        },
+        {
+            "source": "webtoon",
+            "target": "manhwa",
+            "value": 5
+        },
+        {
+            "source": "webtoon",
+            "target": "style",
+            "value": 6
+        },
+        {
+            "source": "webtoon",
+            "target": "korean",
+            "value": 5
+        },
+        {
+            "source": "celebrity,",
+            "target": "singer",
+            "value": 3
+        },
+        {
+            "source": "photorealistic",
+            "target": "male",
+            "value": 1
+        },
+        {
+            "source": "kpop",
+            "target": "male",
+            "value": 1
+        },
+        {
+            "source": "celebrity",
+            "target": "male",
+            "value": 3
+        },
+        {
+            "source": "itzy",
+            "target": "kpop",
+            "value": 7
+        },
+        {
+            "source": "idol",
+            "target": "itzy",
+            "value": 4
+        },
+        {
+            "source": "itzy",
+            "target": "celebrity",
+            "value": 7
+        },
+        {
+            "source": "itzy",
+            "target": "korean",
+            "value": 7
+        },
+        {
+            "source": "itzy",
+            "target": "lora",
+            "value": 2
+        },
+        {
+            "source": "anime",
+            "target": "photorealistic",
+            "value": 2
+        },
+        {
+            "source": "anime",
+            "target": "koreangirl",
+            "value": 1
+        },
+        {
+            "source": "real person",
+            "target": "kpop idol",
+            "value": 1
+        },
+        {
+            "source": "dancer",
+            "target": "actress",
+            "value": 1
+        },
+        {
+            "source": "actress",
+            "target": "kpop idol",
+            "value": 3
+        },
+        {
+            "source": "character",
+            "target": "kpop",
+            "value": 6
+        },
+        {
+            "source": "character",
+            "target": "idol",
+            "value": 1
+        },
+        {
+            "source": "character",
+            "target": "kpop idol",
+            "value": 1
+        },
+        {
+            "source": "fashion",
+            "target": "japanese",
+            "value": 1
+        },
+        {
+            "source": "man",
+            "target": "fashion",
+            "value": 1
+        },
+        {
+            "source": "clothing",
+            "target": "japanese",
+            "value": 1
+        },
+        {
+            "source": "clothing",
+            "target": "man",
+            "value": 1
+        },
+        {
+            "source": "man",
+            "target": "japanese",
+            "value": 1
+        },
+        {
+            "source": "cosplay",
+            "target": "korean",
+            "value": 2
+        },
+        {
+            "source": "twitch",
+            "target": "photorealistic",
+            "value": 1
+        },
+        {
+            "source": "twitch",
+            "target": "female",
+            "value": 1
+        },
+        {
+            "source": "twitch",
+            "target": "girls",
+            "value": 2
+        },
+        {
+            "source": "fashion",
+            "target": "photorealistic",
+            "value": 1
+        },
+        {
+            "source": "fashion",
+            "target": "girls",
+            "value": 1
+        },
+        {
+            "source": "fashion",
+            "target": "realistic",
+            "value": 1
+        },
+        {
+            "source": "ive",
+            "target": "asian",
+            "value": 1
+        },
+        {
+            "source": "celebrity,",
+            "target": "asian",
+            "value": 10
+        },
+        {
+            "source": "ive",
+            "target": "kpop",
+            "value": 2
+        },
+        {
+            "source": "ive",
+            "target": "celebrity",
+            "value": 1
+        },
+        {
+            "source": "ive",
+            "target": "korean",
+            "value": 2
+        },
+        {
+            "source": "celebrity,",
+            "target": "ive",
+            "value": 1
+        },
+        {
+            "source": "idol",
+            "target": "singer",
+            "value": 1
+        },
+        {
+            "source": "kpop",
+            "target": "chinese",
+            "value": 2
+        },
+        {
+            "source": "aespa",
+            "target": "chinese",
+            "value": 2
+        },
+        {
+            "source": "idol",
+            "target": "aespa",
+            "value": 2
+        },
+        {
+            "source": "cute",
+            "target": "realistic",
+            "value": 1
+        },
+        {
+            "source": "clothing",
+            "target": "korea",
+            "value": 2
+        },
+        {
+            "source": "korea",
+            "target": "hanbok",
+            "value": 2
+        },
+        {
+            "source": "actor",
+            "target": "korean",
+            "value": 7
+        },
+        {
+            "source": "sexy",
+            "target": "female",
+            "value": 3
+        },
+        {
+            "source": "anime",
+            "target": "fantasy",
+            "value": 1
+        },
+        {
+            "source": "fantasy",
+            "target": "manhwa",
+            "value": 1
+        },
+        {
+            "source": "girls",
+            "target": "manhwa",
+            "value": 2
+        },
+        {
+            "source": "fantasy",
+            "target": "style",
+            "value": 1
+        },
+        {
+            "source": "girls",
+            "target": "fantasy",
+            "value": 1
+        },
+        {
+            "source": "fantasy",
+            "target": "korean",
+            "value": 1
+        },
+        {
+            "source": "idol",
+            "target": "asian",
+            "value": 8
+        },
+        {
+            "source": "idol",
+            "target": "girls",
+            "value": 3
+        },
+        {
+            "source": "itzy",
+            "target": "woman",
+            "value": 1
+        },
+        {
+            "source": "itzy",
+            "target": "girls",
+            "value": 1
+        },
+        {
+            "source": "celebrity,",
+            "target": "woman",
+            "value": 3
+        },
+        {
+            "source": "anime",
+            "target": "celebrity",
+            "value": 1
+        },
+        {
+            "source": "korean clothes",
+            "target": "anime",
+            "value": 2
+        },
+        {
+            "source": "anime",
+            "target": "hanbok",
+            "value": 3
+        },
+        {
+            "source": "character",
+            "target": "korean clothes",
+            "value": 2
+        },
+        {
+            "source": "character",
+            "target": "hanbok",
+            "value": 1
+        },
+        {
+            "source": "korean clothes",
+            "target": "girls",
+            "value": 1
+        },
+        {
+            "source": "girls",
+            "target": "hanbok",
+            "value": 1
+        },
+        {
+            "source": "twitch",
+            "target": "asian",
+            "value": 2
+        },
+        {
+            "source": "itzy",
+            "target": "asian",
+            "value": 4
+        },
+        {
+            "source": "celebrity,",
+            "target": "itzy",
+            "value": 2
+        },
+        {
+            "source": "kpop",
+            "target": "blackpink",
+            "value": 3
+        },
+        {
+            "source": "blackpink",
+            "target": "celeb",
+            "value": 1
+        },
+        {
+            "source": "celebrity",
+            "target": "blackpink",
+            "value": 3
+        },
+        {
+            "source": "blackpink",
+            "target": "korean",
+            "value": 3
+        },
+        {
+            "source": "celebrity,",
+            "target": "blackpink",
+            "value": 2
+        },
+        {
+            "source": "man",
+            "target": "singer",
+            "value": 2
+        },
+        {
+            "source": "real person",
+            "target": "man",
+            "value": 1
+        },
+        {
+            "source": "gidle",
+            "target": "asian",
+            "value": 3
+        },
+        {
+            "source": "gidle",
+            "target": "celeb",
+            "value": 3
+        },
+        {
+            "source": "celebrity,",
+            "target": "gidle",
+            "value": 1
+        },
+        {
+            "source": "asian",
+            "target": "youtube",
+            "value": 2
+        },
+        {
+            "source": "youtuber",
+            "target": "asian",
+            "value": 1
+        },
+        {
+            "source": "dancer",
+            "target": "youtuber",
+            "value": 1
+        },
+        {
+            "source": "korean girl",
+            "target": "youtuber",
+            "value": 1
+        },
+        {
+            "source": "dancer",
+            "target": "korean girl",
+            "value": 1
+        },
+        {
+            "source": "anime",
+            "target": "webtoon",
+            "value": 1
+        },
+        {
+            "source": "momoland",
+            "target": "asian",
+            "value": 2
+        },
+        {
+            "source": "momoland",
+            "target": "kpop",
+            "value": 3
+        },
+        {
+            "source": "momoland",
+            "target": "actress",
+            "value": 1
+        },
+        {
+            "source": "momoland",
+            "target": "celebrity",
+            "value": 3
+        },
+        {
+            "source": "momoland",
+            "target": "korean",
+            "value": 3
+        },
+        {
+            "source": "athlete",
+            "target": "male",
+            "value": 1
+        },
+        {
+            "source": "athlete",
+            "target": "man",
+            "value": 1
+        },
+        {
+            "source": "female",
+            "target": "women",
+            "value": 1
+        },
+        {
+            "source": "cute",
+            "target": "youtube",
+            "value": 1
+        },
+        {
+            "source": "realism",
+            "target": "girl",
+            "value": 1
+        },
+        {
+            "source": "girl",
+            "target": "photography",
+            "value": 1
+        },
+        {
+            "source": "realism",
+            "target": "woman",
+            "value": 2
+        },
+        {
+            "source": "realism",
+            "target": "celebrity",
+            "value": 2
+        },
+        {
+            "source": "realism",
+            "target": "photography",
+            "value": 2
+        },
+        {
+            "source": "woman",
+            "target": "photography",
+            "value": 4
+        },
+        {
+            "source": "celebrity",
+            "target": "photography",
+            "value": 6
+        },
+        {
+            "source": "photography",
+            "target": "korean",
+            "value": 2
+        },
+        {
+            "source": "woman",
+            "target": "cosplay",
+            "value": 1
+        },
+        {
+            "source": "twice",
+            "target": "asian",
+            "value": 6
+        },
+        {
+            "source": "twice",
+            "target": "celeb",
+            "value": 2
+        },
+        {
+            "source": "clothing",
+            "target": "anime",
+            "value": 2
+        },
+        {
+            "source": "korean clothes",
+            "target": "woman",
+            "value": 1
+        },
+        {
+            "source": "celebrity",
+            "target": "actor",
+            "value": 6
+        },
+        {
+            "source": "man",
+            "target": "actor",
+            "value": 5
+        },
+        {
+            "source": "celebrity,",
+            "target": "actor",
+            "value": 2
+        },
+        {
+            "source": "celebrity,",
+            "target": "man",
+            "value": 2
+        },
+        {
+            "source": "sexy",
+            "target": "kpop",
+            "value": 3
+        },
+        {
+            "source": "blackpink",
+            "target": "asian",
+            "value": 1
+        },
+        {
+            "source": "k-pop idol",
+            "target": "photorealistic",
+            "value": 3
+        },
+        {
+            "source": "k-pop idol",
+            "target": "woman",
+            "value": 3
+        },
+        {
+            "source": "k-pop idol",
+            "target": "girls",
+            "value": 2
+        },
+        {
+            "source": "k-pop idol",
+            "target": "realistic",
+            "value": 2
+        },
+        {
+            "source": "realism",
+            "target": "actress",
+            "value": 1
+        },
+        {
+            "source": "actress",
+            "target": "photography",
+            "value": 5
+        },
+        {
+            "source": "singer",
+            "target": "blackpink",
+            "value": 1
+        },
+        {
+            "source": "woman",
+            "target": "blackpink",
+            "value": 1
+        },
+        {
+            "source": "twice",
+            "target": "singer",
+            "value": 2
+        },
+        {
+            "source": "sexy",
+            "target": "manhwa",
+            "value": 1
+        },
+        {
+            "source": "woman",
+            "target": "manhwa",
+            "value": 2
+        },
+        {
+            "source": "streamer",
+            "target": "asian",
+            "value": 1
+        },
+        {
+            "source": "twitch",
+            "target": "streamer",
+            "value": 3
+        },
+        {
+            "source": "twice",
+            "target": "celebrity,",
+            "value": 2
+        },
+        {
+            "source": "momoland",
+            "target": "celeb",
+            "value": 1
+        },
+        {
+            "source": "actress",
+            "target": "korea",
+            "value": 4
+        },
+        {
+            "source": "celebrity,",
+            "target": "korea",
+            "value": 1
+        },
+        {
+            "source": "model",
+            "target": "girls",
+            "value": 1
+        },
+        {
+            "source": "anime",
+            "target": "asian",
+            "value": 1
+        },
+        {
+            "source": "anime",
+            "target": "korea",
+            "value": 1
+        },
+        {
+            "source": "hanbok",
+            "target": "asian",
+            "value": 1
+        },
+        {
+            "source": "woman",
+            "target": "korea",
+            "value": 1
+        },
+        {
+            "source": "k-pop idol",
+            "target": "asian",
+            "value": 1
+        },
+        {
+            "source": "k-pop idol",
+            "target": "kpop",
+            "value": 1
+        },
+        {
+            "source": "idol",
+            "target": "actress",
+            "value": 2
+        },
+        {
+            "source": "character",
+            "target": "ive",
+            "value": 1
+        },
+        {
+            "source": "ive",
+            "target": "girls",
+            "value": 1
+        },
+        {
+            "source": "kpop",
+            "target": "japanese",
+            "value": 1
+        },
+        {
+            "source": "celeb",
+            "target": "japanese",
+            "value": 1
+        },
+        {
+            "source": "aespa",
+            "target": "celeb",
+            "value": 1
+        },
+        {
+            "source": "aespa",
+            "target": "japanese",
+            "value": 1
+        },
+        {
+            "source": "kdrama",
+            "target": "kpop",
+            "value": 3
+        },
+        {
+            "source": "kdrama",
+            "target": "woman",
+            "value": 3
+        },
+        {
+            "source": "kdrama",
+            "target": "actress",
+            "value": 3
+        },
+        {
+            "source": "kdrama",
+            "target": "celebrity",
+            "value": 4
+        },
+        {
+            "source": "kdrama",
+            "target": "korean",
+            "value": 4
+        },
+        {
+            "source": "kdrama",
+            "target": "celebrity,",
+            "value": 1
+        },
+        {
+            "source": "idol",
+            "target": "women",
+            "value": 2
+        },
+        {
+            "source": "women",
+            "target": "celebrity",
+            "value": 2
+        },
+        {
+            "source": "women",
+            "target": "girls",
+            "value": 2
+        },
+        {
+            "source": "woman",
+            "target": "korean actress",
+            "value": 3
+        },
+        {
+            "source": "actress",
+            "target": "korean actress",
+            "value": 5
+        },
+        {
+            "source": "korean actress",
+            "target": "photography",
+            "value": 4
+        },
+        {
+            "source": "model",
+            "target": "actress",
+            "value": 5
+        },
+        {
+            "source": "model",
+            "target": "realistic",
+            "value": 1
+        },
+        {
+            "source": "model",
+            "target": "korean actress",
+            "value": 4
+        },
+        {
+            "source": "korean actress",
+            "target": "korean",
+            "value": 2
+        },
+        {
+            "source": "realistic",
+            "target": "korean actress",
+            "value": 1
+        },
+        {
+            "source": "model",
+            "target": "photography",
+            "value": 3
+        },
+        {
+            "source": "character",
+            "target": "aespa",
+            "value": 1
+        },
+        {
+            "source": "singer",
+            "target": "korean artist",
+            "value": 1
+        },
+        {
+            "source": "kpop",
+            "target": "korean artist",
+            "value": 1
+        },
+        {
+            "source": "model",
+            "target": "korean artist",
+            "value": 1
+        },
+        {
+            "source": "woman",
+            "target": "korean artist",
+            "value": 1
+        },
+        {
+            "source": "actress",
+            "target": "korean artist",
+            "value": 1
+        },
+        {
+            "source": "celebrity",
+            "target": "korean artist",
+            "value": 1
+        },
+        {
+            "source": "kdrama",
+            "target": "photorealistic",
+            "value": 1
+        },
+        {
+            "source": "kdrama",
+            "target": "realistic",
+            "value": 2
+        },
+        {
+            "source": "korean artist",
+            "target": "style",
+            "value": 1
+        },
+        {
+            "source": "korean artist",
+            "target": "korean",
+            "value": 1
+        },
+        {
+            "source": "actor",
+            "target": "asian",
+            "value": 1
+        },
+        {
+            "source": "actor",
+            "target": "celeb",
+            "value": 1
+        },
+        {
+            "source": "character",
+            "target": "twice",
+            "value": 1
+        },
+        {
+            "source": "twice",
+            "target": "woman",
+            "value": 1
+        },
+        {
+            "source": "celebrity,",
+            "target": "korean actress",
+            "value": 1
+        },
+        {
+            "source": "character",
+            "target": "lora",
+            "value": 1
+        },
+        {
+            "source": "lora",
+            "target": "asian",
+            "value": 1
+        },
+        {
+            "source": "realistic",
+            "target": "lora",
+            "value": 1
+        },
+        {
+            "source": "kdrama",
+            "target": "asian",
+            "value": 2
+        },
+        {
+            "source": "kdrama",
+            "target": "celeb",
+            "value": 2
+        },
+        {
+            "source": "momoland",
+            "target": "woman",
+            "value": 1
+        },
+        {
+            "source": "momoland",
+            "target": "lora",
+            "value": 1
+        },
+        {
+            "source": "clothing",
+            "target": "girl",
+            "value": 1
+        },
+        {
+            "source": "clothing",
+            "target": "sexy",
+            "value": 1
+        },
+        {
+            "source": "clothing",
+            "target": "kpop",
+            "value": 1
+        },
+        {
+            "source": "sexy",
+            "target": "celeb",
+            "value": 1
+        },
+        {
+            "source": "woman",
+            "target": "celeb",
+            "value": 1
+        },
+        {
+            "source": "sexy",
+            "target": "chinese",
+            "value": 1
+        },
+        {
+            "source": "sexy",
+            "target": "japanese",
+            "value": 1
+        },
+        {
+            "source": "uniform",
+            "target": "style",
+            "value": 1
+        },
+        {
+            "source": "man",
+            "target": "uniform",
+            "value": 1
+        },
+        {
+            "source": "man",
+            "target": "korea",
+            "value": 2
+        },
+        {
+            "source": "joseon",
+            "target": "man",
+            "value": 1
+        },
+        {
+            "source": "korea",
+            "target": "uniform",
+            "value": 1
+        },
+        {
+            "source": "joseon",
+            "target": "uniform",
+            "value": 1
+        },
+        {
+            "source": "joseon",
+            "target": "korea",
+            "value": 1
+        },
+        {
+            "source": "character",
+            "target": "animation",
+            "value": 1
+        },
+        {
+            "source": "character",
+            "target": "youtube",
+            "value": 1
+        },
+        {
+            "source": "animation",
+            "target": "korean",
+            "value": 1
+        },
+        {
+            "source": "animation",
+            "target": "youtube",
+            "value": 1
+        },
+        {
+            "source": "character",
+            "target": "twitch",
+            "value": 1
+        },
+        {
+            "source": "character",
+            "target": "streamer",
+            "value": 1
+        },
+        {
+            "source": "actor",
+            "target": "male",
+            "value": 1
+        },
+        {
+            "source": "streamer",
+            "target": "beautiful",
+            "value": 1
+        },
+        {
+            "source": "character",
+            "target": "beautiful",
+            "value": 1
+        },
+        {
+            "source": "character",
+            "target": "celebrity,",
+            "value": 1
+        },
+        {
+            "source": "celebrity,",
+            "target": "beautiful",
+            "value": 1
+        },
+        {
+            "source": "kdrama",
+            "target": "anime",
+            "value": 1
+        },
+        {
+            "source": "character",
+            "target": "kdrama",
+            "value": 1
+        },
+        {
+            "source": "character",
+            "target": "korea",
+            "value": 1
+        },
+        {
+            "source": "korea",
+            "target": "koreangirl",
+            "value": 1
+        },
+        {
+            "source": "painting",
+            "target": "style",
+            "value": 1
+        },
+        {
+            "source": "painting",
+            "target": "korean",
+            "value": 1
+        }
+    ]
+}

@@ -1,0 +1,2908 @@
+{
+    "nodes": [
+        {
+            "id": "photorealistic",
+            "size": 96
+        },
+        {
+            "id": "female",
+            "size": 88
+        },
+        {
+            "id": "style",
+            "size": 15
+        },
+        {
+            "id": "woman",
+            "size": 300
+        },
+        {
+            "id": "realistic",
+            "size": 28
+        },
+        {
+            "id": "russian",
+            "size": 438
+        },
+        {
+            "id": "anime",
+            "size": 32
+        },
+        {
+            "id": "character",
+            "size": 123
+        },
+        {
+            "id": "alya sometimes hides her feelings in russian",
+            "size": 32
+        },
+        {
+            "id": "\u6642\u3005\u30dc\u30bd\u30c3\u3068\u30ed\u30b7\u30a2\u8a9e\u3067\u30c7\u30ec\u308b\u96a3\u306e\u30a2\u30fc\u30ea\u30e3\u3055\u3093",
+            "size": 7
+        },
+        {
+            "id": "yuki suou",
+            "size": 4
+        },
+        {
+            "id": "alya",
+            "size": 7
+        },
+        {
+            "id": "alisa mikhailovna kujou",
+            "size": 11
+        },
+        {
+            "id": "celebrity",
+            "size": 330
+        },
+        {
+            "id": "blonde",
+            "size": 9
+        },
+        {
+            "id": "american",
+            "size": 3
+        },
+        {
+            "id": "pornstar",
+            "size": 52
+        },
+        {
+            "id": "model",
+            "size": 37
+        },
+        {
+            "id": "instagram",
+            "size": 18
+        },
+        {
+            "id": "instagram model",
+            "size": 8
+        },
+        {
+            "id": "buildings",
+            "size": 4
+        },
+        {
+            "id": "textual inversion",
+            "size": 128
+        },
+        {
+            "id": "influencer",
+            "size": 8
+        },
+        {
+            "id": "girls",
+            "size": 28
+        },
+        {
+            "id": "clothing",
+            "size": 8
+        },
+        {
+            "id": "masha",
+            "size": 4
+        },
+        {
+            "id": "sexy",
+            "size": 25
+        },
+        {
+            "id": "russia",
+            "size": 23
+        },
+        {
+            "id": "military",
+            "size": 5
+        },
+        {
+            "id": "uniform",
+            "size": 5
+        },
+        {
+            "id": "person",
+            "size": 6
+        },
+        {
+            "id": "man",
+            "size": 12
+        },
+        {
+            "id": "old man",
+            "size": 3
+        },
+        {
+            "id": "vehicle",
+            "size": 11
+        },
+        {
+            "id": "singer",
+            "size": 12
+        },
+        {
+            "id": "animation",
+            "size": 2
+        },
+        {
+            "id": "soviet",
+            "size": 3
+        },
+        {
+            "id": "cartoon",
+            "size": 25
+        },
+        {
+            "id": "actress",
+            "size": 10
+        },
+        {
+            "id": "porn",
+            "size": 3
+        },
+        {
+            "id": "lora",
+            "size": 11
+        },
+        {
+            "id": "anime character",
+            "size": 3
+        },
+        {
+            "id": "brunette",
+            "size": 5
+        },
+        {
+            "id": "politician",
+            "size": 5
+        },
+        {
+            "id": "youtuber",
+            "size": 3
+        },
+        {
+            "id": "cute",
+            "size": 8
+        },
+        {
+            "id": "tiktoker",
+            "size": 3
+        },
+        {
+            "id": "traditional",
+            "size": 3
+        },
+        {
+            "id": "church",
+            "size": 2
+        },
+        {
+            "id": "concept",
+            "size": 4
+        },
+        {
+            "id": "alya, who sits next to me, sometimes whispers sweet nothings in russian",
+            "size": 3
+        },
+        {
+            "id": "roshidere",
+            "size": 6
+        },
+        {
+            "id": "vtuber",
+            "size": 9
+        },
+        {
+            "id": "virtual youtuber",
+            "size": 4
+        },
+        {
+            "id": "russian virtual youtuber",
+            "size": 4
+        },
+        {
+            "id": "ru vtuber",
+            "size": 4
+        },
+        {
+            "id": "vtuber character",
+            "size": 4
+        },
+        {
+            "id": "male",
+            "size": 8
+        },
+        {
+            "id": "roshidere, alya-san, who sits besides me and sometimes murmurs affectionately in russian.",
+            "size": 2
+        },
+        {
+            "id": "characters",
+            "size": 5
+        },
+        {
+            "id": "girl",
+            "size": 3
+        },
+        {
+            "id": "glamour model",
+            "size": 5
+        },
+        {
+            "id": "famous",
+            "size": 3
+        },
+        {
+            "id": "adult model",
+            "size": 9
+        },
+        {
+            "id": "metart",
+            "size": 5
+        },
+        {
+            "id": "ussr",
+            "size": 6
+        },
+        {
+            "id": "movie",
+            "size": 2
+        },
+        {
+            "id": "superhero",
+            "size": 2
+        },
+        {
+            "id": "punk",
+            "size": 3
+        },
+        {
+            "id": "musician",
+            "size": 2
+        },
+        {
+            "id": "furry",
+            "size": 18
+        },
+        {
+            "id": "rock",
+            "size": 2
+        },
+        {
+            "id": "russian model",
+            "size": 7
+        },
+        {
+            "id": "hero",
+            "size": 2
+        },
+        {
+            "id": "french",
+            "size": 2
+        },
+        {
+            "id": "streamer",
+            "size": 4
+        },
+        {
+            "id": "men",
+            "size": 3
+        },
+        {
+            "id": "music",
+            "size": 2
+        },
+        {
+            "id": "activist",
+            "size": 2
+        },
+        {
+            "id": "meme",
+            "size": 3
+        },
+        {
+            "id": "car",
+            "size": 5
+        },
+        {
+            "id": "fantasy",
+            "size": 2
+        },
+        {
+            "id": "cartoon character",
+            "size": 4
+        }
+    ],
+    "links": [
+        {
+            "source": "photorealistic",
+            "target": "female",
+            "value": 4
+        },
+        {
+            "source": "photorealistic",
+            "target": "style",
+            "value": 1
+        },
+        {
+            "source": "woman",
+            "target": "photorealistic",
+            "value": 91
+        },
+        {
+            "source": "photorealistic",
+            "target": "realistic",
+            "value": 18
+        },
+        {
+            "source": "russian",
+            "target": "photorealistic",
+            "value": 94
+        },
+        {
+            "source": "female",
+            "target": "style",
+            "value": 1
+        },
+        {
+            "source": "woman",
+            "target": "female",
+            "value": 82
+        },
+        {
+            "source": "female",
+            "target": "realistic",
+            "value": 2
+        },
+        {
+            "source": "russian",
+            "target": "female",
+            "value": 87
+        },
+        {
+            "source": "woman",
+            "target": "style",
+            "value": 2
+        },
+        {
+            "source": "realistic",
+            "target": "style",
+            "value": 1
+        },
+        {
+            "source": "russian",
+            "target": "style",
+            "value": 11
+        },
+        {
+            "source": "woman",
+            "target": "realistic",
+            "value": 28
+        },
+        {
+            "source": "russian",
+            "target": "woman",
+            "value": 283
+        },
+        {
+            "source": "russian",
+            "target": "realistic",
+            "value": 28
+        },
+        {
+            "source": "character",
+            "target": "anime",
+            "value": 31
+        },
+        {
+            "source": "anime",
+            "target": "alya sometimes hides her feelings in russian",
+            "value": 20
+        },
+        {
+            "source": "anime",
+            "target": "\u6642\u3005\u30dc\u30bd\u30c3\u3068\u30ed\u30b7\u30a2\u8a9e\u3067\u30c7\u30ec\u308b\u96a3\u306e\u30a2\u30fc\u30ea\u30e3\u3055\u3093",
+            "value": 6
+        },
+        {
+            "source": "anime",
+            "target": "yuki suou",
+            "value": 3
+        },
+        {
+            "source": "character",
+            "target": "alya sometimes hides her feelings in russian",
+            "value": 32
+        },
+        {
+            "source": "character",
+            "target": "\u6642\u3005\u30dc\u30bd\u30c3\u3068\u30ed\u30b7\u30a2\u8a9e\u3067\u30c7\u30ec\u308b\u96a3\u306e\u30a2\u30fc\u30ea\u30e3\u3055\u3093",
+            "value": 7
+        },
+        {
+            "source": "character",
+            "target": "yuki suou",
+            "value": 4
+        },
+        {
+            "source": "\u6642\u3005\u30dc\u30bd\u30c3\u3068\u30ed\u30b7\u30a2\u8a9e\u3067\u30c7\u30ec\u308b\u96a3\u306e\u30a2\u30fc\u30ea\u30e3\u3055\u3093",
+            "target": "alya sometimes hides her feelings in russian",
+            "value": 7
+        },
+        {
+            "source": "yuki suou",
+            "target": "alya sometimes hides her feelings in russian",
+            "value": 3
+        },
+        {
+            "source": "\u6642\u3005\u30dc\u30bd\u30c3\u3068\u30ed\u30b7\u30a2\u8a9e\u3067\u30c7\u30ec\u308b\u96a3\u306e\u30a2\u30fc\u30ea\u30e3\u3055\u3093",
+            "target": "yuki suou",
+            "value": 1
+        },
+        {
+            "source": "anime",
+            "target": "alya",
+            "value": 5
+        },
+        {
+            "source": "anime",
+            "target": "alisa mikhailovna kujou",
+            "value": 7
+        },
+        {
+            "source": "character",
+            "target": "alya",
+            "value": 7
+        },
+        {
+            "source": "character",
+            "target": "alisa mikhailovna kujou",
+            "value": 11
+        },
+        {
+            "source": "alya",
+            "target": "alya sometimes hides her feelings in russian",
+            "value": 6
+        },
+        {
+            "source": "alya",
+            "target": "alisa mikhailovna kujou",
+            "value": 4
+        },
+        {
+            "source": "\u6642\u3005\u30dc\u30bd\u30c3\u3068\u30ed\u30b7\u30a2\u8a9e\u3067\u30c7\u30ec\u308b\u96a3\u306e\u30a2\u30fc\u30ea\u30e3\u3055\u3093",
+            "target": "alya",
+            "value": 1
+        },
+        {
+            "source": "alisa mikhailovna kujou",
+            "target": "alya sometimes hides her feelings in russian",
+            "value": 9
+        },
+        {
+            "source": "\u6642\u3005\u30dc\u30bd\u30c3\u3068\u30ed\u30b7\u30a2\u8a9e\u3067\u30c7\u30ec\u308b\u96a3\u306e\u30a2\u30fc\u30ea\u30e3\u3055\u3093",
+            "target": "alisa mikhailovna kujou",
+            "value": 2
+        },
+        {
+            "source": "woman",
+            "target": "celebrity",
+            "value": 272
+        },
+        {
+            "source": "russian",
+            "target": "celebrity",
+            "value": 324
+        },
+        {
+            "source": "american",
+            "target": "blonde",
+            "value": 1
+        },
+        {
+            "source": "blonde",
+            "target": "celebrity",
+            "value": 8
+        },
+        {
+            "source": "pornstar",
+            "target": "blonde",
+            "value": 5
+        },
+        {
+            "source": "russian",
+            "target": "blonde",
+            "value": 9
+        },
+        {
+            "source": "american",
+            "target": "celebrity",
+            "value": 3
+        },
+        {
+            "source": "pornstar",
+            "target": "american",
+            "value": 1
+        },
+        {
+            "source": "russian",
+            "target": "american",
+            "value": 2
+        },
+        {
+            "source": "pornstar",
+            "target": "celebrity",
+            "value": 50
+        },
+        {
+            "source": "pornstar",
+            "target": "russian",
+            "value": 52
+        },
+        {
+            "source": "instagram",
+            "target": "model",
+            "value": 6
+        },
+        {
+            "source": "woman",
+            "target": "model",
+            "value": 25
+        },
+        {
+            "source": "model",
+            "target": "celebrity",
+            "value": 36
+        },
+        {
+            "source": "model",
+            "target": "instagram model",
+            "value": 3
+        },
+        {
+            "source": "russian",
+            "target": "model",
+            "value": 36
+        },
+        {
+            "source": "instagram",
+            "target": "woman",
+            "value": 8
+        },
+        {
+            "source": "instagram",
+            "target": "celebrity",
+            "value": 18
+        },
+        {
+            "source": "instagram",
+            "target": "instagram model",
+            "value": 6
+        },
+        {
+            "source": "russian",
+            "target": "instagram",
+            "value": 16
+        },
+        {
+            "source": "woman",
+            "target": "instagram model",
+            "value": 4
+        },
+        {
+            "source": "celebrity",
+            "target": "instagram model",
+            "value": 8
+        },
+        {
+            "source": "russian",
+            "target": "instagram model",
+            "value": 8
+        },
+        {
+            "source": "russian",
+            "target": "buildings",
+            "value": 4
+        },
+        {
+            "source": "female",
+            "target": "textual inversion",
+            "value": 77
+        },
+        {
+            "source": "female",
+            "target": "celebrity",
+            "value": 83
+        },
+        {
+            "source": "female",
+            "target": "influencer",
+            "value": 1
+        },
+        {
+            "source": "woman",
+            "target": "textual inversion",
+            "value": 126
+        },
+        {
+            "source": "textual inversion",
+            "target": "celebrity",
+            "value": 128
+        },
+        {
+            "source": "russian",
+            "target": "textual inversion",
+            "value": 128
+        },
+        {
+            "source": "textual inversion",
+            "target": "influencer",
+            "value": 1
+        },
+        {
+            "source": "woman",
+            "target": "influencer",
+            "value": 6
+        },
+        {
+            "source": "celebrity",
+            "target": "influencer",
+            "value": 8
+        },
+        {
+            "source": "russian",
+            "target": "influencer",
+            "value": 7
+        },
+        {
+            "source": "photorealistic",
+            "target": "celebrity",
+            "value": 91
+        },
+        {
+            "source": "photorealistic",
+            "target": "girls",
+            "value": 11
+        },
+        {
+            "source": "woman",
+            "target": "girls",
+            "value": 19
+        },
+        {
+            "source": "girls",
+            "target": "celebrity",
+            "value": 12
+        },
+        {
+            "source": "russian",
+            "target": "girls",
+            "value": 19
+        },
+        {
+            "source": "russian",
+            "target": "clothing",
+            "value": 8
+        },
+        {
+            "source": "pornstar",
+            "target": "female",
+            "value": 11
+        },
+        {
+            "source": "pornstar",
+            "target": "textual inversion",
+            "value": 17
+        },
+        {
+            "source": "pornstar",
+            "target": "woman",
+            "value": 46
+        },
+        {
+            "source": "female",
+            "target": "model",
+            "value": 9
+        },
+        {
+            "source": "model",
+            "target": "textual inversion",
+            "value": 10
+        },
+        {
+            "source": "masha",
+            "target": "anime",
+            "value": 2
+        },
+        {
+            "source": "character",
+            "target": "masha",
+            "value": 4
+        },
+        {
+            "source": "masha",
+            "target": "alya sometimes hides her feelings in russian",
+            "value": 4
+        },
+        {
+            "source": "masha",
+            "target": "\u6642\u3005\u30dc\u30bd\u30c3\u3068\u30ed\u30b7\u30a2\u8a9e\u3067\u30c7\u30ec\u308b\u96a3\u306e\u30a2\u30fc\u30ea\u30e3\u3055\u3093",
+            "value": 1
+        },
+        {
+            "source": "sexy",
+            "target": "female",
+            "value": 2
+        },
+        {
+            "source": "sexy",
+            "target": "textual inversion",
+            "value": 1
+        },
+        {
+            "source": "sexy",
+            "target": "woman",
+            "value": 23
+        },
+        {
+            "source": "sexy",
+            "target": "celebrity",
+            "value": 23
+        },
+        {
+            "source": "russian",
+            "target": "sexy",
+            "value": 23
+        },
+        {
+            "source": "instagram",
+            "target": "russia",
+            "value": 1
+        },
+        {
+            "source": "russia",
+            "target": "celebrity",
+            "value": 4
+        },
+        {
+            "source": "russia",
+            "target": "instagram model",
+            "value": 1
+        },
+        {
+            "source": "russian",
+            "target": "russia",
+            "value": 20
+        },
+        {
+            "source": "anime",
+            "target": "woman",
+            "value": 12
+        },
+        {
+            "source": "character",
+            "target": "woman",
+            "value": 25
+        },
+        {
+            "source": "woman",
+            "target": "alya",
+            "value": 2
+        },
+        {
+            "source": "woman",
+            "target": "alya sometimes hides her feelings in russian",
+            "value": 10
+        },
+        {
+            "source": "military",
+            "target": "clothing",
+            "value": 4
+        },
+        {
+            "source": "military",
+            "target": "russian",
+            "value": 5
+        },
+        {
+            "source": "military",
+            "target": "uniform",
+            "value": 4
+        },
+        {
+            "source": "clothing",
+            "target": "uniform",
+            "value": 4
+        },
+        {
+            "source": "russian",
+            "target": "uniform",
+            "value": 5
+        },
+        {
+            "source": "female",
+            "target": "person",
+            "value": 2
+        },
+        {
+            "source": "textual inversion",
+            "target": "person",
+            "value": 2
+        },
+        {
+            "source": "model",
+            "target": "person",
+            "value": 1
+        },
+        {
+            "source": "celebrity",
+            "target": "person",
+            "value": 6
+        },
+        {
+            "source": "russian",
+            "target": "person",
+            "value": 6
+        },
+        {
+            "source": "anime",
+            "target": "girls",
+            "value": 10
+        },
+        {
+            "source": "character",
+            "target": "girls",
+            "value": 14
+        },
+        {
+            "source": "woman",
+            "target": "alisa mikhailovna kujou",
+            "value": 5
+        },
+        {
+            "source": "girls",
+            "target": "alya sometimes hides her feelings in russian",
+            "value": 7
+        },
+        {
+            "source": "girls",
+            "target": "alisa mikhailovna kujou",
+            "value": 3
+        },
+        {
+            "source": "man",
+            "target": "celebrity",
+            "value": 6
+        },
+        {
+            "source": "celebrity",
+            "target": "old man",
+            "value": 3
+        },
+        {
+            "source": "russian",
+            "target": "man",
+            "value": 11
+        },
+        {
+            "source": "man",
+            "target": "old man",
+            "value": 1
+        },
+        {
+            "source": "russian",
+            "target": "old man",
+            "value": 3
+        },
+        {
+            "source": "woman",
+            "target": "singer",
+            "value": 6
+        },
+        {
+            "source": "singer",
+            "target": "celebrity",
+            "value": 12
+        },
+        {
+            "source": "russian",
+            "target": "singer",
+            "value": 12
+        },
+        {
+            "source": "woman",
+            "target": "yuki suou",
+            "value": 2
+        },
+        {
+            "source": "yuki suou",
+            "target": "girls",
+            "value": 1
+        },
+        {
+            "source": "animation",
+            "target": "soviet",
+            "value": 1
+        },
+        {
+            "source": "animation",
+            "target": "style",
+            "value": 1
+        },
+        {
+            "source": "animation",
+            "target": "cartoon",
+            "value": 2
+        },
+        {
+            "source": "animation",
+            "target": "russian",
+            "value": 2
+        },
+        {
+            "source": "soviet",
+            "target": "style",
+            "value": 2
+        },
+        {
+            "source": "cartoon",
+            "target": "soviet",
+            "value": 2
+        },
+        {
+            "source": "russian",
+            "target": "soviet",
+            "value": 3
+        },
+        {
+            "source": "cartoon",
+            "target": "style",
+            "value": 4
+        },
+        {
+            "source": "russian",
+            "target": "cartoon",
+            "value": 25
+        },
+        {
+            "source": "female",
+            "target": "actress",
+            "value": 3
+        },
+        {
+            "source": "actress",
+            "target": "textual inversion",
+            "value": 2
+        },
+        {
+            "source": "woman",
+            "target": "actress",
+            "value": 7
+        },
+        {
+            "source": "actress",
+            "target": "celebrity",
+            "value": 10
+        },
+        {
+            "source": "russian",
+            "target": "actress",
+            "value": 10
+        },
+        {
+            "source": "russian",
+            "target": "vehicle",
+            "value": 9
+        },
+        {
+            "source": "porn",
+            "target": "model",
+            "value": 1
+        },
+        {
+            "source": "porn",
+            "target": "celebrity",
+            "value": 3
+        },
+        {
+            "source": "russian",
+            "target": "porn",
+            "value": 3
+        },
+        {
+            "source": "porn",
+            "target": "lora",
+            "value": 1
+        },
+        {
+            "source": "model",
+            "target": "lora",
+            "value": 1
+        },
+        {
+            "source": "celebrity",
+            "target": "lora",
+            "value": 9
+        },
+        {
+            "source": "russian",
+            "target": "lora",
+            "value": 10
+        },
+        {
+            "source": "model",
+            "target": "actress",
+            "value": 1
+        },
+        {
+            "source": "sexy",
+            "target": "photorealistic",
+            "value": 20
+        },
+        {
+            "source": "photorealistic",
+            "target": "instagram model",
+            "value": 1
+        },
+        {
+            "source": "sexy",
+            "target": "instagram model",
+            "value": 1
+        },
+        {
+            "source": "model",
+            "target": "influencer",
+            "value": 2
+        },
+        {
+            "source": "instagram",
+            "target": "influencer",
+            "value": 2
+        },
+        {
+            "source": "anime",
+            "target": "anime character",
+            "value": 3
+        },
+        {
+            "source": "character",
+            "target": "anime character",
+            "value": 3
+        },
+        {
+            "source": "woman",
+            "target": "anime character",
+            "value": 2
+        },
+        {
+            "source": "girls",
+            "target": "anime character",
+            "value": 2
+        },
+        {
+            "source": "alya sometimes hides her feelings in russian",
+            "target": "anime character",
+            "value": 2
+        },
+        {
+            "source": "pornstar",
+            "target": "photorealistic",
+            "value": 17
+        },
+        {
+            "source": "brunette",
+            "target": "photorealistic",
+            "value": 3
+        },
+        {
+            "source": "brunette",
+            "target": "woman",
+            "value": 5
+        },
+        {
+            "source": "brunette",
+            "target": "celebrity",
+            "value": 4
+        },
+        {
+            "source": "pornstar",
+            "target": "brunette",
+            "value": 2
+        },
+        {
+            "source": "russian",
+            "target": "brunette",
+            "value": 5
+        },
+        {
+            "source": "politician",
+            "target": "celebrity",
+            "value": 5
+        },
+        {
+            "source": "politician",
+            "target": "russian",
+            "value": 5
+        },
+        {
+            "source": "porn",
+            "target": "person",
+            "value": 1
+        },
+        {
+            "source": "female",
+            "target": "porn",
+            "value": 1
+        },
+        {
+            "source": "porn",
+            "target": "textual inversion",
+            "value": 1
+        },
+        {
+            "source": "woman",
+            "target": "blonde",
+            "value": 8
+        },
+        {
+            "source": "blonde",
+            "target": "realistic",
+            "value": 4
+        },
+        {
+            "source": "realistic",
+            "target": "celebrity",
+            "value": 26
+        },
+        {
+            "source": "pornstar",
+            "target": "realistic",
+            "value": 8
+        },
+        {
+            "source": "anime",
+            "target": "female",
+            "value": 1
+        },
+        {
+            "source": "russian",
+            "target": "anime",
+            "value": 9
+        },
+        {
+            "source": "character",
+            "target": "female",
+            "value": 4
+        },
+        {
+            "source": "character",
+            "target": "russian",
+            "value": 77
+        },
+        {
+            "source": "anime",
+            "target": "uniform",
+            "value": 2
+        },
+        {
+            "source": "character",
+            "target": "uniform",
+            "value": 1
+        },
+        {
+            "source": "girls",
+            "target": "uniform",
+            "value": 1
+        },
+        {
+            "source": "military",
+            "target": "russia",
+            "value": 2
+        },
+        {
+            "source": "clothing",
+            "target": "russia",
+            "value": 3
+        },
+        {
+            "source": "russia",
+            "target": "uniform",
+            "value": 2
+        },
+        {
+            "source": "instagram",
+            "target": "youtuber",
+            "value": 1
+        },
+        {
+            "source": "youtuber",
+            "target": "celebrity",
+            "value": 1
+        },
+        {
+            "source": "cute",
+            "target": "youtuber",
+            "value": 1
+        },
+        {
+            "source": "russian",
+            "target": "youtuber",
+            "value": 3
+        },
+        {
+            "source": "tiktoker",
+            "target": "youtuber",
+            "value": 1
+        },
+        {
+            "source": "cute",
+            "target": "instagram",
+            "value": 1
+        },
+        {
+            "source": "tiktoker",
+            "target": "instagram",
+            "value": 2
+        },
+        {
+            "source": "cute",
+            "target": "celebrity",
+            "value": 7
+        },
+        {
+            "source": "tiktoker",
+            "target": "celebrity",
+            "value": 2
+        },
+        {
+            "source": "cute",
+            "target": "russian",
+            "value": 8
+        },
+        {
+            "source": "cute",
+            "target": "tiktoker",
+            "value": 1
+        },
+        {
+            "source": "russian",
+            "target": "tiktoker",
+            "value": 3
+        },
+        {
+            "source": "buildings",
+            "target": "traditional",
+            "value": 3
+        },
+        {
+            "source": "buildings",
+            "target": "church",
+            "value": 1
+        },
+        {
+            "source": "russian",
+            "target": "traditional",
+            "value": 3
+        },
+        {
+            "source": "church",
+            "target": "traditional",
+            "value": 1
+        },
+        {
+            "source": "russian",
+            "target": "church",
+            "value": 2
+        },
+        {
+            "source": "photorealistic",
+            "target": "model",
+            "value": 8
+        },
+        {
+            "source": "girls",
+            "target": "style",
+            "value": 1
+        },
+        {
+            "source": "lora",
+            "target": "style",
+            "value": 1
+        },
+        {
+            "source": "woman",
+            "target": "lora",
+            "value": 10
+        },
+        {
+            "source": "girls",
+            "target": "lora",
+            "value": 2
+        },
+        {
+            "source": "girls",
+            "target": "concept",
+            "value": 1
+        },
+        {
+            "source": "alya, who sits next to me, sometimes whispers sweet nothings in russian",
+            "target": "concept",
+            "value": 1
+        },
+        {
+            "source": "roshidere",
+            "target": "concept",
+            "value": 1
+        },
+        {
+            "source": "alya, who sits next to me, sometimes whispers sweet nothings in russian",
+            "target": "girls",
+            "value": 1
+        },
+        {
+            "source": "roshidere",
+            "target": "girls",
+            "value": 2
+        },
+        {
+            "source": "roshidere",
+            "target": "alya, who sits next to me, sometimes whispers sweet nothings in russian",
+            "value": 2
+        },
+        {
+            "source": "character",
+            "target": "vtuber",
+            "value": 6
+        },
+        {
+            "source": "character",
+            "target": "virtual youtuber",
+            "value": 1
+        },
+        {
+            "source": "character",
+            "target": "russian virtual youtuber",
+            "value": 1
+        },
+        {
+            "source": "character",
+            "target": "ru vtuber",
+            "value": 1
+        },
+        {
+            "source": "character",
+            "target": "vtuber character",
+            "value": 2
+        },
+        {
+            "source": "virtual youtuber",
+            "target": "vtuber",
+            "value": 4
+        },
+        {
+            "source": "vtuber",
+            "target": "russian virtual youtuber",
+            "value": 4
+        },
+        {
+            "source": "vtuber",
+            "target": "ru vtuber",
+            "value": 4
+        },
+        {
+            "source": "vtuber",
+            "target": "vtuber character",
+            "value": 4
+        },
+        {
+            "source": "virtual youtuber",
+            "target": "russian virtual youtuber",
+            "value": 4
+        },
+        {
+            "source": "virtual youtuber",
+            "target": "ru vtuber",
+            "value": 4
+        },
+        {
+            "source": "virtual youtuber",
+            "target": "vtuber character",
+            "value": 3
+        },
+        {
+            "source": "russian virtual youtuber",
+            "target": "ru vtuber",
+            "value": 4
+        },
+        {
+            "source": "russian virtual youtuber",
+            "target": "vtuber character",
+            "value": 3
+        },
+        {
+            "source": "vtuber character",
+            "target": "ru vtuber",
+            "value": 3
+        },
+        {
+            "source": "celebrity",
+            "target": "male",
+            "value": 2
+        },
+        {
+            "source": "church",
+            "target": "celebrity",
+            "value": 1
+        },
+        {
+            "source": "man",
+            "target": "male",
+            "value": 3
+        },
+        {
+            "source": "russian",
+            "target": "male",
+            "value": 7
+        },
+        {
+            "source": "church",
+            "target": "male",
+            "value": 1
+        },
+        {
+            "source": "man",
+            "target": "church",
+            "value": 1
+        },
+        {
+            "source": "roshidere",
+            "target": "anime",
+            "value": 2
+        },
+        {
+            "source": "anime",
+            "target": "roshidere, alya-san, who sits besides me and sometimes murmurs affectionately in russian.",
+            "value": 1
+        },
+        {
+            "source": "character",
+            "target": "roshidere",
+            "value": 5
+        },
+        {
+            "source": "character",
+            "target": "roshidere, alya-san, who sits besides me and sometimes murmurs affectionately in russian.",
+            "value": 2
+        },
+        {
+            "source": "roshidere",
+            "target": "woman",
+            "value": 2
+        },
+        {
+            "source": "woman",
+            "target": "roshidere, alya-san, who sits besides me and sometimes murmurs affectionately in russian.",
+            "value": 1
+        },
+        {
+            "source": "roshidere",
+            "target": "alisa mikhailovna kujou",
+            "value": 2
+        },
+        {
+            "source": "roshidere, alya-san, who sits besides me and sometimes murmurs affectionately in russian.",
+            "target": "alisa mikhailovna kujou",
+            "value": 1
+        },
+        {
+            "source": "roshidere",
+            "target": "roshidere, alya-san, who sits besides me and sometimes murmurs affectionately in russian.",
+            "value": 2
+        },
+        {
+            "source": "anime",
+            "target": "alya, who sits next to me, sometimes whispers sweet nothings in russian",
+            "value": 1
+        },
+        {
+            "source": "character",
+            "target": "alya, who sits next to me, sometimes whispers sweet nothings in russian",
+            "value": 2
+        },
+        {
+            "source": "alya, who sits next to me, sometimes whispers sweet nothings in russian",
+            "target": "alya",
+            "value": 1
+        },
+        {
+            "source": "alya, who sits next to me, sometimes whispers sweet nothings in russian",
+            "target": "alisa mikhailovna kujou",
+            "value": 1
+        },
+        {
+            "source": "sexy",
+            "target": "girls",
+            "value": 9
+        },
+        {
+            "source": "sexy",
+            "target": "realistic",
+            "value": 8
+        },
+        {
+            "source": "girls",
+            "target": "realistic",
+            "value": 8
+        },
+        {
+            "source": "character",
+            "target": "brunette",
+            "value": 1
+        },
+        {
+            "source": "instagram",
+            "target": "photorealistic",
+            "value": 3
+        },
+        {
+            "source": "sexy",
+            "target": "instagram",
+            "value": 3
+        },
+        {
+            "source": "character",
+            "target": "characters",
+            "value": 5
+        },
+        {
+            "source": "alya",
+            "target": "characters",
+            "value": 2
+        },
+        {
+            "source": "characters",
+            "target": "alya sometimes hides her feelings in russian",
+            "value": 2
+        },
+        {
+            "source": "characters",
+            "target": "alisa mikhailovna kujou",
+            "value": 1
+        },
+        {
+            "source": "character",
+            "target": "animation",
+            "value": 1
+        },
+        {
+            "source": "character",
+            "target": "cartoon",
+            "value": 21
+        },
+        {
+            "source": "animation",
+            "target": "woman",
+            "value": 1
+        },
+        {
+            "source": "animation",
+            "target": "girls",
+            "value": 1
+        },
+        {
+            "source": "cartoon",
+            "target": "woman",
+            "value": 1
+        },
+        {
+            "source": "cartoon",
+            "target": "girls",
+            "value": 2
+        },
+        {
+            "source": "masha",
+            "target": "woman",
+            "value": 1
+        },
+        {
+            "source": "character",
+            "target": "girl",
+            "value": 3
+        },
+        {
+            "source": "character",
+            "target": "military",
+            "value": 1
+        },
+        {
+            "source": "character",
+            "target": "cute",
+            "value": 1
+        },
+        {
+            "source": "military",
+            "target": "girl",
+            "value": 1
+        },
+        {
+            "source": "cute",
+            "target": "girl",
+            "value": 1
+        },
+        {
+            "source": "russian",
+            "target": "girl",
+            "value": 3
+        },
+        {
+            "source": "military",
+            "target": "cute",
+            "value": 1
+        },
+        {
+            "source": "woman",
+            "target": "glamour model",
+            "value": 4
+        },
+        {
+            "source": "glamour model",
+            "target": "celebrity",
+            "value": 5
+        },
+        {
+            "source": "russian",
+            "target": "glamour model",
+            "value": 5
+        },
+        {
+            "source": "cartoon",
+            "target": "girl",
+            "value": 1
+        },
+        {
+            "source": "russia",
+            "target": "singer",
+            "value": 1
+        },
+        {
+            "source": "famous",
+            "target": "singer",
+            "value": 3
+        },
+        {
+            "source": "singer",
+            "target": "influencer",
+            "value": 1
+        },
+        {
+            "source": "famous",
+            "target": "russia",
+            "value": 1
+        },
+        {
+            "source": "russia",
+            "target": "influencer",
+            "value": 1
+        },
+        {
+            "source": "famous",
+            "target": "celebrity",
+            "value": 3
+        },
+        {
+            "source": "russian",
+            "target": "famous",
+            "value": 3
+        },
+        {
+            "source": "famous",
+            "target": "influencer",
+            "value": 1
+        },
+        {
+            "source": "adult model",
+            "target": "female",
+            "value": 1
+        },
+        {
+            "source": "female",
+            "target": "metart",
+            "value": 1
+        },
+        {
+            "source": "adult model",
+            "target": "woman",
+            "value": 7
+        },
+        {
+            "source": "woman",
+            "target": "metart",
+            "value": 3
+        },
+        {
+            "source": "adult model",
+            "target": "celebrity",
+            "value": 9
+        },
+        {
+            "source": "celebrity",
+            "target": "metart",
+            "value": 5
+        },
+        {
+            "source": "russian",
+            "target": "adult model",
+            "value": 9
+        },
+        {
+            "source": "russian",
+            "target": "metart",
+            "value": 5
+        },
+        {
+            "source": "adult model",
+            "target": "metart",
+            "value": 4
+        },
+        {
+            "source": "politician",
+            "target": "ussr",
+            "value": 1
+        },
+        {
+            "source": "ussr",
+            "target": "celebrity",
+            "value": 4
+        },
+        {
+            "source": "man",
+            "target": "ussr",
+            "value": 1
+        },
+        {
+            "source": "russian",
+            "target": "ussr",
+            "value": 5
+        },
+        {
+            "source": "politician",
+            "target": "man",
+            "value": 1
+        },
+        {
+            "source": "roshidere",
+            "target": "alya sometimes hides her feelings in russian",
+            "value": 2
+        },
+        {
+            "source": "character",
+            "target": "movie",
+            "value": 2
+        },
+        {
+            "source": "character",
+            "target": "superhero",
+            "value": 2
+        },
+        {
+            "source": "superhero",
+            "target": "movie",
+            "value": 1
+        },
+        {
+            "source": "russian",
+            "target": "movie",
+            "value": 1
+        },
+        {
+            "source": "russian",
+            "target": "superhero",
+            "value": 2
+        },
+        {
+            "source": "girls",
+            "target": "alya",
+            "value": 1
+        },
+        {
+            "source": "yuki suou",
+            "target": "alya, who sits next to me, sometimes whispers sweet nothings in russian",
+            "value": 1
+        },
+        {
+            "source": "roshidere",
+            "target": "yuki suou",
+            "value": 1
+        },
+        {
+            "source": "singer",
+            "target": "punk",
+            "value": 2
+        },
+        {
+            "source": "ussr",
+            "target": "singer",
+            "value": 2
+        },
+        {
+            "source": "musician",
+            "target": "singer",
+            "value": 1
+        },
+        {
+            "source": "ussr",
+            "target": "punk",
+            "value": 1
+        },
+        {
+            "source": "musician",
+            "target": "punk",
+            "value": 2
+        },
+        {
+            "source": "celebrity",
+            "target": "punk",
+            "value": 2
+        },
+        {
+            "source": "russian",
+            "target": "punk",
+            "value": 3
+        },
+        {
+            "source": "famous",
+            "target": "punk",
+            "value": 2
+        },
+        {
+            "source": "musician",
+            "target": "ussr",
+            "value": 1
+        },
+        {
+            "source": "ussr",
+            "target": "famous",
+            "value": 1
+        },
+        {
+            "source": "musician",
+            "target": "celebrity",
+            "value": 1
+        },
+        {
+            "source": "musician",
+            "target": "russian",
+            "value": 2
+        },
+        {
+            "source": "musician",
+            "target": "famous",
+            "value": 1
+        },
+        {
+            "source": "character",
+            "target": "furry",
+            "value": 18
+        },
+        {
+            "source": "furry",
+            "target": "cartoon",
+            "value": 11
+        },
+        {
+            "source": "furry",
+            "target": "russian",
+            "value": 17
+        },
+        {
+            "source": "military",
+            "target": "anime",
+            "value": 1
+        },
+        {
+            "source": "clothing",
+            "target": "anime",
+            "value": 1
+        },
+        {
+            "source": "sexy",
+            "target": "model",
+            "value": 3
+        },
+        {
+            "source": "pornstar",
+            "target": "sexy",
+            "value": 10
+        },
+        {
+            "source": "model",
+            "target": "girls",
+            "value": 3
+        },
+        {
+            "source": "pornstar",
+            "target": "model",
+            "value": 3
+        },
+        {
+            "source": "pornstar",
+            "target": "girls",
+            "value": 1
+        },
+        {
+            "source": "character",
+            "target": "russia",
+            "value": 6
+        },
+        {
+            "source": "ussr",
+            "target": "person",
+            "value": 1
+        },
+        {
+            "source": "old man",
+            "target": "person",
+            "value": 1
+        },
+        {
+            "source": "ussr",
+            "target": "old man",
+            "value": 1
+        },
+        {
+            "source": "russian",
+            "target": "concept",
+            "value": 3
+        },
+        {
+            "source": "character",
+            "target": "photorealistic",
+            "value": 4
+        },
+        {
+            "source": "character",
+            "target": "tiktoker",
+            "value": 1
+        },
+        {
+            "source": "tiktoker",
+            "target": "photorealistic",
+            "value": 1
+        },
+        {
+            "source": "tiktoker",
+            "target": "female",
+            "value": 1
+        },
+        {
+            "source": "singer",
+            "target": "person",
+            "value": 1
+        },
+        {
+            "source": "person",
+            "target": "rock",
+            "value": 1
+        },
+        {
+            "source": "singer",
+            "target": "rock",
+            "value": 1
+        },
+        {
+            "source": "celebrity",
+            "target": "rock",
+            "value": 1
+        },
+        {
+            "source": "russian",
+            "target": "rock",
+            "value": 2
+        },
+        {
+            "source": "russia",
+            "target": "style",
+            "value": 1
+        },
+        {
+            "source": "character",
+            "target": "sexy",
+            "value": 2
+        },
+        {
+            "source": "character",
+            "target": "pornstar",
+            "value": 1
+        },
+        {
+            "source": "politician",
+            "target": "woman",
+            "value": 2
+        },
+        {
+            "source": "model",
+            "target": "realistic",
+            "value": 4
+        },
+        {
+            "source": "adult model",
+            "target": "photorealistic",
+            "value": 2
+        },
+        {
+            "source": "adult model",
+            "target": "realistic",
+            "value": 2
+        },
+        {
+            "source": "photorealistic",
+            "target": "blonde",
+            "value": 3
+        },
+        {
+            "source": "photorealistic",
+            "target": "influencer",
+            "value": 3
+        },
+        {
+            "source": "blonde",
+            "target": "influencer",
+            "value": 1
+        },
+        {
+            "source": "character",
+            "target": "model",
+            "value": 1
+        },
+        {
+            "source": "character",
+            "target": "russian model",
+            "value": 2
+        },
+        {
+            "source": "russian model",
+            "target": "photorealistic",
+            "value": 2
+        },
+        {
+            "source": "sexy",
+            "target": "russian model",
+            "value": 1
+        },
+        {
+            "source": "russian model",
+            "target": "model",
+            "value": 1
+        },
+        {
+            "source": "russian model",
+            "target": "woman",
+            "value": 6
+        },
+        {
+            "source": "cute",
+            "target": "female",
+            "value": 1
+        },
+        {
+            "source": "cute",
+            "target": "woman",
+            "value": 3
+        },
+        {
+            "source": "pornstar",
+            "target": "cute",
+            "value": 1
+        },
+        {
+            "source": "brunette",
+            "target": "influencer",
+            "value": 1
+        },
+        {
+            "source": "russia",
+            "target": "person",
+            "value": 1
+        },
+        {
+            "source": "woman",
+            "target": "person",
+            "value": 2
+        },
+        {
+            "source": "realistic",
+            "target": "person",
+            "value": 2
+        },
+        {
+            "source": "woman",
+            "target": "russia",
+            "value": 1
+        },
+        {
+            "source": "realistic",
+            "target": "russia",
+            "value": 1
+        },
+        {
+            "source": "adult model",
+            "target": "sexy",
+            "value": 1
+        },
+        {
+            "source": "pornstar",
+            "target": "adult model",
+            "value": 1
+        },
+        {
+            "source": "brunette",
+            "target": "realistic",
+            "value": 1
+        },
+        {
+            "source": "glamour model",
+            "target": "realistic",
+            "value": 1
+        },
+        {
+            "source": "brunette",
+            "target": "glamour model",
+            "value": 1
+        },
+        {
+            "source": "cute",
+            "target": "model",
+            "value": 1
+        },
+        {
+            "source": "adult model",
+            "target": "model",
+            "value": 1
+        },
+        {
+            "source": "cute",
+            "target": "adult model",
+            "value": 3
+        },
+        {
+            "source": "tiktoker",
+            "target": "woman",
+            "value": 1
+        },
+        {
+            "source": "hero",
+            "target": "celebrity",
+            "value": 1
+        },
+        {
+            "source": "russian",
+            "target": "hero",
+            "value": 2
+        },
+        {
+            "source": "hero",
+            "target": "old man",
+            "value": 1
+        },
+        {
+            "source": "pornstar",
+            "target": "actress",
+            "value": 2
+        },
+        {
+            "source": "photorealistic",
+            "target": "french",
+            "value": 1
+        },
+        {
+            "source": "sexy",
+            "target": "french",
+            "value": 1
+        },
+        {
+            "source": "instagram",
+            "target": "french",
+            "value": 1
+        },
+        {
+            "source": "french",
+            "target": "celebrity",
+            "value": 1
+        },
+        {
+            "source": "pornstar",
+            "target": "french",
+            "value": 1
+        },
+        {
+            "source": "russian",
+            "target": "french",
+            "value": 2
+        },
+        {
+            "source": "pornstar",
+            "target": "instagram",
+            "value": 1
+        },
+        {
+            "source": "singer",
+            "target": "streamer",
+            "value": 1
+        },
+        {
+            "source": "singer",
+            "target": "male",
+            "value": 1
+        },
+        {
+            "source": "singer",
+            "target": "men",
+            "value": 1
+        },
+        {
+            "source": "streamer",
+            "target": "celebrity",
+            "value": 4
+        },
+        {
+            "source": "streamer",
+            "target": "male",
+            "value": 1
+        },
+        {
+            "source": "streamer",
+            "target": "men",
+            "value": 1
+        },
+        {
+            "source": "russian",
+            "target": "streamer",
+            "value": 4
+        },
+        {
+            "source": "celebrity",
+            "target": "men",
+            "value": 1
+        },
+        {
+            "source": "men",
+            "target": "male",
+            "value": 2
+        },
+        {
+            "source": "russian",
+            "target": "men",
+            "value": 2
+        },
+        {
+            "source": "cute",
+            "target": "metart",
+            "value": 2
+        },
+        {
+            "source": "russian",
+            "target": "vtuber",
+            "value": 5
+        },
+        {
+            "source": "vehicle",
+            "target": "russia",
+            "value": 7
+        },
+        {
+            "source": "woman",
+            "target": "porn",
+            "value": 1
+        },
+        {
+            "source": "pornstar",
+            "target": "porn",
+            "value": 1
+        },
+        {
+            "source": "russian model",
+            "target": "porn",
+            "value": 1
+        },
+        {
+            "source": "russian model",
+            "target": "celebrity",
+            "value": 5
+        },
+        {
+            "source": "pornstar",
+            "target": "russian model",
+            "value": 1
+        },
+        {
+            "source": "russian",
+            "target": "russian model",
+            "value": 1
+        },
+        {
+            "source": "instagram",
+            "target": "glamour model",
+            "value": 1
+        },
+        {
+            "source": "realistic",
+            "target": "influencer",
+            "value": 1
+        },
+        {
+            "source": "ussr",
+            "target": "russia",
+            "value": 2
+        },
+        {
+            "source": "vehicle",
+            "target": "ussr",
+            "value": 2
+        },
+        {
+            "source": "character",
+            "target": "male",
+            "value": 6
+        },
+        {
+            "source": "character",
+            "target": "man",
+            "value": 5
+        },
+        {
+            "source": "woman",
+            "target": "american",
+            "value": 2
+        },
+        {
+            "source": "actress",
+            "target": "american",
+            "value": 1
+        },
+        {
+            "source": "photorealistic",
+            "target": "lora",
+            "value": 7
+        },
+        {
+            "source": "sexy",
+            "target": "lora",
+            "value": 6
+        },
+        {
+            "source": "pornstar",
+            "target": "lora",
+            "value": 6
+        },
+        {
+            "source": "character",
+            "target": "music",
+            "value": 2
+        },
+        {
+            "source": "character",
+            "target": "rock",
+            "value": 1
+        },
+        {
+            "source": "music",
+            "target": "russian",
+            "value": 2
+        },
+        {
+            "source": "music",
+            "target": "rock",
+            "value": 1
+        },
+        {
+            "source": "singer",
+            "target": "activist",
+            "value": 1
+        },
+        {
+            "source": "punk",
+            "target": "activist",
+            "value": 1
+        },
+        {
+            "source": "celebrity",
+            "target": "activist",
+            "value": 2
+        },
+        {
+            "source": "russian",
+            "target": "activist",
+            "value": 2
+        },
+        {
+            "source": "famous",
+            "target": "activist",
+            "value": 1
+        },
+        {
+            "source": "politician",
+            "target": "russia",
+            "value": 1
+        },
+        {
+            "source": "photorealistic",
+            "target": "actress",
+            "value": 2
+        },
+        {
+            "source": "actress",
+            "target": "realistic",
+            "value": 1
+        },
+        {
+            "source": "character",
+            "target": "meme",
+            "value": 2
+        },
+        {
+            "source": "furry",
+            "target": "meme",
+            "value": 1
+        },
+        {
+            "source": "russian",
+            "target": "meme",
+            "value": 3
+        },
+        {
+            "source": "adult model",
+            "target": "glamour model",
+            "value": 1
+        },
+        {
+            "source": "car",
+            "target": "ussr",
+            "value": 1
+        },
+        {
+            "source": "car",
+            "target": "russia",
+            "value": 4
+        },
+        {
+            "source": "russian",
+            "target": "car",
+            "value": 5
+        },
+        {
+            "source": "vehicle",
+            "target": "car",
+            "value": 5
+        },
+        {
+            "source": "meme",
+            "target": "concept",
+            "value": 1
+        },
+        {
+            "source": "russia",
+            "target": "concept",
+            "value": 1
+        },
+        {
+            "source": "men",
+            "target": "concept",
+            "value": 1
+        },
+        {
+            "source": "russia",
+            "target": "meme",
+            "value": 1
+        },
+        {
+            "source": "meme",
+            "target": "men",
+            "value": 1
+        },
+        {
+            "source": "russia",
+            "target": "men",
+            "value": 1
+        },
+        {
+            "source": "instagram",
+            "target": "russian model",
+            "value": 2
+        },
+        {
+            "source": "russian model",
+            "target": "influencer",
+            "value": 1
+        },
+        {
+            "source": "woman",
+            "target": "vtuber",
+            "value": 2
+        },
+        {
+            "source": "anime",
+            "target": "superhero",
+            "value": 1
+        },
+        {
+            "source": "anime",
+            "target": "hero",
+            "value": 1
+        },
+        {
+            "source": "character",
+            "target": "hero",
+            "value": 1
+        },
+        {
+            "source": "superhero",
+            "target": "anime character",
+            "value": 1
+        },
+        {
+            "source": "superhero",
+            "target": "hero",
+            "value": 1
+        },
+        {
+            "source": "russian",
+            "target": "anime character",
+            "value": 1
+        },
+        {
+            "source": "hero",
+            "target": "anime character",
+            "value": 1
+        },
+        {
+            "source": "photorealistic",
+            "target": "glamour model",
+            "value": 1
+        },
+        {
+            "source": "glamour model",
+            "target": "blonde",
+            "value": 1
+        },
+        {
+            "source": "person",
+            "target": "activist",
+            "value": 1
+        },
+        {
+            "source": "woman",
+            "target": "activist",
+            "value": 1
+        },
+        {
+            "source": "realistic",
+            "target": "activist",
+            "value": 1
+        },
+        {
+            "source": "french",
+            "target": "style",
+            "value": 1
+        },
+        {
+            "source": "french",
+            "target": "fantasy",
+            "value": 1
+        },
+        {
+            "source": "fantasy",
+            "target": "style",
+            "value": 1
+        },
+        {
+            "source": "russian",
+            "target": "fantasy",
+            "value": 2
+        },
+        {
+            "source": "realistic",
+            "target": "lora",
+            "value": 1
+        },
+        {
+            "source": "character",
+            "target": "men",
+            "value": 1
+        },
+        {
+            "source": "roshidere",
+            "target": "male",
+            "value": 1
+        },
+        {
+            "source": "roshidere, alya-san, who sits besides me and sometimes murmurs affectionately in russian.",
+            "target": "male",
+            "value": 1
+        },
+        {
+            "source": "man",
+            "target": "men",
+            "value": 1
+        },
+        {
+            "source": "roshidere",
+            "target": "man",
+            "value": 1
+        },
+        {
+            "source": "man",
+            "target": "roshidere, alya-san, who sits besides me and sometimes murmurs affectionately in russian.",
+            "value": 1
+        },
+        {
+            "source": "roshidere",
+            "target": "men",
+            "value": 1
+        },
+        {
+            "source": "roshidere, alya-san, who sits besides me and sometimes murmurs affectionately in russian.",
+            "target": "men",
+            "value": 1
+        },
+        {
+            "source": "instagram",
+            "target": "lora",
+            "value": 1
+        },
+        {
+            "source": "russian model",
+            "target": "lora",
+            "value": 1
+        },
+        {
+            "source": "man",
+            "target": "meme",
+            "value": 1
+        },
+        {
+            "source": "anime",
+            "target": "characters",
+            "value": 3
+        },
+        {
+            "source": "character",
+            "target": "realistic",
+            "value": 1
+        },
+        {
+            "source": "anime",
+            "target": "lora",
+            "value": 1
+        },
+        {
+            "source": "character",
+            "target": "lora",
+            "value": 1
+        },
+        {
+            "source": "model",
+            "target": "metart",
+            "value": 1
+        },
+        {
+            "source": "photorealistic",
+            "target": "american",
+            "value": 1
+        },
+        {
+            "source": "russian model",
+            "target": "american",
+            "value": 1
+        },
+        {
+            "source": "actress",
+            "target": "singer",
+            "value": 1
+        },
+        {
+            "source": "character",
+            "target": "youtuber",
+            "value": 2
+        },
+        {
+            "source": "furry",
+            "target": "youtuber",
+            "value": 1
+        },
+        {
+            "source": "character",
+            "target": "fantasy",
+            "value": 1
+        },
+        {
+            "source": "cartoon",
+            "target": "fantasy",
+            "value": 1
+        },
+        {
+            "source": "character",
+            "target": "blonde",
+            "value": 1
+        },
+        {
+            "source": "character",
+            "target": "cartoon character",
+            "value": 4
+        },
+        {
+            "source": "russian",
+            "target": "cartoon character",
+            "value": 4
+        },
+        {
+            "source": "cartoon",
+            "target": "cartoon character",
+            "value": 3
+        },
+        {
+            "source": "girls",
+            "target": "cartoon character",
+            "value": 1
+        },
+        {
+            "source": "cartoon",
+            "target": "characters",
+            "value": 1
+        },
+        {
+            "source": "russian",
+            "target": "characters",
+            "value": 3
+        },
+        {
+            "source": "character",
+            "target": "punk",
+            "value": 1
+        },
+        {
+            "source": "character",
+            "target": "musician",
+            "value": 1
+        },
+        {
+            "source": "music",
+            "target": "punk",
+            "value": 1
+        },
+        {
+            "source": "youtuber",
+            "target": "punk",
+            "value": 1
+        },
+        {
+            "source": "russia",
+            "target": "punk",
+            "value": 1
+        },
+        {
+            "source": "music",
+            "target": "youtuber",
+            "value": 1
+        },
+        {
+            "source": "music",
+            "target": "russia",
+            "value": 1
+        },
+        {
+            "source": "music",
+            "target": "musician",
+            "value": 1
+        },
+        {
+            "source": "youtuber",
+            "target": "russia",
+            "value": 1
+        },
+        {
+            "source": "musician",
+            "target": "youtuber",
+            "value": 1
+        },
+        {
+            "source": "musician",
+            "target": "russia",
+            "value": 1
+        },
+        {
+            "source": "furry",
+            "target": "male",
+            "value": 2
+        },
+        {
+            "source": "cartoon",
+            "target": "male",
+            "value": 3
+        },
+        {
+            "source": "furry",
+            "target": "cartoon character",
+            "value": 1
+        },
+        {
+            "source": "man",
+            "target": "streamer",
+            "value": 1
+        },
+        {
+            "source": "anime",
+            "target": "vtuber",
+            "value": 2
+        },
+        {
+            "source": "vtuber",
+            "target": "characters",
+            "value": 2
+        },
+        {
+            "source": "masha",
+            "target": "alya",
+            "value": 1
+        },
+        {
+            "source": "roshidere",
+            "target": "alya",
+            "value": 1
+        },
+        {
+            "source": "roshidere",
+            "target": "masha",
+            "value": 1
+        },
+        {
+            "source": "anime",
+            "target": "vtuber character",
+            "value": 1
+        },
+        {
+            "source": "russian",
+            "target": "vtuber character",
+            "value": 1
+        },
+        {
+            "source": "vtuber character",
+            "target": "characters",
+            "value": 1
+        },
+        {
+            "source": "character",
+            "target": "soviet",
+            "value": 1
+        },
+        {
+            "source": "furry",
+            "target": "soviet",
+            "value": 1
+        },
+        {
+            "source": "soviet",
+            "target": "male",
+            "value": 1
+        }
+    ]
+}
